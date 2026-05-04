@@ -52,7 +52,13 @@ jobs:
           git add veille.html index.html data.json feeds_status.json
           if git diff --cached --quiet; then
             echo "Aucun changement."
-          else
-            git commit -m "auto: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "auto: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Retry avec rebase si un autre run a poussé entre-temps
+          for i in 1 2 3; do
+            if git push; then exit 0; fi
+            echo "Push rejeté (tentative $i), pull --rebase + retry…"
+            git pull --rebase --autostash
+          done
+          git push
