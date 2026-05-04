@@ -1,0 +1,58 @@
+name: Refresh & Deploy
+
+on:
+  # Toutes les 2 heures (UTC) — peut être décalé de quelques minutes par GitHub
+  schedule:
+    - cron: "0 */2 * * *"
+  # Bouton "Run workflow" dans l'onglet Actions
+  workflow_dispatch:
+  # Re-déploie quand on modifie le code ou la liste de flux
+  push:
+    branches: [main]
+    paths:
+      - 'veille.py'
+      - 'feeds.py'
+      - 'feeds.json'
+      - 'requirements.txt'
+      - '.github/workflows/refresh.yml'
+
+permissions:
+  contents: write
+
+# Empêche deux runs simultanés (ex: cron + push) de se marcher dessus
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Aggregate feeds
+        run: python veille.py --quiet
+
+      - name: Mirror veille.html → index.html (Pages root)
+        run: cp veille.html index.html
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veille.html index.html data.json feeds_status.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "auto: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
