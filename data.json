@@ -1,34 +1,430 @@
 [
   {
-    "id": "c7fcb0db94acfb6e",
-    "title": "Moyen-Orient : au 100e jour de la guerre, l'Iran tire des missiles sur Israël pour la première depuis le cessez-le-feu",
-    "link": "https://www.letelegramme.fr/monde/direct-moyen-orient-liran-a-tire-sept-missiles-sur-le-koweit-et-bahrein-7058328.php",
-    "summary": "La guerre au Moyen-Orient entre, ce dimanche 7 juin, dans son 100e jour. L'armée américaine a annoncé avoir abattu deux drones d'attaque iraniens et le Hezbollah a, de son côté, revendiqué ce matin plusieurs attaques de drones contre des troupes israéliennes au Liban. Revivez notre direct.",
-    "date": "2026-06-07T20:51:29+00:00",
+    "id": "740af66e493bc79b",
+    "title": "CARTE. Mort de Lyhanna : dix rassemblements devant les tribunaux sont organisés en Bretagne, voici où et quand",
+    "link": "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/mort-de-lyhanna-plusieurs-rassemblements-sont-prevus-en-bretagne-voici-ou-et-quand-3364339.html",
+    "summary": "Plusieurs rassemblements sont organisés ce lundi 8 juin en Bretagne à Brest, Lorient, Rennes ou encore, Quimper, pour dénoncer les violences faites aux enfants après la mort de Lyhanna, une collégienne de 11 ans tuée dans le Gers.",
+    "date": "2026-06-08T08:45:11+00:00",
+    "source": "France 3 Bretagne",
+    "category": "radio-tv"
+  },
+  {
+    "id": "1f6b1c20d3f13cce",
+    "title": "Atelier portage bébé Maison des Familles Aire-sur-l’Adour",
+    "link": "https://unidivers.fr/event/atelier-portage-bebe-aire-sur-ladour-landes-2026-06-08/",
+    "summary": "Atelier portage bébé Maison des Familles 4 rue René Méricam Aire-sur-l'Adour Landes 2026-06-08 14:00:00 2026-06-08",
+    "date": "2026-06-08T08:35:20+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "e528712efe2bd852",
+    "title": "Promenade dans les vignes en véhicule électrique Ammerschwihr",
+    "link": "https://unidivers.fr/event/promenade-dans-les-vignes-en-vehicule-electrique-ammerschwihr-haut-rhin-2026-06-08/",
+    "summary": "Promenade dans les vignes en véhicule électrique 8 Rue du Lieutenant Louis Mourier Ammerschwihr Haut-Rhin Vendredi 2026-08-11 14:10:00 2026-08-11",
+    "date": "2026-06-08T08:35:20+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "9acd3aaf04b692b1",
+    "title": "RELAXATION POUR LES AIDANTS Saint-Brevin-les-Pins",
+    "link": "https://unidivers.fr/event/relaxation-pour-les-aidants-saint-brevin-les-pins-loire-atlantique-2026-06-08/",
+    "summary": "RELAXATION POUR LES AIDANTS 7 allée de la Plage Saint-Brevin-les-Pins Loire-Atlantique 2026-06-15 14:30:00 2026-06-15",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "059a836965f62fd3",
+    "title": "Piscine intercommunale de Vatan Vatan",
+    "link": "https://unidivers.fr/event/piscine-intercommunale-de-vatan-vatan-indre-2026-06-08/",
+    "summary": "Piscine intercommunale de Vatan Impasse du Tripot Vatan Indre Mardi 2026-07-04 14:30:00 2026-07-04 14:30:00",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "0613d83be261d04f",
+    "title": "Conférence Le thermalisme Aure Louron Arreau (Château des Nestes salle bleue) Arreau",
+    "link": "https://unidivers.fr/event/conference-le-thermalisme-aure-louron-arreau-hautes-pyrenees-2026-06-08/",
+    "summary": "Conférence Le thermalisme Aure Louron Arreau (Château des Nestes salle bleue) ARREAU Arreau Hautes-Pyrénées 2026-06-08 17:00:00 2026-06-08 17:00:00",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "dc78e89061fd28a7",
+    "title": "Danse en plein air Peyrat-le-Château",
+    "link": "https://unidivers.fr/event/danse-en-plein-air-peyrat-le-chateau-haute-vienne-2026-06-08/",
+    "summary": "Danse en plein air Place du Champ de Foire Peyrat-le-Château Haute-Vienne 2026-06-29 18:00:00 2026-06-29",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "ee0830e59853c612",
+    "title": "Rencontres échecs Bar à Jeux de Société Les Tuiles Soustons",
+    "link": "https://unidivers.fr/event/rencontres-echecs-soustons-landes-2026-06-08/",
+    "summary": "Rencontres échecs Bar à Jeux de Société Les Tuiles 8 Rue Daste Soustons Landes 2026-06-08 19:00:00 2026-06-08",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "b61a73fe8d6e2c35",
+    "title": "Soirée jeux Salle polyvalente du gymnase Sauveterre-de-Béarn",
+    "link": "https://unidivers.fr/event/soiree-jeux-sauveterre-de-bearn-pyrenees-atlantiques-2026-06-08/",
+    "summary": "Soirée jeux Salle polyvalente du gymnase 5 avenue Jean Recapet Sauveterre-de-Béarn Pyrénées-Atlantiques 2026-06-08 20:00:00 2026-06-08",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "bdd7963baa1cf377",
+    "title": "Soirée Stand Up Carton Comedy Club Bourges",
+    "link": "https://unidivers.fr/event/soiree-stand-up-carton-comedy-club-bourges-cher-2026-06-08/",
+    "summary": "Soirée Stand Up Carton Comedy Club 2 Rue Jacques Cœur Bourges Cher 2026-06-08 20:00:00 2026-06-08",
+    "date": "2026-06-08T08:35:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "92283588d9029349",
+    "title": "Rennes. Les Salopettes font le bazar au Grand Huit vendredi 12 juin 2026",
+    "link": "https://unidivers.fr/rennes-les-salopettes-le-bazar-du-hasard/",
+    "summary": "Vendredi 12 juin 2026, la troupe de théâtre d’improvisation Les Salopettes, se produit au Grand Huit, à Rennes. Les quatre comédiens-aventuriers explorent Le Bazar du Hasard et s’en remettent aux objets qui les entourent – dés, cartes ou encore pendules – pour compléter leur histoire. « De toute façon, ils vont encore faire n’importe quoi »,…",
+    "date": "2026-06-08T08:30:29+00:00",
+    "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "7b41456c61c52760",
+    "title": "Présentation du livre de Tsedek ! « Lutter en rupture, lutter en solidarité »",
+    "link": "https://expansive.info/Presentation-du-livre-de-Tsedek-Lutter-en-rupture-lutter-en-solidarite-6047",
+    "summary": "Urgence Palestine Rennes et Dispac'h vous invite pour la présentation du livre du collectif Tsedek ! “Lutter en rupture, lutter en solidarité”, avec la présence des co-auteurs Jonathan Ruff et Élie Duprey. C'est le mercredi 24 juin à 19h au BabaZula (182, avenue Patton) - Info locale / Une , Antiracismes - colonialismes , Rennes , Solidarités internationales , Free Palestine",
+    "date": "2026-06-08T08:23:05+00:00",
+    "source": "Expansive",
+    "category": "independants"
+  },
+  {
+    "id": "89e7bb6d6c542ac0",
+    "title": "« Il était une fois en Amérique », ce soir sur Arte : une fresque inoubliable portée par Robert de Niro",
+    "link": "https://programmetv.ouest-france.fr/chaines/programme-tv-arte-111/une-fresque-inoubliable-sur-arte-e06792bc-60e2-11f1-8c24-b38534c94fba?utm_source=fluxpublicactu&utm_medium=fluxrss&utm_campaign=banquedecontenu",
+    "summary": "« Il était une fois en Amérique » est le dernier long-métrage de Sergio Leone qui ausculte l’Amérique du XXe siècle. Le film culte est à voir ou revoir ce lundi 8 juin sur Arte.",
+    "date": "2026-06-08T08:00:05+00:00",
+    "source": "Ouest-France – À la Une",
+    "category": "presse-locale"
+  },
+  {
+    "id": "5bdf01f621de2873",
+    "title": "DIRECT - Guerre au Moyen-Orient : malgré les frappes, l'Iran dit poursuivre les pourparlers avec les Etats-Unis",
+    "link": "https://www.letelegramme.fr/monde/direct-guerre-au-moyen-orient-fin-de-la-treve-en-iran-reprise-des-combats-avec-israel-7059548.php",
+    "summary": "L'Iran a tiré dimanche plusieurs missiles contre Israël, qui dit les avoir interceptés, rompant un cessez-le-feu déjà très fragilisé au centième jour de la guerre au Moyen-Orient. Suivez notre direct.",
+    "date": "2026-06-08T07:53:44+00:00",
     "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
-    "id": "a1d9b60d5777cf87",
-    "title": "Tauromachie, la belle journée taurine de Captieux",
-    "link": "https://www.ici.fr/nouvelle-aquitaine/gironde-33/captieux/tauromachie-la-belle-journee-taurine-de-captieux-8960420?at_medium=lien_RSS&at_locale=20",
-    "summary": "La journée taurine de Captieux en lèvres de landes et de Gironde. Les novillos de Gallon pour Emiliano Osornio, Alvaro Serrano et Clovis. Le plein. Une oreille pour Osornio et une pour Clovis.",
-    "date": "2026-06-07T20:39:29+00:00",
+    "id": "21ec5d6b5692f92e",
+    "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
+    "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
+    "summary": "An daou vestr-prezegenner e-kerzh lid Disprizioù ar brezhoneg. Lurc’hskeudenn gant Nil Caouissin. « Gourc’hemennoù d’ar re o deus stourmet a-enep ar vrezhonegerien ! Div wech nebeutoc’h anezho a oa e 2024 eget e 2018. War an hent mat emaomp. Labour zo c’hoazh memestra rak chom a ra 100 000 den oc’h ober gant ar « yezh »-se c’hoazh. » Bodet … Cet article Distro Ai’ta ha Disprizioù ar brezhoneg est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-08T07:52:49+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
+    "id": "ebad8781998ac56a",
+    "title": "Le titre de la semaine : Rent money de Pokey LaFrage",
+    "link": "https://www.bretagne-actuelle.com/le-titre-de-la-semaine-rent-money-de-pokey-lafrage/accueil-bas/?utm_source=rss&utm_medium=rss&utm_campaign=le-titre-de-la-semaine-rent-money-de-pokey-lafrage",
+    "summary": "L’article Le titre de la semaine : Rent money de Pokey LaFrage est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-06-08T07:34:12+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
+  },
+  {
+    "id": "3c3e07ff7bf008e2",
+    "title": "Le grand Périgueux recrute deux postes H/F pour son service de la petite enfance.",
+    "link": "https://www.ici.fr/emissions/les-offres-d-emploi-en-dordogne/le-grand-perigueux-recrute-deux-postes-h-f-pour-son-service-de-la-petite-enfance-7607456?at_medium=lien_RSS&at_locale=20",
+    "summary": "Deux profils de poste H/F sont recherchés par le Le Grand Périgueux : un agent d’accueil Petite Enfance et un auxiliaire de Puériculture.",
+    "date": "2026-06-08T07:30:00+00:00",
     "source": "ICI Breizh Izel",
     "category": "radio-tv"
   },
   {
-    "id": "174175fba07e0058",
-    "title": "« Un coureur différent, humain, très gentil avec tout le monde » : Ludovic Morice, le sacre en patron d’un « cœur en or »",
-    "link": "https://www.letelegramme.fr/sports/cyclisme/un-coureur-different-humain-tres-gentil-avec-tout-le-monde-ludovic-morice-le-sacre-en-patron-dun-coeur-en-or-7059594.php",
-    "summary": "En terminant aux deux premières places et en plaçant quatre coureurs dans le Top 10 des championnats de Bretagne, le VCP Loudéac a connu une journée parfaite, dimanche, à Kernouës (29). À l’image de celle vécue par son capitaine de route, le très méritant Ludovic Morice.",
-    "date": "2026-06-07T19:49:00+00:00",
+    "id": "1d3fc2f5fd6756ac",
+    "title": "Plaintes pour viols et agressions sexuelles : le chanteur Patrick Bruel placé en garde à vue",
+    "link": "https://www.letelegramme.fr/france/plaintes-pour-viols-et-agressions-sexuelles-le-chanteur-patrick-bruel-place-en-garde-a-vue-7059651.php",
+    "summary": "Visé par plusieurs plaintes pour viols et agressions sexuelles, le comédien et chanteur Patrick Bruel a été placé, ce lundi matin, en garde à vue, révèle Franceinfo.",
+    "date": "2026-06-08T07:20:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
-    "id": "9f736b49d65ea030",
-    "title": "« Une médaille pour les quatrièmes, je ne suis pas fan ! » : La drôle de récompense des joueuses du Brest Bretagne Handball, au pied du podium en Ligue des champions",
+    "id": "0870f8b946285eb7",
+    "title": "Violences sexuelles : Patrick Bruel, visé par plusieurs plaintes, placé en garde à vue",
+    "link": "https://www.ici.fr/infos/faits-divers-justice/violences-sexuelles-patrick-bruel-vise-par-plusieurs-plaintes-place-en-garde-a-vue-2803715?at_medium=lien_RSS&at_locale=20",
+    "summary": "Patrick Bruel, visé par plusieurs plaintes pour viols et agressions sexuelles, a été placé en garde à vue ce lundi, a appris franceinfo auprès du parquet de Nanterre (Hauts-de-Seine).",
+    "date": "2026-06-08T07:18:39+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "6301b47988837ff0",
+    "title": "Violences sexuelles : Patrick Bruel, visé par plusieurs plaintes, placé en garde à vue",
+    "link": "https://www.ici.fr/infos/faits-divers-justice/violences-sexuelles-patrick-bruel-vise-par-plusieurs-plaintes-place-en-garde-a-vue-2803715?at_medium=lien_RSS&at_locale=13",
+    "summary": "Patrick Bruel, visé par plusieurs plaintes pour viols et agressions sexuelles, a été placé en garde à vue ce lundi, a appris franceinfo auprès du parquet de Nanterre (Hauts-de-Seine).",
+    "date": "2026-06-08T07:18:39+00:00",
+    "source": "ICI Armorique",
+    "category": "radio-tv"
+  },
+  {
+    "id": "87d2536f8a896cda",
+    "title": "Jeu ICI Elsass 🎁 Remportez une carte cadeau de 50 euros dans la boutique de votre choix",
+    "link": "https://www.ici.fr/grand-est/alsace-cea/jeu-ici-elsass-remportez-une-carte-cadeau-de-50-euros-dans-la-boutique-de-votre-choix-6173597?at_medium=lien_RSS&at_locale=20",
+    "summary": "Du 8 au 12 juin 2026, tentez de remporter une carte cadeau Illicado d'une valeur de 50€ grâce à ICI Elsass ! Cliquez et inscrivez-vous !",
+    "date": "2026-06-08T07:00:31+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "93b0b696a9b23180",
+    "title": "Ligue des champions de Handball féminin : Les Brestoises du BBH restent au pied du podium après leur défaite face à Bucarest",
+    "link": "https://france3-regions.franceinfo.fr/bretagne/finistere/brest/direct-objectif-bronze-pour-le-brest-bretagne-handball-avec-une-petite-finale-contre-bucarest-qui-debute-a-15h-3364120.html",
+    "summary": "Après la cruelle défaite du BBH en demi-finale de la Ligue des champions féminine, face à l'équipe hongroise de Györ, les Brestoises comptaient bien décrocher la médaille de bronze face à l'équipe de Bucarest. Mais les Roumaines ont mené tout le long du match. Finalement, les championnes de France 2026 s'inclinent 26-32",
+    "date": "2026-06-08T06:56:14+00:00",
+    "source": "France 3 Bretagne",
+    "category": "radio-tv"
+  },
+  {
+    "id": "ef31d7a6543e40ef",
+    "title": "La féria du Bœuf à Perpignan une journée 100 % festive au cœur de l’USAP",
+    "link": "https://www.ici.fr/emissions/l-invite-du-dernier-cafe/la-feria-du-boeuf-a-perpignan-une-journee-100-festive-au-coeur-de-l-usap-2897136?at_medium=lien_RSS&at_locale=20",
+    "summary": "Ce dimanche, la pelouse du stade Aimé‑Giral à Perpignan accueillera la Féria du Bœuf. Un événement inédit qui mélange grillades, musique et rugby, en marge de l’access match de l’USAP, dans une ambiance festive et conviviale.",
+    "date": "2026-06-08T06:48:30+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "c372370bab5e9565",
+    "title": "Odyssées, un événement musical collectif gratuit du Festival d'Aix-en-Provence",
+    "link": "https://www.ici.fr/emissions/l-evenement-ici-provence/odyssees-un-evenement-musical-collectif-gratuit-du-festival-d-aix-en-provence-1247967?at_medium=lien_RSS&at_locale=20",
+    "summary": "Le festival d'art lyrique propose un spectacle participatif avec des amateurs du Collectif Agir et du collège Muriel Hurtis du Jas de Bouffas, encadrés par des professionnels. Le coup de coeur d'Hervé Godard.",
+    "date": "2026-06-08T06:48:30+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "0089a65a409ea236",
+    "title": "La Bajon, heureuse de jouer à Deauville, de profiter de la Normandie et de ses bons produits",
+    "link": "https://www.ici.fr/emissions/l-evenement-ici-ici-normandie/la-bajon-heureuse-de-jouer-a-deauville-de-profiter-de-la-normandie-et-de-ses-bons-produits-2716202?at_medium=lien_RSS&at_locale=20",
+    "summary": "Anne-Sophie La Bajon, qu'on appelle La Bajon, s'est fait connaitre grâce à ses vidéos sur internet et les réseaux sociaux. Elle est à découvrir sur scène, dans un spectacle qu'elle propose au Casino Barrière de Deauville samedi soir.",
+    "date": "2026-06-08T06:48:30+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "b8a559bbc375452a",
+    "title": "L'affaire Zanetti, actuellement au cinéma : Quand Roschdy Zem traque les secrets d'une tueuse amnésique",
+    "link": "https://www.ici.fr/emissions/si-on-sortait-ici-orleans/l-affaire-zanetti-actuellement-au-cinema-quand-roschdy-zem-traque-les-secrets-d-une-tueuse-amnesique-4771187?at_medium=lien_RSS&at_locale=20",
+    "summary": "Inspiré d'une histoire vraie, ce film offre une plongée bouleversante dans la mémoire d'une criminelle, portée par un duo d'acteurs intenses.",
+    "date": "2026-06-08T06:48:30+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "ea4c9383641f3f4a",
+    "title": "Contre les moustiques ? Testez le géranium et le basilic !",
+    "link": "https://www.ici.fr/emissions/les-bons-plans-de-mamama/contre-les-moustiques-testez-le-geranium-et-le-basilic-4638087?at_medium=lien_RSS&at_locale=20",
+    "summary": "Des moustiques ont emménagé chez vous ? Une barrière végétale peut les repousser facilement, et en plus, ça va sentir bon. Ecoutez les conseils de la Mamama de Pierre Nuss.",
+    "date": "2026-06-08T06:43:00+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "d7a7bbce6582d456",
+    "title": "Contre les moustiques ? Testez le géranium et le basilic !",
+    "link": "https://www.ici.fr/emissions/les-astuces-de-mamama-ici-elsass/contre-les-moustiques-testez-le-geranium-et-le-basilic-3719848?at_medium=lien_RSS&at_locale=20",
+    "summary": "Des moustiques ont emménagé chez vous ? Une barrière végétale peut les repousser facilement, et en plus, ça va sentir bon. Ecoutez les conseils de la Mamama de Pierre Nuss.",
+    "date": "2026-06-08T06:40:00+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "680d3cddcfc6a970",
+    "title": "Nouveau : Anatole Le Braz, des Bretagnes au monde",
+    "link": "https://www.bcd.bzh/bcd/nouveau-anatole-le-braz/",
+    "summary": "Nouveau : Anatole Le Braz, des Bretagnes au monde Ce nouveau film, dans le cadre de « L’histoire à notre porte, à la découverte de la Bregane », en coproduction Bretagne Culture Diversité, LTW et Tv-Trégor nous emmène découvrir l’histoire d’un homme : Anatole Le Braz. Grâce à de nombreux intervenants, le film lève le voile […] The post Nouveau : Anatole Le Braz, des Bretagnes au monde appeared first on Bretagne Culture Diversité .",
+    "date": "2026-06-08T06:30:00+00:00",
+    "source": "Bretagne Culture Diversité",
+    "category": "culture"
+  },
+  {
+    "id": "dbd72b970cc6134c",
+    "title": "Les Vents ovales, T.3. Mai 68 ebntre rugby, Garonne et révolution villageoise",
+    "link": "https://unidivers.fr/les-vents-ovales-t3-mai-68/",
+    "summary": "Avec Mai 68 s’achève ce triptyque rural qui sent bon la France d’après les Trente Glorieuses, mais d’avant les grands bouleversements sociaux. Paris et le Sud-Ouest, deux manières de vivre les temps qui changent. Dernière journée du championnat de France de rugby. L’équipe de Montauban, dernière en Top 14, descend en Pro D2. Que vient faire cette…",
+    "date": "2026-06-08T06:29:32+00:00",
+    "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "0a15d87d56e5f537",
+    "title": "La Pagode à Paris, le cinéma japonais du 7e arrondissement attend toujours sa renaissance",
+    "link": "https://unidivers.fr/pagode-paris-cinema-travaux-reouverture-2026/",
+    "summary": "Situé au 57 bis rue de Babylone, à l’angle de la rue Monsieur, dans le 7e arrondissement de Paris, le cinéma La Pagode fait l’objet d’un immense chantier de restauration et d’extension. La réouverture, un temps espérée en 2025, semble désormais repoussée. En attendant, les images de synthèse de ses futures salles de projection entretiennent…",
+    "date": "2026-06-08T06:19:02+00:00",
+    "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "3bf31b5908c6e150",
+    "title": "CLING ! La bande dessinée parle cash à la Monnaie de Paris",
+    "link": "https://unidivers.fr/cling-la-bande-dessinee-parle-cash-monnaie-de-paris/",
+    "summary": "À la Monnaie de Paris, dans le 6e arrondissement de la capitale, l’exposition CLING ! La bande dessinée parle cash explore avec humour, érudition et sens populaire le rapport de la bande dessinée à l’argent. Des ruées vers l’or à la finance contemporaine, du lingot à la fausse monnaie, du coffre de Picsou aux banques…",
+    "date": "2026-06-08T06:03:04+00:00",
+    "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "5c46617738eb5d74",
+    "title": "Le Canal de Nantes à Brest : guide complet pour découvrir la Bretagne intérieure",
+    "link": "https://www.nhu.bzh/le-canal-de-nantes-a-brest-en-bretagne/",
+    "summary": "Découvrez le Canal de Nantes à Brest, l'un des plus grands ouvrages de génie civil de Bretagne. Histoire, écluses, vélo, randonnée, Guerlédan et sites incontournables. L’article Le Canal de Nantes à Brest : guide complet pour découvrir la Bretagne intérieure est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-08T06:00:00+00:00",
+    "source": "NHU Bretagne",
+    "category": "culture"
+  },
+  {
+    "id": "ae0398803a62bb0d",
+    "title": "Défaite, teufeurs en colère et Dédé Deschamps : Bonjour Brest !",
+    "link": "https://www.letelegramme.fr/finistere/brest-29200/defaite-teufeurs-en-colere-et-dede-deschamps-bonjour-brest-7059631.php",
+    "summary": "Bonjour Brest ! Quoi de neuf en ce 8 juin ? À la rédac’, on a repéré quelques infos pour vous ce matin. Trafic, météo, actu du jour…",
+    "date": "2026-06-08T05:58:55+00:00",
+    "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "ffd3f215ef87e97f",
+    "title": "Relit. À Rennes, une boîte à livres en ligne pour faire circuler les ouvrages entre lecteurs",
+    "link": "https://unidivers.fr/relit-livres-site-don/",
+    "summary": "Née à Rennes, la plateforme Relit propose aux particuliers de donner, échanger ou repérer des livres disponibles près de chez eux. Gratuite, sans publicité et pensée comme un outil de circulation locale du livre, elle devra toutefois relever un défi décisif : atteindre une masse suffisante d’utilisateurs pour devenir réellement utile. Et si la boîte…",
+    "date": "2026-06-08T05:42:00+00:00",
+    "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "bd7990b27cfa727d",
+    "title": "Météo en Bretagne : ciel couvert, vent et averses au programme de ce lundi",
+    "link": "https://www.letelegramme.fr/bretagne/meteo-en-bretagne-ciel-couvert-vent-et-averses-au-programme-de-ce-lundi-7059629.php",
+    "summary": "Le ciel restera couvert ce lundi en Bretagne, accompagné de vent et d’averses.",
+    "date": "2026-06-08T05:40:00+00:00",
+    "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "5d77c0882d261433",
+    "title": "Face à l’Irlande du Nord, l’équipe de France doit chasser les doutes avant le grand départ pour la Coupe du monde",
+    "link": "https://www.letelegramme.fr/sports/football/equipe-de-france/face-a-lirlande-du-nord-lequipe-de-france-doit-chasser-les-doutes-avant-le-grand-depart-pour-la-coupe-du-monde-7059424.php",
+    "summary": "Guère brillante face à la Côte d'Ivoire, l’équipe de France doit absolument réagir contre l’Irlande du Nord lors de son deuxième et dernier match de préparation au Mondial 2026, ce lundi, à Lille, pour chasser les doutes juste avant son grand départ pour l’Amérique.",
+    "date": "2026-06-08T04:37:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "d4b581c6f8051964",
+    "title": "« Une équipe qui tend à devenir une place forte du rugby français » : l’ancien international français Jérôme Thion évoque le nouveau statut du RC Vannes",
+    "link": "https://www.letelegramme.fr/sports/rugby/rc-vannes/une-equipe-qui-tend-a-devenir-une-place-forte-du-rugby-francais-lancien-international-francais-jerome-thion-evoque-le-nouveau-statut-du-rc-vannes-7059549.php",
+    "summary": "Jérôme Thion, ancien international français désormais consultant pour Canal+, évoque l’évolution du RC Vannes et son arrivée en Top 14 la saison prochaine.",
+    "date": "2026-06-08T04:23:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "58ddf94e8809af55",
+    "title": "Plusieurs rassemblements pour Lyhanna ce lundi en Bretagne",
+    "link": "https://www.ici.fr/bretagne/plusieurs-rassemblements-pour-lyhanna-ce-lundi-en-bretagne-8942586?at_medium=lien_RSS&at_locale=20",
+    "summary": "Plusieurs rassemblements sont organisés ce lundi 8 juin en Bretagne pour dénoncer les violences faites aux enfants après l'affaire Lyhanna qui a mis en lumière de nombreux dysfonctionnements de la justice.",
+    "date": "2026-06-08T04:13:09+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "dc3fbf8cfcd7a22f",
+    "title": "Condamné pour chantage à la sextape, l’ancien maire de Saint-Étienne restera-t-il en prison ?",
+    "link": "https://www.letelegramme.fr/france/condamne-pour-chantage-a-la-sextape-lancien-maire-de-saint-etienne-restera-t-il-en-prison-7058623.php",
+    "summary": "Lourdement condamné pour avoir fait chanter son Premier adjoint avec une sextape, Gaël Perdriau, l’ancien maire de Saint-Étienne, va jouer son va-tout pour ne pas retourner en prison, à partir de ce lundi et pendant cinq jours.",
+    "date": "2026-06-08T04:05:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "230c3bfdb65903ca",
+    "title": "À Landerneau, ce nouvel appareil réalisera « plus de 5 000 mammographies » par an",
+    "link": "https://www.letelegramme.fr/finistere/landerneau-29800/a-landerneau-ce-nouvel-appareil-realisera-plus-de-5-000-mammographies-par-an-7059595.php",
+    "summary": "Depuis mai 2026, un nouveau mammographe est en fonction à Landerneau. Le radiologue Julien Linard revient sur l’importance de cet appareil dans le dépistage des cancers du sein.",
+    "date": "2026-06-08T04:05:00+00:00",
+    "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "a9fa71caf2f60114",
+    "title": "Nouveau congé de naissance : l’accouchement s’annonce difficile dans les entreprises",
+    "link": "https://www.letelegramme.fr/france/nouveau-conge-de-naissance-laccouchement-sannonce-difficile-dans-les-entreprises-7059302.php",
+    "summary": "Le nouveau congé supplémentaire de naissance est assurément une bonne nouvelle pour les futurs jeunes parents. Il l’est un peu moins pour les employeurs qui vont avoir à gérer des absences pas toujours simples à remplacer.",
+    "date": "2026-06-08T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "1254b94f72821769",
+    "title": "Nouveau congé de naissance : dans l’Éducation nationale, les syndicats redoutent « un grand nombre de profs non remplacés »",
+    "link": "https://www.letelegramme.fr/france/nouveau-conge-de-naissance-dans-leducation-nationale-les-syndicats-redoutent-un-grand-nombre-de-profs-non-remplaces-7059315.php",
+    "summary": "Un prof devant chaque classe, c’est encore moins probable à la rentrée prochaine. Avec l’instauration du congé supplémentaire de naissance, des centaines d’enseignants pourraient manquer à l’appel, en septembre.",
+    "date": "2026-06-08T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "d65c34fe294ce59a",
+    "title": "L’engrenage d’une mère en guerre contre la justice et l’Aide sociale à l’enfance après le placement de ses filles dans les Côtes-d’Armor",
+    "link": "https://www.letelegramme.fr/cotes-d-armor/saint-brieuc-22000/lengrenage-dune-mere-en-guerre-contre-la-justice-et-laide-sociale-a-lenfance-apres-le-placement-de-ses-filles-dans-les-cotes-darmor-7058957.php",
+    "summary": "Comparaisons avec le régime nazi, accusations de trafic d’enfants et harcèlement des magistrats : Nadine Plestan ne recule devant rien pour dénoncer le placement de ses enfants, qu’elle juge illégitime. Jugée une nouvelle fois pour outrages et dénonciations calomnieuses, elle a à nouveau demandé « justice » pour ses filles.",
+    "date": "2026-06-08T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "a02fa2aad796ea81",
+    "title": "Réseau pédocriminel et viols sur mineurs : quatre hommes jugés à Orléans à partir de ce lundi",
+    "link": "https://www.letelegramme.fr/france/reseau-pedocriminel-et-viols-sur-mineurs-quatre-hommes-juges-a-orleans-a-partir-de-ce-lundi-7059472.php",
+    "summary": "930 000 fichiers pédopornographiques et 120 victimes : quatre hommes soupçonnés d’avoir appartenu à un réseau pédocriminel en ligne seront jugés, à partir de ce lundi 8 juin 2026, devant la cour criminelle du Loiret. Certains sont également poursuivis pour des viols sur mineurs.",
+    "date": "2026-06-08T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "3172113368238b41",
+    "title": "Expérimentation sur la carte scolaire dans le Finistère : « Il ne s’agit pas de sacrifier notre modèle français d’écoles de proximité »",
+    "link": "https://www.letelegramme.fr/bretagne/experimentation-sur-la-carte-scolaire-dans-le-finistere-il-ne-sagit-pas-de-sacrifier-notre-modele-francais-decoles-de-proximite-7059296.php",
+    "summary": "La directrice académique des services de l’Éducation nationale du Finistère (Dasen 29), Catherine Moalic, est en première ligne pour lancer l’expérimentation, en parallèle des Côtes-d’Armor, d’une nouvelle méthode sur la carte scolaire. Elle en explique la philosophie, la méthodologie et le calendrier.",
+    "date": "2026-06-08T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "cb67f512d1d9e69a",
+    "title": "Des enfants sont-ils placés abusivement dans les Côtes-d’Armor ? « C’est tout l’inverse ! »",
+    "link": "https://www.letelegramme.fr/cotes-d-armor/saint-brieuc-22000/des-enfants-sont-ils-places-abusivement-dans-les-cotes-darmor-cest-tout-linverse-7058962.php",
+    "summary": "Une mère de famille lamballaise pourrait être à nouveau condamnée par la justice. Derrière ses dérives complotistes, son dossier pose une question : le système de protection de l’enfance abuse-t-il du placement par manque de moyens d’accompagnement ? Difficile à croire…",
+    "date": "2026-06-08T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "48449d85cf505a55",
+    "title": "« Une médaille pour les quatrièmes, je ne suis pas fan ! » : la drôle de récompense des joueuses du Brest Bretagne Handball, au pied du podium en Ligue des champions",
     "link": "https://www.letelegramme.fr/sports/handball/une-medaille-pour-les-quatriemes-je-ne-suis-pas-fan-la-drole-de-recompense-des-joueuses-du-brest-bretagne-handball-au-pied-du-podium-en-ligue-des-champions-7059587.php",
     "summary": "Battues en petite finale de Ligue des champions, les joueuses du BBH ont reçu une médaille qui ne plaisait pas à plusieurs d’entre elles.",
     "date": "2026-06-07T19:27:00+00:00",
@@ -36,44 +432,8 @@
     "category": "presse-locale"
   },
   {
-    "id": "9f1c430a927830df",
-    "title": "Sur les traces d’Astérix et du village qui a inspiré Uderzo : nos conseils pour un week-end à Erquy en Bretagne",
-    "link": "https://www.ici.fr/emissions/partir-des-bons-plans-pour-des-week-ends-en-france/sur-les-traces-d-asterix-et-du-village-qui-a-inspire-uderzo-nos-conseils-pour-un-week-end-a-erquy-en-bretagne-3570805?at_medium=lien_RSS&at_locale=20",
-    "summary": "Nos bons plans pour découvrir Erquy, une ville côtière de Bretagne où Albert Uderzo se promenait, enfant. Et où il aurait trouvé l’inspiration. Johan Moison, journaliste à ICI Armorique, nous emmène, le temps d’un week-end, dans ce village peuplé d’irréductibles Gaulois.",
-    "date": "2026-06-07T19:00:00+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
-    "id": "a4d107f9e4b0c714",
-    "title": "Dans les pas de l’inventeur de la photographie : nos conseils pour un week-end à Chalon-sur-Saône en Bourgogne",
-    "link": "https://www.ici.fr/emissions/partir-des-bons-plans-pour-des-week-ends-en-france/dans-les-pas-de-l-inventeur-de-la-photographie-nos-conseils-pour-un-week-end-a-chalon-sur-saone-en-bourgogne-1719429?at_medium=lien_RSS&at_locale=20",
-    "summary": "Nos bons plans pour découvrir Chalon-sur-Saône, le berceau mondial de la photographie. Une invention que l’on doit, en 1824, à Nicéphore Niépce, natif de la ville. Charlotte Millet, animatrice à ICI Bourgogne, nous emmène en week-end sur les traces de ce chercheur insatiable… Ne bougez plus !",
-    "date": "2026-06-07T18:55:00+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
-    "id": "0d002887d72837fd",
-    "title": "Comme un décor de cinéma ! Nos conseils pour un week-end dans des villages du Luberon immortalisés par le 7e art",
-    "link": "https://www.ici.fr/emissions/partir-des-bons-plans-pour-des-week-ends-en-france/comme-un-decor-de-cinema-nos-conseils-pour-un-week-end-dans-des-villages-du-luberon-immortalises-par-le-7e-art-7760486?at_medium=lien_RSS&at_locale=20",
-    "summary": "Nos bons plans pour découvrir dans le massif du Luberon, à soixante kilomètres à l’est d’Avignon, des villages dans lesquels de grands cinéastes nationaux et internationaux ont fait tourner leurs acteurs. Maxime Peyron, animateur à ICI Vaucluse, nous y emmène en week-end. Action !",
-    "date": "2026-06-07T18:50:00+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
-    "id": "0fe73d8f08157ba6",
-    "title": "Évian comme à la Belle Époque : nos conseils pour un week-end rafraîchissant... qui aurait plu aux Frères Lumière !",
-    "link": "https://www.ici.fr/emissions/partir-des-bons-plans-pour-des-week-ends-en-france/evian-comme-a-la-belle-epoque-nos-conseils-pour-un-week-end-rafraichissant-qui-aurait-plu-aux-freres-lumiere-3578397?at_medium=lien_RSS&at_locale=20",
-    "summary": "Nos bons plans pour découvrir Évian-les-Bains, en Haute-Savoie, au bord du lac Léman. Et en particulier ses établissements de style Art Nouveau construits à l’âge d’or du thermalisme. Charlayne Vilmer, animatrice à ICI Pays de Savoie, nous y emmène le temps d’un week-end.",
-    "date": "2026-06-07T18:45:00+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
-    "id": "506fac5b5a730432",
-    "title": "« Qu’est-ce que ça aurait pu être si ça ne s’était pas arrêté ? » : Beaucoup d’émotions et de questions pour Raphaëlle Tervel après son dernier match au Brest Bretagne Handball",
+    "id": "7d3161b6299af6c0",
+    "title": "« Qu’est-ce que ça aurait pu être si ça ne s’était pas arrêté ? » : beaucoup d’émotions et de questions pour Raphaëlle Tervel après son dernier match au Brest Bretagne Handball",
     "link": "https://www.letelegramme.fr/sports/handball/brest-bretagne-handball/quest-ce-que-ca-aurait-pu-etre-si-ca-ne-setait-pas-arrete-beaucoup-demotions-et-de-questions-pour-raphaelle-tervel-apres-son-dernier-match-au-brest-bretagne-handball-7059576.php",
     "summary": "Après deux saisons intenses, Raphaëlle Tervel quitte le Brest Bretagne Handball sur une défaite en petite finale du Final Four. Elle était très émue, dimanche, à Budapest.",
     "date": "2026-06-07T18:28:00+00:00",
@@ -87,24 +447,6 @@
     "summary": "À Plougastel, la Fête des fraises est programmée le 14 juin. La kermesse des écoles privées va célébrer ses 80 ans. Cinq présidents successifs livrent leurs souvenirs… mouvementés !",
     "date": "2026-06-07T18:25:00+00:00",
     "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
-    "id": "63c54dc4748e6ce6",
-    "title": "Encore des travaux sur la voie express RN 165, chantier au Frugy et cinéma, à Quimper lundi 8 juin",
-    "link": "https://actu.fr/bretagne/quimper_29232/encore-des-travaux-sur-la-voie-express-rn-165-chantier-au-frugy-et-cinema-a-quimper-lundi-8-juin_64362738.html",
-    "summary": "Les travaux sur la voie express RN 165 entre Quimper et Brest concernent un nouveau tronçon. Lundi 8 juin 2026, il y a aussi du cinéma espagnol et l'arrivée d'une grue en ville.",
-    "date": "2026-06-07T18:16:01+00:00",
-    "source": "actu.fr – Bretagne",
-    "category": "presse-locale"
-  },
-  {
-    "id": "fcf70678441a60eb",
-    "title": "Le corps d'un jeune homme de 18 ans retrouvé sur une plage en Bretagne après une nuit de recherches",
-    "link": "https://actu.fr/bretagne/audierne_29003/le-corps-dun-jeune-homme-de-18-ans-retrouve-sur-une-plage-en-bretagne-apres-une-nuit-de-recherches_64368488.html",
-    "summary": "Un jeune homme de 18 ans est décédé dans la nuit de samedi 6 à dimanche 7 juin 2026 dans le Finistère. Son corps a été retrouvé sur une plage près d'Audierne.",
-    "date": "2026-06-07T18:10:26+00:00",
-    "source": "actu.fr – Bretagne",
     "category": "presse-locale"
   },
   {
@@ -158,15 +500,6 @@
     "link": "https://www.letelegramme.fr/sports/handball/brest-bretagne-handball/on-a-laisse-beaucoup-de-plumes-contre-gyor-pourquoi-les-joueuses-du-brest-bretagne-handball-nont-pas-reussi-a-remporter-la-petite-finale-de-la-ligue-des-champions-7059552.php",
     "summary": "La petite finale de la Ligue des champions a sans doute été le match de trop pour les joueuses du Brest Bretagne Handball, battues par les Roumaines du CSM Bucarest. La cruelle défaite de la veille, contre Györ, n’était pas encore digérée.",
     "date": "2026-06-07T17:31:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
-    "id": "d427304a1bf647c8",
-    "title": "« Vous êtes la fierté de la Bretagne ! » : le RC Vannes fête son titre de champion de France de Pro D2 avec ses supporters",
-    "link": "https://www.letelegramme.fr/sports/rugby/rc-vannes/vous-etes-la-fierte-de-la-bretagne-le-rc-vannes-fete-son-titre-de-champion-de-france-de-pro-d2-avec-ses-supporters-7059545.php",
-    "summary": "Le RC Vannes a célébré son titre de champion de France de Pro D2, ce dimanche dans la cité des Vénètes ! Le club a défilé en petit train, bouclier de Pro D2 en main, devant une foule venue saluer ses héros.",
-    "date": "2026-06-07T17:16:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
@@ -180,12 +513,12 @@
     "category": "presse-locale"
   },
   {
-    "id": "34270457664b31eb",
-    "title": "Le Tennis Club de Brest décroche son billet pour la Nationale 4 !",
-    "link": "https://www.letelegramme.fr/sports/tennis/le-tennis-club-de-brest-decroche-son-billet-pour-la-nationale-4-7059540.php",
-    "summary": "Le Tennis Club de Brest s’est imposé, ce dimanche, à Vannes et officialise sa montée en Nationale 4.",
-    "date": "2026-06-07T17:09:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "id": "a10356581ad4817b",
+    "title": "Affaire Lyhanna : le ministre français de la Justice ordonne une revue de 70 000 plaintes impliquant des enfants d’ici au 14 juillet",
+    "link": "https://www.letelegramme.fr/france/affaire-lyhanna-le-ministre-francais-de-la-justice-ordonne-une-revue-de-70-000-plaintes-impliquant-des-enfants-dici-au-14-juillet-7059536.php",
+    "summary": "Dans le sillage de l’affaire Lyhanna, Gérald Darmanin ordonne une revue de 70 000 plaintes concernant des enfants d’ici au 14 juillet.",
+    "date": "2026-06-07T17:05:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -195,15 +528,6 @@
     "summary": "Le mois de juin sera chargé pour l’association Ty Bonheur, à Plougonvelin, qui organise une course solidaire et aide à l’organisation du Ouestival.",
     "date": "2026-06-07T17:05:00+00:00",
     "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
-    "id": "cc645b5ec93f74f9",
-    "title": "Affaire Lyhanna : le ministre français de la justice ordonne une revue de 70 000 plaintes impliquant des enfants d’ici au 14 juillet",
-    "link": "https://www.letelegramme.fr/france/affaire-lyhanna-le-ministre-francais-de-la-justice-ordonne-une-revue-de-70-000-plaintes-impliquant-des-enfants-dici-au-14-juillet-7059536.php",
-    "summary": "Dans le sillage de l’affaire Lyhanna, Gérald Darmanin ordonne une revue de 70 000 plaintes concernant des enfants d’ici au 14 juillet.",
-    "date": "2026-06-07T17:05:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -234,22 +558,13 @@
     "category": "presse-locale"
   },
   {
-    "id": "92f0f6b7a43e61b7",
-    "title": "Un hélicoptère de la gendarmerie se crashe dans le Loiret",
+    "id": "bb2127f7004dc284",
+    "title": "Crash d’hélicoptère dans le Loiret : un gendarme tué, deux autres blessés",
     "link": "https://www.letelegramme.fr/france/un-helicoptere-de-la-gendarmerie-se-crashe-dans-le-loiret-7059524.php",
-    "summary": "Un hélicoptère de la gendarmerie s’est écrasé ce dimanche dans le Loiret, près de Sully-sur-Loire. L’accident, dont les circonstances restent inconnues, aurait fait plusieurs victimes.",
+    "summary": "Un gendarme est mort et deux autres ont été blessés dans le crash d’un hélicoptère de la gendarmerie dans le Loiret dimanche après-midi. Les circonstances de l’accident sont encore inconnues.",
     "date": "2026-06-07T16:38:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
-  },
-  {
-    "id": "14e6c822092a46ba",
-    "title": "Loiret : un hélicoptère de la gendarmerie s'écrase, le bilan fait état d'un mort et deux blessés graves",
-    "link": "https://www.ici.fr/centre-val-de-loire/loiret-45/bray-saint-aignan/loiret-un-helicoptere-s-ecrase-a-bray-saint-aignan-9720851?at_medium=lien_RSS&at_locale=20",
-    "summary": "Un hélicoptère de la gendarmerie s'est écrasé ce dimanche 7 juin, aux alentours de 16h40, sur la commune de Bray-Saint-Aignan (Loiret). Le bilan fait état d'un mort et deux blessés en urgence absolue indique la préfecture du Loiret.",
-    "date": "2026-06-07T16:35:58+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
   },
   {
     "id": "491f62a99b7e1f88",
@@ -279,21 +594,21 @@
     "category": "radio-tv"
   },
   {
+    "id": "0e1bd2edf03b9d35",
+    "title": "Bob Hewlett, 106 ans, doyen de la Bretagne, retrace sa vie de militantisme pacifique [Vidéo]",
+    "link": "https://www.letelegramme.fr/morbihan/vannes-56000/bob-hewlett-106-ans-doyen-de-la-bretagne-retrace-sa-vie-de-militantisme-pacifique-video-7058326.php",
+    "summary": "À 106 ans, il est le doyen de Bretagne. Intellectuel polyglotte, Robert Hewlett est arrivé sur le tard à Vannes, pour y poursuivre sa retraite. Pacifiste et objecteur de conscience, il a passé sa vie à contourner la haine. De quoi, peut-être, expliquer sa longévité tranquille.",
+    "date": "2026-06-07T16:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
     "id": "86c6bac8f8fbf474",
     "title": "Comment l'électricité produite par le parc éolien de la baie de Morlaix sera-t-elle acheminée vers la terre ?",
     "link": "https://www.letelegramme.fr/finistere/morlaix-29600/comment-sera-acheminee-lelectricite-du-parc-eolien-de-la-baie-de-morlaix-on-repond-aux-questions-cles-liees-a-ce-raccordement-7059357.php",
     "summary": "Le projet éolien en mer Bretagne Nord Ouest soulève des questions cruciales sur son raccordement électrique. Courant continu ou alternatif ? Quel coût pour acheminer l’énergie ? Les enjeux sont de taille pour RTE.",
     "date": "2026-06-07T16:00:00+00:00",
     "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
-    "id": "46a786c00ee9e3bd",
-    "title": "Bob Hewlett, 106 ans, doyen de la Bretagne, retrace sa vie de militantisme pacifique",
-    "link": "https://www.letelegramme.fr/morbihan/vannes-56000/bob-hewlett-106-ans-doyen-de-la-bretagne-retrace-sa-vie-de-militantisme-pacifique-video-7058326.php",
-    "summary": "À 106 ans, il est le doyen de Bretagne. Intellectuel polyglotte, Robert Hewlett est arrivé sur le tard à Vannes, pour y poursuivre sa retraite. Pacifiste et objecteur de conscience, il a passé sa vie à contourner la haine. De quoi, peut-être, expliquer sa longévité tranquille.",
-    "date": "2026-06-07T16:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -315,15 +630,6 @@
     "category": "presse-locale"
   },
   {
-    "id": "351f7ca677f43554",
-    "title": "VIDÉO - \"Il risque de retomber dans l’oubli\", 2.500 visiteurs redonnent vie au Château de Peyras en Charente",
-    "link": "https://www.ici.fr/nouvelle-aquitaine/charente-16/terres-de-haute-charente/video-il-risque-de-retomber-dans-l-oubli-2-500-visiteurs-redonnent-vie-au-chateau-de-peyras-en-charente-6235282?at_medium=lien_RSS&at_locale=20",
-    "summary": "Imaginez un château où chaque pierre raconte une histoire, où chaque mur murmure des secrets du passé. Bienvenue au château de Peyras, un joyau historique niché au cœur de la Charente.",
-    "date": "2026-06-07T15:30:03+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
     "id": "e7d19cccb578618e",
     "title": "À Quimper, le brodeur Pascal Jaouen grimpe à quinze mètres de haut en tenue de pompier pour récupérer son perroquet [Vidéo]",
     "link": "https://www.letelegramme.fr/finistere/quimper-29000/a-quimper-le-brodeur-pascal-jaouen-grimpe-a-quinze-metres-de-haut-en-tenue-de-pompier-pour-recuperer-son-perroquet-video-7059475.php",
@@ -331,42 +637,6 @@
     "date": "2026-06-07T15:27:00+00:00",
     "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
-  },
-  {
-    "id": "3a4ff4252ee09b67",
-    "title": "Petite finale de handball. Les Brestoises du BBH, championnes de France 2026, voient s'envoler leur rêve de bronze en Ligue des champions face à Bucarest (26-32)",
-    "link": "https://france3-regions.franceinfo.fr/bretagne/finistere/brest/direct-objectif-bronze-pour-le-brest-bretagne-handball-avec-une-petite-finale-contre-bucarest-qui-debute-a-15h-3364120.html",
-    "summary": "Après la cruelle défaite du BBH en demi-finale de la Ligue des champions féminine, hier samedi, face à l'équipe hongroise de Györ, les Brestoises comptaient bien décrocher la médaille de bronze face à l'équipe de Bucarest. Mais les Roumaines ont mené tout le long du match. Finalement, les championnes de France 2026 terminent à la quatrième place, au pied du podium sur ce Final 4 de la Ligue des champions.",
-    "date": "2026-06-07T15:24:24+00:00",
-    "source": "France 3 Bretagne",
-    "category": "radio-tv"
-  },
-  {
-    "id": "1d5f48bc0df1bd35",
-    "title": "Il y aura des travaux à Brest cette semaine du 8 au 14 juin",
-    "link": "https://actu.fr/bretagne/brest_29019/il-y-aura-des-travaux-a-brest-cette-semaine-du-8-au-14-juin_64364703.html",
-    "summary": "Êtes-vous concerné par les travaux qui se dérouleront à Brest cette semaine du 8 au 14 juin ? Voici la liste.",
-    "date": "2026-06-07T15:20:02+00:00",
-    "source": "actu.fr – Bretagne",
-    "category": "presse-locale"
-  },
-  {
-    "id": "a3be9b58a7bb0de1",
-    "title": "« C’est un chiffre énorme, plus de 17 % du PIB » : pourquoi l’état de guerre permanent pèse lourdement sur les finances israéliennes",
-    "link": "https://www.letelegramme.fr/monde/cest-un-chiffre-enorme-plus-de-17-du-pib-pourquoi-letat-de-guerre-permanent-pese-lourdement-sur-les-finances-israeliennes-7059451.php",
-    "summary": "Engagé de longue date dans des conflits régionaux, Israël dépense des sommes considérables pour sa défense depuis le 7 octobre 2023. Au point de pénaliser les services publics et les entreprises du pays.",
-    "date": "2026-06-07T15:06:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
-    "id": "95b212b25b023c0d",
-    "title": "Que se passe-t-il dans les Alpes Maritimes du 8 au 14 juin 2026 ?",
-    "link": "https://www.ici.fr/provence-alpes-cote-d-azur/alpes-maritimes-06/antibes/que-se-passe-t-il-dans-les-alpes-maritimes-du-8-au-14-juin-2026-9381963?at_medium=lien_RSS&at_locale=20",
-    "summary": "Une jolie sélection de sorties pour votre semaine, ça vous dit ?",
-    "date": "2026-06-07T14:54:07+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
   },
   {
     "id": "2b1220a78d88ac14",
@@ -378,15 +648,6 @@
     "category": "presse-locale"
   },
   {
-    "id": "cc6d5d22a9ad9173",
-    "title": "« Ça faisait un peu penser à la Trouée d’Arenberg dans Paris-Roubaix » : Benoît Campion signe la meilleure performance française de la saison sur le mile du Brest Arkéa Running Tour",
-    "link": "https://www.letelegramme.fr/sports/running/ca-faisait-un-peu-penser-a-la-trouee-darenberg-dans-paris-roubaix-benoit-campion-signe-la-meilleure-performance-francaise-de-la-saison-sur-le-mile-du-brest-arkea-running-tour-7059431.php",
-    "summary": "Benoît Campion n’a pas réalisé son rêve de battre le record de France du mile sur ses terres, à l’occasion du Brest Arkéa Running Tour. Mais l’athlète du Stade Brestois a tout de même signé la meilleure performance française de la saison sur le tracé du port de commerce.",
-    "date": "2026-06-07T14:43:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
     "id": "5f83395f41ba11db",
     "title": "Ligue des champions : le Brest Bretagne Handball termine quatrième après un gros combat face au CSM Bucarest",
     "link": "https://www.letelegramme.fr/sports/handball/brest-bretagne-handball/ligue-des-champions-le-brest-bretagne-handball-termine-quatrieme-apres-un-gros-combat-face-au-csm-bucarest-7059430.php",
@@ -394,24 +655,6 @@
     "date": "2026-06-07T14:40:00+00:00",
     "source": "Le Télégramme – Brest",
     "category": "presse-locale"
-  },
-  {
-    "id": "2cc77a9d4c675552",
-    "title": "« Notre petit monde s’est effondré » : 6 000 personnes rendent hommage à Lyhanna lors d’une marche blanche à Fleurance",
-    "link": "https://www.letelegramme.fr/france/des-milliers-de-personnes-rendent-hommage-a-lyhanna-lors-dune-marche-blanche-a-fleurance-7059400.php",
-    "summary": "6 000 personnes marchent ce dimanche à Fleurance pour Lyhanna, 11 ans, retrouvée morte. « Plus jamais ça ! On t’aime. Tu nous manques », peut-on lire sur la banderole des parents de la jeune fille.",
-    "date": "2026-06-07T14:14:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
-    "id": "5a202bc71851aa22",
-    "title": "À Meursault : Le Festival de Bach à Bachus célèbre ses 40 ans",
-    "link": "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/meursault/le-festival-de-bach-a-bachus-celebre-ses-40-ans-8725570?at_medium=lien_RSS&at_locale=20",
-    "summary": "Du 4 au 12 juillet 2026, le prestigieux village de Meursault célèbre le quarantième anniversaire d'un festival unique en son genre. Entre grands crus musicaux et exclusivités œnologiques, cette édition 2026 s'annonce mémorable.",
-    "date": "2026-06-07T14:05:51+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
   },
   {
     "id": "1e4b5943b3f8e438",
@@ -426,7 +669,7 @@
     "id": "021870f978cdd902",
     "title": "Ligue des champions féminine de handball : pas de podium pour Brest, battu en petite finale par Bucarest (32-26)",
     "link": "https://www.ici.fr/bretagne/finistere-29/brest/ligue-des-champions-feminine-de-handball-a-la-mi-temps-du-match-pour-la-troisieme-place-brest-est-mene-par-bucarest-2126630?at_medium=lien_RSS&at_locale=20",
-    "summary": "Sans doute pas encore remis de sa cruelle défaite en demi-finale contre Gyor, le Brest Bretagne Handball n'a pas pu reprendre ses esprits pour la petite finale, que le BBH a perdu assez nettement (32-26) face au CSM Bucarest.",
+    "summary": "Sans doute pas encore remis de sa cruelle défaite en demi-finale contre Gyor, le Brest Bretagne Handball n'a pas pu reprendre ses esprits pour la petite finale, que le BBH a perdue assez nettement (32-26) face au CSM Bucarest.",
     "date": "2026-06-07T13:40:44+00:00",
     "source": "ICI Breizh Izel",
     "category": "radio-tv"
@@ -486,15 +729,6 @@
     "category": "radio-tv"
   },
   {
-    "id": "f750dc0ea571dde3",
-    "title": "À Brest, Asperansa accompagne les personnes avec autisme depuis vingt et un ans",
-    "link": "https://www.letelegramme.fr/finistere/brest-29200/lambezellec/a-brest-asperansa-accompagne-les-personnes-avec-autisme-depuis-vingt-et-un-ans-7059132.php",
-    "summary": "Asperansa, l’Association pour la sensibilisation à la protection, l’éducation et la recherche sur l’autisme et notamment le syndrome d’Asperger, a tenu son assemblée générale, samedi, à Lambézellec, à Brest. Le président va passer la main.",
-    "date": "2026-06-07T10:10:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
     "id": "dea2327d66833aff",
     "title": "À Brest, la Pyjama Party de la clinique Pasteur suscite l’intérêt des professionnels de santé et des étudiants",
     "link": "https://www.letelegramme.fr/finistere/brest-29200/a-brest-la-pyjama-party-de-la-clinique-pasteur-suscite-linteret-des-professionnels-de-sante-et-des-etudiants-7059121.php",
@@ -518,7 +752,7 @@
     "link": "https://www.letelegramme.fr/bretagne/tragique-bain-de-minuit-a-plozevet-un-jeune-de-18-ans-retrouve-noye-7059018.php",
     "summary": "Une soirée entre jeunes sur une plage de Plozévet (29) a tourné au drame dans la nuit de samedi à dimanche. Le corps d’un jeune de 18 ans de la commune a été retrouvé ce dimanche matin.",
     "date": "2026-06-07T08:23:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -537,15 +771,6 @@
     "summary": "Le Brest Arkéa Running Tour a débuté, ce dimanche, au matin. Trois mille coureurs ont pris le départ du semi-marathon, rejoints ensuite par les participants des 10 km et 5 km pour un total de 6 500 engagés.",
     "date": "2026-06-07T07:40:00+00:00",
     "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
-    "id": "07a8c4d4ae51949d",
-    "title": "Bouygues Telecom, Free et Orange vont racheter SFR, vers un retour à trois opérateurs en France",
-    "link": "https://www.letelegramme.fr/economie/bouygues-telecom-free-et-orange-vont-racheter-sfr-vers-un-retour-a-trois-operateurs-en-france-7058992.php",
-    "summary": "Les opérateurs Bouygues Telecom, Iliad (Free) et Orange se sont mis d’accord avec Altice France, samedi soir, pour lui racheter sa filiale SFR… pour un montant total de 20,35 milliards d’euros.",
-    "date": "2026-06-07T05:49:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -582,24 +807,6 @@
     "summary": "Warhol à Landerneau (29), Claudel à Pont-Aven (29), Dubuffet à Dinard (35)… En Bretagne, la palette des expositions estivales s’enrichit, chaque année, d’artistes de plus en plus célèbres. Zoom sur l’événement landernéen.",
     "date": "2026-06-07T04:01:00+00:00",
     "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
-    "id": "341f2019efb65a6a",
-    "title": "Appli, analyse, programme : comment les candidats à la présidentielle utilisent l’intelligence artificielle dans leur campagne",
-    "link": "https://www.letelegramme.fr/france/appli-analyse-programme-comment-les-candidats-a-la-presidentielle-utilisent-lintelligence-artificielle-dans-leur-campagne-7058785.php",
-    "summary": "L’intelligence artificielle s’invite dans la course à l’Élysée. De Renaissance au Rassemblement national, en passant par LR, les partis politiques exploitent l’IA pour informer, interagir et affûter leurs stratégies de campagne.",
-    "date": "2026-06-07T04:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
-    "id": "959fa8983235af04",
-    "title": "« Des victoires tous les jours » : dans cette classe spéciale, les enfants autistes progressent",
-    "link": "https://www.letelegramme.fr/morbihan/vannes-56000/des-victoires-tous-les-jours-dans-cette-classe-speciale-les-enfants-autistes-progressent-7058790.php",
-    "summary": "Mercredi 27 mai, l’Assemblée nationale a étudié un rapport sur la prise en charge de l’autisme. Il préconise de faire de l’école le lieu central de l’inclusion. En Bretagne, treize écoles accueillent des unités pour les enfants autistes de 3 à 6 ans. Reportage à l’école La Rabine, à Vannes.",
-    "date": "2026-06-07T04:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -765,15 +972,6 @@
     "category": "presse-locale"
   },
   {
-    "id": "d959c7bbcc5fc262",
-    "title": "« J’aimerais que cela devienne le Vinted du vin » : gestion de cave, revente de vin, cette appli créée à Porspoder a du bouquet",
-    "link": "https://www.letelegramme.fr/finistere/brest-29200/jaimerais-que-cela-devienne-le-vinted-du-vin-gestion-de-cave-revente-de-vin-cette-appli-creee-a-porspoder-a-du-bouquet-7057506.php",
-    "summary": "Assemblage d’outils de gestion de cave et de marketplace entre particuliers, l’appli 1001Caves du Porspodérien Daniel Breton est charpentée pour séduire les amateurs et collectionneurs de vin.",
-    "date": "2026-06-06T04:00:02+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "cec5b9e94cd91a9f",
     "title": "Gala de roller, comice agricole, Rando trail…, nos idées de sorties dans la région de Carhaix pour le week-end",
     "link": "https://www.letelegramme.fr/finistere/carhaix-29270/gala-de-roller-comice-agricole-rando-trail-nos-idees-de-sorties-dans-la-region-de-carhaix-pour-le-week-end-7058362.php",
@@ -817,15 +1015,6 @@
     "date": "2026-06-05T18:33:56+00:00",
     "source": "France 3 Bretagne",
     "category": "radio-tv"
-  },
-  {
-    "id": "eaa153904a5f7d2f",
-    "title": "Affaire Lyhanna : un rassemblement devant les tribunaux de Brest et Quimper ce lundi 8 juin",
-    "link": "https://www.letelegramme.fr/finistere/brest-29200/affaire-lyhanna-un-rassemblement-devant-les-tribunaux-de-brest-et-quimper-ce-lundi-8-juin-7058503.php",
-    "summary": "Face aux potentiels manquements de la part de la justice dans le meurtre de la petite Lyhanna, la Fédération du Finistère du Parti socialiste soutient les appels à se rassembler en son honneur, ce lundi, devant les tribunaux de Brest et de Quimper.",
-    "date": "2026-06-05T17:58:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
   },
   {
     "id": "3d611c6f20588933",
@@ -1062,33 +1251,6 @@
     "category": "radio-tv"
   },
   {
-    "id": "aa77041c48faf0f9",
-    "title": "Contrebande de cigarettes : un million d’euros requis contre trois prévenus à Saint-Brieuc",
-    "link": "https://www.ici.fr/bretagne/cotes-d-armor-22/saint-brieuc/contrebande-de-cigarettes-1-million-d-euros-requis-contre-trois-prevenus-a-saint-brieuc-3083402?at_medium=lien_RSS&at_locale=20",
-    "summary": "À Saint-Brieuc, le 4 juin 2026, le parquet a requis une amende douanière d’un million d’euros contre trois des quatre hommes jugés pour une vaste filière de contrebande de cigarettes entre la Belgique et la Bretagne. Plus de 76.000 paquets ont été écoulés, estiment les enquêteurs.",
-    "date": "2026-06-04T22:25:21+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
-    "id": "6a92ea7fc08deaf4",
-    "title": "Atelier Massage bébé Mont",
-    "link": "https://unidivers.fr/event/atelier-massage-bebe-mont-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Atelier Massage bébé 19 rue du Vieux Mont Mont Pyrénées-Atlantiques 2026-06-08 09:30:00 2026-06-08",
-    "date": "2026-06-04T18:45:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "06f01aa271d5d17d",
-    "title": "AU CINEMA LA FONTAINE FAIT SON CINEMA à la Maison du Savoir Saint-Laurent-de-Neste",
-    "link": "https://unidivers.fr/event/au-cinema-la-fontaine-fait-son-cinema-saint-laurent-de-neste-hautes-pyrenees-2026-06-08/",
-    "summary": "AU CINEMA LA FONTAINE FAIT SON CINEMA à la Maison du Savoir SAINT-LAURENT-DE-NESTE Saint-Laurent-de-Neste Hautes-Pyrénées 2026-06-08 10:00:00 2026-06-08 10:00:00",
-    "date": "2026-06-04T18:45:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "14cc4bb4ed5ef701",
     "title": "AU CINEMA JUSTE UNE ILLUSION à la Maison du Savoir Saint-Laurent-de-Neste",
     "link": "https://unidivers.fr/event/au-cinema-juste-une-illusion-saint-laurent-de-neste-hautes-pyrenees-2026-06-08/",
@@ -1102,6 +1264,15 @@
     "title": "Ateliers informatique Médiathèque de Morteaux-Couliboeuf Morteaux-Coulibœuf",
     "link": "https://unidivers.fr/event/ateliers-informatique-morteaux-couliboeuf-calvados-2026-06-08/",
     "summary": "Ateliers informatique Médiathèque de Morteaux-Couliboeuf 9 Rue des Écoles Morteaux-Coulibœuf Calvados 2026-06-22 14:00:00 2026-06-22 14:00:00",
+    "date": "2026-06-04T18:45:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "d39e5f62aca44077",
+    "title": "Table-ronde aux Halles en Commun – Les récits construisent-ils la ville ? Les Halles en Commun Rennes",
+    "link": "https://unidivers.fr/event/table-ronde-aux-halles-en-commun-les-recits-construisent-ils-la-ville-les-halles-en-commun-rennes-2026-06-08t183000-0000200/",
+    "summary": "Lundi 8 juin, 18h30 Table-ronde aux Halles en Commun - Les récits construisent-ils la ville ? Les Halles en Commun 24 avenue Jules maniez - 35000 Rennes Rennes Ille-et-Vilaine Rendez-vous le 8 juin 2026, à 18h30 à Grabuge, pour échanger sur la mise en récit des projets urbains, en présence de Marc Hervé, Paola Vigano, Clara Ruestchmann et Marc Dartigalongue",
     "date": "2026-06-04T18:45:26+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -1437,6 +1608,33 @@
     "summary": "De juin à décembre 2026, La Criée centre d’art contemporain à Rennes célèbre ses 40 ans avec une exposition et une programmation anniversaire mêlant œuvres murales, visites, rencontres, ateliers et week-end festif d’ouverture.",
     "date": "2026-06-03T10:47:18+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "b4a8ece3438cc4fb",
+    "title": "Vernissage de l’expo photo « (re)découvrons nos mares » Square Maurice Gardette Paris",
+    "link": "https://unidivers.fr/event/vernissage-de-lexpo-photo-redecouvrons-nos-mares-square-maurice-gardette-paris-paris-2026-06-08t2100000200/",
+    "summary": "Vernissage de l'expo photo « (re)découvrons nos mares » Square Maurice Gardette Paris Participez au vernissage de l'exposition photographique « (re)découvrons nos mares » au square Gardette !",
+    "date": "2026-06-03T10:32:13+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "ca7e786f6f1d921a",
+    "title": "Tournoi d’échecs au théâtre kawaa du Lucernaire Paris",
+    "link": "https://unidivers.fr/event/tournoi-dechecs-au-theatre-kawaa-du-lucernaire-paris-paris-2026-06-08t2130000200/",
+    "summary": "Tournoi d’échecs au théâtre kawaa du Lucernaire Paris Le café du théâtre du Lucernaire nous accueille pour un tournoi d’échecs ouvert au public.",
+    "date": "2026-06-03T10:32:13+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "39898a848d92ac07",
+    "title": "Art contemporain et textile : trames et relations Bibliothèque publique d’information Paris",
+    "link": "https://unidivers.fr/event/art-contemporain-et-textile-trames-et-relations-bibliotheque-publique-dinformation-paris-paris-2026-06-08t2200000200/",
+    "summary": "Art contemporain et textile : trames et relations Bibliothèque publique d'information Paris Dans le cadre du cycle \"Tissez, pensez, créez !\", la Bibliothèque publique d'information organise une conférence autour de l’art textile contemporain.",
+    "date": "2026-06-03T10:32:13+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -1881,6 +2079,42 @@
     "category": "culture"
   },
   {
+    "id": "3f5927086cb5ee3d",
+    "title": "Atelier cosmétique pour adultes: Fabriquez votre Rouge à lèvres & votre Baume scintillant, Espace de quartier Eaux-Vives, Genève",
+    "link": "https://unidivers.fr/event/atelier-cosmetique-pour-adultes-fabriquez-votre-rouge-a-levres-votre-baume-scintillant-espace-de-quartier-eaux-vives-geneve-2026-06-08t1830000200/",
+    "summary": "Lundi 8 juin, 18h30 Espace de quartier Eaux-Vives Genève, Rue de Montchoisy 46, 1207 Genève Envie de douceur et de créativité? Apprenez à fabriquer vos soins estivaux 100% naturel, en profitant d'un moment rien que pour vous!",
+    "date": "2026-06-01T07:48:59+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "7e82ecf35388c9d8",
+    "title": ", Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte, Natal",
+    "link": "https://unidivers.fr/event/instituto-federal-de-educacao-ciencia-e-tecnologia-do-rio-grande-do-norte-natal-2026-06-08t1900000200/",
+    "summary": "8 et 9 juin Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte Natal, IFRN natal central",
+    "date": "2026-06-01T07:48:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "93ec7b39296f10d2",
+    "title": "OFICINA DE CONTAÇÃO DE HISTÓRIA “DESCOBERTAS NO ARQUIVO DA SANTINHA”, CHC Santa Casa, Porto Alegre",
+    "link": "https://unidivers.fr/event/oficina-de-contacao-de-historia-descobertas-no-arquivo-da-santinha-chc-santa-casa-porto-alegre-2026-06-08t1900000200/",
+    "summary": "Lundi 8 juin, 14h00 CHC Santa Casa Porto Alegre, Av. Independência, 75 – Centro Histórico Porto Alegre | RS | Brasil Martina, personagem central, aproveita as férias escolares para conhecer a história da sua família, fazendo um passeio e uma investigação com a vó Emília no Arquivo da Santinha.",
+    "date": "2026-06-01T07:48:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "bde46d32c57d4a6a",
+    "title": "Voyage en Musique Festival – Du classique a la musique du monde, Le Garage Moderne, Bordeaux",
+    "link": "https://unidivers.fr/event/voyage-en-musique-festival-du-classique-a-la-musique-du-monde-le-garage-moderne-bordeaux-gironde-2026-06-08t2000000200/",
+    "summary": "8 et 9 juin Le Garage Moderne Bordeaux, 176 rue achard Voyage en musique propose une traversée sonore qui dépasse les catégories et les étiquettes.",
+    "date": "2026-06-01T07:48:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "ae40065ce76e08b3",
     "title": "La Géorgie débouche l’histoire : les 40 000 bouteilles de Staline aux enchères",
     "link": "https://unidivers.fr/georgie-bouteilles-staline-vin-encheres/",
@@ -1994,60 +2228,6 @@
     "link": "https://unidivers.fr/event/fundacao-casa-de-rui-barbosa-rio-de-janeiro-2026-06-08t1400000200/",
     "summary": "8 et 9 juin Fundação Casa de Rui Barbosa Rio de Janeiro, rio de janeiro",
     "date": "2026-05-31T22:19:17+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "1c64ace130cf8edc",
-    "title": "Exposition : Un laboratoire à ciel ouvert, Bibliothèque du Campus Agro Paris-Saclay, Palaiseau",
-    "link": "https://unidivers.fr/event/exposition-un-laboratoire-a-ciel-ouvert-bibliotheque-du-campus-agro-paris-saclay-palaiseau-essonne-2026-06-08t0800000200/",
-    "summary": "8 juin - 10 juillet Bibliothèque du Campus Agro Paris-Saclay Palaiseau, 22 place de l'agronomie - 91123 Palaiseau L’équipe de la Chaire Agricultures Urbaines et l’équipe des projets du toit d’AgroParisTech, vous invitent à « Un laboratoire à ciel ouvert - Dix ans d'expérimentations en agriculture urbaine »",
-    "date": "2026-05-31T22:15:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "8bde88d19635ec2c",
-    "title": "Dialogues méditerranéens sur la détérioration environnementale et les savoirs citoyens, Campus Condorcet – Centre de colloques, Aubervilliers",
-    "link": "https://unidivers.fr/event/dialogues-mediterraneens-sur-la-deterioration-environnementale-et-les-savoirs-citoyens-campus-condorcet-centre-de-colloques-aubervilliers-seine-saint-denis-2026-06-08t0830000200/",
-    "summary": "8 et 9 juin Campus Condorcet - Centre de colloques Aubervilliers, Place du Front populaire, 93300 Aubervilliers À l’occasion du 70e anniversaire des indépendances du Maroc et de la Tunisie, ce colloque de deux jours se propose de revisiter les indépendances maghrébines de 1956 et 1962 non comme des événements …",
-    "date": "2026-05-31T22:15:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "2fdf0721eba1586d",
-    "title": ", Archivo Histórico Provincial de Salamanca, Salamanque",
-    "link": "https://unidivers.fr/event/archivo-historico-provincial-de-salamanca-salamanque-2026-06-08t0900000200/",
-    "summary": "8 - 19 juin Archivo Histórico Provincial de Salamanca Salamanque, C. Mazas, 0, 37008 Salamanca",
-    "date": "2026-05-31T22:15:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "061b159adf86bc9a",
-    "title": "Les archives, c’est vous !, rochefort, Rochefort",
-    "link": "https://unidivers.fr/event/les-archives-cest-vous-rochefort-rochefort-charente-maritime-2026-06-08t1000000200/",
-    "summary": "8 - 13 juin rochefort Rochefort, 17300 5 acteurs du « patrimoine écrit » rochefortais, avec la collaboration du Conseil de développement, s’associent pour proposer à toutes et tous des temps de découvertes.",
-    "date": "2026-05-31T22:15:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "5f7aa6cd5dd10c1d",
-    "title": ", Archivo Municipal de Torrejón de Ardoz, Calle Londres 23-A, Torrejón de Ardoz, Madrid, Torrejón de Ardoz",
-    "link": "https://unidivers.fr/event/archivo-municipal-de-torrejon-de-ardoz-calle-londres-23-a-torrejon-de-ardoz-madrid-torrejon-de-ardoz-2026-06-08t1000000200/",
-    "summary": "8 - 12 juin Archivo Municipal de Torrejón de Ardoz, Calle Londres 23-A, Torrejón de Ardoz, Madrid Torrejón de Ardoz, Londres 23-A, Torrejón de Ardoz, Madrid",
-    "date": "2026-05-31T22:15:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "97685f6160c32dac",
-    "title": "Balade entre terre et mer à la découverte du site d’Omaha Beach, Parking du bout de la rue de la 2ème Division US, Saint-Laurent-sur-Mer",
-    "link": "https://unidivers.fr/event/balade-entre-terre-et-mer-a-la-decouverte-du-site-domaha-beach-parking-du-bout-de-la-rue-de-la-2eme-division-us-saint-laurent-sur-mer-calvados-2026-06-08t1000000200-3/",
-    "summary": "Lundi 8 juin, 10h00 Parking du bout de la rue de la 2ème Division US Saint-Laurent-sur-Mer, Parking du bout de la rue de la 2ème Division US SAINT-LAURENT-SUR-MER Venez en famille pour découvrir la richesse du site d'Omaha Beach. Lors de cette balade des petits jeux sensorielle autour de la nature vous seront proposés sur votre parcours.",
-    "date": "2026-05-31T22:15:35+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -2210,6 +2390,132 @@
     "link": "https://unidivers.fr/event/defile-de-mode-en-musique-conservatoire-regional-de-bordeaux-bordeaux-gironde-2026-06-08t1800000200/",
     "summary": "Lundi 8 juin, 18h00 Conservatoire Régional de Bordeaux Bordeaux, 22 quai Sainte-Croix Une rencontre entre la musique classique interprété en piano et en flute avec des créations fait main présentés",
     "date": "2026-05-31T22:15:33+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "d335bff6018cc3cc",
+    "title": "À la lettre, Archives municipales, Toulouse",
+    "link": "https://unidivers.fr/event/a-la-lettre-archives-municipales-toulouse-haute-garonne-2026-06-08t1830000200/",
+    "summary": "8 - 12 juin Archives municipales Toulouse, 2 Rue des Archives, 31500 Toulouse, France Un atelier participatif et immersif autour de l’écriture de l’intime sous l’Ancien Régime.",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "a4fafdc7ab9a5db4",
+    "title": "La Tarantelle Rebelle de Naples, Le Nautilus, Perpignan",
+    "link": "https://unidivers.fr/event/la-tarantelle-rebelle-de-naples-le-nautilus-perpignan-pyrenees-orientales-2026-06-08t1830000200/",
+    "summary": "Lundi 8 juin, 18h30 Le Nautilus Perpignan, 20 rue jules verne 66000 Perpignan Lundi 8 juin 2026 ☀ 18h30 Conférence-concert #Italie #Danse",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "0bf8cd9f48052dfb",
+    "title": "Objet trouvé – 100 ans ! Hommage au compositeur Grégory KURTAG, Conservatoire Maurice André – Site Clara d’Anduze, Anduze",
+    "link": "https://unidivers.fr/event/objet-trouve-100-ans-hommage-au-compositeur-gregory-kurtag-conservatoire-maurice-andre-site-clara-danduze-anduze-gard-2026-06-08t1830000200/",
+    "summary": "Lundi 8 juin, 18h30 Conservatoire Maurice André - Site Clara d'Anduze Anduze, 4 route d'Alès, 30140 Anduze Au programme, des œuvres de Kurtag, Mozart, Beethoven, Chopin, Annick Chartreux ... et improvisations par l'atelier des pianistes.",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "671701096f0ec72e",
+    "title": "Conseil de Quartier Cleunay / Arsenal-Redon / La Courrouze, Maison des Familles, Rennes",
+    "link": "https://unidivers.fr/event/conseil-de-quartier-cleunay-arsenal-redon-la-courrouze-maison-des-familles-rennes-ille-et-vilaine-2026-06-08t1830000200/",
+    "summary": "Lundi 8 juin, 18h30 Maison des Familles Rennes, 2 allée Joseph Gémain Un espace de concertation sur les enjeux du quartier",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "95d2554aa1745885",
+    "title": ", MUB3, São Paulo",
+    "link": "https://unidivers.fr/event/mub3-sao-paulo-2026-06-08t1900000200/",
+    "summary": "Lundi 8 juin, 14h00 MUB3 São Paulo, Rua XV de Novembro, 275, São Paulo, SP",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "594ef7612c800069",
+    "title": ", Universidade Estadual Paulista « Júlio de Mesquita Filho » – UNESP/Marília, Marília",
+    "link": "https://unidivers.fr/event/universidade-estadual-paulista-julio-de-mesquita-filho-unesp-marilia-marilia-2026-06-08t1900000200/",
+    "summary": "8 - 11 juin Universidade Estadual Paulista \"Júlio de Mesquita Filho\" - UNESP/Marília Marília, Av. Hygino Muzzi Filho, 737 - PORTARIA A - Mirante, Marília - SP, 17525-900",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "a9bdf0f04b35482a",
+    "title": "Bulle baroque, Conservatoire à rayonnement régional de Versailles Grand Parc – salle Rameau, Versailles",
+    "link": "https://unidivers.fr/event/bulle-baroque-conservatoire-a-rayonnement-regional-de-versailles-grand-parc-salle-rameau-versailles-yvelines-2026-06-08t1900000200/",
+    "summary": "Lundi 8 juin, 19h00 Conservatoire à rayonnement régional de Versailles Grand Parc - salle Rameau Versailles, 24, rue de la Chancellerie - 78000 Versailles Opus",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "da97567294f52e42",
+    "title": "Concert Musiques Actuelles & Jazz et Musiques Improvisées, Ferme d’en Haut, Villeneuve-d’Ascq",
+    "link": "https://unidivers.fr/event/concert-musiques-actuelles-jazz-et-musiques-improvisees-ferme-den-haut-villeneuve-dascq-nord-2026-06-08t1900000200/",
+    "summary": "Lundi 8 juin, 19h00 Ferme d'en Haut Villeneuve-d'Ascq, 268 Rue Jules Guesde, 59650 Villeneuve-d'Ascq Dans le cadre de la semaine musicale : Venez découvrir le concert des musiques actuelles & jazz et musiques improvisées !",
+    "date": "2026-05-31T22:15:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "d5412283f95f8ffc",
+    "title": "En tant qu’homme, rejoins notre équipe bénévoles MasculinitéS !, Maison de quartier Chausse-Coq, Genève",
+    "link": "https://unidivers.fr/event/en-tant-quhomme-rejoins-notre-equipe-benevoles-masculinites-maison-de-quartier-chausse-coq-geneve-2026-06-08t1900000200/",
+    "summary": "Lundi 8 juin, 19h00 Maison de quartier Chausse-Coq Genève, Rue Julienne-Piachaud 4, 1204 Genève Pour lutter contre les violences de genre, nous recrutons des hommes* qui souhaiteraient s'investir et se former sur les masculinités. RDV le 8.06 à 19h à la MdQ Chausse-Coq (Le Manège en Ville) !",
+    "date": "2026-05-31T22:15:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "989130a2a78cba7e",
+    "title": "Repair Café Pibrac, Leroy Merlin Toulouse Roques, Roques",
+    "link": "https://unidivers.fr/event/repair-cafe-pibrac-leroy-merlin-toulouse-roques-roques-haute-garonne-2026-06-08t1930000200/",
+    "summary": "Lundi 8 juin, 19h30 Leroy Merlin Toulouse Roques Roques, Leroy Merlin, La Pyrénéenne, 31120 Roques, France Événement Café Bricol",
+    "date": "2026-05-31T22:15:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "e57d02428ea2dc99",
+    "title": "« Les monstres » – Chantiers théâtres, Centre culturel Saint Ayoul de Provins, Provins",
+    "link": "https://unidivers.fr/event/les-monstres-chantiers-theatres-centre-culturel-saint-ayoul-de-provins-provins-seine-et-marne-2026-06-08t1930000200/",
+    "summary": "Lundi 8 juin, 19h30 Centre culturel Saint Ayoul de Provins Provins, Centre Culturel Provins Spectacle de restitution des chantiers théâtre enfants d’après la pièce de Grégoire Kocjan",
+    "date": "2026-05-31T22:15:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "2433d715c51538b0",
+    "title": "Projection du film « Lynx » en présence de son réalisateur Laurent Geslin., Cinélac, Le Bourget-du-Lac",
+    "link": "https://unidivers.fr/event/projection-du-film-lynx-en-presence-de-son-realisateur-laurent-geslin-cinelac-le-bourget-du-lac-savoie-2026-06-08t2000000200/",
+    "summary": "Lundi 8 juin, 20h00 Cinélac Le Bourget-du-Lac, route de chambéry Le Bourget du Lac 73 Le Collectif Lynx Loup Savoie souhaite vous faire partager la passion de ceux qui ont la patience d'observer les lynx dans leur milieu naturel.",
+    "date": "2026-05-31T22:15:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "95ce9c42778633ce",
+    "title": "O que você tem aí?, Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – INEP, Brasilia",
+    "link": "https://unidivers.fr/event/o-que-voce-tem-ai-instituto-nacional-de-estudos-e-pesquisas-educacionais-anisio-teixeira-inep-brasilia-2026-06-08t2100000200/",
+    "summary": "8 - 12 juin Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP Brasilia, 70610-908 É um evento remoto contando com post e reels pensando a temática dessa semana. Além disso, é uma colaboração entre órgãos da UFJF sendo o CECOM e a Biblioteca do MAMM. A ideia é ser um bate bola",
+    "date": "2026-05-31T22:15:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "ce813ed8abb3cdd1",
+    "title": ", Museu da Memória e Diversidade sexual do Cariri, Crato",
+    "link": "https://unidivers.fr/event/museu-da-memoria-e-diversidade-sexual-do-cariri-crato-2026-06-08t2130000200/",
+    "summary": "Lundi 8 juin, 16h30 Museu da Memória e Diversidade sexual do Cariri Crato, coronel luiz Teixeira 1332",
+    "date": "2026-05-31T22:15:31+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -2403,33 +2709,6 @@
     "category": "culture"
   },
   {
-    "id": "b2ba0ec89672745a",
-    "title": "Atelier créatif RPE Verdun-Ciel Verdun-sur-le-Doubs",
-    "link": "https://unidivers.fr/event/atelier-creatif-verdun-sur-le-doubs-saone-et-loire-2026-06-08/",
-    "summary": "Atelier créatif RPE Verdun-Ciel 24 Rue de Beaune Verdun-sur-le-Doubs Saône-et-Loire 2026-06-08 09:00:00 2026-06-08",
-    "date": "2026-05-28T12:11:06+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "6ad7ad019799495d",
-    "title": "Cours de Cuisine Mignardises Sucrées Viré-en-Champagne",
-    "link": "https://unidivers.fr/event/cours-de-cuisine-mignardises-sucrees-vire-en-champagne-sarthe-2026-06-08/",
-    "summary": "Cours de Cuisine Mignardises Sucrées 24 Rue Principale Viré-en-Champagne Sarthe 2026-06-08 09:00:00 2026-06-08",
-    "date": "2026-05-28T12:11:05+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d9ab9a2361688752",
-    "title": "Exposition de l’association Palette Alizarine Arès",
-    "link": "https://unidivers.fr/event/exposition-de-lassociation-palette-alizarine-ares-gironde-2026-06-08/",
-    "summary": "Exposition de l'association Palette Alizarine 13/15 Avenue de Bordeaux Arès Gironde 2026-06-09 10:00:00 2026-06-09",
-    "date": "2026-05-28T12:11:05+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "0da20b7f3818d44d",
     "title": "Journée nationale d’hommage aux morts pour la France en Indochine Arès",
     "link": "https://unidivers.fr/event/journee-nationale-dhommage-aux-morts-pour-la-france-en-indochine-ares-gironde-2026-06-08/",
@@ -2466,20 +2745,38 @@
     "category": "culture"
   },
   {
+    "id": "3b3e45c3d519edbf",
+    "title": "Cérémonie patriotique Cimetière communal Florange",
+    "link": "https://unidivers.fr/event/ceremonie-patriotique-florange-moselle-2026-06-08/",
+    "summary": "Cérémonie patriotique Cimetière communal Avenue des Tilleuls Florange Moselle Lundi Lundi 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-28T12:11:04+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "9a2c23ffd7598c7d",
+    "title": "Avant-première du long-métrage *L’Ensorcelée* Cinéma L’Odéon Cherbourg-en-Cotentin",
+    "link": "https://unidivers.fr/event/avant-premiere-du-long-metrage-lensorcelee-cherbourg-en-cotentin-manche-2026-06-08/",
+    "summary": "Avant-première du long-métrage *L'Ensorcelée* Cinéma L'Odéon 51 rue Maréchal Foch Cherbourg-en-Cotentin Manche 2026-06-08 20:00:00 2026-06-08 20:00:00",
+    "date": "2026-05-28T12:11:04+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "20a419a7bff72c18",
+    "title": "CINÉ DÉBAT La Chapelle-Hermier",
+    "link": "https://unidivers.fr/event/cine-debat-la-chapelle-hermier-vendee-2026-06-08/",
+    "summary": "CINÉ DÉBAT Domaine du Pré 2, Bellevue La Chapelle-Hermier Vendée 2026-06-08 20:15:00 2026-06-08",
+    "date": "2026-05-28T12:11:04+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "c2408b8e6f496d9d",
     "title": "Tattoo Circus à Bruxelles",
     "link": "https://expansive.info/Tattoo-Circus-a-Bruxelles-5992",
     "summary": "Bienvenuxs pour la première édition du tattoo circus de Bruxelles : trois jours de rencontres autour des luttes anti carcérales avec du tatouages et autres pimperie en tous genres. - Info d'ailleurs / Cultures - Contre-cultures , Répression - Justice - Prison , Autonomie & auto-gestion",
     "date": "2026-05-28T11:13:11+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
-    "id": "85980fc2a2c79b12",
-    "title": "Solidarité pour Kam",
-    "link": "https://expansive.info/Solidarite-pour-Kam-5997",
-    "summary": "Quelques nouvelles de l'arrestation de notre amie - Info d'ailleurs / Répression - Justice - Prison",
-    "date": "2026-05-28T11:09:39+00:00",
     "source": "Expansive",
     "category": "independants"
   },
@@ -2490,15 +2787,6 @@
     "summary": "Découvrez les sorties mangas en juin 2026 avec des lectures spéciales Marche des fiertés. Fantasy, quotidien, romance ou comédie : Unidivers propose une sélection variée en lien avec le mois de Fiertés, et satisfait par la même occasion vos envies de lecture. Fantasy – Sorcière connectéeWicked Spot de Sal Jiang Magie · Mode · Réseaux…",
     "date": "2026-05-28T07:26:02+00:00",
     "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "59eafd1a0bb04292",
-    "title": "Daniel Cueff ou l’arrivisme à hauteur d’homme",
-    "link": "https://www.nhu.bzh/daniel-cueff-arrivisme-hauteur-homme/",
-    "summary": "Dans ce texte signé Yvon Ollivier, retour sur l’épisode politique qui a profondément marqué les élections régionales bretonnes de 2021. Entre promesses abandonnées, alliances de second tour et critique du système politique centralisateur, l’auteur revient sur ce qu’il considère comme une immense désillusion démocratique pour de nombreux Bretons. En filigrane, une question : la Bretagne revivra-t-elle le même scénario en 2028 ? L’article Daniel Cueff ou l’arrivisme à hauteur d’homme est apparu en premier sur NHU | Votre Média Breton .",
-    "date": "2026-05-28T07:18:45+00:00",
-    "source": "NHU Bretagne",
     "category": "culture"
   },
   {
@@ -2637,6 +2925,15 @@
     "category": "culture"
   },
   {
+    "id": "fe41cafb891427a6",
+    "title": "Soirée 100% Plumes Cinéma l’Arlequin Nyons",
+    "link": "https://unidivers.fr/event/soiree-100-plumes-nyons-drome-2026-06-08/",
+    "summary": "Soirée 100% Plumes Cinéma l'Arlequin 28 Place de la Libération Nyons Drôme 2026-06-08 19:15:00 2026-06-08 19:15:00",
+    "date": "2026-05-26T12:40:34+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "5521400812880df4",
     "title": "Federico García Lorca en livre et en film : une figure, une œuvre queer et politique d’hier et d’aujourd’hui",
     "link": "https://unidivers.fr/federico-garcia-lorca-livre-cinema-queer/",
@@ -2655,29 +2952,11 @@
     "category": "independants"
   },
   {
-    "id": "3665b137ce3ef75f",
-    "title": "Social run du moussu moussu faim & soif Messanges",
-    "link": "https://unidivers.fr/event/social-run-du-moussu-messanges-landes-2026-06-08/",
-    "summary": "Social run du moussu moussu faim & soif 101 chemin du pey de l'ancre Messanges Landes 2026-06-08 08:30:00 2026-06-08",
-    "date": "2026-05-26T11:06:56+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "7946c99d706b0fd7",
-    "title": "Bébé gym Arès",
-    "link": "https://unidivers.fr/event/bebe-gym-ares-gironde-2026-06-08/",
-    "summary": "Bébé gym dojo Arès Gironde 2026-06-08 09:15:00 2026-06-08",
-    "date": "2026-05-26T11:06:56+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "20929c06310d115a",
-    "title": "Atelier Créer sa pharmacie naturelle les plantes de l’été et de la transition automnale Salle de convivialité de la résidence Les Vignes La Turballe",
-    "link": "https://unidivers.fr/event/atelier-creer-sa-pharmacie-naturelle-les-plantes-de-lete-et-de-la-transition-automnale-la-turballe-loire-atlantique-2026-06-08/",
-    "summary": "Atelier Créer sa pharmacie naturelle les plantes de l'été et de la transition automnale Salle de convivialité de la résidence Les Vignes Rue Edmond Michelet La Turballe Loire-Atlantique 2026-06-08 10:00:00 2026-06-08",
-    "date": "2026-05-26T11:06:56+00:00",
+    "id": "dd028ca611cda9bd",
+    "title": "Ateliers des Arts L’Orient en blanc et noir, Piano, Piano ! Ateliers des Arts Le Puy-en-Velay",
+    "link": "https://unidivers.fr/event/ateliers-des-arts-lorient-en-blanc-et-noir-piano-piano-le-puy-en-velay-haute-loire-2026-06-08/",
+    "summary": "Ateliers des Arts L'Orient en blanc et noir, Piano, Piano ! Ateliers des Arts 32 Rue 86E Régiment d'Infanterie Le Puy-en-Velay Haute-Loire 2026-06-08 19:00:00 2026-06-08 19:00:00",
+    "date": "2026-05-26T11:06:55+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -2826,15 +3105,6 @@
     "category": "culture"
   },
   {
-    "id": "678853b8c3790be9",
-    "title": "Marché traditionnel Tardets-Sorholus",
-    "link": "https://unidivers.fr/event/marche-traditionnel-tardets-sorholus-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Marché traditionnel Place centrale Tardets-Sorholus Pyrénées-Atlantiques 2026-06-08 08:00:00 2026-06-08",
-    "date": "2026-05-22T12:10:59+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "87b327643cee7e75",
     "title": "Les Rendez-vous de la Boutique L’Atelier du Piment Square d’Ixelles Biarritz",
     "link": "https://unidivers.fr/event/les-rendez-vous-de-la-boutique-latelier-du-piment-biarritz-pyrenees-atlantiques-2026-06-08/",
@@ -2871,12 +3141,30 @@
     "category": "culture"
   },
   {
-    "id": "f9b76c998981a4e9",
-    "title": "« Street of Manchester » de Philippe Brossat",
-    "link": "https://www.bretagne-actuelle.com/street-of-manchester-de-philippe-brossat/livres/?utm_source=rss&utm_medium=rss&utm_campaign=street-of-manchester-de-philippe-brossat",
-    "summary": "Ne cherchez plus votre prochain guide touristique sur Manchester ! Si le cœur de vos visites tourne autour de la rock culture, Philippe Brossat passe en revue les hauts lieux qui ont rythmé la ville depuis les années 60. L’article « Street of Manchester » de Philippe Brossat est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
-    "date": "2026-05-22T06:59:31+00:00",
-    "source": "Bretagne Actuelle",
+    "id": "5c6fb4c42162ecff",
+    "title": "Spectacle des Jeudis Corde et Tissu Archaos Pôle National du Cirque Marseille 15e Arrondissement",
+    "link": "https://unidivers.fr/event/spectacle-des-jeudis-corde-et-tissu-marseille-15e-arrondissement-bouches-du-rhone-2026-06-08/",
+    "summary": "Spectacle des Jeudis Corde et Tissu Lundi 8 juin 2026 à partir de 19h. Archaos Pôle National du Cirque 22 Bd de la Méditerranée Marseille 15e Arrondissement Bouches-du-Rhône 2026-06-08 19:00:00 2026-06-08 19:00:00",
+    "date": "2026-05-22T10:49:42+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "6fa190d55d6971e7",
+    "title": "Cinéma C’est quoi l’amour? Centre socioculturel Valigny",
+    "link": "https://unidivers.fr/event/cinema-cest-quoi-lamour-valigny-allier-2026-06-08/",
+    "summary": "Cinéma C'est quoi l'amour? Centre socioculturel 15 route d'Ainay Valigny Allier 2026-06-08 20:30:00 2026-06-08 20:30:00",
+    "date": "2026-05-22T10:49:42+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "84f200ac66e99525",
+    "title": "Opération Paris-Brest Bracquetuit",
+    "link": "https://unidivers.fr/event/operation-paris-brest-bracquetuit-seine-maritime-2026-06-08/",
+    "summary": "Opération Paris-Brest Château de Bracquetuit Bracquetuit Seine-Maritime 2026-06-08 20:30:00 2026-06-08 20:30:00",
+    "date": "2026-05-22T10:49:42+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -3186,6 +3474,15 @@
     "category": "culture"
   },
   {
+    "id": "bbce9158dc7fb426",
+    "title": "Cap sur Madagascar L’Etoile Maternité catholique de Provence Aix-en-Provence",
+    "link": "https://unidivers.fr/event/cap-sur-madagascar-aix-en-provence-bouches-du-rhone-2026-06-08/",
+    "summary": "Cap sur Madagascar Lundi 8 juin 2026 de 19h à 21h. 1 soirée. L'Etoile Maternité catholique de Provence 2530 route de Puyricard Aix-en-Provence Bouches-du-Rhône 2026-06-08 19:00:00 2026-06-08 19:00:00",
+    "date": "2026-05-18T16:06:05+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "9e8ba4d31922c635",
     "title": "Eurovision : le karaoké européen peut-il encore sauver les meubles ?",
     "link": "https://unidivers.fr/eurovision-baisse-crise/",
@@ -3213,15 +3510,6 @@
     "category": "culture"
   },
   {
-    "id": "6e08338576cd2b0f",
-    "title": "Fête de Fin d’Année Spéciale Assistantes Maternelles La Petite Ferme aux Merveilles Rives-en-Seine",
-    "link": "https://unidivers.fr/event/fete-de-fin-dannee-speciale-assistantes-maternelles-rives-en-seine-seine-maritime-2026-06-08/",
-    "summary": "Fête de Fin d'Année Spéciale Assistantes Maternelles La Petite Ferme aux Merveilles 1 Imp. de la Ravine Rives-en-Seine Seine-Maritime 2026-06-08 10:00:00 2026-06-08 10:00:00",
-    "date": "2026-05-18T14:33:31+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "4464a9e0a1ada441",
     "title": "Journée nationale d’hommage aux morts pour la France en Indochine Château-Thierry",
     "link": "https://unidivers.fr/event/journee-nationale-dhommage-aux-morts-pour-la-france-en-indochine-chateau-thierry-aisne-2026-06-08/",
@@ -3236,6 +3524,15 @@
     "link": "https://unidivers.fr/event/scenes-en-campagne-uchon-saone-et-loire-2026-06-08/",
     "summary": "Scènes en Campagne Oratoire de Belle-Croix Uchon Saône-et-Loire 2026-06-08 18:00:00 2026-06-08",
     "date": "2026-05-18T14:33:30+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "bb64efb024b723a5",
+    "title": "Projection du film Juste une illusion Saint-Amand-en-Puisaye",
+    "link": "https://unidivers.fr/event/projection-du-film-juste-une-illusion-saint-amand-en-puisaye-nievre-2026-06-08/",
+    "summary": "Projection du film Juste une illusion Place du Marché Saint-Amand-en-Puisaye Nièvre 2026-06-08 20:00:00 2026-06-08",
+    "date": "2026-05-18T13:13:07+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -3258,24 +3555,6 @@
     "category": "culture"
   },
   {
-    "id": "3cd03dbab20b9948",
-    "title": "Muséambul #2 Les Gens du Tiroirs Saint-Germain",
-    "link": "https://unidivers.fr/event/museambul-2-les-gens-du-tiroirs-saint-germain-vienne-2026-06-08/",
-    "summary": "Muséambul #2 Les Gens du Tiroirs 2 Rue des Écoles Saint-Germain Vienne 2026-06-08 09:00:00 2026-06-08",
-    "date": "2026-05-18T12:09:53+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "dc8002a0b5060be0",
-    "title": "Art et nature se rencontrent Site de la Baudissière Dolus-d’Oléron",
-    "link": "https://unidivers.fr/event/art-et-nature-se-rencontrent-dolus-doleron-charente-maritime-2026-06-08/",
-    "summary": "Art et nature se rencontrent Site de la Baudissière Cabane Ostreicole 8bis La Baudissière Dolus-d'Oléron Charente-Maritime 2026-06-08 10:00:00 2026-06-08 10:00:00",
-    "date": "2026-05-18T12:09:53+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "ce97bf7652380a4d",
     "title": "Initiation à la vannerie Ault",
     "link": "https://unidivers.fr/event/initiation-a-la-vannerie-ault-somme-2026-06-08/",
@@ -3294,12 +3573,30 @@
     "category": "culture"
   },
   {
+    "id": "3f1b4651b6fa870a",
+    "title": "Table ronde entrepreneur.euse LGBTQIA+ en ruralité Brasserie Odile t’en brasse Avallon",
+    "link": "https://unidivers.fr/event/table-ronde-entrepreneur-euse-lgbtqia-en-ruralite-avallon-yonne-2026-06-08/",
+    "summary": "Table ronde entrepreneur.euse LGBTQIA+ en ruralité Brasserie Odile t'en brasse 14 rue du Général Leclerc Avallon Yonne 2026-06-08 19:00:00 2026-06-08",
+    "date": "2026-05-18T12:09:53+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "e131deef72ebe148",
     "title": "Bagou à Saint-Brieuc, l’homme qui remplace le sel par le goût",
     "link": "https://unidivers.fr/bagou-saint-brieuc-epices-sel-gout/",
     "summary": "Au 9 rue Fardel, à Saint-Brieuc, Bagou n’est pas une épicerie fine comme les autres. C’est une petite adresse briochine où l’on entre pour acheter des épices et d’où l’on ressort avec une conversation, une histoire, parfois même une autre manière de saler son assiette. Derrière les bocaux, les poudres, les mélanges et les parfums,…",
     "date": "2026-05-18T11:16:29+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "53323cf894361910",
+    "title": "Voyage en Musique Festival – Du classique a la musique du monde Le Garage Moderne Bordeaux",
+    "link": "https://unidivers.fr/event/voyage-en-musique-festival-du-classique-a-la-musique-du-monde-le-garage-moderne-bordeaux/",
+    "summary": "Voyage en musique propose une traversée sonore qui dépasse les catégories et les étiquettes. Ce festival est né d’une conviction simple : la musique, dans toute sa diversité, constitue un langage universel capable de rassembler, d’émouvoir et de surprendre. En mêlant musique classique et musiques…",
+    "date": "2026-05-18T10:19:08+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -3474,11 +3771,11 @@
     "category": "culture"
   },
   {
-    "id": "52dee27098027044",
-    "title": "Bains de Forêt Audierne",
-    "link": "https://unidivers.fr/event/bains-de-foret-audierne-finistere-2026-06-08/",
-    "summary": "Bains de Forêt Bois de Suguensou Audierne Finistère 2026-06-08 09:00:00 2026-06-08",
-    "date": "2026-05-14T13:56:48+00:00",
+    "id": "11c9413cd3f2cf19",
+    "title": "ESTIVALES DE LA MALEPÈRE 2026 ALÈM SURRE-GARCIA Arzens",
+    "link": "https://unidivers.fr/event/estivales-de-la-malepere-2026-alem-surre-garcia-arzens-aude-2026-06-08/",
+    "summary": "ESTIVALES DE LA MALEPÈRE 2026 ALÈM SURRE-GARCIA Place de l'Europe Arzens Aude 2026-06-08 20:30:00 2026-06-08 20:30:00",
+    "date": "2026-05-14T15:31:40+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -3505,6 +3802,15 @@
     "title": "Conférence L’amour courtois l’invention de l’amour au Moyen Âge Lycée Cezanne Aix-en-Provence",
     "link": "https://unidivers.fr/event/conference-lamour-courtois-linvention-de-lamour-au-moyen-age-aix-en-provence-bouches-du-rhone-2026-06-08/",
     "summary": "Conférence L’amour courtois l’invention de l’amour au Moyen Âge Lundi 8 juin 2026 de 18h30 à 20h30. Lycée Cezanne 19 avenue Fontenaille Aix-en-Provence Bouches-du-Rhône 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-14T13:53:11+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "763cfd2f4f3c72a9",
+    "title": "Représentations théâtre jeunes et impro Théâtre d’Avranches Avranches",
+    "link": "https://unidivers.fr/event/representations-theatre-jeunes-et-impro-avranches-manche-2026-06-08/",
+    "summary": "Représentations théâtre jeunes et impro Théâtre d'Avranches Boulevard Léon Jozeau Marigné Avranches Manche Lundi Lundi 2026-06-08 19:00:00 2026-06-08 19:00:00",
     "date": "2026-05-14T13:53:11+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -3552,6 +3858,15 @@
     "summary": "Du 12 au 24 mai 2026, le musée d’Orsay confie sa Salle des fêtes à Frissons, une installation immersive d’Adrien M conçue à l’occasion de l’exposition Renoir et l’amour. Sous les ors, les stucs et les plafonds peints de ce lieu rarement traversé comme un espace d’expérience, le public est invité à marcher sur un…",
     "date": "2026-05-14T06:41:39+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "3cac3be1cde8858c",
+    "title": "Le 8 juin, la solidarité fait sa soirée Théâtre Montparnasse Paris",
+    "link": "https://unidivers.fr/event/le-8-juin-la-solidarite-fait-sa-soiree-theatre-montparnasse-paris-paris-2026-06-08t2200000200/",
+    "summary": "Le 8 juin, la solidarité fait sa soirée Théâtre Montparnasse Paris Louis Chedid sur la scène du Théâtre Montparnasse pour une soirée solidaire gratuite mêlant musique, rencontres et générosité au profit des enfants en danger.",
+    "date": "2026-05-14T06:11:56+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -4032,51 +4347,6 @@
     "category": "culture"
   },
   {
-    "id": "a364f7f77890d59c",
-    "title": "NUIT DES MUSÉES AVIGNON, LIEUX ET HORAIRES",
-    "link": "https://unidivers.fr/nuit-des-musees-avignon/",
-    "summary": "A Avignon La Nuit des musées se déroule. Chaque année, comme partout en France, la Nuit des musées rencontre un fort succès populaire auprès de tous les publics, notamment des jeunes. Découvrez le programme ! Conçue comme un événement festif, la Nuit des Musées est une invitation à découvrir les lieux de culture que sont les musées en…",
-    "date": "2026-05-12T14:10:00+00:00",
-    "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "f8d2c6c117029135",
-    "title": "Lénaïg Le Bail, une Rennaise à la tête de la police judiciaire",
-    "link": "https://unidivers.fr/lenaig-le-bail-police-judiciaire-rennes/",
-    "summary": "Depuis le 1er avril 2026, la commissaire divisionnaire Lénaïg Le Bail dirige le Service interdépartemental de police judiciaire d’Ille-et-Vilaine, à Rennes. Native de la capitale bretonne, qu’elle avait quittée à 18 ans, elle revient sur ses terres après un parcours dense à la direction centrale puis nationale de la police judiciaire, entre violences aux personnes,…",
-    "date": "2026-05-12T06:40:44+00:00",
-    "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "2d53d09135c20a57",
-    "title": "Hantavirus à Concarneau. Un cas contact transféré à Rennes, mais pas de raison de céder à la panique",
-    "link": "https://unidivers.fr/hantavirus-bretagne/",
-    "summary": "Un cas contact lié au foyer d’hantavirus Andes identifié autour du navire de croisière MV Hondius a été signalé à Concarneau, dans le Finistère, avant son transfert vers le CHU de Rennes. À ce stade, il faut distinguer les faits de l’inquiétude. La situation est sérieuse, car le virus Andes peut provoquer des formes graves…",
-    "date": "2026-05-12T06:21:39+00:00",
-    "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "7a11d91971e4e045",
-    "title": "Sophie la girafe. Le pouet-pouet du Made in France sonne désormais chinois",
-    "link": "https://unidivers.fr/sophie-la-girafe-made-in-china-vulli/",
-    "summary": "Sophie la girafe, célèbre jouet en caoutchouc naturel pour nourrissons, traîne derrière son sourire tacheté une affaire beaucoup moins attendrissante. Selon une enquête de Mediapart, l’icône des chambres d’enfant, vendue depuis des décennies comme un symbole du savoir-faire français, serait massivement fabriquée en Chine depuis plusieurs années. Vulli, son fabricant, reconnaît qu’une partie de la…",
-    "date": "2026-05-12T05:44:44+00:00",
-    "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "b875242aaed01034",
-    "title": "Paris. Michel Jocaille aux Filles du Calvaire, le muguet, mémoire ouvrière et queer",
-    "link": "https://unidivers.fr/michel-jocaille-exposition-lily-of-the-valley/",
-    "summary": "La galerie Les Filles du Calvaire, dans le 3e arrondissement de Paris, consacre une première exposition personnelle à l’artiste contemporain Michel Jocaille. Intitulée Lily of the Valley, elle est visible du 5 mai au 20 juin 2026. À partir du motif du muguet, fleur du 1er mai, l’artiste compose un monde où l’ornement devient langage,…",
-    "date": "2026-05-12T05:36:05+00:00",
-    "source": "UniDivers",
-    "category": "culture"
-  },
-  {
     "id": "f077a9c6f60dabc8",
     "title": "Les Jeunes Ambassadeur·rices du cinéma à Brest",
     "link": "https://www.filmcourt.fr/Les-Jeunes-Ambassadeur-rices-du-cinema-a-Brest.html",
@@ -4104,10 +4374,10 @@
     "category": "festivals"
   },
   {
-    "id": "b23ae3c722f83d72",
-    "title": "Exposition peintures Damien Baslé Parc Jouvet Valence",
-    "link": "https://unidivers.fr/event/exposition-peintures-damien-basle-valence-drome-2026-06-08/",
-    "summary": "Exposition peintures Damien Baslé Parc Jouvet Maison du Gardien Valence Drôme 2026-06-08 10:00:00 2026-06-08 10:00:00",
+    "id": "81e93744c5f05a91",
+    "title": "Mon jour de chance Longuenée-en-Anjou",
+    "link": "https://unidivers.fr/event/mon-jour-de-chance-longuenee-en-anjou-maine-et-loire-2026-06-08/",
+    "summary": "Mon jour de chance Château du Plessis-Macé Longuenée-en-Anjou Maine-et-Loire 2026-06-08 21:30:00 2026-06-08",
     "date": "2026-05-11T07:53:29+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4122,28 +4392,10 @@
     "category": "culture"
   },
   {
-    "id": "93e5dd8f62542531",
-    "title": "Atelier de danse Salle Vu d’ici La Chapelle-en-Vercors",
-    "link": "https://unidivers.fr/event/atelier-de-danse-la-chapelle-en-vercors-drome-2026-06-08/",
-    "summary": "Atelier de danse Salle Vu d'ici 595 route de St Agnan La Chapelle-en-Vercors Drôme 2026-06-08 09:30:00 2026-06-08 09:30:00",
-    "date": "2026-05-10T21:11:16+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "1173e21931952a18",
-    "title": "Festival Bien-être Mojo Mojo Hotel de plein air Sauvage Quiberon",
-    "link": "https://unidivers.fr/event/festival-bien-etre-mojo-mojo-quiberon-morbihan-2026-06-08/",
-    "summary": "Festival Bien-être Mojo Mojo Hotel de plein air Sauvage 8, Rue de la vierge St-Julien Plage Quiberon Morbihan 2026-06-08 09:00:00 2026-06-08",
-    "date": "2026-05-10T20:59:42+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "8f16b7eda25f4ba0",
-    "title": "Exposition de peinture, les prémices de l’été Place des Arceaux La Bastide-Clairence",
-    "link": "https://unidivers.fr/event/exposition-de-peinture-les-premices-de-lete-la-bastide-clairence-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Exposition de peinture, les prémices de l'été Place des Arceaux Maison Darrieux La Bastide-Clairence Pyrénées-Atlantiques 2026-06-08 09:30:00 2026-06-08",
+    "id": "4e8decff1748dc74",
+    "title": "Cinéma Espace Agapit Pour le meilleur Place Denfert-Rochereau Saint-Maixent-l’École",
+    "link": "https://unidivers.fr/event/cinema-espace-agapit-pour-le-meilleur-saint-maixent-lecole-deux-sevres-2026-06-08/",
+    "summary": "Cinéma Espace Agapit Pour le meilleur Place Denfert-Rochereau Espace Agapit Saint-Maixent-l'École Deux-Sèvres 2026-06-08 20:30:00 2026-06-08",
     "date": "2026-05-10T20:59:41+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4176,15 +4428,6 @@
     "category": "festivals"
   },
   {
-    "id": "286997c54cdbb6a9",
-    "title": "Exposition | Marion AMIET Peinture Salle Cadix Eymet",
-    "link": "https://unidivers.fr/event/exposition-marion-amiet-peinture-eymet-dordogne-2026-06-08/",
-    "summary": "Exposition | Marion AMIET Peinture Salle Cadix Avenue de la Bastide Eymet Dordogne 2026-06-08 10:00:00 2026-06-08",
-    "date": "2026-05-08T06:45:44+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "61651b62aee0586a",
     "title": "Audition évaluation des classes de saxophone Conservatoire de Musique Besançon Gachet Royan",
     "link": "https://unidivers.fr/event/audition-evaluation-des-classes-de-saxophone-royan-charente-maritime-2026-06-08/",
@@ -4212,10 +4455,10 @@
     "category": "culture"
   },
   {
-    "id": "aa69c6ab196bd168",
-    "title": "Exposition d’art Marseille 3013 Marseille 2e Arrondissement",
-    "link": "https://unidivers.fr/event/exposition-dart-marseille-2e-arrondissement-bouches-du-rhone-2026-06-08/",
-    "summary": "Exposition d'art Du 08/06 au 14/06/2026 tous les jours de 10h à 19h. Marseille 3013 52 rue de la République Marseille 2e Arrondissement Bouches-du-Rhône 2026-06-08 10:00:00 2026-06-08 10:00:00",
+    "id": "4baa3769b62536c8",
+    "title": "Ciné débat gardiens des oiseaux Cinéma Arlequin Nyons",
+    "link": "https://unidivers.fr/event/cine-debat-gardiens-des-oiseaux-nyons-drome-2026-06-08/",
+    "summary": "Ciné débat gardiens des oiseaux Cinéma Arlequin 28 place de la Libération Nyons Drôme 2026-06-08 19:15:00 2026-06-08 19:15:00",
     "date": "2026-05-07T11:39:18+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4226,15 +4469,6 @@
     "link": "https://unidivers.fr/event/stage-de-dessin-du-corps-humain-formes-de-bases-musee-du-louvre-paris-paris-2026-06-08t1300000200/",
     "summary": "Stage de dessin du corps humain (formes de bases) Musée du Louvre Paris Ce stage permet d'apprendre à dessiner la figure humaine avec des bases anatomiques concrètes, en utilisant les formes de bases, les proportions, les axes, les volumes. Nous apprendrons comment faire évoluer le corps dans l'espace dans la perspective. Des cours théoriques sont donnés suivis d'exercices.",
     "date": "2026-05-06T11:56:21+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "cd5bd194543f7caa",
-    "title": "Balade entre terre et mer à la découverte du site d’Omaha Beach, Parking du bout de la rue de la 2ème Division US, Saint-Laurent-sur-Mer",
-    "link": "https://unidivers.fr/event/balade-entre-terre-et-mer-a-la-decouverte-du-site-domaha-beach-parking-du-bout-de-la-rue-de-la-2eme-division-us-saint-laurent-sur-mer-calvados-2026-06-08t1000000200-2/",
-    "summary": "Lundi 8 juin, 10h00 Parking du bout de la rue de la 2ème Division US Saint-Laurent-sur-Mer, Parking du bout de la rue de la 2ème Division US SAINT-LAURENT-SUR-MER Lors de la journée mondiale des océans 2026 venez découvrir ce paysage magnifique mais fragile entre terre et mer. Lors de cette sortie nous découvrirons les richesses de la faune et de la flore d...",
-    "date": "2026-05-05T17:29:51+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4282,15 +4516,6 @@
     "date": "2026-05-05T10:32:37+00:00",
     "source": "Splann !",
     "category": "independants"
-  },
-  {
-    "id": "ac618e869ecd6f36",
-    "title": "Yoga doux Camping Les Grands Sables Clohars-Carnoët",
-    "link": "https://unidivers.fr/event/yoga-doux-clohars-carnoet-finistere-2026-06-08/",
-    "summary": "Yoga doux Camping Les Grands Sables 22 Rue du Philosophe Alain Clohars-Carnoët Finistère 2026-06-08 10:00:00 2026-06-08",
-    "date": "2026-05-05T06:18:58+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
   },
   {
     "id": "352b3e6c779a3d66",
@@ -4347,6 +4572,15 @@
     "category": "culture"
   },
   {
+    "id": "70ee8846585052b0",
+    "title": "Ciné-Lot L’affaire Bojarski Saint-Paul-Flaugnac",
+    "link": "https://unidivers.fr/event/cine-lot-laffaire-bojarski-saint-paul-flaugnac-lot-2026-05-11/",
+    "summary": "Ciné-Lot L'affaire Bojarski Saint-Paul de Loubressac Saint-Paul-Flaugnac Lot 2026-05-11 20:30:00 2026-05-11",
+    "date": "2026-05-04T20:12:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "3d3858f9dbc03b94",
     "title": "Le cuir du Kombucha Maison & Laboratoire de L. Pasteur Arbois",
     "link": "https://unidivers.fr/event/le-cuir-du-kombucha-arbois-jura-2026-06-08/",
@@ -4360,6 +4594,15 @@
     "title": "Dialogue avec soi avec Agnès Sauvaget à Niort Maison Boinot Niort",
     "link": "https://unidivers.fr/event/dialogue-avec-soi-avec-agnes-sauvaget-a-niort-niort-deux-sevres-2026-06-08/",
     "summary": "Dialogue avec soi avec Agnès Sauvaget à Niort Maison Boinot 41 Boulevard Main Niort Deux-Sèvres 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-05-04T19:39:34+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "0ce39f98206dd4b7",
+    "title": "Spectacle Le cercle Comedy-Club Best of La Comédie La Rochelle",
+    "link": "https://unidivers.fr/event/spectacle-le-cercle-comedy-club-best-of-la-rochelle-charente-maritime-2026-06-08/",
+    "summary": "Spectacle Le cercle Comedy-Club Best of La Comédie 18 rue Rambaud La Rochelle Charente-Maritime 2026-06-08 21:00:00 2026-06-08 21:00:00",
     "date": "2026-05-04T19:39:34+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4437,15 +4680,6 @@
     "category": "independants"
   },
   {
-    "id": "3a28ba8bab916d87",
-    "title": "Braderie & vide-grenier Rue Jules Guesde Roubaix",
-    "link": "https://unidivers.fr/event/braderie-vide-grenier-rue-jules-guesde-roubaix-nord-2026-06-08/",
-    "summary": "Braderie & vide-grenier Rue Jules Guesde Roubaix Roubaix Nord 2026-06-08 09:00:00 2026-06-08 09:00:00",
-    "date": "2026-04-29T10:44:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "b872813f39beaa74",
     "title": "Conférence santé Histoire, évolution, révolution de la médecine Salle Jean Gabin Royan",
     "link": "https://unidivers.fr/event/conference-sante-histoire-evolution-revolution-de-la-medecine-royan-charente-maritime-2026-06-08/",
@@ -4500,24 +4734,6 @@
     "category": "culture"
   },
   {
-    "id": "0f7aba83a3e6ee2d",
-    "title": "Exposition de peinture de Christiane Dujardin Salle d’exposition Les Moutiers-en-Retz",
-    "link": "https://unidivers.fr/event/exposition-de-peinture-de-christiane-dujardin-les-moutiers-en-retz-loire-atlantique-2026-06-08/",
-    "summary": "Exposition de peinture de Christiane Dujardin Salle d'exposition 13 place de l'Eglise Madame Les Moutiers-en-Retz Loire-Atlantique 2026-06-13 10:00:00 2026-06-13",
-    "date": "2026-04-24T09:13:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ef021d8ff6783ca5",
-    "title": "Sortie nature avec le CEN Nouvelle-Aquitaine Leyrat",
-    "link": "https://unidivers.fr/event/sortie-nature-avec-le-cen-nouvelle-aquitaine-leyrat-creuse-2026-06-08/",
-    "summary": "Sortie nature avec le CEN Nouvelle-Aquitaine Leyrat Creuse 2026-06-08 10:00:00 2026-06-08",
-    "date": "2026-04-24T08:09:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "3dc458ed8ba3712b",
     "title": "Prochaine conférence le 29 mai à Lorient",
     "link": "https://www.bcd.bzh/bcd/conference-29-mai-lorient/",
@@ -4536,11 +4752,11 @@
     "category": "culture"
   },
   {
-    "id": "2fa84bebf23a313c",
-    "title": "Exposition Encres et Photos Office de Tourisme Rives du Morvan Moulins-Engilbert",
-    "link": "https://unidivers.fr/event/exposition-encres-et-photos-moulins-engilbert-nievre-2026-06-08/",
-    "summary": "Exposition Encres et Photos Office de Tourisme Rives du Morvan 11 Place Lafayette Moulins-Engilbert Nièvre 2026-07-01 09:00:00 2026-07-01",
-    "date": "2026-04-19T20:25:37+00:00",
+    "id": "952eac68f98cd7f5",
+    "title": "Rétrospective Spielberg La Guerre des mondes en version originale sous titrée Beaupréau Beaupréau-en-Mauges",
+    "link": "https://unidivers.fr/event/retrospective-spielberg-la-guerre-des-mondes-en-version-originale-sous-titree-beaupreau-en-mauges-maine-et-loire-2026-06-08/",
+    "summary": "Rétrospective Spielberg La Guerre des mondes en version originale sous titrée Beaupréau 3 Rue Robert Schuman Beaupréau-en-Mauges Maine-et-Loire 2026-06-08 20:30:00 2026-06-08",
+    "date": "2026-04-20T07:00:00+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4550,15 +4766,6 @@
     "link": "https://unidivers.fr/event/repetition-de-la-chorale-entre-terre-et-mer-ouverte-a-tout-le-public-plouguerneau-finistere-2026-06-08/",
     "summary": "Répétition de la chorale Entre Terre et Mer ouverte à tout le public Salle des Associations Lilia Plouguerneau Finistère 2026-06-08 18:30:00 2026-06-08",
     "date": "2026-04-19T20:25:36+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "04ebf162210403c5",
-    "title": "HEC Paris Jouy-en-Josas",
-    "link": "https://unidivers.fr/event/hec-paris-jouy-en-josas-2026-06-08t090000-0000200/",
-    "summary": "Lundi 8 juin, 09h00 HEC Paris 1 Rue de la Libération 78350 Jouy-en-Josas Jouy-en-Josas Yvelines",
-    "date": "2026-04-19T14:38:48+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4581,47 +4788,11 @@
     "category": "culture"
   },
   {
-    "id": "b4e67676022d56a8",
-    "title": "Lieu d’Accueil Enfants Parents Sabres Salle RPE Sabres Sabres",
-    "link": "https://unidivers.fr/event/lieu-daccueil-enfants-parents-sabres-sabres-landes-2026-06-08/",
-    "summary": "Lieu d'Accueil Enfants Parents Sabres Salle RPE Sabres Route de Solférino Sabres Landes 2026-06-08 09:00:00 2026-06-08",
-    "date": "2026-04-16T18:43:59+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "485ab7c1565d22c9",
-    "title": "Spectacle le Wagon Lune à Beaupréau Beaupréau-en-Mauges",
-    "link": "https://unidivers.fr/event/spectacle-le-wagon-lune-a-beaupreau-beaupreau-en-mauges-maine-et-loire-2026-06-08/",
-    "summary": "Spectacle le Wagon Lune à Beaupréau Beaupréau Beaupréau-en-Mauges Maine-et-Loire 2026-06-08 09:30:00 2026-06-08",
-    "date": "2026-04-16T17:33:18+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "add2d15810937252",
-    "title": "TRANS’OCCITANIE 2026 Rendez-vous devant l’office de tourisme Sorèze",
-    "link": "https://unidivers.fr/event/transoccitanie-2026-soreze-tarn-2026-06-08/",
-    "summary": "TRANS'OCCITANIE 2026 Rendez-vous devant l'office de tourisme 144 Rte de Carcassonne, 81540 Sorèze Sorèze Tarn 2026-06-08 09:30:00 2026-06-08",
-    "date": "2026-04-16T17:33:18+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "33612a161b97996f",
-    "title": "Journée nationale d’hommage aux morts pour la France en Indochine Royan",
-    "link": "https://unidivers.fr/event/journee-nationale-dhommage-aux-morts-pour-la-france-en-indochine-royan-charente-maritime-2026-06-08/",
-    "summary": "Journée nationale d’hommage aux morts pour la France en Indochine Monument aux Morts, place Foch Royan Charente-Maritime 2026-06-08 10:00:00 2026-06-08 10:00:00",
-    "date": "2026-04-16T17:33:18+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "2ef22effa8c14c59",
-    "title": "Visite guidée Avranches au fil du temps Office Mont-Saint-Michel Normandie Tourisme, bureau d’Avranches Saint-Jean-le-Thomas",
-    "link": "https://unidivers.fr/event/visite-guidee-avranches-au-fil-du-temps-saint-jean-le-thomas-manche-2026-06-08/",
-    "summary": "Visite guidée Avranches au fil du temps Office Mont-Saint-Michel Normandie Tourisme, bureau d'Avranches 2 rue du Général de Gaulle Saint-Jean-le-Thomas Manche 2026-06-08 10:30:00 2026-06-08 10:30:00",
-    "date": "2026-04-16T17:33:18+00:00",
+    "id": "f1d440aec625ad99",
+    "title": "Concert lyrique Rue des écoles Dax",
+    "link": "https://unidivers.fr/event/concert-lyrique-dax-landes-2026-05-03-2/",
+    "summary": "Concert lyrique Rue des écoles Eglise Saint Vincent de Xaintes Dax Landes 2026-05-03 15:00:00 2026-05-03",
+    "date": "2026-04-16T18:37:46+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4639,6 +4810,15 @@
     "title": "Conférence Université Ouverte antenne de Montbéliard Auditorium du Conservatoire du Pays de Montbéliard Montbéliard",
     "link": "https://unidivers.fr/event/conference-universite-ouverte-antenne-de-montbeliard-montbeliard-doubs-2026-06-08/",
     "summary": "Conférence Université Ouverte antenne de Montbéliard Auditorium du Conservatoire du Pays de Montbéliard 48 Avenue du Président Wilson Montbéliard Doubs 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-04-16T17:33:18+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "cf4a2c203d504903",
+    "title": "Concours de belote au Casino Hôtel du Parc Salies-de-Béarn",
+    "link": "https://unidivers.fr/event/concours-de-belote-au-casino-salies-de-bearn-pyrenees-atlantiques-2026-06-08/",
+    "summary": "Concours de belote au Casino Hôtel du Parc 8 Boulevard Saint-Guily Salies-de-Béarn Pyrénées-Atlantiques 2026-06-08 20:30:00 2026-06-08",
     "date": "2026-04-16T17:33:18+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4662,11 +4842,11 @@
     "category": "culture"
   },
   {
-    "id": "c9d88c2959256e42",
-    "title": "Formation – Outils pour une gestion prévisionnelle – Les incontournables, TOURS, Tours",
-    "link": "https://unidivers.fr/event/formation-outils-pour-une-gestion-previsionnelle-les-incontournables-tours-tours-indre-et-loire-2026-06-08t0900000200/",
-    "summary": "8 et 9 juin TOURS Tours, 33 rue Blaise Pascal 37000 tours Objectifs : Permettre d'intégrer la gestion prévisionnelle dans sa mission, par la connaissance des outils et leur mise en œuvre au service des projets",
-    "date": "2026-04-14T17:53:03+00:00",
+    "id": "98e9b23f7ffc7116",
+    "title": "Proposition de rachat, ADEC / Maison du Théâtre amateur, Rennes",
+    "link": "https://unidivers.fr/event/proposition-de-rachat-adec-maison-du-theatre-amateur-rennes-ille-et-vilaine-2026-06-08t2030000200/",
+    "summary": "Lundi 8 juin, 20h30 ADEC / Maison du Théâtre amateur Rennes, 45 Rue Papu, Rennes, France Proposition de rachat, de Guillaume Cayet par l’atelier Le Théâtre l’après-midi, encadré par Bérengère Lebâcle. Comédie dramatique.",
+    "date": "2026-04-14T18:09:39+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4698,20 +4878,20 @@
     "category": "culture"
   },
   {
-    "id": "aed50d673e2ad2dd",
-    "title": "Portes ouvertes de l’asso, Le Cadran, Rennes",
-    "link": "https://unidivers.fr/event/portes-ouvertes-de-lasso-le-cadran-rennes-ille-et-vilaine-2026-06-08t0900000200/",
-    "summary": "8 - 13 juin Le Cadran Rennes, 11 avenue André Mussat L'association 3 Regards - Léo Lagrange et son conseil d'administration sont heureux de vous inviter à essayer les activités qu'elle propose du 8 au 13 juin prochains !",
-    "date": "2026-04-14T08:12:39+00:00",
+    "id": "927a05ddee17070a",
+    "title": "Concert – 8 juin, Auditorium du Conservatoire de Lille, Lille",
+    "link": "https://unidivers.fr/event/concert-8-juin-auditorium-du-conservatoire-de-lille-lille-nord-2026-06-08t1900000200/",
+    "summary": "Lundi 8 juin, 19h00 Auditorium du Conservatoire de Lille Lille, Place du concert 59000 Lille Concert de la classe de direction d’orchestre du Conservatoire de Lille",
+    "date": "2026-04-14T15:23:37+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
-    "id": "d880c5c5fbeed230",
-    "title": "Balade entre terre et mer à la découverte du site d’Omaha Beach, Parking du bout de la rue de la 2ème Division US, Saint-Laurent-sur-Mer",
-    "link": "https://unidivers.fr/event/balade-entre-terre-et-mer-a-la-decouverte-du-site-domaha-beach-parking-du-bout-de-la-rue-de-la-2eme-division-us-saint-laurent-sur-mer-calvados-2026-06-08t1000000200/",
-    "summary": "Lundi 8 juin, 10h00 Parking du bout de la rue de la 2ème Division US Saint-Laurent-sur-Mer, Parking du bout de la rue de la 2ème Division USPas de descriptionSAINT-LAURENT-SUR-MER Venez découvrir de manière ludique ce site riche et fragile. Lors de cette balade nous découvrirons la faune et la flore remarquables de ce site exceptionnel. (2-3km/2h) - Niveau 1",
-    "date": "2026-04-14T08:12:39+00:00",
+    "id": "b81122890a88482d",
+    "title": "stage découverte clown, Le Chapidock – école des arts du cirque, Nantes",
+    "link": "https://unidivers.fr/event/stage-decouverte-clown-le-chapidock-ecole-des-arts-du-cirque-nantes-loire-atlantique-2026-06-08t1930000200/",
+    "summary": "Lundi 8 juin, 19h30 Le Chapidock - école des arts du cirque Nantes, 60 Quai Président Wilson, Nantes stage découverte clown",
+    "date": "2026-04-14T15:23:37+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4779,15 +4959,6 @@
     "category": "culture"
   },
   {
-    "id": "9deca89cd78970d1",
-    "title": "Rencontre à Bubry sur le Pardon de Saint-Yves",
-    "link": "https://www.bcd.bzh/bcd/rencontre-a-bubry-sur-le-pardon-de-saint-yves/",
-    "summary": "Rencontre à Bubry sur le Pardon de Saint-Yves Nous vous invitons à une rencontre avec Julie Léonard, responsable de l’inventaire régionale des pardons en Bretagne au sein de BCD et les créateurs de créatrices du livre-CD « Jour de fête en pays pourlet ». C’est à la salle polyvalente, le jeudi 21 mai que nous vous attendons […] The post Rencontre à Bubry sur le Pardon de Saint-Yves appeared first on Bretagne Culture Diversité .",
-    "date": "2026-04-13T07:51:28+00:00",
-    "source": "Bretagne Culture Diversité",
-    "category": "culture"
-  },
-  {
     "id": "7be684afdded6fea",
     "title": "1351. Le Combat des Trente, un événement européen",
     "link": "https://www.armen.bzh/2026/04/11/combat-trente-chevalier-moyen-age-bretagne-france-allemagne-angleterre-guerre-josselin-ploermel/",
@@ -4806,15 +4977,6 @@
     "category": "culture"
   },
   {
-    "id": "036f7a023e860ead",
-    "title": "Visite guidée théâtralisée Gardanne 1906 Office de tourisme de Gardanne Gardanne",
-    "link": "https://unidivers.fr/event/visite-guidee-theatralisee-gardanne-1906-gardanne-bouches-du-rhone-2026-06-08/",
-    "summary": "Visite guidée théâtralisée Gardanne 1906 Lundi 8 juin 2026 de 10h à 11h. Du 22/06 au 29/06/2026 le lundi de 10h à 11h. Du 06/07 au 20/07/2026 le lundi de 10h à 11h. Lundi 3 août 2026 de 10h à 11h. Office de tourisme de Gardanne 1 Boulevard Bontemps Gardanne Bouches-du-Rhône 2026-06-08 10:00:00 2026-06-08 10:00:00",
-    "date": "2026-04-10T20:20:40+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "e6e8050fe0a33e92",
     "title": "Représentation classes de théâtre Rue Saint-Pierre le Vif Sens",
     "link": "https://unidivers.fr/event/representation-classes-de-theatre-sens-yonne-2026-06-08/",
@@ -4824,19 +4986,19 @@
     "category": "culture"
   },
   {
-    "id": "43b7d0733574e6e8",
-    "title": "VIDE GRENIER Le Fauga",
-    "link": "https://unidivers.fr/event/vide-grenier-le-fauga-haute-garonne-2026-06-08/",
-    "summary": "VIDE GRENIER PLAINE SPORTIVE Le Fauga Haute-Garonne 2026-06-08 08:00:00 2026-06-08",
-    "date": "2026-04-10T16:35:17+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "4821906da97de335",
     "title": "Un point c’est tout ! Orangerie du Thabor Rennes",
     "link": "https://unidivers.fr/event/un-point-cest-tout-orangerie-du-thabor-rennes-2026-06-08t110000-0000200/",
     "summary": "8 - 14 juin Un point c’est tout ! Orangerie du Thabor Orangerie du Thabor, Rennes Rennes Ille-et-Vilaine Il y a le point de départ et le point final.. ou pas !",
+    "date": "2026-04-10T15:35:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "fe842ba1b4abdf37",
+    "title": "Proposition de rachat ADEC / Maison du Théâtre amateur Rennes",
+    "link": "https://unidivers.fr/event/proposition-de-rachat-adec-maison-du-theatre-amateur-rennes-2026-06-08t203000-0000200/",
+    "summary": "Lundi 8 juin, 20h30 Proposition de rachat ADEC / Maison du Théâtre amateur 45 Rue Papu, Rennes, France Rennes Ille-et-Vilaine Proposition de rachat, de Guillaume Cayet par l’atelier Le Théâtre l’après-midi, encadré par Bérengère Lebâcle. Comédie dramatique.",
     "date": "2026-04-10T15:35:37+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4896,33 +5058,6 @@
     "category": "independants"
   },
   {
-    "id": "8cb4644c4ec0500c",
-    "title": "Parcours soft Direction Mont Bisanne La Giettaz",
-    "link": "https://unidivers.fr/event/parcours-soft-direction-mont-bisanne-la-giettaz-savoie-2026-06-08/",
-    "summary": "Parcours soft Direction Mont Bisanne La Giettaz Savoie 2026-06-08 2026-06-08",
-    "date": "2026-04-02T06:01:20+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "83f2310a8231382c",
-    "title": "Exposition Galerie Dupuis Pierrick Tual en partenariat avec Jazz Opale Festival Neufchâtel-Hardelot",
-    "link": "https://unidivers.fr/event/exposition-galerie-dupuis-pierrick-tual-en-partenariat-avec-jazz-opale-festival-neufchatel-hardelot-pas-de-calais-2026-06-08/",
-    "summary": "Exposition Galerie Dupuis Pierrick Tual en partenariat avec Jazz Opale Festival 21 place de Bournonville Neufchâtel-Hardelot Pas-de-Calais 2026-06-08 2026-06-08",
-    "date": "2026-04-02T06:01:20+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "a0d05df4f27f8caa",
-    "title": "Parcours expert Montée Bisanne 1500 La Giettaz",
-    "link": "https://unidivers.fr/event/parcours-expert-montee-bisanne-1500-la-giettaz-savoie-2026-06-08/",
-    "summary": "Parcours expert Montée Bisanne 1500 La Giettaz Savoie 2026-06-08 2026-06-08",
-    "date": "2026-04-01T18:09:57+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "c741e184f3473054",
     "title": "Exposition Dauchy, Eon et Marsolier Lieu-dit Doëlan Rive Droite Clohars-Carnoët",
     "link": "https://unidivers.fr/event/exposition-dauchy-eon-et-marsolier-clohars-carnoet-finistere-2026-06-08/",
@@ -4937,15 +5072,6 @@
     "link": "https://unidivers.fr/event/journee-nationale-du-souvenir-des-morts-et-des-combats-dindochine-sanary-sur-mer-var-2026-06-08/",
     "summary": "Journée Nationale du souvenir des morts et des combats d'Indochine Square Kennedy Rassemblement Monument de la Victoire Sanary-sur-Mer Var 2026-06-08 11:00:00 2026-06-08 11:00:00",
     "date": "2026-04-01T16:35:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "790bd8c787a741ab",
-    "title": "Découverte de l’apiculture et de l’abeille noire des Landes Route de la plage Biscarrosse",
-    "link": "https://unidivers.fr/event/decouverte-de-lapiculture-et-de-labeille-noire-des-landes-biscarrosse-landes-2026-05-18/",
-    "summary": "Découverte de l'apiculture et de l'abeille noire des Landes Route de la plage Aire de pique-nique de Cugnes Biscarrosse Landes 2026-07-20 2026-07-20",
-    "date": "2026-03-30T15:32:52+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4986,15 +5112,6 @@
     "category": "culture"
   },
   {
-    "id": "afa8a92274fd9b6b",
-    "title": "Relooking de meubles par le hameau de Carole Place des Halles Bagnoles de l’Orne Normandie",
-    "link": "https://unidivers.fr/event/relooking-de-meubles-par-le-hameau-de-carole-bagnoles-de-lorne-normandie-orne-2026-04-13/",
-    "summary": "Relooking de meubles par le hameau de Carole Place des Halles La Gare Bagnoles de l'Orne Normandie Orne Vendredi Vendredi 2026-04-13 10:00:00 2026-04-13 10:00:00",
-    "date": "2026-03-20T18:33:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "02368689607c785c",
     "title": "Atelier DO-IN/ QI GONG KISHINDO La CoWo Pontonx-sur-l’Adour",
     "link": "https://unidivers.fr/event/atelier-do-in-qi-gong-kishindo-pontonx-sur-ladour-landes-2026-04-13/",
@@ -5009,24 +5126,6 @@
     "link": "https://unidivers.fr/event/visite-guidee-terdax-dax-landes-2026-04-01/",
     "summary": "Visite guidée Terdax RDV Centre Terdax 6 allée du Bois de Boulogne Dax Landes 2026-04-01 2026-04-01",
     "date": "2026-03-18T07:26:21+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "598bbf4bc1a08f41",
-    "title": "Exposition | Du crayon au Pinceau Peinture Salle Jeanne de Toulouse Eymet",
-    "link": "https://unidivers.fr/event/exposition-du-crayon-au-pinceau-peinture-eymet-dordogne-2026-06-08/",
-    "summary": "Exposition | Du crayon au Pinceau Peinture Salle Jeanne de Toulouse Avenue de la Bastide Eymet Dordogne 2026-06-08 10:30:00 2026-06-08",
-    "date": "2026-03-18T06:49:20+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "603c38193ea6ec8c",
-    "title": "Portes ouvertes de l’asso Le Cadran Rennes",
-    "link": "https://unidivers.fr/event/portes-ouvertes-de-lasso-le-cadran-rennes-2026-06-08t090000-0000200/",
-    "summary": "8 - 13 juin Portes ouvertes de l'asso Le Cadran 11 avenue André Mussat Rennes Ille-et-Vilaine L'association 3 Regards - Léo Lagrange et son conseil d'administration sont heureux de vous inviter à essayer les activités qu'elle propose du 8 au 13 juin prochains !",
-    "date": "2026-03-16T09:55:49+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5049,15 +5148,6 @@
     "category": "culture"
   },
   {
-    "id": "20f2d747776b592c",
-    "title": "Exposition France Bernick Espace Maggy Martel Saint-Georges-de-Didonne",
-    "link": "https://unidivers.fr/event/exposition-france-bernick-saint-georges-de-didonne-charente-maritime-2026-06-08/",
-    "summary": "Exposition France Bernick Espace Maggy Martel 7 Boulevard Michelet Saint-Georges-de-Didonne Charente-Maritime 2026-06-08 2026-06-08",
-    "date": "2026-03-08T19:37:43+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "733f2181b80f9288",
     "title": "Furcy, né libre Salle cinéma (médiathèque) Salins-les-Bains",
     "link": "https://unidivers.fr/event/furcy-ne-libre-salins-les-bains-jura-2026-03-16/",
@@ -5067,20 +5157,20 @@
     "category": "culture"
   },
   {
-    "id": "a6d705099bd50139",
-    "title": "Exposition de broderies d’art contemporaines Eloise Daycard cabane 14 Le Château-d’Oléron",
-    "link": "https://unidivers.fr/event/exposition-de-broderies-dart-contemporaines-eloise-daycard-le-chateau-doleron-charente-maritime-2026-06-08/",
-    "summary": "Exposition de broderies d'art contemporaines Eloise Daycard cabane 14 Rue du fort Pâté Le Port Le Château-d'Oléron Charente-Maritime 2026-06-08 2026-06-08",
-    "date": "2026-03-05T20:05:44+00:00",
+    "id": "7817012e30c1db60",
+    "title": "Olympia Années 60-80 Place des Etats Généraux Lambesc",
+    "link": "https://unidivers.fr/event/olympia-annees-60-80-lambesc-bouches-du-rhone-2026-04-19/",
+    "summary": "Olympia Années 60-80 Dimanche 19 avril 2026 de 16h à 18h. Place des Etats Généraux Espace Sévigné Lambesc Bouches-du-Rhône 2026-04-19 16:00:00 2026-04-19 16:00:00",
+    "date": "2026-03-05T13:21:39+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
-    "id": "be3814a9023fd667",
-    "title": "Exposition de mosaïques Eva GALINEAU cabane 14 Le Château-d’Oléron",
-    "link": "https://unidivers.fr/event/exposition-de-mosaiques-eva-galineau-le-chateau-doleron-charente-maritime-2026-06-08/",
-    "summary": "Exposition de mosaïques Eva GALINEAU cabane 14 Rue du fort Pâté Le Port Le Château-d'Oléron Charente-Maritime 2026-06-08 2026-06-08",
-    "date": "2026-03-03T10:47:52+00:00",
+    "id": "62147d14f6bf5461",
+    "title": "La vie de Gallilée, de Bertolt Brecht, Théâtre du Cercle, Rennes",
+    "link": "https://unidivers.fr/event/la-vie-de-gallilee-de-bertolt-brecht-theatre-du-cercle-rennes-ille-et-vilaine-2026-06-08t2000000200/",
+    "summary": "8 - 10 juin Théâtre du Cercle Rennes, 30 rue de paris 35000 rennes Dans le cadre du Festival des Créations Amateures",
+    "date": "2026-03-04T13:48:02+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5094,20 +5184,11 @@
     "category": "culture"
   },
   {
-    "id": "4959c0e2f1448712",
-    "title": "La Gravienne Poitiers",
-    "link": "https://unidivers.fr/event/la-gravienne-poitiers-vienne-2026-06-08/",
-    "summary": "La Gravienne Poitiers Vienne 2026-06-08 2026-06-08",
-    "date": "2026-02-27T15:42:07+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d6dd0750a723bbef",
-    "title": "Visite de la chapelle et du verger conservatoire Rdv devant la chapelle Mugron",
-    "link": "https://unidivers.fr/event/visite-de-la-chapelle-et-du-verger-conservatoire-mugron-landes-2026-06-08/",
-    "summary": "Visite de la chapelle et du verger conservatoire Rdv devant la chapelle Chemin du Fidel Mugron Landes 2026-06-08 2026-06-08",
-    "date": "2026-02-25T12:13:54+00:00",
+    "id": "f939df4649fcce25",
+    "title": "La vie de Gallilée, de Bertolt Brecht Théâtre du Cercle Rennes",
+    "link": "https://unidivers.fr/event/la-vie-de-gallilee-de-bertolt-brecht-theatre-du-cercle-rennes-2026-06-08t200000-0000200/",
+    "summary": "8 - 10 juin La vie de Gallilée, de Bertolt Brecht Théâtre du Cercle 30 rue de paris 35000 rennes Rennes Ille-et-Vilaine Dans le cadre du Festival des Créations Amateures",
+    "date": "2026-03-01T21:32:22+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5148,29 +5229,11 @@
     "category": "culture"
   },
   {
-    "id": "039c57dec3ebe470",
-    "title": "Yoga avec Marine Rudra Priya Lieu-dit La Plaine Quimperlé",
-    "link": "https://unidivers.fr/event/yoga-avec-marine-rudra-priya-quimperle-finistere-2026-06-08/",
-    "summary": "Yoga avec Marine Rudra Priya Lieu-dit La Plaine Auberge de Toulfoën Quimperlé Finistère 2026-06-08 2026-06-08",
-    "date": "2026-02-19T09:35:12+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "8677f68baa903aac",
     "title": "Sophro’balade libre comme l’air Port-Bail-sur-Mer",
     "link": "https://unidivers.fr/event/sophrobalade-libre-comme-lair-port-bail-sur-mer-manche-2026-06-08/",
     "summary": "Sophro'balade libre comme l'air PORTBAIL Port-Bail-sur-Mer Manche 2026-06-08 10:00:00 2026-06-08 10:00:00",
     "date": "2026-02-16T12:22:39+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "40e18567e37d032c",
-    "title": "Visite du centre d’interprétation Mehaka sur la Basse Navarre en français. Mehaka Saint-Étienne-de-Baïgorry",
-    "link": "https://unidivers.fr/event/visite-du-centre-dinterpretation-mehaka-sur-la-basse-navarre-en-francais-saint-etienne-de-baigorry-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Visite du centre d'interprétation Mehaka sur la Basse Navarre en français. Mehaka Bourg Saint-Étienne-de-Baïgorry Pyrénées-Atlantiques 2026-06-08 2026-06-08",
-    "date": "2026-02-15T11:37:59+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5193,29 +5256,11 @@
     "category": "culture"
   },
   {
-    "id": "a319dc685a415b4a",
-    "title": "Visite du centre d’interprétation Mehaka sur la Basse Navarre et du village de Baigorri en français. Mehaka Saint-Étienne-de-Baïgorry",
-    "link": "https://unidivers.fr/event/visite-du-centre-dinterpretation-mehaka-sur-la-basse-navarre-et-du-village-de-baigorri-en-francais-saint-etienne-de-baigorry-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Visite du centre d'interprétation Mehaka sur la Basse Navarre et du village de Baigorri en français. Mehaka Bourg Saint-Étienne-de-Baïgorry Pyrénées-Atlantiques 2026-06-08 2026-06-08",
-    "date": "2026-02-15T10:31:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "80bbdc7ec953bbbd",
-    "title": "Visite du bourg de Baigorri par l’animateur de Mehaka en français. Mehaka Saint-Étienne-de-Baïgorry",
-    "link": "https://unidivers.fr/event/visite-du-bourg-de-baigorri-par-lanimateur-de-mehaka-en-francais-saint-etienne-de-baigorry-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Visite du bourg de Baigorri par l'animateur de Mehaka en français. Mehaka Bourg Saint-Étienne-de-Baïgorry Pyrénées-Atlantiques 2026-06-08 2026-06-08",
-    "date": "2026-02-15T09:38:13+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "b268f526ca6b3a82",
-    "title": "Exposition d’aquarelles Anne Larose Galerie des marins Saint-Jacut-de-la-Mer",
-    "link": "https://unidivers.fr/event/exposition-daquarelles-anne-larose-saint-jacut-de-la-mer-cotes-darmor-2026-06-08/",
-    "summary": "Exposition d'aquarelles Anne Larose Galerie des marins 4 Rue du Châtelet Saint-Jacut-de-la-Mer Côtes-d'Armor 2026-06-08 2026-06-08",
-    "date": "2026-02-12T16:21:42+00:00",
+    "id": "e2931bd5b52e7b9a",
+    "title": "Girls & Boys – avec Laurine Lejeune, Théâtre 100 Noms, Nantes",
+    "link": "https://unidivers.fr/event/girls-boys-avec-laurine-lejeune-theatre-100-noms-nantes-loire-atlantique-2026-06-08t2015000200/",
+    "summary": "Lundi 8 juin, 20h15 Théâtre 100 Noms Nantes, 21 Quai des Antilles - Hangar à Bananes, Nantes Théâtre",
+    "date": "2026-02-13T15:12:00+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5229,11 +5274,20 @@
     "category": "culture"
   },
   {
-    "id": "37795790cc56ede3",
-    "title": "identifier et connaître la flore Lureuil",
-    "link": "https://unidivers.fr/event/identifier-et-connaitre-la-flore-lureuil-indre-2026-06-08/",
-    "summary": "identifier et connaître la flore Lureuil Indre Lundi 2026-06-08 2026-06-08 09:00:00",
-    "date": "2026-02-12T15:42:41+00:00",
+    "id": "2c7657223c34a0a0",
+    "title": "Jordana SUPERSONIC Paris",
+    "link": "https://unidivers.fr/event/jordana-supersonic-paris-paris-2026-06-08t2200000200/",
+    "summary": "Jordana SUPERSONIC Paris Cette soirée plaira aux fans de… Her's, Clairo & TV Girl",
+    "date": "2026-02-12T03:57:38+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "469b4f669c3c263d",
+    "title": "Cycle Comédie U.S. To be or not to be The big Lebowski présenté par Emmanuel Burdeau, critique cinéma Cinéma Casino Clamecy",
+    "link": "https://unidivers.fr/event/cine-concert-laurel-hardy-premiers-coups-de-genie-clamecy-nievre-2026-02-18/",
+    "summary": "Ciné-Concert Laurel & Hardy, premiers coups de génie Cinéma Casino 41 Route de Pressures Clamecy Nièvre 2026-02-18 10:30:00 2026-02-18",
+    "date": "2026-02-09T17:19:23+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5243,6 +5297,15 @@
     "link": "https://unidivers.fr/event/atelier-numerique-les-bons-plans-sur-internet-leboncoin-vinted-et-too-good-to-go-autun-saone-et-loire-2026-06-08/",
     "summary": "Atelier numérique Les bons plans sur Internet Leboncoin, Vinted et Too Good To Go Rue des Maquis Autunois Morvan Centre de Ressources Numériques Autun Saône-et-Loire 2026-06-08 14:00:00 2026-06-08",
     "date": "2026-02-09T17:19:11+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "57bea1a09b9da8cb",
+    "title": "Soirée Jeux de société Salle Run David, face à Ostrea Plouézec",
+    "link": "https://unidivers.fr/event/soiree-jeux-de-societe-plouezec-cotes-darmor-2026-06-08/",
+    "summary": "Soirée Jeux de société Salle Run David, face à Ostrea Route de la gare Plouézec Côtes-d'Armor 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-02-09T12:22:07+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5265,11 +5328,11 @@
     "category": "independants"
   },
   {
-    "id": "0ac7700ce6e7748f",
-    "title": "Exposition de Sylvie LE DROGOFF Salle des Régates Pléneuf-Val-André",
-    "link": "https://unidivers.fr/event/exposition-de-sylvie-le-drogoff-pleneuf-val-andre-cotes-darmor-2026-06-08/",
-    "summary": "Exposition de Sylvie LE DROGOFF Salle des Régates Promenade de la digue Pléneuf-Val-André Côtes-d'Armor 2026-06-08 10:00:00 2026-06-08",
-    "date": "2026-02-06T10:12:53+00:00",
+    "id": "3fc70d140bbce361",
+    "title": "Ciné-Lot à Esclauzels: Les enfants vont bien Esclauzels",
+    "link": "https://unidivers.fr/event/cine-lot-a-esclauzels-les-enfants-vont-bien-esclauzels-lot-2026-02-07/",
+    "summary": "Ciné-Lot à Esclauzels: Les enfants vont bien Le Bourg Esclauzels Lot 2026-02-07 20:30:00 2026-02-07",
+    "date": "2026-02-06T10:46:40+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5337,15 +5400,6 @@
     "category": "festivals"
   },
   {
-    "id": "2bef58fd92599afe",
-    "title": "Café Débats Comment adapter votre usage numérique ? ATELIERS NUMERIQUES Mairie Ossages",
-    "link": "https://unidivers.fr/event/cafe-debats-comment-adapter-votre-usage-numerique-ateliers-numeriques-ossages-landes-2026-06-08/",
-    "summary": "Café Débats Comment adapter votre usage numérique ? ATELIERS NUMERIQUES Mairie 75 Route de Habas Ossages Landes 2026-06-08 2026-06-08",
-    "date": "2026-01-24T15:47:16+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "9284844ec1c88595",
     "title": "VISITE GUIDEE PORT-VENDRES AU FIL DE L’EAU Port-Vendres",
     "link": "https://unidivers.fr/event/visite-guidee-port-vendres-au-fil-de-leau-port-vendres-pyrenees-orientales-2026-06-08/",
@@ -5373,11 +5427,11 @@
     "category": "culture"
   },
   {
-    "id": "df5d8e0b385e1e33",
-    "title": "Exposition de peinture Isabelle Guibert Pôle no 2 Quai Raoul Coulon Rive gauche du port Saint-Trojan-les-Bains",
-    "link": "https://unidivers.fr/event/exposition-de-peinture-isabelle-guibert-saint-trojan-les-bains-charente-maritime-2026-06-08/",
-    "summary": "Exposition de peinture Isabelle Guibert Pôle no 2 Quai Raoul Coulon Rive gauche du port La Cabane Le Galis Saint-Trojan-les-Bains Charente-Maritime 2026-06-08 2026-06-08",
-    "date": "2026-01-15T09:54:11+00:00",
+    "id": "a0df4bb7495bfe34",
+    "title": "Cinéma Alverton 2025-2026 Salles des Fêtes d’Arvert Arvert",
+    "link": "https://unidivers.fr/event/cinema-alverton-2025-2026-arvert-charente-maritime-2026-04-15/",
+    "summary": "Cinéma Alverton 2025-2026 Salles des Fêtes d'Arvert Place Jacques Lacombe Arvert Charente-Maritime 2026-06-08 20:30:00 2026-06-08",
+    "date": "2026-01-15T11:00:16+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5391,22 +5445,13 @@
     "category": "culture"
   },
   {
-    "id": "d961c277b77f3656",
-    "title": "Exposition de peinture Serge Delfau Les Cimaises Saint-Trojan-les-Bains",
-    "link": "https://unidivers.fr/event/exposition-de-peinture-serge-delfau-saint-trojan-les-bains-charente-maritime-2026-06-08/",
-    "summary": "Exposition de peinture Serge Delfau Les Cimaises 86 rue de la République Saint-Trojan-les-Bains Charente-Maritime 2026-06-08 2026-06-08",
-    "date": "2026-01-09T13:45:42+00:00",
+    "id": "74e8f8123c3f32ff",
+    "title": "Conférence Semaine de la Guitare Troyes",
+    "link": "https://unidivers.fr/event/conference-semaine-de-la-guitare-troyes-aube-2026-06-08/",
+    "summary": "Conférence Semaine de la Guitare Conservatoire à Rayonnement Départemental Marcel-Landowski Troyes Aube 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-01-03T11:07:34+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "754af0f3d5f2fe3c",
-    "title": "Typhaine Corre et Tangi Le Gall-Carré – Gouloù mil steredenn",
-    "link": "https://lepeuplebreton.bzh/2026/01/09/typhaine-corre-tangi-le-gall-carre-goulou-mil-steredenn/",
-    "summary": "Sept albums avec le groupe Startijenn dont Tangi Le Gall-Carré a participé à la création en 1997, alors qu’il avait à peine 14 ans. Puis deux albums avec le guitariste Erwan Moal en 2013 et 2018. Plus récemment une participation à la création War Hent Youenn Gwernig. Et enfin en 2021, un premier album instrumental … Cet article Typhaine Corre et Tangi Le Gall-Carré – Gouloù mil steredenn est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-01-09T08:30:55+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "7175d966e1a8b80e",
@@ -5414,15 +5459,6 @@
     "link": "https://unidivers.fr/event/don-du-sang-berstett-bas-rhin-2026-06-08/",
     "summary": "Don du sang Berstett Bas-Rhin Lundi 2026-06-08 16:30:00 2026-06-08",
     "date": "2026-01-03T10:24:10+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "19b510dbc8a0abe5",
-    "title": "Randonnée pédestre douce, Lanuéjouls",
-    "link": "https://unidivers.fr/event/randonnee-pedestre-douce-lanuejouls-aveyron-2026-06-08/",
-    "summary": "Randonnée pédestre douce Lanuéjouls Aveyron 2026-06-08 2026-06-08",
-    "date": "2025-12-26T12:45:25+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5454,56 +5490,20 @@
     "category": "culture"
   },
   {
-    "id": "328e836b28d258d0",
-    "title": "Visite commentée Sous le soleil qui chante… Arcangues",
-    "link": "https://unidivers.fr/event/visite-commentee-sous-le-soleil-qui-chante-arcangues-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Visite commentée Sous le soleil qui chante... Le Bourg Arcangues Pyrénées-Atlantiques 2026-06-08 2026-06-08",
-    "date": "2025-12-10T12:17:01+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "85cea0b487833bef",
-    "title": "Pass tes exams tranquille Médiathèque du Bois Fleuri Lormont",
-    "link": "https://unidivers.fr/event/pass-tes-exams-tranquille-mediatheque-du-bois-fleuri-lormont-gironde-2026-06-08t100000/",
-    "summary": "8 - 12 juin 2026 Médiathèque du Bois Fleuri Lormont, pole culturel du bois fleuri 33310 lormont Semaine ouverte de révision - élèves de troisième à la terminale et étudiants",
-    "date": "2025-11-01T13:01:44+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "975854378ae2da44",
-    "title": "Eveil musical Châtelus-Malvaleix",
-    "link": "https://unidivers.fr/event/eveil-musical-chatelus-malvaleix-creuse-2026-03-02/",
-    "summary": "Eveil musical Salle des fêtes Châtelus-Malvaleix Creuse débute le Début : 2026-03-02 2026-03-02",
-    "date": "2025-10-19T12:58:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "2b87b5c1f12b7055",
-    "title": "Stage Surfcasting Erquy",
-    "link": "https://unidivers.fr/event/stage-surfcasting-erquy-cotes-darmor-2026-01-02/",
-    "summary": "Stage Surfcasting Erquy Côtes-d'Armor débute le Début : 2026-01-02 2026-01-02",
-    "date": "2025-10-15T17:35:49+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "4acec788c38db82f",
-    "title": "Marché Saint-Jean-Pied-de-Port",
-    "link": "https://unidivers.fr/event/marche-saint-jean-pied-de-port-pyrenees-atlantiques-2026-06-08/",
-    "summary": "Marché Marché couvert Saint-Jean-Pied-de-Port Pyrénées-Atlantiques débute le Début : 2026-06-08 2026-06-08",
-    "date": "2025-10-06T12:45:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "5eedc1bc3aa481bd",
     "title": "Pelote basque à main nue Saint-Jean-Pied-de-Port",
     "link": "https://unidivers.fr/event/pelote-basque-a-main-nue-saint-jean-pied-de-port-pyrenees-atlantiques-2026-06-08/",
     "summary": "Pelote basque à main nue Trinquet couvert Garat Saint-Jean-Pied-de-Port Pyrénées-Atlantiques débute le Début : 2026-06-08 2026-06-08",
     "date": "2025-10-06T12:45:47+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "01f1abe054d52cfb",
+    "title": "DÉFI ZÉRO DÉCHET BILAN NATURELLEMENT FESTIF Marvejols",
+    "link": "https://unidivers.fr/event/defi-zero-dechet-bilan-naturellement-festif-marvejols-lozere-2026-06-08/",
+    "summary": "DÉFI ZÉRO DÉCHET BILAN NATURELLEMENT FESTIF Salle de la Goutelle Marvejols Lozère débute le Début : 2026-06-08 18:00:00 2026-06-08",
+    "date": "2025-09-23T10:55:06+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5517,20 +5517,29 @@
     "category": "culture"
   },
   {
+    "id": "ab61a025b46fa2e6",
+    "title": "CULTISSIME Heat Laval",
+    "link": "https://unidivers.fr/event/cultissime-heat-laval-mayenne-2026-06-08/",
+    "summary": "CULTISSIME Heat 25 Quai André Pinçon Laval Mayenne débute le Début : 2026-06-08 19:45:00 2026-06-08",
+    "date": "2025-08-16T22:38:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "6d7d0a8b323fa58e",
+    "title": "ATELIER THÉÂTRE ADULTE Espace Boby Lapointe Saint-Brevin-les-Pins",
+    "link": "https://unidivers.fr/event/atelier-theatre-adulte-saint-brevin-les-pins-loire-atlantique-2025-09-08/",
+    "summary": "ATELIER THÉÂTRE ADULTE Espace Boby Lapointe 108 avenue du Maréchal Joffre Saint-Brevin-les-Pins Loire-Atlantique 2025-12-15 20:15:00 2025-12-15",
+    "date": "2025-07-22T10:37:38+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "6357dec3d73c6707",
     "title": "Broyage de végétaux à la déchèterie de Doussay (sur inscription) Le Haut Massilly Doussay",
     "link": "https://unidivers.fr/event/broyage-de-vegetaux-a-la-decheterie-de-doussay-sur-inscription-doussay-vienne-2025-09-22/",
     "summary": "Broyage de végétaux à la déchèterie de Doussay (sur inscription) Le Haut Massilly Déchèterie du Lencloîtrais, Doussay Doussay Vienne 2026-03-06 2026-03-06",
     "date": "2025-06-28T19:44:17+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "66f9ee60f62c8bab",
-    "title": "Marché traditionnel Cany-Barville",
-    "link": "https://unidivers.fr/event/marche-traditionnel-cany-barville-seine-maritime-2025-09-15/",
-    "summary": "Marché traditionnel Place Robert Gabel Champ de foire Cany-Barville Seine-Maritime 2026-01-26 09:00:00 2026-01-26 09:00:00",
-    "date": "2025-06-09T18:19:45+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   }
