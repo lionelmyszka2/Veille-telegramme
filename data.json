@@ -158,7 +158,7 @@
     "link": "https://www.letelegramme.fr/sports/handball/brest-bretagne-handball/on-a-laisse-beaucoup-de-plumes-contre-gyor-pourquoi-les-joueuses-du-brest-bretagne-handball-nont-pas-reussi-a-remporter-la-petite-finale-de-la-ligue-des-champions-7059552.php",
     "summary": "La petite finale de la Ligue des champions a sans doute été le match de trop pour les joueuses du Brest Bretagne Handball, battues par les Roumaines du CSM Bucarest. La cruelle défaite de la veille, contre Györ, n’était pas encore digérée.",
     "date": "2026-06-07T17:31:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -189,21 +189,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "cc645b5ec93f74f9",
-    "title": "Affaire Lyhanna : le ministre français de la justice ordonne une revue de 70 000 plaintes impliquant des enfants d’ici au 14 juillet",
-    "link": "https://www.letelegramme.fr/france/affaire-lyhanna-le-ministre-francais-de-la-justice-ordonne-une-revue-de-70-000-plaintes-impliquant-des-enfants-dici-au-14-juillet-7059536.php",
-    "summary": "Dans le sillage de l’affaire Lyhanna, Gérald Darmanin ordonne une revue de 70 000 plaintes concernant des enfants d’ici au 14 juillet.",
-    "date": "2026-06-07T17:05:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "42a603b6807efc32",
     "title": "L’association Ty Bonheur est sur tous les fronts en ce mois de juin à Plougonvelin",
     "link": "https://www.letelegramme.fr/finistere/plougonvelin-29217/lassociation-ty-bonheur-est-sur-tous-les-fronts-en-ce-mois-de-juin-a-plougonvelin-7058939.php",
     "summary": "Le mois de juin sera chargé pour l’association Ty Bonheur, à Plougonvelin, qui organise une course solidaire et aide à l’organisation du Ouestival.",
     "date": "2026-06-07T17:05:00+00:00",
     "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "cc645b5ec93f74f9",
+    "title": "Affaire Lyhanna : le ministre français de la justice ordonne une revue de 70 000 plaintes impliquant des enfants d’ici au 14 juillet",
+    "link": "https://www.letelegramme.fr/france/affaire-lyhanna-le-ministre-francais-de-la-justice-ordonne-une-revue-de-70-000-plaintes-impliquant-des-enfants-dici-au-14-juillet-7059536.php",
+    "summary": "Dans le sillage de l’affaire Lyhanna, Gérald Darmanin ordonne une revue de 70 000 plaintes concernant des enfants d’ici au 14 juillet.",
+    "date": "2026-06-07T17:05:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -279,19 +279,19 @@
     "category": "radio-tv"
   },
   {
-    "id": "46a786c00ee9e3bd",
-    "title": "Bob Hewlett, 106 ans, doyen de la Bretagne, retrace sa vie de militantisme pacifique",
-    "link": "https://www.letelegramme.fr/morbihan/vannes-56000/bob-hewlett-106-ans-doyen-de-la-bretagne-retrace-sa-vie-de-militantisme-pacifique-video-7058326.php",
-    "summary": "À 106 ans, il est le doyen de Bretagne. Intellectuel polyglotte, Robert Hewlett est arrivé sur le tard à Vannes, pour y poursuivre sa retraite. Pacifiste et objecteur de conscience, il a passé sa vie à contourner la haine. De quoi, peut-être, expliquer sa longévité tranquille.",
-    "date": "2026-06-07T16:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "86c6bac8f8fbf474",
     "title": "Comment l'électricité produite par le parc éolien de la baie de Morlaix sera-t-elle acheminée vers la terre ?",
     "link": "https://www.letelegramme.fr/finistere/morlaix-29600/comment-sera-acheminee-lelectricite-du-parc-eolien-de-la-baie-de-morlaix-on-repond-aux-questions-cles-liees-a-ce-raccordement-7059357.php",
     "summary": "Le projet éolien en mer Bretagne Nord Ouest soulève des questions cruciales sur son raccordement électrique. Courant continu ou alternatif ? Quel coût pour acheminer l’énergie ? Les enjeux sont de taille pour RTE.",
+    "date": "2026-06-07T16:00:00+00:00",
+    "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "46a786c00ee9e3bd",
+    "title": "Bob Hewlett, 106 ans, doyen de la Bretagne, retrace sa vie de militantisme pacifique",
+    "link": "https://www.letelegramme.fr/morbihan/vannes-56000/bob-hewlett-106-ans-doyen-de-la-bretagne-retrace-sa-vie-de-militantisme-pacifique-video-7058326.php",
+    "summary": "À 106 ans, il est le doyen de Bretagne. Intellectuel polyglotte, Robert Hewlett est arrivé sur le tard à Vannes, pour y poursuivre sa retraite. Pacifiste et objecteur de conscience, il a passé sa vie à contourner la haine. De quoi, peut-être, expliquer sa longévité tranquille.",
     "date": "2026-06-07T16:00:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
@@ -518,8 +518,17 @@
     "link": "https://www.letelegramme.fr/bretagne/tragique-bain-de-minuit-a-plozevet-un-jeune-de-18-ans-retrouve-noye-7059018.php",
     "summary": "Une soirée entre jeunes sur une plage de Plozévet (29) a tourné au drame dans la nuit de samedi à dimanche. Le corps d’un jeune de 18 ans de la commune a été retrouvé ce dimanche matin.",
     "date": "2026-06-07T08:23:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
+  },
+  {
+    "id": "10c19f0765302b58",
+    "title": "Autonomie Bretagne, Carhaix/ Karaez, le 20 Juin",
+    "link": "https://www.nhu.bzh/autonomie-bretagne-carhaix/",
+    "summary": "Le 20 juin à Carhaix, plusieurs sensibilités politiques bretonnes débattront de l'autonomie de la Bretagne. Alors que les modèles gallois et écossais inspirent de plus en plus de citoyens, cette rencontre permettra d'échanger sur les enjeux démocratiques, économiques et institutionnels d'une Bretagne davantage maîtresse de son avenir L’article Autonomie Bretagne, Carhaix/ Karaez, le 20 Juin est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-07T07:55:57+00:00",
+    "source": "NHU Bretagne",
+    "category": "culture"
   },
   {
     "id": "414c546e690a76c2",
@@ -572,7 +581,7 @@
     "link": "https://www.letelegramme.fr/culture-loisirs/deux-ans-de-discussions-avec-lexpo-andy-warhol-comment-le-fonds-leclerc-parvient-de-nouveau-a-creer-levenement-7057979.php",
     "summary": "Warhol à Landerneau (29), Claudel à Pont-Aven (29), Dubuffet à Dinard (35)… En Bretagne, la palette des expositions estivales s’enrichit, chaque année, d’artistes de plus en plus célèbres. Zoom sur l’événement landernéen.",
     "date": "2026-06-07T04:01:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -599,7 +608,7 @@
     "link": "https://www.letelegramme.fr/culture-loisirs/les-douze-expositions-a-ne-pas-manquer-cet-ete-en-bretagne-7058246.php",
     "summary": "De la peinture, de la photographie, de la BD, des grands noms de l’art ou d’autres plus confidentiels : l’été est propice à la découverte des nombreuses expositions organisées en Bretagne. Voici celles qu’il ne faut particulièrement pas rater.",
     "date": "2026-06-07T03:57:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -700,6 +709,15 @@
     "date": "2026-06-06T09:59:00+00:00",
     "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
+  },
+  {
+    "id": "9a824d570a99473e",
+    "title": "Premières Rencontres ISTOR à Guingamp",
+    "link": "https://www.nhu.bzh/rencontres-istor-histoire-de-bretagne-guingamp/",
+    "summary": "Le 13 juin 2026, Guingamp accueille les premières Rencontres ISTOR. Cette journée de conférences et de débats réunira enseignants, chercheurs et auteurs autour de l’Histoire de Bretagne, de son enseignement et des enjeux liés à la transmission des connaissances historiques. L’article Premières Rencontres ISTOR à Guingamp est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-06T08:08:46+00:00",
+    "source": "NHU Bretagne",
+    "category": "culture"
   },
   {
     "id": "e59cd5b95a92651d",
@@ -915,6 +933,15 @@
     "summary": "Du 6 juin 2026 au 24 janvier 2027, le Fonds Hélène & Édouard Leclerc pour la Culture accueille à Landerneau une exposition exceptionnelle consacrée à Andy Warhol, figure centrale du Pop Art et grand metteur en scène de l’Amérique moderne. En partenariat avec The Andy Warhol Museum de Pittsburgh, cette rétrospective réunit près de 200…",
     "date": "2026-06-05T08:07:00+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "3e2010e9504c8353",
+    "title": "Bretagne et Espagne : une histoire commune largement oubliée",
+    "link": "https://www.nhu.bzh/bretagne-et-espagne-une-histoire-commune-largement-oubliee/",
+    "summary": "Une rue des Bretons en Andalousie, des marchands installés à Sanlúcar et plusieurs siècles d'échanges commerciaux : l'histoire entre la Bretagne et l'Espagne révèle un passé maritime largement oublié. L’article Bretagne et Espagne : une histoire commune largement oubliée est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-05T07:17:55+00:00",
+    "source": "NHU Bretagne",
     "category": "culture"
   },
   {
@@ -1332,6 +1359,15 @@
     "category": "culture"
   },
   {
+    "id": "a9a848dc62eb69de",
+    "title": "La Blanche Hermine, de Gilles Servat",
+    "link": "https://www.nhu.bzh/la-blanche-hermine-gilles-servat/",
+    "summary": "Écrite par Gilles Servat en 1971, La Blanche Hermine est devenue l’une des chansons les plus connues de Bretagne. Entre mémoire populaire, culture bretonne et chant de résistance, elle continue de rassembler bien au-delà des générations L’article La Blanche Hermine, de Gilles Servat est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-04T07:29:54+00:00",
+    "source": "NHU Bretagne",
+    "category": "culture"
+  },
+  {
     "id": "94dc874c55006202",
     "title": "Le cortège descolonial de la pride revient en 2026 ! (et on a besoin de bénévoles)",
     "link": "https://expansive.info/Le-cortege-descolonial-de-la-pride-revient-en-2026-et-on-a-besoin-de-benevoles-6042",
@@ -1404,21 +1440,21 @@
     "category": "culture"
   },
   {
-    "id": "18f8012a9fab17d1",
-    "title": "Expo photo : (re)découvrons nos mares Square Maurice Gardette Paris",
-    "link": "https://unidivers.fr/event/expo-photo-redecouvrons-nos-mares-square-maurice-gardette-paris-paris-2026-06-08t0200000200/",
-    "summary": "Expo photo : (re)découvrons nos mares Square Maurice Gardette Paris Du 8 juin au 8 juillet, le Conseil de Quartier Léon Blum - Folie-Régnault et la Mairie du 11e organisent une exposition photographique intitulée « (re)découvrons nos mares » sur les grilles du square Gardette.",
-    "date": "2026-06-03T10:32:14+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "f6808a2e1f54143c",
     "title": "Le Mois du sable 2026 à Rennes : sandball, beach-volley, ultimate et beach soccer au Beach Park Charles-Géniaux",
     "link": "https://unidivers.fr/mois-du-sable-2026-rennes/",
     "summary": "Du 4 juin au 5 juillet 2026, Rennes lance l’été sportif avec une nouvelle édition du Mois du sable. Au Beach Park du complexe sportif Charles-Géniaux, la Ville de Rennes, en lien avec plusieurs associations sportives locales, réunit pendant un mois tournois, initiations, animations scolaires, soirées entreprises et compétitions de haut niveau. Sandball, beach-volley, beach…",
     "date": "2026-06-03T09:22:51+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "8a7d181c0aaeae5b",
+    "title": "Les 11 batailles qui ont fait la Bretagne",
+    "link": "https://www.nhu.bzh/les-11-batailles-qui-ont-fait-la-bretagne/",
+    "summary": "Des Vénètes face à Jules César aux résistants de Saint-Marcel en 1944, certaines batailles ont profondément marqué le destin de la Bretagne. Victoires fondatrices, défaites décisives, affrontements européens ou épisodes de résistance, ces onze combats racontent plus de deux mille ans d'Histoire bretonne. Un voyage à travers les événements militaires qui ont contribué à façonner la Bretagne telle que nous la connaissons aujourd'hui. L’article Les 11 batailles qui ont fait la Bretagne est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-03T07:23:36+00:00",
+    "source": "NHU Bretagne",
     "category": "culture"
   },
   {
@@ -1563,6 +1599,15 @@
     "summary": "L’article White Denim « 13 » est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
     "date": "2026-06-02T07:18:40+00:00",
     "source": "Bretagne Actuelle",
+    "category": "culture"
+  },
+  {
+    "id": "db9d6d2943644663",
+    "title": "Edgar Morin à Plozévet : quand les Bigoudens furent étudiés comme une tribu lointaine",
+    "link": "https://www.nhu.bzh/edgar-morin-plozevet-bigouden/",
+    "summary": "Dans les années 1960, Plozévet devint le terrain d'une vaste enquête menée par le CNRS. Parmi les chercheurs présents figurait Edgar Morin. Plus de soixante ans après, cette expérience continue de soulever une question essentielle : peut-on réellement comprendre une société lorsque l'on n'en partage ni la langue, ni l'histoire, ni les références culturelles ? Retour sur une controverse qui dépasse largement le seul Pays Bigouden. L’article Edgar Morin à Plozévet : quand les Bigoudens furent étudiés comme une tribu lointaine est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-06-02T06:55:34+00:00",
+    "source": "NHU Bretagne",
     "category": "culture"
   },
   {
@@ -1818,19 +1863,19 @@
     "category": "culture"
   },
   {
-    "id": "211fdc6a6f2b2add",
-    "title": ", Fundação Helena Antipoff, Ibirité",
-    "link": "https://unidivers.fr/event/fundacao-helena-antipoff-ibirite-2026-06-08t0500000200/",
-    "summary": "8 - 12 juin Fundação Helena Antipoff Ibirité, Av. São Paulo, 3.996, Vila Rosário, Ibirité/MG",
+    "id": "716948d27968d87d",
+    "title": "Don du sang, Centre Socio-Culturel, Rousson",
+    "link": "https://unidivers.fr/event/don-du-sang-centre-socio-culturel-rousson-gard-2026-06-08t1430000200/",
+    "summary": "Lundi 8 juin, 14h30 Centre Socio-Culturel Rousson, Les prés de Trouillas, 30340 Rousson Ensemble, sauvons des vies...",
     "date": "2026-06-01T07:48:59+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
-    "id": "716948d27968d87d",
-    "title": "Don du sang, Centre Socio-Culturel, Rousson",
-    "link": "https://unidivers.fr/event/don-du-sang-centre-socio-culturel-rousson-gard-2026-06-08t1430000200/",
-    "summary": "Lundi 8 juin, 14h30 Centre Socio-Culturel Rousson, Les prés de Trouillas, 30340 Rousson Ensemble, sauvons des vies...",
+    "id": "eb91de562525787d",
+    "title": "IAFTERWORK #10 : CHATGPT VS. CLAUDE – Prompts et règles d’usage, Pôle Alpha, Biot",
+    "link": "https://unidivers.fr/event/iafterwork-10-chatgpt-vs-claude-prompts-et-regles-dusage-pole-alpha-biot-alpes-maritimes-2026-06-08t1800000200/",
+    "summary": "Lundi 8 juin, 18h00 Pôle Alpha Biot, Route des Chappes 06410 Biot Comment savoir si la réponse produite par ChatGPT ou Claude est réellement solide ou simplement le reflet flatteur de ce qu’on lui a demandé ?",
     "date": "2026-06-01T07:48:59+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -1949,15 +1994,6 @@
     "link": "https://unidivers.fr/event/fundacao-casa-de-rui-barbosa-rio-de-janeiro-2026-06-08t1400000200/",
     "summary": "8 et 9 juin Fundação Casa de Rui Barbosa Rio de Janeiro, rio de janeiro",
     "date": "2026-05-31T22:19:17+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ab5bca0999732de6",
-    "title": ", ECCC Resource Centre, Daun Penh",
-    "link": "https://unidivers.fr/event/eccc-resource-centre-daun-penh-2026-06-08t0300000200/",
-    "summary": "8 - 12 juin ECCC Resource Centre Daun Penh, 11.570446472516204,104.91143306682481",
-    "date": "2026-05-31T22:15:36+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -2169,6 +2205,15 @@
     "category": "culture"
   },
   {
+    "id": "c73d10a2bb43a085",
+    "title": "défilé de mode en musique, Conservatoire Régional de Bordeaux, Bordeaux",
+    "link": "https://unidivers.fr/event/defile-de-mode-en-musique-conservatoire-regional-de-bordeaux-bordeaux-gironde-2026-06-08t1800000200/",
+    "summary": "Lundi 8 juin, 18h00 Conservatoire Régional de Bordeaux Bordeaux, 22 quai Sainte-Croix Une rencontre entre la musique classique interprété en piano et en flute avec des créations fait main présentés",
+    "date": "2026-05-31T22:15:33+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "6f50950771ad7c8f",
     "title": "Expansive : nouvelle équipe en vue ! - texte de présentation",
     "link": "https://expansive.info/Presentation",
@@ -2176,6 +2221,15 @@
     "date": "2026-05-31T14:35:00+00:00",
     "source": "Expansive",
     "category": "independants"
+  },
+  {
+    "id": "41e39534df877e08",
+    "title": "France en crise : faut-il préparer l’après ?",
+    "link": "https://www.nhu.bzh/france-en-crise-faut-il-preparer-lapres/",
+    "summary": "La nomination de quatre économistes pour examiner les finances publiques françaises soulève une question plus large. Dette record, hôpital sous tension, école en difficulté, justice saturée : la France traverse-t-elle une simple mauvaise passe ou une crise profonde de son modèle ? Et la Bretagne doit-elle commencer à réfléchir à son propre avenir ? L’article France en crise : faut-il préparer l’après ? est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-05-31T06:00:00+00:00",
+    "source": "NHU Bretagne",
+    "category": "culture"
   },
   {
     "id": "e6fb5c8345ef5a89",
@@ -2194,6 +2248,15 @@
     "date": "2026-05-30T06:46:00+00:00",
     "source": "Expansive",
     "category": "independants"
+  },
+  {
+    "id": "6b89668b939c8028",
+    "title": "Quatre plus beaux villages des Pays de la Loire",
+    "link": "https://www.nhu.bzh/plus-beaux-villages-des-pays-de-la-loire/",
+    "summary": "Des ruelles médiévales aux villages classés parmi les plus beaux de France, découvrez quatre perles patrimoniales situées dans les Pays de la Loire, aux portes de la Bretagne. L’article Quatre plus beaux villages des Pays de la Loire est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-05-30T05:41:46+00:00",
+    "source": "NHU Bretagne",
+    "category": "culture"
   },
   {
     "id": "77bbd4622877c79b",
@@ -2256,6 +2319,15 @@
     "summary": "Depuis la crise sanitaire, une habitude s’est installée dans la quasi-totalité des services de livraison. Les livreurs ne montent plus jusqu’à la porte de l’appartement. Colis déposés dans le hall, avis de passage alors que l’on était présent, sonneries furtives… La pratique, autrefois marginale, s’est généralisée, d’autant que lesdits livreurs sont généralement mal rémunérés. Si…",
     "date": "2026-05-29T08:26:00+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "88dbcb6d0b76f346",
+    "title": "Population Bretagne 2026 : un pays de 5 millions d’habitants",
+    "link": "https://www.nhu.bzh/population-bretonne-evolution-cinq-departements/",
+    "summary": "La Bretagne historique dépasse désormais les 5 millions d’habitants. Découvrez les chiffres de population des cinq départements bretons, les évolutions récentes et les défis d’un pays en pleine croissance démographique. L’article Population Bretagne 2026 : un pays de 5 millions d’habitants est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-05-29T08:00:00+00:00",
+    "source": "NHU Bretagne",
     "category": "culture"
   },
   {
@@ -2367,6 +2439,33 @@
     "category": "culture"
   },
   {
+    "id": "370fb741b1b27ff6",
+    "title": "Vernissage de l’exposition de l’association Palette Alizarine Arès",
+    "link": "https://unidivers.fr/event/vernissage-de-lexposition-de-lassociation-palette-alizarine-ares-gironde-2026-06-08/",
+    "summary": "Vernissage de l'exposition de l'association Palette Alizarine 13/15 Avenue de Bordeaux Arès Gironde 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-05-28T12:11:05+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "20449d54f07c1fa2",
+    "title": "Vernissage de l’exposition de l’artiste Hervé Darrigade Arès",
+    "link": "https://unidivers.fr/event/vernissage-de-lexposition-de-lartiste-herve-darrigade-ares-gironde-2026-06-08/",
+    "summary": "Vernissage de l'exposition de l'artiste Hervé Darrigade 13/15 Avenue de Bordeaux Arès Gironde 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-05-28T12:11:05+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "cde4cb7a737673be",
+    "title": "170ème anniversaire du couronnement de la Vierge Noire Le Puy-en-Velay",
+    "link": "https://unidivers.fr/event/170eme-anniversaire-du-couronnement-de-la-vierge-noire-le-puy-en-velay-haute-loire-2026-06-08/",
+    "summary": "170ème anniversaire du couronnement de la Vierge Noire Cathédrale Notre-Dame Le Puy-en-Velay Haute-Loire 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-28T12:11:05+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "c2408b8e6f496d9d",
     "title": "Tattoo Circus à Bruxelles",
     "link": "https://expansive.info/Tattoo-Circus-a-Bruxelles-5992",
@@ -2391,6 +2490,15 @@
     "summary": "Découvrez les sorties mangas en juin 2026 avec des lectures spéciales Marche des fiertés. Fantasy, quotidien, romance ou comédie : Unidivers propose une sélection variée en lien avec le mois de Fiertés, et satisfait par la même occasion vos envies de lecture. Fantasy – Sorcière connectéeWicked Spot de Sal Jiang Magie · Mode · Réseaux…",
     "date": "2026-05-28T07:26:02+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "59eafd1a0bb04292",
+    "title": "Daniel Cueff ou l’arrivisme à hauteur d’homme",
+    "link": "https://www.nhu.bzh/daniel-cueff-arrivisme-hauteur-homme/",
+    "summary": "Dans ce texte signé Yvon Ollivier, retour sur l’épisode politique qui a profondément marqué les élections régionales bretonnes de 2021. Entre promesses abandonnées, alliances de second tour et critique du système politique centralisateur, l’auteur revient sur ce qu’il considère comme une immense désillusion démocratique pour de nombreux Bretons. En filigrane, une question : la Bretagne revivra-t-elle le même scénario en 2028 ? L’article Daniel Cueff ou l’arrivisme à hauteur d’homme est apparu en premier sur NHU | Votre Média Breton .",
+    "date": "2026-05-28T07:18:45+00:00",
+    "source": "NHU Bretagne",
     "category": "culture"
   },
   {
@@ -2754,6 +2862,15 @@
     "category": "culture"
   },
   {
+    "id": "f5a4921244cdf418",
+    "title": "Atelier de chant libre Oser sa voix Bar associatif L’Ecurie Genêts",
+    "link": "https://unidivers.fr/event/atelier-de-chant-libre-oser-sa-voix-genets-manche-2026-06-08/",
+    "summary": "Atelier de chant libre Oser sa voix Bar associatif L'Ecurie 20 route du Bec d'Andaine Genêts Manche 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-22T10:49:42+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "f9b76c998981a4e9",
     "title": "« Street of Manchester » de Philippe Brossat",
     "link": "https://www.bretagne-actuelle.com/street-of-manchester-de-philippe-brossat/livres/?utm_source=rss&utm_medium=rss&utm_campaign=street-of-manchester-de-philippe-brossat",
@@ -2769,15 +2886,6 @@
     "summary": "Rennes devrait accueillir le futur centre d’excellence de l’OTAN consacré à l’intelligence artificielle. L’information, révélée par La Lettre, n’a pas encore fait l’objet d’une annonce formelle de l’Alliance atlantique, mais elle s’inscrit dans une logique stratégique déjà très lisible. Depuis quinze ans, la métropole bretonne est devenue l’un des nœuds les plus denses de la…",
     "date": "2026-05-22T06:11:31+00:00",
     "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "936f5b7c76a6832f",
-    "title": "Saison 2026-2027 : ouverture des inscriptions Paris-Ateliers Paris",
-    "link": "https://unidivers.fr/event/saison-2026-2027-ouverture-des-inscriptions-paris-ateliers-paris-paris-2026-06-08t0200000200/",
-    "summary": "Saison 2026-2027 : ouverture des inscriptions Paris-Ateliers Paris Les inscriptions aux ateliers à l'année, pour la saison 2026-2027 ouvrent le 8 juin 2026 ! Rendez-vous sur paris-ateliers.org",
-    "date": "2026-05-22T05:48:43+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -2821,6 +2929,15 @@
     "title": "Les Rencontres de l’IODE – Discussion autour de l’ouvrage Pouvoirs et influences au Conseil constitutionnel Faculté de droit et de science politique – salle 507 Rennes",
     "link": "https://unidivers.fr/event/les-rencontres-de-liode-discussion-autour-de-louvrage-pouvoirs-et-influences-au-conseil-constitutionnel-faculte-de-droit-et-de-science-politique-salle-507-rennes-2026-06-08t123000-000/",
     "summary": "Lundi 8 juin, 12h30 Les Rencontres de l'IODE - Discussion autour de l’ouvrage Pouvoirs et influences au Conseil constitutionnel Faculté de droit et de science politique - salle 507 9 rue Jean Macé 35000 Rennes Rennes Ille-et-Vilaine Cette Rencontre de l'IODE aura lieu le lundi 8 juin 2026 avec Thomas Perroud.",
+    "date": "2026-05-21T19:25:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "cac2122e4f175765",
+    "title": "Conseil de Quartier Cleunay / Arsenal-Redon / La Courrouze Maison des Familles Rennes",
+    "link": "https://unidivers.fr/event/conseil-de-quartier-cleunay-arsenal-redon-la-courrouze-maison-des-familles-rennes-2026-06-08t183000-0000200/",
+    "summary": "Lundi 8 juin, 18h30 Conseil de Quartier Cleunay / Arsenal-Redon / La Courrouze Maison des Familles 2 allée Joseph Gémain Rennes Ille-et-Vilaine Un espace de concertation sur les enjeux du quartier",
     "date": "2026-05-21T19:25:58+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -3114,6 +3231,15 @@
     "category": "culture"
   },
   {
+    "id": "875dd7ec7d89d3c5",
+    "title": "Scènes en Campagne Uchon",
+    "link": "https://unidivers.fr/event/scenes-en-campagne-uchon-saone-et-loire-2026-06-08/",
+    "summary": "Scènes en Campagne Oratoire de Belle-Croix Uchon Saône-et-Loire 2026-06-08 18:00:00 2026-06-08",
+    "date": "2026-05-18T14:33:30+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "683670c35c8e89b8",
     "title": "ENS Rennes : un rapport confidentiel relance la question du sexisme dans les grandes écoles",
     "link": "https://unidivers.fr/ens-rennes-rapport-confidentiel-sexisme-grandes-ecoles/",
@@ -3339,6 +3465,15 @@
     "category": "culture"
   },
   {
+    "id": "4b047c5dc01af5b8",
+    "title": "Conférence préparatoire au Festival d’Aix 2026 Atelier de La Manufacture Aix-en-Provence",
+    "link": "https://unidivers.fr/event/conference-preparatoire-au-festival-daix-2026-aix-en-provence-bouches-du-rhone-2026-06-08/",
+    "summary": "Conférence préparatoire au Festival d'Aix 2026 Lundi 8 juin 2026 de 18h30 à 20h. Atelier de La Manufacture 8-10 rue des Allumettes Aix-en-Provence Bouches-du-Rhône 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-14T15:31:40+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "52dee27098027044",
     "title": "Bains de Forêt Audierne",
     "link": "https://unidivers.fr/event/bains-de-foret-audierne-finistere-2026-06-08/",
@@ -3366,6 +3501,15 @@
     "category": "culture"
   },
   {
+    "id": "14aeb6dbf75d6224",
+    "title": "Conférence L’amour courtois l’invention de l’amour au Moyen Âge Lycée Cezanne Aix-en-Provence",
+    "link": "https://unidivers.fr/event/conference-lamour-courtois-linvention-de-lamour-au-moyen-age-aix-en-provence-bouches-du-rhone-2026-06-08/",
+    "summary": "Conférence L’amour courtois l’invention de l’amour au Moyen Âge Lundi 8 juin 2026 de 18h30 à 20h30. Lycée Cezanne 19 avenue Fontenaille Aix-en-Provence Bouches-du-Rhône 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-14T13:53:11+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "c4f504e6d9389424",
     "title": "Conférence 1552, Metz devient française Centre socio-culturel de Magny Metz",
     "link": "https://unidivers.fr/event/conference-1552-metz-devient-francaise-metz-moselle-2026-06-08/",
@@ -3380,6 +3524,15 @@
     "link": "https://unidivers.fr/event/rando-velo-balade-a-velo-electrique-de-la-pointe-du-van-a-la-pointe-du-raz-cleden-cap-sizun-finistere-2026-06-08/",
     "summary": "Rando-Vélo Balade à vélo électrique de la Pointe du Van à la Pointe du Raz Pointe du Van Cléden-Cap-Sizun Finistère 2026-06-09 11:00:00 2026-06-09",
     "date": "2026-05-14T09:20:12+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "efd55a899b143464",
+    "title": "Conférence Archéologie d’un jardin Alsacien Tournus",
+    "link": "https://unidivers.fr/event/conference-archeologie-dun-jardin-alsacien-tournus-saone-et-loire-2026-06-08/",
+    "summary": "Conférence Archéologie d’un jardin Alsacien Palais de Justice de Tournus (salle 15) Tournus Saône-et-Loire 2026-06-08 18:30:00 2026-06-08",
+    "date": "2026-05-14T09:20:11+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -3499,6 +3652,15 @@
     "date": "2026-05-13T03:13:17+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
+  },
+  {
+    "id": "37b20413c806a167",
+    "title": "Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections",
+    "link": "https://lepeuplebreton.bzh/2026/05/12/ecosse-pays-de-galles-le-snp-et-le-plaid-cymru-gagnent-les-elections/",
+    "summary": "Rhun ar Iorweth, Premier Ministre du pays de Galles. Image : Senedd cymru Les élections locales du 7 mai au Royaume-Uni ont été marquée par le triomphe du parti d’extrême-droite Reform UK, et par l’effondrement du Labour. À gauche, la progression des Verts n’a pas suffit à compenser le recul des travaillistes et l’extrême-droite a … Cet article Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-05-12T17:41:14+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "b684969e3349d17b",
@@ -4104,6 +4266,15 @@
     "category": "culture"
   },
   {
+    "id": "34b0b1c993cb5eaa",
+    "title": "À LA LETTRE, la correspondance privée sous l’Ancien Régime, Archives municipales de Toulouse, Toulouse",
+    "link": "https://unidivers.fr/event/a-la-lettre-la-correspondance-privee-sous-lancien-regime-archives-municipales-de-toulouse-toulouse-haute-garonne-2026-06-08t1830000200/",
+    "summary": "8 - 12 juin Archives municipales de Toulouse Toulouse, 2 rue des Archives, 31500 Toulouse Un atelier participatif et immersif autour de l’écriture de l’intime sous l’Ancien Régime : lettres d’amour, mais aussi de dénonciation, de menaces, voire d’insultes outrées.",
+    "date": "2026-05-05T17:29:50+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "4ea36ad92e02e688",
     "title": "Au parc naturel marin d’Iroise, la démocratie environnementale est aussi fragile que la biodiversité",
     "link": "https://splann.org/parc-naturel-marin-iroise-epandages/",
@@ -4136,6 +4307,24 @@
     "link": "https://unidivers.fr/event/cours-de-yin-yoga-clohars-carnoet-finistere-2026-06-08/",
     "summary": "Cours de Yin Yoga Camping Les Grands Sables 22 Rue du Philosophe Alain Clohars-Carnoët Finistère 2026-06-08 17:45:00 2026-06-08",
     "date": "2026-05-05T06:18:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "b137e53587ab1901",
+    "title": "Bibliothèques en scène Percussions Salle des Fêtes Phalsbourg",
+    "link": "https://unidivers.fr/event/bibliotheques-en-scene-percussions-phalsbourg-moselle-2026-06-08/",
+    "summary": "Bibliothèques en scène Percussions Salle des Fêtes Place de la Halle aux Grains Phalsbourg Moselle Lundi Lundi 2026-06-08 18:00:00 2026-06-08 18:00:00",
+    "date": "2026-05-05T06:18:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "6940bfc1290eb0b9",
+    "title": "Conférence théâtrale Debout les vaches, la mer monte Salle Max-Paul Fouchet Saint-Vaast-la-Hougue",
+    "link": "https://unidivers.fr/event/conference-theatrale-debout-les-vaches-la-mer-monte-saint-vaast-la-hougue-manche-2026-06-08/",
+    "summary": "Conférence théâtrale Debout les vaches, la mer monte Salle Max-Paul Fouchet 46 Rue Maréchal Foch Saint-Vaast-la-Hougue Manche 2026-06-08 18:30:00 2026-06-08 18:30:00",
+    "date": "2026-05-05T06:18:57+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4266,12 +4455,30 @@
     "category": "culture"
   },
   {
+    "id": "32b51a48ada34f50",
+    "title": "Stage de breton d’été de l’UDB à Landeleau",
+    "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
+    "summary": "Moreau.henri, CC BY-SA 3.0, via Wikimedia Commons Après une pause en 2025, le stage de breton de l’UDB reprend en 2026 ! Nouveauté : ce sera à Landeleau, et non à Groix, cette année. L’hébergement et les cours de breton auront lieu au Presbital kozh, du dimanche 12 (soir) au samedi 18 juillet. Les inscriptions sont ouvertes… … Cet article Stage de breton d’été de l’UDB à Landeleau est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-29T09:50:32+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "6f3aa2657d16a5f9",
     "title": "[Nouvelle enquête] Pêche bretonne : les dessous d’un modèle à bout de souffle",
     "link": "https://splann.org/nouvelle-enquete-peche-bretagne/",
     "summary": "En Bretagne, le milieu de la pêche n’a rien à envier à celui de l’agro-industrie. Même surexploitation des ressources et des travailleurs. Même déséquilibre dans le rapport de force entre les instances représentatives, l’État, l’Europe et les ONG. Dans ce nouveau dossier, « Splann ! » décrit par le menu les coulisses et les conséquences de cette « bataille des mers ». L’article [Nouvelle enquête] Pêche bretonne : les dessous d’un modèle à bout de souffle est apparu en premier sur Splann ! | Premier média d'enquête indépendant en Bretagne .",
     "date": "2026-04-28T07:00:26+00:00",
     "source": "Splann !",
+    "category": "independants"
+  },
+  {
+    "id": "06fd24a3059d45dd",
+    "title": "Plaid Cymru : un siècle de transformation politique",
+    "link": "https://lepeuplebreton.bzh/2026/04/27/plaid-cymru-un-siecle-de-transformation-politique/",
+    "summary": "Fondé en 1925, le Plaid Cymru est longtemps resté un parti de défense culturelle, centré sur la langue galloise et la préservation d’une identité menacée. Pendant des décennies, son influence électorale demeure marginale, cantonnée à certains bastions ruraux galloisants. Mais derrière cette apparente marginalité, un travail de fond s’opère… Le parti structure un militantisme, élabore … Cet article Plaid Cymru : un siècle de transformation politique est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-27T13:01:16+00:00",
+    "source": "Le Peuple Breton",
     "category": "independants"
   },
   {
@@ -4334,6 +4541,15 @@
     "link": "https://unidivers.fr/event/exposition-encres-et-photos-moulins-engilbert-nievre-2026-06-08/",
     "summary": "Exposition Encres et Photos Office de Tourisme Rives du Morvan 11 Place Lafayette Moulins-Engilbert Nièvre 2026-07-01 09:00:00 2026-07-01",
     "date": "2026-04-19T20:25:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "cfe1f07db17e6f05",
+    "title": "Répétition de la chorale Entre Terre et Mer ouverte à tout le public Plouguerneau",
+    "link": "https://unidivers.fr/event/repetition-de-la-chorale-entre-terre-et-mer-ouverte-a-tout-le-public-plouguerneau-finistere-2026-06-08/",
+    "summary": "Répétition de la chorale Entre Terre et Mer ouverte à tout le public Salle des Associations Lilia Plouguerneau Finistère 2026-06-08 18:30:00 2026-06-08",
+    "date": "2026-04-19T20:25:36+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4635,6 +4851,15 @@
     "category": "culture"
   },
   {
+    "id": "7b6304ed429ed927",
+    "title": "Un vote décisif pour la Région Alsace",
+    "link": "https://lepeuplebreton.bzh/2026/04/09/un-vote-decisif-pour-la-region-alsace/",
+    "summary": "La soirée du 7 avril n’aura pas suffit: il a fallu prolonger la discussion le 8 avril pour enfin arriver au vote des députés sur la sortie de l’Alsace du Grand Est, et la recréation d’une Région Alsace. C’est chose faite. Par 131 voix contre 100, avec 12 abstention, l’Assemblée nationale a adopté la loi … Cet article Un vote décisif pour la Région Alsace est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-09T14:32:51+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "9212c7e0f6b00115",
     "title": "Saint-Nazaire, un vieux Liberty ship dans l’aventure technologique des méthaniers",
     "link": "https://www.armen.bzh/2026/04/09/methanier-methane-gaz-navire-marine-saint-nazaire-bretagne-energie/",
@@ -4653,76 +4878,22 @@
     "category": "culture"
   },
   {
-    "id": "a09d1b02200e36fc",
-    "title": "WWE MONDAY NIGHT RAW ACCOR ARENA Paris",
-    "link": "https://unidivers.fr/event/wwe-monday-night-raw-accor-arena-paris-2026-06-08/",
-    "summary": "2026-06-08 à 19:30 WWE MONDAY NIGHT RAW ACCOR ARENA 8 BD DE BERCY 75012 Paris 75",
-    "date": "2026-04-03T16:04:31+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
+    "id": "692a2533aad912ee",
+    "title": "Hag ur rannvro Elsaz a vo savet en-dro?",
+    "link": "https://lepeuplebreton.bzh/2026/04/06/hag-ur-rannvro-elsaz-a-vo-savet-en-dro/",
+    "summary": "Logo strollegezh europat Elsaz. Reuz a zo diwar-benn Elzas! Abaoe an 11 vloaz ma oa teuzet Elzas er rannvro « Reter Bras » en desped da youl Elzasiz ez eus bet klasket alies gant dilennidi eus an tiriad-se gounit ar gwir da gaout o rannvro dezho adarre. En aner da gentañ. Un trec’h kentañ o doe e … Cet article Hag ur rannvro Elsaz a vo savet en-dro? est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-06T08:15:11+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
-    "id": "2b06f0f523b91f29",
-    "title": "COCOROSIE ATABAL Biarritz",
-    "link": "https://unidivers.fr/event/cocorosie-atabal-biarritz-2026-06-08/",
-    "summary": "2026-06-08 à 19:30 COCOROSIE ATABAL Allée du Moura 64200 Biarritz 64",
-    "date": "2026-04-03T16:04:30+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "f29df03fce96c708",
-    "title": "ORCHESTRE SYMPHONIQUE SALLE SÉVIGNÉ Lambesc",
-    "link": "https://unidivers.fr/event/orchestre-symphonique-salle-sevigne-lambesc-2026-06-08/",
-    "summary": "2026-06-08 à 20:00 ORCHESTRE SYMPHONIQUE SALLE SÉVIGNÉ PLACE DES ÉTATS GÉNÉRAUX 13410 Lambesc 13",
-    "date": "2026-04-03T16:04:30+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "84112b71a8d1f7bc",
-    "title": "COMMENT RATER SA VIE AMOUREUSE ALCAZAR Bordeaux",
-    "link": "https://unidivers.fr/event/comment-rater-sa-vie-amoureuse-alcazar-bordeaux-2026-06-08/",
-    "summary": "2026-06-08 à 20:15 COMMENT RATER SA VIE AMOUREUSE ALCAZAR 170 COURS DU MEDOC 33000 Bordeaux 33",
-    "date": "2026-04-03T16:04:30+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "7a87e871ed990611",
-    "title": "ALIL VARDAR – SACREE SOIREE AVEC ALIL VARDAR THEATRE DU FORUM Feurs",
-    "link": "https://unidivers.fr/event/alil-vardar-sacree-soiree-avec-alil-vardar-theatre-du-forum-feurs-2026-06-08/",
-    "summary": "2026-06-08 à 20:30 ALIL VARDAR - SACREE SOIREE AVEC ALIL VARDAR THEATRE DU FORUM MAISON DE LA COMMUNE 42110 Feurs 42",
-    "date": "2026-04-03T16:04:29+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "a37ec3b2dae64015",
-    "title": "SACREE SOIREE THEATRE LINO VENTURA Nice",
-    "link": "https://unidivers.fr/event/sacree-soiree-theatre-lino-ventura-nice-2026-06-08/",
-    "summary": "2026-06-08 à 20:30 SACREE SOIREE THEATRE LINO VENTURA 168 BD DE L'ARIANE 06300 Nice 06",
-    "date": "2026-04-03T16:04:29+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "e548357a73ab6164",
-    "title": "MA PAROLE MA SOEUR LE SOLO – PARIS Paris",
-    "link": "https://unidivers.fr/event/ma-parole-ma-soeur-le-solo-paris-paris-2026-06-08/",
-    "summary": "2026-06-08 à 20:30 MA PAROLE MA SOEUR LE SOLO - PARIS 138 BOULEVARD RICHARD LENOIR 75011 Paris 75",
-    "date": "2026-04-03T16:04:29+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "c91e8f2494ff41b5",
-    "title": "LE CERCLE COMEDY CLUB BEST OF COMEDIE LA ROCHELLE La Rochelle",
-    "link": "https://unidivers.fr/event/le-cercle-comedy-club-best-of-comedie-la-rochelle-la-rochelle-2026-06-08/",
-    "summary": "2026-06-08 à 21:00 LE CERCLE COMEDY CLUB BEST OF COMEDIE LA ROCHELLE 18 RUE RAMBAUD 17000 La Rochelle 17",
-    "date": "2026-04-03T16:04:29+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
+    "id": "491e6fbd377d0eec",
+    "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
+    "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
+    "summary": "Lydie Massard, porte-parole de l’Union démocratique bretonne et conseillère municipale à Pontivy, vient de déclarer sa candidature à l’élection présidentielle, en passant par la primaire de la gauche unitaire. Cette annonce intervient dans un contexte paradoxal, avec une majorité de français partisans d’une République fédérale, alors que le sujet n’est pas traité par les partis … Cet article Lydie Massard, candidate fédéraliste à l’élection présidentielle est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-02T12:48:35+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "8cb4644c4ec0500c",
@@ -4770,15 +4941,6 @@
     "category": "culture"
   },
   {
-    "id": "cee17d0998802a74",
-    "title": "Visitez les grands chantiers autour de la Loire Pont Anne de Bretagne Nantes",
-    "link": "https://unidivers.fr/event/visitez-les-grands-chantiers-autour-de-la-loire-pont-anne-de-bretagne-nantes-2026-06-08/",
-    "summary": "Visitez les grands chantiers autour de la Loire Pont Anne de Bretagne Nantes 2026-06-08 9 rue Julien Videment Tour d'horizon des projets de la centralité : tout savoir sur les travaux autour du Pont Anne de BretagneLors de cette visite commentée, vous aurez l'occasion de découvrir les projets de rénovation et de développement qui transformeront notre ville dans les années à venir. C'est l'occasion parfaite de vous tenir informé des changements et de poser vos questions aux experts sur place.Rejoignez-nous le 8 juin à 18h au 9 rue Julien Videment au pied du Pont Anne de Bretagne, pour débuter…",
-    "date": "2026-04-01T08:14:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "790bd8c787a741ab",
     "title": "Découverte de l’apiculture et de l’abeille noire des Landes Route de la plage Biscarrosse",
     "link": "https://unidivers.fr/event/decouverte-de-lapiculture-et-de-labeille-noire-des-landes-biscarrosse-landes-2026-05-18/",
@@ -4797,13 +4959,13 @@
     "category": "culture"
   },
   {
-    "id": "afee45b669dacb03",
-    "title": "Point Informations Nantes Solidaire Seniors Pôle Daniel Asseray Nantes",
-    "link": "https://unidivers.fr/event/point-informations-nantes-solidaire-seniors-pole-daniel-asseray-nantes-2026-06-08/",
-    "summary": "Point Informations Nantes Solidaire Seniors Pôle Daniel Asseray Nantes 2026-06-08 8 Rue Henri Matisse Dervallières - Zola Dans le cadre de la programmation des espaces seniors, nous vous proposons un Point Informations Nantes Solidaire SENIORS (PINS SENIORS) pour mieux connaître vos droits et découvrir le nouveau Guide pratique Seniors Nantais dans le détail :• Ou s’informer ? A qui s’adresser ?• Se divertir et s'investir• Bien vivre chez soi• Changer de lieu de vie• Prendre soin de soi• Être aidé• Être et se reconnaître aidantC'est aussi l'occasion de rencontrer les services du Centre…",
-    "date": "2026-03-27T19:21:02+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
+    "id": "22eb1d21e56bfdc2",
+    "title": "Konoz. Nouvel album de Konogan an Habask",
+    "link": "https://lepeuplebreton.bzh/2026/03/25/konoz-konogan-an-habask/",
+    "summary": "Konogan an Habask est bien connu dans le milieu culturel breton, puisqu’il baigne dans celui-ci depuis son plus jeune âge, tout comme le reste de sa fratrie d’ailleurs. Dès l’âge de 6 ans, il débute l’étude de la bombarde au sein de l’école de musique de Quimper. Puis adolescent, il s’intéresse également au biniou, se … Cet article Konoz. Nouvel album de Konogan an Habask est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-03-25T16:49:08+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "eaee2922a0d2074b",
@@ -4829,6 +4991,15 @@
     "link": "https://unidivers.fr/event/relooking-de-meubles-par-le-hameau-de-carole-bagnoles-de-lorne-normandie-orne-2026-04-13/",
     "summary": "Relooking de meubles par le hameau de Carole Place des Halles La Gare Bagnoles de l'Orne Normandie Orne Vendredi Vendredi 2026-04-13 10:00:00 2026-04-13 10:00:00",
     "date": "2026-03-20T18:33:35+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "02368689607c785c",
+    "title": "Atelier DO-IN/ QI GONG KISHINDO La CoWo Pontonx-sur-l’Adour",
+    "link": "https://unidivers.fr/event/atelier-do-in-qi-gong-kishindo-pontonx-sur-ladour-landes-2026-04-13/",
+    "summary": "Atelier DO-IN/ QI GONG KISHINDO La CoWo 3 Rue de Pion Pontonx-sur-l'Adour Landes 2026-04-13 2026-04-13",
+    "date": "2026-03-20T16:00:29+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5076,13 +5247,22 @@
     "category": "culture"
   },
   {
-    "id": "f1cdd4bc89136bf3",
-    "title": "Girls & Boys – avec Laurine Lejeune Théâtre 100 Noms Nantes",
-    "link": "https://unidivers.fr/event/girls-boys-avec-laurine-lejeune-theatre-100-noms-nantes-2026-06-08/",
-    "summary": "Girls & Boys - avec Laurine Lejeune Théâtre 100 Noms Nantes 2026-06-08 21 Quai des Antilles - Hangar à Bananes Île de Nantes Théâtre Une femme raconte son histoire dans un monologue au ton léger et décalé. Cependant, la comédie joyeuse des débuts – rencontre truculente dans une file d’attente d’EasyJet, relation amoureuse et enfants – vire rapidement au drame. Maître de l’asphyxie, l’auteur cisèle un foudroyant retournement de situation. Comment bascule-t-on de l’idylle à l’horreur la plus brutale ? Dennis Kelly explore les ressorts enfouis de la masculinité, du patriarcat, des relations…",
-    "date": "2026-02-09T05:26:02+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
+    "id": "caa5b40f2aa4f256",
+    "title": "Pêche : razzia en baie d’Audierne !",
+    "link": "https://lepeuplebreton.bzh/2026/02/07/peche-razzia-baie-audierne/",
+    "summary": "Exemple de traits d’un chalutier 4 panneaux en baie d’Audierne. Dans le Cap Sizun se livre depuis plusieurs jours une bataille maritime d’envergure, sur fond de procès entre le comité régional des pêches et une association d’artisans pêcheurs. En jeu : l’avenir de la ressource côtière ! Et au milieu, une question : que reste-t-il de l’État ? En … Cet article Pêche : razzia en baie d’Audierne ! est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-02-07T19:11:39+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
+    "id": "37626c1aaaa94710",
+    "title": "La politique linguistique régionale gelée ?",
+    "link": "https://lepeuplebreton.bzh/2026/02/06/politique-linguistique-regionale-gelee/",
+    "summary": "Le Conseil régional de Bretagne communique depuis plusieurs mois en parlant de budget sanctifié : sport, culture et langues de Bretagne. Et c’est juste. Mais en 2023, la Région Bretagne avait adopté à l’unanimité un plan de réappropriation linguistique pour le breton et le gallo dans lequel il était prévu une augmentation progressive du budget, tenue … Cet article La politique linguistique régionale gelée ? est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-02-06T12:56:46+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "0ac7700ce6e7748f",
@@ -5211,29 +5391,29 @@
     "category": "culture"
   },
   {
-    "id": "ee3b6d0d171bc6ff",
-    "title": "GIRLS & BOYS THEATRE 100 NOMS Nantes",
-    "link": "https://unidivers.fr/event/girls-boys-theatre-100-noms-nantes-2026-06-08/",
-    "summary": "2026-06-08 à 20:15 GIRLS & BOYS THEATRE 100 NOMS 21 QUAI DES ANTILLES 44200 Nantes 44",
-    "date": "2026-01-12T10:36:20+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ca6ffcd7590fa702",
-    "title": "THE STREETS SALLE PLEYEL Paris",
-    "link": "https://unidivers.fr/event/the-streets-salle-pleyel-paris-2026-06-08/",
-    "summary": "2026-06-08 à 20:00 THE STREETS SALLE PLEYEL 252 RUE FAUBOURG SAINT HONORE 75008 Paris 75",
-    "date": "2026-01-12T10:32:41+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "d961c277b77f3656",
     "title": "Exposition de peinture Serge Delfau Les Cimaises Saint-Trojan-les-Bains",
     "link": "https://unidivers.fr/event/exposition-de-peinture-serge-delfau-saint-trojan-les-bains-charente-maritime-2026-06-08/",
     "summary": "Exposition de peinture Serge Delfau Les Cimaises 86 rue de la République Saint-Trojan-les-Bains Charente-Maritime 2026-06-08 2026-06-08",
     "date": "2026-01-09T13:45:42+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "754af0f3d5f2fe3c",
+    "title": "Typhaine Corre et Tangi Le Gall-Carré – Gouloù mil steredenn",
+    "link": "https://lepeuplebreton.bzh/2026/01/09/typhaine-corre-tangi-le-gall-carre-goulou-mil-steredenn/",
+    "summary": "Sept albums avec le groupe Startijenn dont Tangi Le Gall-Carré a participé à la création en 1997, alors qu’il avait à peine 14 ans. Puis deux albums avec le guitariste Erwan Moal en 2013 et 2018. Plus récemment une participation à la création War Hent Youenn Gwernig. Et enfin en 2021, un premier album instrumental … Cet article Typhaine Corre et Tangi Le Gall-Carré – Gouloù mil steredenn est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-01-09T08:30:55+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
+    "id": "7175d966e1a8b80e",
+    "title": "Don du sang Berstett",
+    "link": "https://unidivers.fr/event/don-du-sang-berstett-bas-rhin-2026-06-08/",
+    "summary": "Don du sang Berstett Bas-Rhin Lundi 2026-06-08 16:30:00 2026-06-08",
+    "date": "2026-01-03T10:24:10+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
