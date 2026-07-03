@@ -1,14 +1,5 @@
 [
   {
-    "id": "8c7fa83cdbde4b8d",
-    "title": "Préhistorama à Châtelperron",
-    "link": "https://www.ici.fr/emissions/les-p-tits-bougnats-au-musee/prehistorama-a-chatelperron-6214436?at_medium=lien_RSS&at_locale=20",
-    "summary": "Comment vivaient les hommes préhistoriques dans l'Allier ? Pouvaient-ils parler ? Avaient-ils des prénoms ? À Préhistorama, à Châtelperron, les familles remontent 42 000 ans en arrière pour mener l'enquête.",
-    "date": "2026-07-02T22:00:00+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
-  },
-  {
     "id": "1f550b062a96c7d5",
     "title": "L'Aven d'Orgnac : une cathédrale souterraine majestueuse à découvrir grâce au passeport de l'été en Rhône-Alpes",
     "link": "https://www.ici.fr/culture/sortir/decouvrez-la-majestueuse-cathedrale-souterraine-a-l-aven-d-orgnac-grace-au-passeport-de-l-ete-en-rhone-alpes-5331093?at_medium=lien_RSS&at_locale=20",
@@ -414,6 +405,15 @@
     "category": "presse-locale"
   },
   {
+    "id": "a5ab7fe55efa252d",
+    "title": "À Verson, des ouvriers retrouvent 75 bombes de 250 kilos datant de la Seconde Guerre mondiale dans un champ",
+    "link": "https://www.ici.fr/normandie/calvados-14/verson/a-verson-des-ouvriers-retrouvent-75-bombes-de-250-kilos-datant-de-la-seconde-guerre-mondiale-dans-un-champ-3378582?at_medium=lien_RSS&at_locale=20",
+    "summary": "Alors qu'ils procédaient à des travaux de déploiement de la fibre, des ouvriers ont retrouvé 75 bombes de 250 kilos dans un champ de Verson, ce jeudi 2 juillet. Les engins datent de la Seconde Guerre mondiale. Les démineurs sont sur place pour procéder à des vérifications.",
+    "date": "2026-07-02T14:17:15+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
     "id": "d61d38f0aa5dd46f",
     "title": "Un homme de 78 ans meurt en garde à vue au commissariat du 20e arrondissement de Paris, l’IGPN saisie",
     "link": "https://www.letelegramme.fr/faits-divers/un-homme-de-78-ans-meurt-en-garde-a-vue-au-commissariat-du-20e-arrondissement-de-paris-ligpn-saisie-7076407.php",
@@ -468,15 +468,6 @@
     "category": "presse-locale"
   },
   {
-    "id": "eb9c63f0e1dafc1d",
-    "title": "Un appel à se rassembler contre des procédures de licenciement ce vendredi, devant les bureaux de Diwan à Landerneau",
-    "link": "https://www.letelegramme.fr/finistere/landerneau-29800/un-appel-a-rassemblement-ce-vendredi-devant-les-bureaux-de-diwan-a-landerneau-7076379.php",
-    "summary": "Les syndicats CGT et CFDT appellent à se mobiliser, ce vendredi 3 juillet 2026, devant le siège de Diwan, à Landerneau (29), pour protester contre des procédures de licenciement.",
-    "date": "2026-07-02T13:46:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "fd672d4c4fd3b34a",
     "title": "Une voiture incendiée rue Isabey, dans le quartier de Pontanézen, à Brest",
     "link": "https://www.letelegramme.fr/finistere/brest-29200/une-voiture-incendiee-rue-isabey-dans-le-quartier-de-pontanezen-a-brest-7076362.php",
@@ -486,12 +477,21 @@
     "category": "presse-locale"
   },
   {
+    "id": "eb9c63f0e1dafc1d",
+    "title": "Un appel à se rassembler contre des procédures de licenciement ce vendredi, devant les bureaux de Diwan à Landerneau",
+    "link": "https://www.letelegramme.fr/finistere/landerneau-29800/un-appel-a-rassemblement-ce-vendredi-devant-les-bureaux-de-diwan-a-landerneau-7076379.php",
+    "summary": "Les syndicats CGT et CFDT appellent à se mobiliser, ce vendredi 3 juillet 2026, devant le siège de Diwan, à Landerneau (29), pour protester contre des procédures de licenciement.",
+    "date": "2026-07-02T13:46:00+00:00",
+    "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
     "id": "6550b29166ac2209",
     "title": "L’avocat quimpérois Erwan Le Cornec de nouveau condamné par le tribunal de Brest pour tentative d’escroquerie",
     "link": "https://www.letelegramme.fr/finistere/quimper-29000/lavocat-quimperois-erwan-le-cornec-de-nouveau-condamne-par-le-tribunal-de-brest-pour-tentative-descroquerie-7076325.php",
     "summary": "Me Erwan Le Cornec, enseignant en droit public à l’UBO et avocat quimpérois, a de nouveau été condamné par le tribunal correctionnel de Brest, ce jeudi 2 juillet, pour tentative d’escroquerie.",
     "date": "2026-07-02T13:12:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -545,7 +545,7 @@
     "link": "https://www.letelegramme.fr/monde/guerre-ukraine-russie/flotte-fantome-russe-le-petrolier-tagor-arraisonne-au-large-de-brest-condamne-a-1-million-deuros-damende-7076183.php",
     "summary": "Le pétrolier Tagor, arraisonné par la Marine française au large de Brest, a été condamné à 1 million d’euros d’amende. Le navire pourra quitter les eaux françaises après régularisation de son pavillon.",
     "date": "2026-07-02T11:08:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -788,7 +788,7 @@
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/bout-du-monde/cest-un-peu-comme-un-pelerinage-sur-les-lieux-de-notre-rencontre-avec-80-invites-habilles-en-robe-de-mariee-ils-vont-se-dire-oui-au-bout-du-monde-7075458.php",
     "summary": "Dix ans après leur rencontre au festival du Bout du Monde, Jérémy et Fabien vont se dire oui. Un mariage célébré, pour de faux, sur le site du Boudu, le vendredi 31 juillet, avec 80 invités en robe de mariée, avant la cérémonie, pour de vrai, le lendemain, en mairie de Crozon (29).",
     "date": "2026-07-01T16:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -909,6 +909,15 @@
     "category": "culture"
   },
   {
+    "id": "0aed3fbd15c40b6a",
+    "title": "Imagin-VR Privé, showroom FT, Changé",
+    "link": "https://unidivers.fr/event/imagin-vr-prive-showroom-ft-change-2026-07-03t1000000200/",
+    "summary": "Vendredi 3 juillet, 10h00 showroom FT Changé, 2 rue Marie Curie 53000 LAVAL Événement La French Tech",
+    "date": "2026-07-01T09:09:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "ec6bfd87a8e522e3",
     "title": "GIGN sur Netflix : sous l’uniforme d’élite, un thriller déjà vu ?",
     "link": "https://unidivers.fr/serie-gign-netflix/",
@@ -961,15 +970,6 @@
     "date": "2026-07-01T07:00:00+00:00",
     "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
-  },
-  {
-    "id": "58d8b2d8c1c729c4",
-    "title": "[Spectacle] DJOL DOU, Le Marigot, Le Marigot",
-    "link": "https://unidivers.fr/event/spectacle-djol-dou-le-marigot-le-marigot-2026-07-03t0100000200/",
-    "summary": "Jeudi 2 juillet, 19h00 Le Marigot Le Marigot, Le Marigot Dans le cadre de la fête patronale de Marigot la troupe KANT É KANT présente \"Djol Dou\" Une pièce engagée qui met en lumière les réalités et les conséquences de la contamination à la chlordécone.",
-    "date": "2026-07-01T06:49:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
   },
   {
     "id": "db3356a210002b78",
@@ -1301,15 +1301,6 @@
     "link": "https://unidivers.fr/event/eveil-a-la-nature-0-3-ans-winkel-haut-rhin-2026-07-03/",
     "summary": "Eveil à la nature 0-3 ans 12 rue de la birgmatt Winkel Haut-Rhin Vendredi 2026-07-03 09:00:00 2026-07-03",
     "date": "2026-06-29T09:56:32+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "218d35efa083220d",
-    "title": "Summer Camp 2026 Bibliothèque Assia Djebar Paris",
-    "link": "https://unidivers.fr/event/summer-camp-2026-bibliotheque-assia-djebar-paris-paris-2026-07-03t0200000200/",
-    "summary": "Summer Camp 2026 Bibliothèque Assia Djebar Paris C'est l'heure des grandes vacances à la bibliothèque ! Pour sa 4e édition, la programmation du SUMMER CAMP d'Assia Djebar a été concoctée avec soin par l'équipe. Nous sommes heureux de vous accueillir tout l'été pour partager des moments de fête, de jeux, de lecture et d'évasion. Bel été à toutes et tous !",
-    "date": "2026-06-29T08:36:01+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -1764,15 +1755,6 @@
     "category": "culture"
   },
   {
-    "id": "fa525f55d9712f69",
-    "title": "Cet été la bibliothèque Colette Vivier se met au vert ! Square Ernest Gouin PARIS",
-    "link": "https://unidivers.fr/event/cet-ete-la-bibliotheque-colette-vivier-se-met-au-vert-square-ernest-gouin-paris-paris-2026-07-03t0200000200/",
-    "summary": "Cet été la bibliothèque Colette Vivier se met au vert ! Square Ernest Gouin PARIS Venez nous retrouver dans le parc Martin Luther King et le square Ernest Gouin du 3 juillet au 6 août.",
-    "date": "2026-06-23T06:46:07+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "85a734286be5cf01",
     "title": "La Nouvelle chronologie de la Russie-Horde, véhicule para-idéologique de fantasme impérial",
     "link": "https://unidivers.fr/nouvelle-chronologie-recentisme-new-chronologie-russia/",
@@ -2133,6 +2115,24 @@
     "category": "culture"
   },
   {
+    "id": "104a1fd28d1db005",
+    "title": "Exposition Entre les Rives Rue Mathurin Méheut Saint-Brieuc",
+    "link": "https://unidivers.fr/event/exposition-entre-les-rives-saint-brieuc-cotes-darmor-2026-07-03/",
+    "summary": "Exposition Entre les Rives Rue Mathurin Méheut Maison Saint-Yves Saint-Brieuc Côtes-d'Armor 2026-07-03 10:00:00 2026-07-03 13:30:00",
+    "date": "2026-06-18T20:20:08+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "bba2a0767eae9354",
+    "title": "Les Voix du Liron Saint-Laurent-Médoc",
+    "link": "https://unidivers.fr/event/les-voix-du-liron-saint-laurent-medoc-gironde-2026-07-03/",
+    "summary": "Les Voix du Liron Saint-Laurent-Médoc Gironde 2026-07-04 10:00:00 2026-07-04",
+    "date": "2026-06-18T20:20:08+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "894ec5f29db3f85c",
     "title": "Au Pont du Rock 2026 à Malestroit : le plus ancien festival rock indépendant de Bretagne rebranche les amplis",
     "link": "https://unidivers.fr/au-pont-du-rock-2026-malestroit-renaissance/",
@@ -2367,6 +2367,15 @@
     "category": "culture"
   },
   {
+    "id": "852376e185a82438",
+    "title": "Expositipn Jean-Noël Duchemin De passage Coutances",
+    "link": "https://unidivers.fr/event/expositipn-jean-noel-duchemin-de-passage-coutances-manche-2026-07-03/",
+    "summary": "Expositipn Jean-Noël Duchemin De passage 4 Rue Saint-Pierre Coutances Manche Vendredi Vendredi 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-06-15T20:39:08+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "097f28ce66cd8c01",
     "title": "Loi « casseurs-payeurs » : faire payer les casseurs, protéger les mineurs, empêcher l’atmosphère de la casse",
     "link": "https://unidivers.fr/loi-casseurs-payeurs/",
@@ -2394,10 +2403,28 @@
     "category": "culture"
   },
   {
+    "id": "03da759c450e562f",
+    "title": "Festinsolite au Château d’Ancy-le-Franc Ancy-le-Franc",
+    "link": "https://unidivers.fr/event/festinsolite-au-chateau-dancy-le-franc-ancy-le-franc-yonne-2026-07-03/",
+    "summary": "Festinsolite au Château d'Ancy-le-Franc Château d'Ancy-le-Franc Ancy-le-Franc Yonne 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-15T18:58:27+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "5e606c3eec9c863e",
     "title": "Weekend festif Blaignac",
     "link": "https://unidivers.fr/event/weekend-festif-blaignac-gironde-2026-07-03/",
     "summary": "Weekend festif Le Bourg Blaignac Gironde 2026-07-05 09:00:00 2026-07-05",
+    "date": "2026-06-15T16:58:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "4b14b4c98069e6a1",
+    "title": "Lecture Les toutes-petites aventures PIERREFITTE-NESTALAS Pierrefitte-Nestalas",
+    "link": "https://unidivers.fr/event/lecture-les-toutes-petites-aventures-pierrefitte-nestalas-hautes-pyrenees-2026-07-03/",
+    "summary": "Lecture Les toutes-petites aventures PIERREFITTE-NESTALAS Ludo-médiathèque Pierrefitte-Nestalas Hautes-Pyrénées 2026-07-03 10:00:00 2026-07-03 10:00:00",
     "date": "2026-06-15T16:58:58+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -2790,6 +2817,33 @@
     "category": "culture"
   },
   {
+    "id": "9f9f7c3b7f3ce736",
+    "title": "Sortie naturaliste amphibiens et reptiles Frasne",
+    "link": "https://unidivers.fr/event/sortie-naturaliste-amphibiens-et-reptiles-frasne-doubs-2026-07-03/",
+    "summary": "Sortie naturaliste amphibiens et reptiles Chalet d'accueil des tourbières Frasne Doubs 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-11T17:12:40+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "b0593bc643a34fbe",
+    "title": "Visite guidée au Domaine de Senelles Domaine de Senelles Bias",
+    "link": "https://unidivers.fr/event/visite-guidee-au-domaine-de-senelles-bias-lot-et-garonne-2026-07-03/",
+    "summary": "Visite guidée au Domaine de Senelles Domaine de Senelles 14 Rue Clémentine Steef Bias Lot-et-Garonne 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-11T17:12:40+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "2a13340197bdb457",
+    "title": "Jardin secret de la BD Jardin de Curé La Rivière-Drugeon",
+    "link": "https://unidivers.fr/event/jardin-secret-de-la-bd-la-riviere-drugeon-doubs-2026-07-03/",
+    "summary": "Jardin secret de la BD Jardin de Curé 8 rue Charle le Téméraire La Rivière-Drugeon Doubs 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-11T15:24:48+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "4c205996e0d6269f",
     "title": "1re rencontre anti militariste Monts d'Arrée dimanche 28 juin",
     "link": "https://bourrasque-info.org/1ere-rencontre-anti-militariste-Monts-d-Arree-dimanche-28-juin-2895",
@@ -2967,15 +3021,6 @@
     "summary": "Avec l’exposition consacrée à Henri Rivière, le Musée Mathurin Méheut de Lamballe-Armor propose une conversation subtile entre deux artistes majeurs dont les trajectoires se croisent sous l’influence d’un phénomène esthétique qui bouleversa l’art occidental à la fin du XIXe siècle, le japonisme. Plus qu’un courant artistique, le japonisme fut une révolution du regard. L’ouverture du…",
     "date": "2026-06-10T09:10:04+00:00",
     "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "995ec685805a6843",
-    "title": "Festival European Polyphony « Paris-Rhodes » 2026 Amphithéâtre Richelieu de la Sorbonne Paris",
-    "link": "https://unidivers.fr/event/festival-european-polyphony-paris-rhodes-2026-amphitheatre-richelieu-de-la-sorbonne-paris-paris-2026-07-03t0200000200/",
-    "summary": "Festival European Polyphony « Paris-Rhodes » 2026 Amphithéâtre Richelieu de la Sorbonne Paris La création grecque, française et estonienne à l’honneur : musique, arts visuels et sonores.",
-    "date": "2026-06-10T08:19:57+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -3159,6 +3204,15 @@
     "category": "culture"
   },
   {
+    "id": "014c9fa5f779accc",
+    "title": "Relatum Lee Ufan au Palais des Papes place du Palais Avignon",
+    "link": "https://unidivers.fr/event/relatum-lee-ufan-au-palais-des-papes-avignon-vaucluse-2026-07-03/",
+    "summary": "Relatum Lee Ufan au Palais des Papes place du Palais Palais des Papes Avignon Vaucluse 2026-11-02 10:00:00 2026-11-02 09:00:00",
+    "date": "2026-06-08T11:01:09+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "9d662e898129b00f",
     "title": "Cours de Yoga Cap Yoga Club Capbreton",
     "link": "https://unidivers.fr/event/cours-de-yoga-cap-yoga-club-capbreton-landes-2026-07-03/",
@@ -3186,6 +3240,24 @@
     "category": "culture"
   },
   {
+    "id": "18b0f879cbf83ec2",
+    "title": "VISITE DE L’ÉGLISE ST JULIEN ET STE BASILISSE Torreilles",
+    "link": "https://unidivers.fr/event/visite-de-leglise-st-julien-et-ste-basilisse-torreilles-pyrenees-orientales-2026-07-03/",
+    "summary": "VISITE DE L'ÉGLISE ST JULIEN ET STE BASILISSE Rue de l'Eglise Torreilles Pyrénées-Orientales Mercredi 2026-08-07 10:00:00 2026-08-07",
+    "date": "2026-06-08T08:21:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "cfecd6598fbb96a0",
+    "title": "Portes-ouvertes au Domaine de Montgilet Les Garennes sur Loire",
+    "link": "https://unidivers.fr/event/portes-ouvertes-au-domaine-de-montgilet-les-garennes-sur-loire-maine-et-loire-2026-07-04/",
+    "summary": "Portes-ouvertes au Domaine de Montgilet Les Garennes sur Loire Maine-et-Loire 2026-07-04 2026-07-04",
+    "date": "2026-06-08T08:21:25+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "21ec5d6b5692f92e",
     "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
     "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
@@ -3201,6 +3273,15 @@
     "summary": "AWAVES, un projet européen pour le patrimoine culturel maritime ! Bretagne Culture Diversité fait rayonner son expertise en matière de patrimoine culturel immatériel à l’échelle européenne et valorise le patrimoine maritime breton en rejoignant un projet autour du patrimoine de l’Atlantique. Ce projet part du constat partagé par de nombreux acteurs des régions de l’arc atlantique […] The post AWAVES, un projet européen pour le patrimoine culturel maritime ! appeared first on Bretagne Culture Diversité .",
     "date": "2026-06-08T07:30:00+00:00",
     "source": "Bretagne Culture Diversité",
+    "category": "culture"
+  },
+  {
+    "id": "6d67202cae86fac1",
+    "title": "Atelier poterie Mad’In Aquíu Monein",
+    "link": "https://unidivers.fr/event/atelier-poterie-monein-pyrenees-atlantiques-2026-07-03/",
+    "summary": "Atelier poterie Mad'In Aquíu 48 rue du Commerce Monein Pyrénées-Atlantiques 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-08T07:28:05+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -3281,6 +3362,42 @@
     "link": "https://unidivers.fr/event/les-ateliers-tissage-de-tisse-brin-saint-lyphard-loire-atlantique-2026-07-03/",
     "summary": "Les Ateliers Tissage de Tisse-Brin Village de Kerhinet Saint-Lyphard Loire-Atlantique 2026-07-03 09:00:00 2026-07-03",
     "date": "2026-06-07T22:19:53+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "5d2cf5644171991e",
+    "title": "Week-end de vernissage de L’art dans les chapelles Les Bains Douches Pontivy",
+    "link": "https://unidivers.fr/event/week-end-de-vernissage-de-lart-dans-les-chapelles-pontivy-morbihan-2026-07-03/",
+    "summary": "Week-end de vernissage de L'art dans les chapelles Les Bains Douches 11 Quai Presbourg Pontivy Morbihan 2026-07-03 2026-07-03",
+    "date": "2026-06-07T22:19:53+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "f6cee5457e99c057",
+    "title": "Atelier des Tourbières Les petites bêtes Tourbières de Vendoire Vendoire",
+    "link": "https://unidivers.fr/event/atelier-des-tourbieres-les-petites-betes-vendoire-dordogne-2026-07-03/",
+    "summary": "Atelier des Tourbières Les petites bêtes Tourbières de Vendoire Le Petit Lion Vendoire Dordogne 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-07T22:19:52+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "bfcb217ce6081524",
+    "title": "English Guided tour Biarritz",
+    "link": "https://unidivers.fr/event/english-guided-tour-biarritz-pyrenees-atlantiques-2026-07-03/",
+    "summary": "English Guided tour Place des anciens combattants Biarritz Pyrénées-Atlantiques 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-07T22:19:52+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "ec6f66acbe6b4d40",
+    "title": "Les toutes-petites aventures histoires de mer, de plages et d’animaux de l’Océan PIERREFITTE-NESTALAS Pierrefitte-Nestalas",
+    "link": "https://unidivers.fr/event/les-toutes-petites-aventures-histoires-de-mer-de-plages-et-danimaux-de-locean-pierrefitte-nestalas-hautes-pyrenees-2026-07-03/",
+    "summary": "Les toutes-petites aventures histoires de mer, de plages et d’animaux de l’Océan PIERREFITTE-NESTALAS Ludo-médiathèque Pierrefitte-Nestalas Hautes-Pyrénées 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-06-07T22:19:52+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -3408,6 +3525,24 @@
     "summary": "À Vannes, l’Hôtel de Limur propose une démonstration de fabrication de fromage romain suivie de dégustations de fromage, de moretum et d’une boisson aromatisée romaine, en continu les 13 et 14 juin 2026.",
     "date": "2026-06-05T05:05:00+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "8748d1428109c069",
+    "title": "RDV des savoir-faire en Pays de Redon| Visite contée chez Les Simples de Cohan Peillac",
+    "link": "https://unidivers.fr/event/rdv-des-savoir-faire-en-pays-de-redon-visite-contee-chez-les-simples-de-cohan-peillac-morbihan-2026-07-03/",
+    "summary": "RDV des savoir-faire en Pays de Redon| Visite contée chez Les Simples de Cohan Cohan, 56220 Peillac Peillac Morbihan 2026-07-03 2026-07-03",
+    "date": "2026-06-04T18:36:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "02e7ed1e8e6d9d36",
+    "title": "Balade au fil de l’eau sur le canal de Haute Perche à Pornic Parking du Pont du Clion Pornic",
+    "link": "https://unidivers.fr/event/balade-au-fil-de-leau-sur-le-canal-de-haute-perche-a-pornic-pornic-loire-atlantique-2026-07-03/",
+    "summary": "Balade au fil de l'eau sur le canal de Haute Perche à Pornic Parking du Pont du Clion La Clion-sur-Mer Pornic Loire-Atlantique 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-06-04T18:36:26+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -3879,11 +4014,11 @@
     "category": "culture"
   },
   {
-    "id": "1e299e7bbc4910aa",
-    "title": "Ciné Tarmac Musée de l’Air et de l’Espace Le Bourget",
-    "link": "https://unidivers.fr/event/cine-tarmac-musee-de-lair-et-de-lespace-le-bourget-paris-2026-07-03t0200000200/",
-    "summary": "Ciné Tarmac Musée de l’Air et de l’Espace Le Bourget Les vendredi 3, samedi 4 et dimanche 5 juillet 2026, le cinéma revient au musée de l’Air et de l’Espace ! Les visiteurs profiteront d’un cinéma plein air original : le fuselage d’un Boeing 747 servira de toile de projection sur le tarmac du musée.",
-    "date": "2026-05-30T17:07:14+00:00",
+    "id": "8b4dab941428c234",
+    "title": "Animation – Visite gourmande, Musée des Arts et Traditions populaires (ATP), Draguignan",
+    "link": "https://unidivers.fr/event/animation-visite-gourmande-musee-des-arts-et-traditions-populaires-atp-draguignan-var-2026-07-03t1000000200/",
+    "summary": "3 juillet - 28 août, les vendredis Musée des Arts et Traditions populaires (ATP) Draguignan, 75 place Georges Brassens, Draguignan Musée des Arts et Traditions Populaires",
+    "date": "2026-05-31T21:47:30+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -3897,6 +4032,15 @@
     "category": "independants"
   },
   {
+    "id": "382d1a726750fa2f",
+    "title": "Pierreclos plage Pierreclos",
+    "link": "https://unidivers.fr/event/pierreclos-plage-pierreclos-saone-et-loire-2026-07-03/",
+    "summary": "Pierreclos plage Place du village Pierreclos Saône-et-Loire 2026-07-04 10:00:00 2026-07-04",
+    "date": "2026-05-28T09:41:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "87a185aa101f429e",
     "title": "Pollution dans le bassin nazairien : la CGT et des associations de riverains discuteront de leurs combats communs lors d’un forum animé par Samy Archimède",
     "link": "https://splann.org/forum-saint-nazaire-samy-archimede/",
@@ -3904,6 +4048,15 @@
     "date": "2026-05-28T06:00:50+00:00",
     "source": "Splann !",
     "category": "independants"
+  },
+  {
+    "id": "34b7357750264642",
+    "title": "Activité physique et sportive Maman bébé Saint-Hilaire-de-Chaléons",
+    "link": "https://unidivers.fr/event/activite-physique-et-sportive-maman-bebe-saint-hilaire-de-chaleons-loire-atlantique-2026-05-29/",
+    "summary": "Activité physique et sportive Maman bébé Salle Pierre Leduc Saint-Hilaire-de-Chaléons Loire-Atlantique 2026-06-05 10:00:00 2026-06-05",
+    "date": "2026-05-26T13:57:33+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
   },
   {
     "id": "6123cea93c64460d",
@@ -3942,6 +4095,24 @@
     "category": "culture"
   },
   {
+    "id": "16f51de692a1dda7",
+    "title": "Mimos (off) Umama Musée d’Art et d’Archéologie du Périgord Périgueux",
+    "link": "https://unidivers.fr/event/mimos-off-umama-perigueux-dordogne-2026-07-03/",
+    "summary": "Mimos (off) Umama Musée d'Art et d'Archéologie du Périgord 22 cours Tourny Périgueux Dordogne 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-05-22T12:10:41+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "71d8bc9904c95386",
+    "title": "Dégustation Champagne Dom Caudron Office de Tourisme du Grand Reims Reims",
+    "link": "https://unidivers.fr/event/degustation-champagne-dom-caudron-reims-marne-2026-07-03/",
+    "summary": "Dégustation Champagne Dom Caudron Office de Tourisme du Grand Reims 6 Rue Rockefeller Reims Marne 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-05-22T08:10:16+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "1c1a465dc6243d7d",
     "title": "Derniers jours pour commander nos livrets d’enquête sur les lycées agricoles et sur la crise de l’hôpital",
     "link": "https://splann.org/livrets-enquete-lycees-agricoles-hopital/",
@@ -3956,6 +4127,15 @@
     "link": "https://unidivers.fr/event/exposition-wen-lu-en-chemin-le-puy-en-velay-haute-loire-2026-07-03/",
     "summary": "Exposition Wèn Lù, en chemin Cloître et ensemble cathédrale du Puy-en-Velay 3 rue du Cloître Le Puy-en-Velay Haute-Loire 2026-07-03 09:30:00 2026-07-03 09:30:00",
     "date": "2026-05-18T14:58:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "57d2e767f225dccd",
+    "title": "Visite guidée la tour sud de la cathédrale Rue des gouverneurs Bayonne",
+    "link": "https://unidivers.fr/event/visite-guidee-la-tour-sud-de-la-cathedrale-bayonne-pyrenees-atlantiques-2026-07-03/",
+    "summary": "Visite guidée la tour sud de la cathédrale Rue des gouverneurs Parvis cathédrale Bayonne Pyrénées-Atlantiques 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-05-18T12:49:33+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -3978,6 +4158,24 @@
     "category": "culture"
   },
   {
+    "id": "29ee08da1d468eb8",
+    "title": "A la découverte du gemmage Bernos-Beaulac",
+    "link": "https://unidivers.fr/event/a-la-decouverte-du-gemmage-bernos-beaulac-gironde-2026-07-03/",
+    "summary": "A la découverte du gemmage Bacourey Bernos-Beaulac Gironde 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-05-18T12:08:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "484642287d678d22",
+    "title": "Les Papilles en Folie Office de Tourisme du Pays Mellois Melle",
+    "link": "https://unidivers.fr/event/les-papilles-en-folie-melle-deux-sevres-2026-07-03/",
+    "summary": "Les Papilles en Folie Office de Tourisme du Pays Mellois 2 Place Bujault Melle Deux-Sèvres 2026-08-07 10:00:00 2026-08-07",
+    "date": "2026-05-18T10:58:12+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "616a6aea0a53dd79",
     "title": "Ciné-concert pour clôturer le cycle le 19 juin",
     "link": "https://www.bcd.bzh/bcd/cine-concert-cloture-19-juin/",
@@ -3996,6 +4194,15 @@
     "category": "culture"
   },
   {
+    "id": "d881a6a5e5985145",
+    "title": "Médiévales de Bayeux Bayeux",
+    "link": "https://unidivers.fr/event/medievales-de-bayeux-bayeux-calvados-2026-07-03/",
+    "summary": "Médiévales de Bayeux Centre ville de Bayeux Bayeux Calvados 2026-07-04 10:00:00 2026-07-04 10:00:00",
+    "date": "2026-05-14T15:31:23+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "691b49bc1f57e905",
     "title": "BALADE NATURE LES OISEAUX DU BÂTI Treilles",
     "link": "https://unidivers.fr/event/balade-nature-les-oiseaux-du-bati-treilles-aude-2026-07-03/",
@@ -4010,6 +4217,24 @@
     "link": "https://unidivers.fr/event/visite-dune-fruitiere-a-comte-et-degustation-belleherbe-doubs-2026-07-03/",
     "summary": "Visite d'une fruitière à comté et dégustation Fruitière du plateau de Belleherbe 24 Grande Rue Belleherbe Doubs 2026-07-07 09:00:00 2026-07-07",
     "date": "2026-05-14T13:56:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "836b3be0340508b0",
+    "title": "Concours International de Lutherie et d’Archèterie de Mirecourt Salon Professionnel Espace Robert Flambeau Mirecourt",
+    "link": "https://unidivers.fr/event/concours-international-de-lutherie-et-darcheterie-de-mirecourt-salon-professionnel-mirecourt-vosges-2026-07-03/",
+    "summary": "Concours International de Lutherie et d'Archèterie de Mirecourt Salon Professionnel Espace Robert Flambeau 19 Avenue Charles Duchêne Mirecourt Vosges Vendredi Dimanche 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-05-14T10:03:55+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "56ccfaa1b84d2935",
+    "title": "Concours International de Lutherie et d’Archèterie Exposition des Instruments et Archets Espace Robert Flambeau Mirecourt",
+    "link": "https://unidivers.fr/event/concours-international-de-lutherie-et-darcheterie-exposition-des-instruments-et-archets-mirecourt-vosges-2026-07-03/",
+    "summary": "Concours International de Lutherie et d'Archèterie Exposition des Instruments et Archets Espace Robert Flambeau 19 Avenue Charles Duchêne Mirecourt Vosges Vendredi Dimanche 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-05-14T09:20:01+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4077,6 +4302,24 @@
     "category": "festivals"
   },
   {
+    "id": "a31f1e9ee4f85918",
+    "title": "Découverte ludique des plantes aromatiques et médicinales Santé Joyeuse Cours-de-Pile",
+    "link": "https://unidivers.fr/event/decouverte-ludique-des-plantes-aromatiques-et-medicinales-cours-de-pile-dordogne-2026-07-03/",
+    "summary": "Découverte ludique des plantes aromatiques et médicinales Santé Joyeuse 95 Rue des Gabariers Cours-de-Pile Dordogne 2026-07-03 10:00:00 2026-07-03",
+    "date": "2026-05-05T06:13:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "d943e7b4cf3b3339",
+    "title": "Séance de sophrologie Bulle de nature Blainville-sur-Mer",
+    "link": "https://unidivers.fr/event/seance-de-sophrologie-bulle-de-nature-blainville-sur-mer-manche-2026-07-03/",
+    "summary": "Séance de sophrologie Bulle de nature 30 Chemin de l'Amour Blainville-sur-Mer Manche 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-05-05T06:13:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "524d12294056354b",
     "title": "💬Les interviews de la Fête du court",
     "link": "https://www.filmcourt.fr/💬Les-interviews-de-la-Fete-du-court.html",
@@ -4135,6 +4378,42 @@
     "title": "Festival du Lin Expositions Sotteville-sur-Mer",
     "link": "https://unidivers.fr/event/festival-du-lin-expositions-sotteville-sur-mer-seine-maritime-2026-07-03/",
     "summary": "Festival du Lin Expositions Salle La Bergerie La Longère Eglise Sotteville-sur-Mer Seine-Maritime Vendredi Vendredi 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-04-24T13:57:22+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "2613a9a0cd5bc921",
+    "title": "Festival du Lin Expositions Veules-les-Roses",
+    "link": "https://unidivers.fr/event/festival-du-lin-expositions-veules-les-roses-seine-maritime-2026-07-03/",
+    "summary": "Festival du Lin Expositions Chapelle St Michel Les cressonnières le Monde de Zulma Veules-les-Roses Seine-Maritime Vendredi Vendredi 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-04-24T13:57:22+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "b9c78cb924f1276a",
+    "title": "Festival du Lin Exposition Le Bourg-Dun",
+    "link": "https://unidivers.fr/event/festival-du-lin-exposition-le-bourg-dun-seine-maritime-2026-07-03/",
+    "summary": "Festival du Lin Exposition Chapelle St Julien de Flainville- Eglise Le Bourg-Dun Seine-Maritime Vendredi Vendredi 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-04-24T13:57:22+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "e29c1b53eff47e79",
+    "title": "Festival du Lin Atelier de broderie collective sur toile de lin Saint-Pierre-le-Viger",
+    "link": "https://unidivers.fr/event/festival-du-lin-atelier-de-broderie-collective-sur-toile-de-lin-saint-pierre-le-viger-seine-maritime-2026-07-03/",
+    "summary": "Festival du Lin Atelier de broderie collective sur toile de lin Saint-Pierre-le-Viger Seine-Maritime Vendredi Vendredi 2026-07-03 10:00:00 2026-07-03 10:00:00",
+    "date": "2026-04-24T13:57:22+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "5dabc28ff6cda2bf",
+    "title": "Festival du Lin Expositions Saint-Aubin-sur-Mer",
+    "link": "https://unidivers.fr/event/festival-du-lin-expositions-saint-aubin-sur-mer-seine-maritime-2026-07-03/",
+    "summary": "Festival du Lin Expositions Eglise St Aubin Saint-Aubin-sur-Mer Seine-Maritime Vendredi Vendredi 2026-07-03 10:00:00 2026-07-03 10:00:00",
     "date": "2026-04-24T13:57:22+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4381,231 +4660,6 @@
     "date": "2026-04-06T08:15:11+00:00",
     "source": "Le Peuple Breton",
     "category": "independants"
-  },
-  {
-    "id": "d7cc2f5bb476cd36",
-    "title": "FESTI’MALEMORT 2026 – VENDREDI TERRAIN PASTEUR Malemort",
-    "link": "https://unidivers.fr/event/festimalemort-2026-vendredi-terrain-pasteur-malemort-2026-07-03/",
-    "summary": "2026-07-03 à 18:00 FESTI'MALEMORT 2026 - VENDREDI TERRAIN PASTEUR AVENUE DE LA RIANTE BORIE 19360 Malemort 19",
-    "date": "2026-04-03T20:36:48+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "318b23575ed338d7",
-    "title": "LES ESTIVALES DES ARENES – VENDREDI ARENES ROLAND PORTALIER Parentis En Born",
-    "link": "https://unidivers.fr/event/les-estivales-des-arenes-vendredi-arenes-roland-portalier-parentis-en-born-2026-07-03/",
-    "summary": "2026-07-03 à 18:30 LES ESTIVALES DES ARENES - VENDREDI ARENES ROLAND PORTALIER RUE DU CHATEAU D'EAU 40160 Parentis En Born 40",
-    "date": "2026-04-03T20:36:48+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "6f74a30e1aa02e53",
-    "title": "ARTESIA GALAXIE Bezannes",
-    "link": "https://unidivers.fr/event/artesia-galaxie-bezannes-2026-07-03/",
-    "summary": "2026-07-03 à 20:30 ARTESIA GALAXIE 5 RUE DE TETES DE FER 51430 Bezannes 51",
-    "date": "2026-04-03T20:36:48+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "e7f6266c058e2d95",
-    "title": "AMANT MALGRE LUI THEATRE DES CHARTRONS Bordeaux",
-    "link": "https://unidivers.fr/event/amant-malgre-lui-theatre-des-chartrons-bordeaux-2026-07-03/",
-    "summary": "2026-07-03 à 20:30 AMANT MALGRE LUI THEATRE DES CHARTRONS 170, COURS DU MEDOC 33000 Bordeaux 33",
-    "date": "2026-04-03T20:36:48+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "0f692577a7888479",
-    "title": "10E NDC FESTIVAL – PASS 2 JOURS – PASS 2 JOURS TERRAIN DE SPORT – PORQUERICOURT Porquericourt",
-    "link": "https://unidivers.fr/event/10e-ndc-festival-pass-2-jours-pass-2-jours-terrain-de-sport-porquericourt-porquericourt-2026-07-03/",
-    "summary": "2026-07-03 à 00:00 10E NDC FESTIVAL - PASS 2 JOURS - PASS 2 JOURS TERRAIN DE SPORT - PORQUERICOURT . 60400 Porquericourt 60",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "35b99b64006879c2",
-    "title": "FESTI’MALEMORT 2026 – 2 JOURS – PASS 2 JOURS TERRAIN PASTEUR Malemort",
-    "link": "https://unidivers.fr/event/festimalemort-2026-2-jours-pass-2-jours-terrain-pasteur-malemort-2026-07-03/",
-    "summary": "2026-07-03 à 00:00 FESTI'MALEMORT 2026 - 2 JOURS - PASS 2 JOURS TERRAIN PASTEUR AVENUE DE LA RIANTE BORIE 19360 Malemort 19",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "cb01cee73916be42",
-    "title": "O LAC FESTIVAL – PASS 1 JOUR AFTER – PASS VENDREDI AFTER O LAC Chateauneuf Sur Isere",
-    "link": "https://unidivers.fr/event/o-lac-festival-pass-1-jour-after-pass-vendredi-after-o-lac-chateauneuf-sur-isere-2026-07-03/",
-    "summary": "2026-07-03 à 17:00 O LAC FESTIVAL - PASS 1 JOUR AFTER - PASS VENDREDI AFTER O LAC 430 ROUTE DU LAC 26300 Chateauneuf Sur Isere 26",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "9a0d7ffe3052a6d3",
-    "title": "10E NDC FESTIVAL – PASS 1 JOUR – PASS VENDREDI TERRAIN DE SPORT – PORQUERICOURT Porquericourt",
-    "link": "https://unidivers.fr/event/10e-ndc-festival-pass-1-jour-pass-vendredi-terrain-de-sport-porquericourt-porquericourt-2026-07-03/",
-    "summary": "2026-07-03 à 18:00 10E NDC FESTIVAL - PASS 1 JOUR - PASS VENDREDI TERRAIN DE SPORT - PORQUERICOURT . 60400 Porquericourt 60",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "4b4929af536584af",
-    "title": "KAMINI & ANTHONY JOUBERT CASINO TERRAZUR Cagnes Sur Mer",
-    "link": "https://unidivers.fr/event/kamini-anthony-joubert-casino-terrazur-cagnes-sur-mer-2026-07-03/",
-    "summary": "2026-07-03 à 20:00 KAMINI & ANTHONY JOUBERT CASINO TERRAZUR 421 AV DE LA SANTOLINE 06800 Cagnes Sur Mer 06",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "6b8d7750bed47c27",
-    "title": "HERITIER WATA ZENITH PARIS – LA VILLETTE Paris",
-    "link": "https://unidivers.fr/event/heritier-wata-zenith-paris-la-villette-paris-2026-07-03/",
-    "summary": "2026-07-03 à 20:00 HERITIER WATA ZENITH PARIS - LA VILLETTE 211 AVENUE JEAN JAURÈS 75019 Paris 75",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "05110ce62644fdde",
-    "title": "ORCHESTRE DE CHAMBRE DE SLOVAQUIE VO2 – CORMONTREUIL Cormontreuil",
-    "link": "https://unidivers.fr/event/orchestre-de-chambre-de-slovaquie-vo2-cormontreuil-cormontreuil-2026-07-03/",
-    "summary": "2026-07-03 à 20:00 ORCHESTRE DE CHAMBRE DE SLOVAQUIE VO2 - CORMONTREUIL 16 BD ALSACE LORRAINE 51350 Cormontreuil 51",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "656c5d7c7d88b2b1",
-    "title": "LA GUERRE DES SEXES AURA-T-ELLE LIEU THEATRE DES CHARTRONS Bordeaux",
-    "link": "https://unidivers.fr/event/la-guerre-des-sexes-aura-t-elle-lieu-theatre-des-chartrons-bordeaux-2026-07-03/",
-    "summary": "2026-07-03 à 20:30 LA GUERRE DES SEXES AURA-T-ELLE LIEU THEATRE DES CHARTRONS 170, COURS DU MEDOC 33000 Bordeaux 33",
-    "date": "2026-04-03T20:36:47+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "611fa00360fc88b0",
-    "title": "LA KERMESSE FESTIVAL – PASS 3 JOURS – PASS 3 JOURS THEATRE DE VERDURE Nice",
-    "link": "https://unidivers.fr/event/la-kermesse-festival-pass-3-jours-pass-3-jours-theatre-de-verdure-nice-2026-07-03/",
-    "summary": "2026-07-03 à 00:00 LA KERMESSE FESTIVAL - PASS 3 JOURS - PASS 3 JOURS THEATRE DE VERDURE 1 PROMENADE DES ANGLAIS 06000 Nice 06",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "f8d347865501ce31",
-    "title": "O LAC FESTIVAL – PASS 3 JOURS AFTER – PASS 3 JOURS AFTER O LAC Chateauneuf Sur Isere",
-    "link": "https://unidivers.fr/event/o-lac-festival-pass-3-jours-after-pass-3-jours-after-o-lac-chateauneuf-sur-isere-2026-07-03/",
-    "summary": "2026-07-03 à 00:00 O LAC FESTIVAL - PASS 3 JOURS AFTER - PASS 3 JOURS AFTER O LAC 430 ROUTE DU LAC 26300 Chateauneuf Sur Isere 26",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "90be120cfac89a2b",
-    "title": "O LAC FESTIVAL – PASS 3 JOURS – PASS 3 JOURS O LAC Chateauneuf Sur Isere",
-    "link": "https://unidivers.fr/event/o-lac-festival-pass-3-jours-pass-3-jours-o-lac-chateauneuf-sur-isere-2026-07-03/",
-    "summary": "2026-07-03 à 00:00 O LAC FESTIVAL - PASS 3 JOURS - PASS 3 JOURS O LAC 430 ROUTE DU LAC 26300 Chateauneuf Sur Isere 26",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "8fb9eacfe12e42aa",
-    "title": "ELVIS COSTELLO & THE IMPOSTERS L’OLYMPIA Paris",
-    "link": "https://unidivers.fr/event/elvis-costello-the-imposters-lolympia-paris-2026-07-03/",
-    "summary": "2026-07-03 à 19:30 ELVIS COSTELLO & THE IMPOSTERS L'OLYMPIA 28, BVD DES CAPUCINES 75009 Paris 75",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "7cd2f74be182b675",
-    "title": "JULIEN DORE ARENES DE LUNEL Lunel",
-    "link": "https://unidivers.fr/event/julien-dore-arenes-de-lunel-lunel-2026-07-03/",
-    "summary": "2026-07-03 à 20:00 JULIEN DORE ARENES DE LUNEL 277A RUE TIVOLI 34400 Lunel 34",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "08ea3b209cb6b33e",
-    "title": "GUSTAVE PARKING COMEDIE LE MANS Le Mans",
-    "link": "https://unidivers.fr/event/gustave-parking-comedie-le-mans-le-mans-2026-07-03/",
-    "summary": "2026-07-03 à 21:00 GUSTAVE PARKING COMEDIE LE MANS 37 RUE NATIONALE 72000 Le Mans 72",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "4fe1b5e8c50a1fee",
-    "title": "MOYA – MOYA – ZIP ZAP CIRCUS AMPHITHEATRE’de Plein Air’CLAUDE NOUGARO Beziers",
-    "link": "https://unidivers.fr/event/moya-moya-zip-zap-circus-amphitheatrede-plein-airclaude-nougaro-beziers-2026-07-03/",
-    "summary": "2026-07-03 à 21:45 MOYA - MOYA - ZIP ZAP CIRCUS AMPHITHEATRE'de Plein Air'CLAUDE NOUGARO DOMAINE DEPT DE BAYSSAN 34500 Beziers 34",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "6058a44358e7e1bb",
-    "title": "LE MANS CLASSIC LEGEND – VENDREDI CIRCUIT DU MANS Le Mans Cedex 2",
-    "link": "https://unidivers.fr/event/le-mans-classic-legend-vendredi-circuit-du-mans-le-mans-cedex-2-2026-07-03/",
-    "summary": "2026-07-03 à 23:59 LE MANS CLASSIC LEGEND - VENDREDI CIRCUIT DU MANS PLACE LUIGI CHINETTI 72019 Le Mans Cedex 2 72",
-    "date": "2026-04-03T20:36:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "0a4c8ac861952de6",
-    "title": "LES ESTIVALES DES ARENES – 3 JOURS – PASS 3 JOURS ARENES ROLAND PORTALIER Parentis En Born",
-    "link": "https://unidivers.fr/event/les-estivales-des-arenes-3-jours-pass-3-jours-arenes-roland-portalier-parentis-en-born-2026-07-03/",
-    "summary": "2026-07-03 à 00:00 LES ESTIVALES DES ARENES - 3 JOURS - PASS 3 JOURS ARENES ROLAND PORTALIER RUE DU CHATEAU D'EAU 40160 Parentis En Born 40",
-    "date": "2026-04-03T20:36:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "9bfc7294bf044ed8",
-    "title": "NATE SMITH LAKECIA BENJAMIN DOMAINE DE FONTBLANCHE Vitrolles",
-    "link": "https://unidivers.fr/event/nate-smith-lakecia-benjamin-domaine-de-fontblanche-vitrolles-2026-07-03/",
-    "summary": "2026-07-03 à 18:30 NATE SMITH LAKECIA BENJAMIN DOMAINE DE FONTBLANCHE 4 Allée des artistes 13127 Vitrolles 13",
-    "date": "2026-04-03T20:36:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "72c00057f1d7553a",
-    "title": "ALLAH-LAS CATHEDRALE WORLD BRAIN LE BIKINI Ramonville St Agne",
-    "link": "https://unidivers.fr/event/allah-las-cathedrale-world-brain-le-bikini-ramonville-st-agne-2026-07-03/",
-    "summary": "2026-07-03 à 19:00 ALLAH-LAS CATHEDRALE WORLD BRAIN LE BIKINI Parc Technologique du Canal 31520 Ramonville St Agne 31",
-    "date": "2026-04-03T20:36:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "97d666f4c7792245",
-    "title": "PUBLIC HOUSE PALOMA – PATIO Nimes",
-    "link": "https://unidivers.fr/event/public-house-paloma-patio-nimes-2026-07-03/",
-    "summary": "2026-07-03 à 20:30 PUBLIC HOUSE PALOMA - PATIO 250 CHEMIN DE L'AERODROME 30000 Nimes 30",
-    "date": "2026-04-03T20:36:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d816d1f5daaa08b9",
-    "title": "BORDERLINE COMEDIE DE GRENOBLE Grenoble",
-    "link": "https://unidivers.fr/event/borderline-comedie-de-grenoble-grenoble-2026-07-03/",
-    "summary": "2026-07-03 à 21:00 BORDERLINE COMEDIE DE GRENOBLE 1 RUE PIERRE DUPONT 38000 Grenoble 38",
-    "date": "2026-04-03T20:36:45+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
   },
   {
     "id": "491e6fbd377d0eec",
@@ -5229,15 +5283,6 @@
     "category": "culture"
   },
   {
-    "id": "55fa8840da2d1eef",
-    "title": "GREEN FESTIVAL – PASS 1 JOUR LAC DE MONTEUX Monteux",
-    "link": "https://unidivers.fr/event/green-festival-pass-1-jour-lac-de-monteux-monteux-2026-07-03/",
-    "summary": "2026-07-03 à 19:00 GREEN FESTIVAL - PASS 1 JOUR LAC DE MONTEUX AVENUE DU LAC 84170 Monteux 84",
-    "date": "2026-01-12T10:16:12+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "ebab35388d66226e",
     "title": "Spectacle Bébés lecteurs Route de la Plage Vielle-Saint-Girons",
     "link": "https://unidivers.fr/event/spectacle-bebes-lecteurs-vielle-saint-girons-landes-2026-07-03/",
@@ -5252,24 +5297,6 @@
     "link": "https://unidivers.fr/event/concert-volgelsheim-haut-rhin-2026-07-03/",
     "summary": "Concert 1 rue de la clef de sol Volgelsheim Haut-Rhin Vendredi 2026-07-03 2026-07-03",
     "date": "2026-01-08T13:31:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "52fe36aa3c6eea5d",
-    "title": "Do You Remember Festival Théâtre Madeleine-Renaud Taverny",
-    "link": "https://unidivers.fr/event/do-you-remember-festival-theatre-madeleine-renaud-taverny-paris-2026-07-03t0200000200/",
-    "summary": "Do You Remember Festival Théâtre Madeleine-Renaud Taverny Profitez de ces 2 jours pour vous replonger dans vos souvenirs et revivre des moments remplis d’émotions aux côtés d’artistes exceptionnels.",
-    "date": "2026-01-07T03:51:07+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "aa7fc73e5b44936a",
-    "title": "Yardland, le festival dédié aux cultures populaires Hippodrome de Paris-Vincennes Paris",
-    "link": "https://unidivers.fr/event/yardland-le-festival-dedie-aux-cultures-populaires-hippodrome-de-paris-vincennes-paris-paris-2026-07-03t0200000200/",
-    "summary": "Yardland, le festival dédié aux cultures populaires Hippodrome de Paris-Vincennes Paris Le Yardland Festival met en lumière la diversité et le dynamisme du rap. Il propose une programmation éclectique qui réunit aussi bien des artistes internationalement reconnus que des talents émergents, mettant en scène le passé, le présent et l’avenir de ce genre musical. Les paroles percutantes, les rythmes contagieux et les performances enflammées se mêlent pour créer une expérience musicale envoûtante.",
-    "date": "2026-01-07T03:51:07+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5306,33 +5333,6 @@
     "link": "https://unidivers.fr/event/neufest-neufgrange-moselle-2026-07-03/",
     "summary": "Neufest Neufest 10 rue de l'Union Neufgrange Moselle Vendredi Vendredi 2026-07-03 2026-07-03",
     "date": "2025-12-24T19:46:33+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "1e7b66a7eae6fdba",
-    "title": "CARBONNE / MAGIC SYSTEM / HYPATON – SCENE PRINCIPALE-Plein Air Avoine",
-    "link": "https://unidivers.fr/event/carbonne-magic-system-hypaton-scene-principale-plein-air-avoine-2026-07-03/",
-    "summary": "2026-07-03 à 20:30 CARBONNE / MAGIC SYSTEM / HYPATON SCENE PRINCIPALE-Plein Air RUE GEORGES JOUBERT 37420 Avoine 37",
-    "date": "2025-12-20T13:52:23+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "bd8c99d6db8e8376",
-    "title": "VANESSA PARADIS – JARDIN PUBLIC DE COGNAC Cognac",
-    "link": "https://unidivers.fr/event/vanessa-paradis-jardin-public-de-cognac-cognac-2026-07-03/",
-    "summary": "2026-07-03 à 18:00 VANESSA PARADIS JARDIN PUBLIC DE COGNAC BLD DENFERT-ROCHEREAU 16100 Cognac 16",
-    "date": "2025-12-20T13:40:31+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "976e75e69cadc119",
-    "title": "LAURENT GERRA – CHATEAU DE L’EMPERI Salon De Provence",
-    "link": "https://unidivers.fr/event/laurent-gerra-chateau-de-lemperi-salon-de-provence-2026-07-03/",
-    "summary": "2026-07-03 à 21:30 LAURENT GERRA CHATEAU DE L'EMPERI COUR D'HONNEUR 13300 Salon De Provence 13",
-    "date": "2025-12-20T13:39:44+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
