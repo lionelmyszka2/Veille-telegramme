@@ -198,21 +198,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "c6dc974ed8eddb15",
-    "title": "« Ils quittent leur maison pour un projet de vie éphémère » : en Cornouaille, le camping-car séduit une nouvelle clientèle",
-    "link": "https://www.letelegramme.fr/finistere/quimper-29000/ils-quittent-leur-maison-pour-un-projet-de-vie-ephemere-en-cornouaille-le-camping-car-seduit-une-nouvelle-clientele-7078037.php",
-    "summary": "Au lancement de l’été 2026, les concessions cornouaillaises de camping-cars voient défiler une nouvelle clientèle, plus jeune. Elle troque désormais les voyages en avion pour le tourisme local et l’aventure itinérante.",
-    "date": "2026-07-05T16:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "606a0318198a0f5d",
     "title": "« Une seconde montgolfière est indispensable » : le défi fou de la réalisatrice Ariel Neo, au domaine départemental de Trévarez",
     "link": "https://www.letelegramme.fr/finistere/saint-goazec-29520/une-seconde-montgolfiere-est-indispensable-le-defi-fou-de-la-realisatrice-ariel-neo-a-trevarez-7077959.php",
     "summary": "Un ballon de la taille d’un immeuble de huit étages fabriqué de toutes pièces dans le Finistère. C’est le pari fou de la réalisatrice briécoise Ariel Neo et de l’association Azeline, pour les besoins d’un film. Un chantier participatif inédit qui s’apprête à décoller au domaine départemental de Trévarez.",
     "date": "2026-07-05T16:00:00+00:00",
     "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "c6dc974ed8eddb15",
+    "title": "« Ils quittent leur maison pour un projet de vie éphémère » : en Cornouaille, le camping-car séduit une nouvelle clientèle",
+    "link": "https://www.letelegramme.fr/finistere/quimper-29000/ils-quittent-leur-maison-pour-un-projet-de-vie-ephemere-en-cornouaille-le-camping-car-seduit-une-nouvelle-clientele-7078037.php",
+    "summary": "Au lancement de l’été 2026, les concessions cornouaillaises de camping-cars voient défiler une nouvelle clientèle, plus jeune. Elle troque désormais les voyages en avion pour le tourisme local et l’aventure itinérante.",
+    "date": "2026-07-05T16:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -401,7 +401,7 @@
     "link": "https://www.letelegramme.fr/finistere/carhaix-29270/le-plus-dur-cetait-la-chaleur-a-gerer-et-les-crampes-les-six-heures-vtt-de-carhaix-en-mode-etuve-7077838.php",
     "summary": "Sous un soleil de plomb à la vallée de l’Hyères, les Six heures VTT de Carhaix ont réuni 142 cyclistes bretons. Une édition festive et exigeante où les organismes ont été éprouvés.",
     "date": "2026-07-05T10:57:10+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -411,6 +411,15 @@
     "summary": "Maire de Locmaria (56), sur Belle-Île-en-Mer, Dominique Rousselot est mort, samedi 4 juillet, à la suite d’un malaise cardiaque. Après une altercation, il n’a pu être réanimé. Un plaisancier a été placé en garde à vue.",
     "date": "2026-07-05T10:31:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "528710831a4123d1",
+    "title": "Aquarelle, visite historique en 3D et vieux métiers : que faire dans le secteur Châteaulin-Carhaix ce lundi 6 juillet ?",
+    "link": "https://www.letelegramme.fr/finistere/chateaulin-29150/aquarelle-visite-historique-en-3d-et-vieux-metiers-que-faire-dans-le-secteur-chateaulin-carhaix-ce-lundi-6-juillet-7077749.php",
+    "summary": "En ce lundi ensoleillé, voici trois idées de sorties dans les pays de Châteaulin et Carhaix, entre vieux métiers, histoire et aquarelle.",
+    "date": "2026-07-05T10:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -429,15 +438,6 @@
     "summary": "Voici notre sélection d’idées de sorties dans le pays de Brest pour ce lundi 6 juillet 2026, entre histoire, chocolat et balade contée en bord de mer.",
     "date": "2026-07-05T10:00:00+00:00",
     "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
-    "id": "528710831a4123d1",
-    "title": "Aquarelle, visite historique en 3D et vieux métiers : que faire dans le secteur Châteaulin-Carhaix ce lundi 6 juillet ?",
-    "link": "https://www.letelegramme.fr/finistere/chateaulin-29150/aquarelle-visite-historique-en-3d-et-vieux-metiers-que-faire-dans-le-secteur-chateaulin-carhaix-ce-lundi-6-juillet-7077749.php",
-    "summary": "En ce lundi ensoleillé, voici trois idées de sorties dans les pays de Châteaulin et Carhaix, entre vieux métiers, histoire et aquarelle.",
-    "date": "2026-07-05T10:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -540,15 +540,6 @@
     "category": "presse-locale"
   },
   {
-    "id": "46fbd3d18b9b3f28",
-    "title": "« Le climat tempéré breton, c’est fini » : à Malestroit, les inondations et les canicules cognent déjà durement",
-    "link": "https://www.letelegramme.fr/bretagne/le-climat-tempere-breton-cest-fini-a-malestroit-les-inondations-et-les-canicules-cognent-deja-durement-7077474.php",
-    "summary": "Entre quarante jours d’inondations, l’hiver dernier, et d’intenses chaleurs dès le début de l’été, Malestroit (56) fait partie de ces communes bretonnes déjà bien touchées par le réchauffement climatique. Reportage.",
-    "date": "2026-07-05T04:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "0593e3dacc43dbe5",
     "title": "Comment fait-on pour adopter un enfant en France ?",
     "link": "https://www.letelegramme.fr/bretagne/comment-fait-on-pour-adopter-un-enfant-en-france-7077520.php",
@@ -564,6 +555,15 @@
     "summary": "Entre des agréments à l’international qui se sont réduits comme peau de chagrin et des délais à améliorer sur le territoire national, les candidats à l’adoption doivent plus que jamais s’armer de patience. La Bretagne ne fait pas exception mais témoigne de belles histoires. Comme celle de Jules Sarb-Courtais, à Guidel (56).",
     "date": "2026-07-05T04:00:00+00:00",
     "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "46fbd3d18b9b3f28",
+    "title": "« Le climat tempéré breton, c’est fini » : à Malestroit, les inondations et les canicules cognent déjà durement",
+    "link": "https://www.letelegramme.fr/bretagne/le-climat-tempere-breton-cest-fini-a-malestroit-les-inondations-et-les-canicules-cognent-deja-durement-7077474.php",
+    "summary": "Entre quarante jours d’inondations, l’hiver dernier, et d’intenses chaleurs dès le début de l’été, Malestroit (56) fait partie de ces communes bretonnes déjà bien touchées par le réchauffement climatique. Reportage.",
+    "date": "2026-07-05T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -644,7 +644,7 @@
     "link": "https://www.letelegramme.fr/finistere/carhaix-29270/nous-pensions-que-la-loi-etait-partout-la-meme-une-derogation-pour-les-bars-pendant-la-coupe-du-monde-reclamee-par-ces-conseillers-departementaux-de-carhaix-7077517.php",
     "summary": "Face aux matchs tardifs de la Coupe du monde, les conseillers départementaux de Carhaix demandent une dérogation préfectorale pour les bars locaux, exigeant la même égalité horaire que sur le littoral.",
     "date": "2026-07-04T14:54:53+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -747,21 +747,21 @@
     "category": "culture"
   },
   {
-    "id": "d95c46309b8b17b3",
-    "title": "« On y participe avant tout pour le plaisir » : des Plouzanéens au Mondial d'agility canin an Allemagne",
-    "link": "https://www.letelegramme.fr/finistere/plouzane-29280/on-y-participe-avant-tout-pour-le-plaisir-des-plouzaneens-au-mondial-dagility-canin-an-allemagne-7076709.php",
-    "summary": "La famille Menesguen, de Plouzané, et son épagneul Salto s’apprêtent à disputer la « Junior & senior agility open championship 2026 », à Mannheim, en Allemagne, du 10 au 12 juillet 2026. Une aventure qui a du chien.",
-    "date": "2026-07-04T04:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "a536fcfd0f102262",
     "title": "« Il ne s’agit pas de culpabiliser le public, mais de lui donner des clés » : les Vieilles Charrues proposent un outil pour calculer son empreinte carbone selon le mode de transport",
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/vieilles-charrues/il-ne-sagit-pas-de-culpabiliser-le-public-mais-de-lui-donner-des-cles-les-vieilles-charrues-proposent-un-outil-pour-calculer-son-empreinte-carbone-selon-le-mode-de-transport-7077136.php",
     "summary": "Cette année, les Vieilles Charrues ont mis en place un nouvel outil sur leur site internet. Il permet de calculer l’empreinte carbone des spectateurs selon leur mode de transport, et s’inscrit dans la démarche environnementale du festival.",
     "date": "2026-07-04T04:00:00+00:00",
     "source": "Le Télégramme – Carhaix",
+    "category": "presse-locale"
+  },
+  {
+    "id": "d95c46309b8b17b3",
+    "title": "« On y participe avant tout pour le plaisir » : des Plouzanéens au Mondial d'agility canin an Allemagne",
+    "link": "https://www.letelegramme.fr/finistere/plouzane-29280/on-y-participe-avant-tout-pour-le-plaisir-des-plouzaneens-au-mondial-dagility-canin-an-allemagne-7076709.php",
+    "summary": "La famille Menesguen, de Plouzané, et son épagneul Salto s’apprêtent à disputer la « Junior & senior agility open championship 2026 », à Mannheim, en Allemagne, du 10 au 12 juillet 2026. Une aventure qui a du chien.",
+    "date": "2026-07-04T04:00:00+00:00",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -810,15 +810,6 @@
     "category": "presse-locale"
   },
   {
-    "id": "cae462e25413244c",
-    "title": "Pour le nageur triple champion olympique Jérémy Stravius, parrain des Balades bigoudènes, « venir à l’Île-Tudy, c’est devenu un rituel annuel »",
-    "link": "https://www.letelegramme.fr/finistere/ile-tudy-29980/pour-le-nageur-triple-champion-olympique-jeremy-stravius-parrain-des-balades-bigoudenes-venir-a-lile-tudy-cest-devenu-un-rituel-annuel-7077233.php",
-    "summary": "Cette année encore, le triple champion olympique Jérémy Stravius de natation endosse le rôle de parrain des Balades bigoudènes à l’Île-Tudy. Entre partage d’expérience et passion de nage en eau libre, l’athlète se confie sur son attachement à l’événement, qui aura lieu ce samedi 4 et dimanche 5 juillet 2026.",
-    "date": "2026-07-03T17:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "faec282f21f798de",
     "title": "« C’est notre troisième crise financière, mais on a remonté toutes les pentes » : à Carhaix, Ti Récup à nouveau dans la tourmente",
     "link": "https://www.letelegramme.fr/finistere/carhaix-29270/cest-notre-troisieme-crise-financiere-mais-on-a-remonte-toutes-les-pentes-a-carhaix-ti-recup-a-nouveau-dans-la-tourmente-7077031.php",
@@ -834,6 +825,15 @@
     "summary": "Tonnage d’objets collectés en hausse mais nombre d’objets en baisse. De quoi a été faite l’année 2025 à Ti Récup ?",
     "date": "2026-07-03T17:00:00+00:00",
     "source": "Le Télégramme – Carhaix",
+    "category": "presse-locale"
+  },
+  {
+    "id": "cae462e25413244c",
+    "title": "Pour le nageur triple champion olympique Jérémy Stravius, parrain des Balades bigoudènes, « venir à l’Île-Tudy, c’est devenu un rituel annuel »",
+    "link": "https://www.letelegramme.fr/finistere/ile-tudy-29980/pour-le-nageur-triple-champion-olympique-jeremy-stravius-parrain-des-balades-bigoudenes-venir-a-lile-tudy-cest-devenu-un-rituel-annuel-7077233.php",
+    "summary": "Cette année encore, le triple champion olympique Jérémy Stravius de natation endosse le rôle de parrain des Balades bigoudènes à l’Île-Tudy. Entre partage d’expérience et passion de nage en eau libre, l’athlète se confie sur son attachement à l’événement, qui aura lieu ce samedi 4 et dimanche 5 juillet 2026.",
+    "date": "2026-07-03T17:00:00+00:00",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -933,42 +933,6 @@
     "summary": "Les paysages d’Henri Rivière sont souvent plus célèbres que son nom. Ses pins découpés devant la mer, ses falaises bretonnes, ses vues de Paris et de la tour Eiffel appartiennent pourtant à l’imaginaire visuel français. Avec Henri Rivière – Estampes, Olivier Levasseur et Yann Le Bohec proposent bien davantage qu’un beau livre : le premier catalogue…",
     "date": "2026-07-03T09:19:01+00:00",
     "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "b5fa42b305de6b84",
-    "title": "Stages été au centre Paris Anim’ Richard Wright Centre Paris Anim’ Richard Wright PARIS",
-    "link": "https://unidivers.fr/event/stages-ete-au-centre-paris-anim-richard-wright-centre-paris-anim-richard-wright-paris-paris-2026-07-06t0200000200/",
-    "summary": "Stages été au centre Paris Anim' Richard Wright Centre Paris Anim' Richard Wright PARIS En cette période estivale, le centre Paris Anim' Richard Wright vous propose une programmation de stages à destination des enfants, des adolescents et des adultes. Consulter la programmation !",
-    "date": "2026-07-03T07:35:39+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "30505fea9bb8260f",
-    "title": "L’été des petits futés Théâtre Darius Milhaud Paris",
-    "link": "https://unidivers.fr/event/lete-des-petits-futes-theatre-darius-milhaud-paris-paris-2026-07-06t0200000200/",
-    "summary": "L'été des petits futés Théâtre Darius Milhaud Paris Le théâtre Darius Milhaud dans le 19e arrondissement de Paris, accueille chaque été un festival de théâtre pour enfants. Cette année, L'été des p'tits futés revient du 6 juillet au 31 aout 2026 avec une riche programmation de spectacles.",
-    "date": "2026-07-03T07:35:39+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ff157a0e7655b964",
-    "title": "K-FISH Menu Week 2026 : un parcours gourmand autour de la cuisine coréenne à Paris Mashita Paris",
-    "link": "https://unidivers.fr/event/k-fish-menu-week-2026-un-parcours-gourmand-autour-de-la-cuisine-coreenne-a-paris-mashita-paris-paris-2026-07-06t0200000200/",
-    "summary": "K-FISH Menu Week 2026 : un parcours gourmand autour de la cuisine coréenne à Paris Mashita Paris À l’occasion de la 2ᵉ édition de la K-FISH Menu Week 2026, le Centre de soutien au commerce international de Paris de la Fédération nationale des Coopératives de Pêche , invite le public parisien à découvrir la cuisine coréenne autour des produits de la mer, à travers un parcours gourmand proposé dans neuf restaurants partenaires à Paris.",
-    "date": "2026-07-03T07:35:39+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "27eaa500464086c6",
-    "title": "Quartier d’été : sorties, activités pour les jeunes Centre Paris Anim’ Richard Wright PARIS",
-    "link": "https://unidivers.fr/event/quartier-dete-sorties-activites-pour-les-jeunes-centre-paris-anim-richard-wright-paris-paris-2026-07-06t0200000200/",
-    "summary": "Quartier d'été : sorties, activités pour les jeunes Centre Paris Anim' Richard Wright PARIS Dans le cadre de l'action Quartier d'été, l'équipe jeunesse du centre Paris Anim' Richard Wright, propose aux jeunes, parisiens ou non, âgés de 13/25 ans, des sorties, des temps de convivialité pour rythmer tes vacances à Paris. L'occasion de profiter de moments sympas et enrichissants !",
-    "date": "2026-07-03T07:35:39+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -1134,15 +1098,6 @@
     "category": "culture"
   },
   {
-    "id": "beea6f8e3b82a252",
-    "title": "Les Lamantins de la Mode, Le Marché couvert, Le Lamentin",
-    "link": "https://unidivers.fr/event/les-lamantins-de-la-mode-le-marche-couvert-le-lamentin-2026-07-06t0100000200/",
-    "summary": "Dimanche 5 juillet, 19h00 Le Marché couvert Le Lamentin, Rue Ernest André, Le Lamentin Les Lamantins de la Mode animé Eliane Césaire",
-    "date": "2026-07-01T14:56:56+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "c24c2c25c9fd4d27",
     "title": "Le programme jeunesse – été 2026, Maison de quartier La Bellangerais, Rennes",
     "link": "https://unidivers.fr/event/le-programme-jeunesse-ete-2026-maison-de-quartier-la-bellangerais-rennes-2026-07-06t0800000200/",
@@ -1266,15 +1221,6 @@
     "summary": "Le 12 août 2026, le ciel offrira l’un des plus remarquables spectacles astronomiques de la décennie. Une éclipse solaire totale traversera une partie de l’hémisphère Nord, tandis qu’une éclipse partielle sera visible sur une immense partie de l’Europe, de l’Afrique du Nord et de l’Amérique du Nord. Si la France ne se trouvera pas sur…",
     "date": "2026-07-01T07:12:20+00:00",
     "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "f09445e4bc133d9d",
-    "title": "Stages d’été pour les enfants de 3 à 15 ans ! art-exprim Paris",
-    "link": "https://unidivers.fr/event/stages-dete-pour-les-enfants-de-3-a-15-ans-art-exprim-paris-paris-2026-07-06t0200000200/",
-    "summary": "Stages d'été pour les enfants de 3 à 15 ans ! art-exprim Paris Les Ateliers Marcadet vous proposent également des stages artistiques et créatifs sur le temps des vacances scolaires. Toujours encadrés par des artistes plasticien.ne.s, à destination des enfants et adolescent.e.s de tous niveaux, notre programmation se veut éclectique et adaptée à un jeune public qui a soif de créativité.",
-    "date": "2026-07-01T06:49:38+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -1971,33 +1917,6 @@
     "category": "culture"
   },
   {
-    "id": "22a404d2d809d8b8",
-    "title": "STAGE PEINTURE SUR TRANCHES DE LIVRES Ateliers BOTZARIS Paris",
-    "link": "https://unidivers.fr/event/stage-peinture-sur-tranches-de-livres-ateliers-botzaris-paris-paris-2026-07-06t0200000200/",
-    "summary": "STAGE PEINTURE SUR TRANCHES DE LIVRES Ateliers BOTZARIS Paris Tous niveaux : débutants et personnes pratiquant le dessin et la peinture.",
-    "date": "2026-06-23T06:46:01+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d1b56b35ef9820ea",
-    "title": "STAGE DESSIN NATURALISTE Ateliers BOTZARIS paris",
-    "link": "https://unidivers.fr/event/stage-dessin-naturaliste-ateliers-botzaris-paris-paris-2026-07-06t0200000200/",
-    "summary": "STAGE DESSIN NATURALISTE Ateliers BOTZARIS paris Découverte du dessin naturaliste à l’aquarelle",
-    "date": "2026-06-23T06:45:38+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "250fb863eb34c6e2",
-    "title": "STAGE PEINTURE ET COLLAGE Ateliers BOTZARIS Paris",
-    "link": "https://unidivers.fr/event/stage-peinture-et-collage-ateliers-botzaris-paris-paris-2026-07-06t0200000200/",
-    "summary": "STAGE PEINTURE ET COLLAGE Ateliers BOTZARIS Paris Plonger dans l’univers des dernières années de Matisse, découvrir ses techniques innovantes et expérimenter la peinture et le collage à travers une approche sensible et créative.",
-    "date": "2026-06-23T06:45:33+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "85a734286be5cf01",
     "title": "La Nouvelle chronologie de la Russie-Horde, véhicule para-idéologique de fantasme impérial",
     "link": "https://unidivers.fr/nouvelle-chronologie-recentisme-new-chronologie-russia/",
@@ -2120,15 +2039,6 @@
     "link": "https://unidivers.fr/event/loisirs-jeunes-decize-nievre-2026-07-06/",
     "summary": "Loisirs Jeunes Route d'Avril Lieux différents pour chaque activité (voir programme) Decize Nièvre 2026-07-06 09:00:00 2026-07-06",
     "date": "2026-06-21T15:47:12+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "a859e14323f0cf99",
-    "title": "STAGE ECRITURE POUR LA JEUNESSE Ateliers SAINT-BLAISE Paris",
-    "link": "https://unidivers.fr/event/stage-ecriture-pour-la-jeunesse-ateliers-saint-blaise-paris-paris-2026-07-06t0200000200/",
-    "summary": "STAGE ECRITURE POUR LA JEUNESSE Ateliers SAINT-BLAISE Paris Vous avez un projet d'écriture jeunesse en cours, vous êtes illustrateur-rice et vous souhaitez créer des textes qui accompagnent vos illustrations ? Un personnage jeunesse vous trotte dans la tête depuis un moment et vous avez envie de lui créer une histoire ? Nous vous proposons cinq jours de stage pour découvrir ou approfondir les codes de l'écriture jeunesse.",
-    "date": "2026-06-21T15:21:53+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -2256,15 +2166,6 @@
     "summary": "La France et l’Allemagne ont protégé leurs librairies grâce au prix unique du livre. Mais ce modèle montre aujourd’hui ses limites : le prix est fixé par l’éditeur, tandis que les volumes vendus reculent et que l’achat régulier de livres neufs devient plus difficile pour une partie de la population. Face au modèle libéral britannique,…",
     "date": "2026-06-19T10:12:41+00:00",
     "source": "UniDivers",
-    "category": "culture"
-  },
-  {
-    "id": "95f97f8a96f0834c",
-    "title": "STAGE CARNETS DE VOYAGE Ateliers ÉRARD Paris",
-    "link": "https://unidivers.fr/event/stage-carnets-de-voyage-ateliers-erard-paris-paris-2026-07-06t0200000200/",
-    "summary": "STAGE CARNETS DE VOYAGE Ateliers ÉRARD Paris Ce stage proposera une découverte du carnet de voyage au travers du dessin et de l’écriture. Le stage se déroulera principalement en extérieur, mais aussi en intérieur, notamment pour certaines séances d’écriture. Techniques utilisées en dessin : crayon, feutres (feutres à billes, feutres pinceaux,etc), bic quatre couleurs ou encore aquarelle.",
-    "date": "2026-06-19T09:30:04+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -4140,15 +4041,6 @@
     "category": "culture"
   },
   {
-    "id": "acdd42fbb6fbbcfb",
-    "title": "Esports World Cup 2026 Paris Expo Porte de Versailles Paris",
-    "link": "https://unidivers.fr/event/esports-world-cup-2026-paris-expo-porte-de-versailles-paris-paris-2026-07-06t0200000200/",
-    "summary": "Esports World Cup 2026 Paris Expo Porte de Versailles Paris L'Esports World Cup 2026 se tiendra désormais à Paris, en France, du 6 juillet au 23 août.",
-    "date": "2026-06-01T06:21:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "c6c01da4f976c84b",
     "title": "Résidence artistique jeune par la Compagnie Dounia, maison de quartier de Villejean, Rennes",
     "link": "https://unidivers.fr/event/residence-artistique-jeune-par-la-compagnie-dounia-maison-de-quartier-de-villejean-rennes-ille-et-vilaine-2026-07-06t0900000200/",
@@ -4203,6 +4095,33 @@
     "category": "culture"
   },
   {
+    "id": "1b8ef2aebd77bf55",
+    "title": "Chasse au trésor à Villeréal Place de la Halle Villeréal",
+    "link": "https://unidivers.fr/event/chasse-au-tresor-a-villereal-villereal-lot-et-garonne-2026-07-06/",
+    "summary": "Chasse au trésor à Villeréal Place de la Halle Bureau d'Information Touristique Villeréal Lot-et-Garonne 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-26T11:06:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "b7910c8325ed9852",
+    "title": "Basket Summer Camp Complexe sportif Alain Burban La Baule-Escoublac",
+    "link": "https://unidivers.fr/event/basket-summer-camp-la-baule-escoublac-loire-atlantique-2026-07-06/",
+    "summary": "Basket Summer Camp Complexe sportif Alain Burban Avenue du Bois Robin La Baule-Escoublac Loire-Atlantique 2026-07-07 09:30:00 2026-07-07",
+    "date": "2026-05-26T10:57:28+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "a119c3820c410da9",
+    "title": "Chasse au trésor à Monflanquin Office de Tourisme Coeur de Bastides Monflanquin",
+    "link": "https://unidivers.fr/event/chasse-au-tresor-a-monflanquin-monflanquin-lot-et-garonne-2026-07-06/",
+    "summary": "Chasse au trésor à Monflanquin Office de Tourisme Coeur de Bastides 7 Place des Arcades Monflanquin Lot-et-Garonne 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-26T10:57:28+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "72d3dd9bf7198720",
     "title": "CENTRE AERE ETE 2026 Nébing",
     "link": "https://unidivers.fr/event/centre-aere-ete-2026-nebing-moselle-2026-07-06/",
@@ -4230,6 +4149,15 @@
     "category": "culture"
   },
   {
+    "id": "4cf360fd13c1b275",
+    "title": "[Activité enfant] Jardin des Mers Activité Pêche à pied et Land Art Estran Cité de la Mer Dieppe",
+    "link": "https://unidivers.fr/event/activite-enfant-jardin-des-mers-activite-peche-a-pied-et-land-art-dieppe-seine-maritime-2026-07-06/",
+    "summary": "[Activité enfant] Jardin des Mers Activité Pêche à pied et Land Art Estran Cité de la Mer / 37 Rue de l'Asile Thomas Dieppe Seine-Maritime 2026-07-06 09:30:00 2026-07-06 14:00:00",
+    "date": "2026-05-22T10:49:10+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "8e034330ad1e9f6a",
     "title": "Balade photographique spécial minimalisme Montreuil-Bellay",
     "link": "https://unidivers.fr/event/balade-photographique-special-minimalisme-montreuil-bellay-maine-et-loire-2026-06-15/",
@@ -4243,6 +4171,24 @@
     "title": "Sport santé séniors Marseille 9e Arrondissement",
     "link": "https://unidivers.fr/event/sport-sante-seniors-marseille-9e-arrondissement-bouches-du-rhone-2026-07-06/",
     "summary": "Sport santé séniors Du 06/07 au 28/08/2026 le lundi, mardi, jeudi et vendredi de 8h30 à 10h. sauf le 14 juillet. Parcs et lieux en plein air à Marseille Marseille 9e Arrondissement Bouches-du-Rhône Vendredi 2026-07-06 08:30:00 2026-07-06 08:30:00",
+    "date": "2026-05-22T10:00:35+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "18247646664262e7",
+    "title": "Les Ateliers de Gipon Stages d’été enfants Lieu-dit Gipon Bazas",
+    "link": "https://unidivers.fr/event/les-ateliers-de-gipon-stages-dete-enfants-bazas-gironde-2026-07-06/",
+    "summary": "Les Ateliers de Gipon Stages d'été enfants Lieu-dit Gipon 1820 route d'Auros Bazas Gironde 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-22T10:00:35+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "7292e0192a77f30e",
+    "title": "Animations estivales Ruffec",
+    "link": "https://unidivers.fr/event/animations-estivales-ruffec-indre-2026-07-06/",
+    "summary": "Animations estivales Ruffec Indre Lundi 2026-07-06 09:30:00 2026-07-06 09:30:00",
     "date": "2026-05-22T10:00:35+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4262,6 +4208,15 @@
     "link": "https://unidivers.fr/event/atelier-dinitiation-du-verre-file-saint-lyphard-loire-atlantique-2026-07-06/",
     "summary": "Atelier d'initiation du verre filé Village de Kerhinet Gîte des écoliers Saint-Lyphard Loire-Atlantique 2026-08-31 09:00:00 2026-08-31",
     "date": "2026-05-18T16:05:49+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "78aaab3388be384d",
+    "title": "Stage d’équitation Débutants Brienne-le-Château",
+    "link": "https://unidivers.fr/event/stage-dequitation-debutants-brienne-le-chateau-aube-2026-07-06/",
+    "summary": "Stage d'équitation Débutants 23 ter rue Dominique Larrey Brienne-le-Château Aube 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-18T13:12:56+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4329,6 +4284,33 @@
     "category": "festivals"
   },
   {
+    "id": "e98b02df0c5714ad",
+    "title": "Dégustation de vins régionaux ESQUIEZE-SERE Esquièze-Sère",
+    "link": "https://unidivers.fr/event/degustation-de-vins-regionaux-esquieze-sere-hautes-pyrenees-2026-07-06/",
+    "summary": "Dégustation de vins régionaux ESQUIEZE-SERE Cave Cazaux Esquièze-Sère Hautes-Pyrénées 2026-07-06 09:30:00 2026-07-06 09:30:00",
+    "date": "2026-05-11T07:52:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "be2a9661004837d8",
+    "title": "Stage de voile à Rostiviec Port de Rostiviec Loperhet",
+    "link": "https://unidivers.fr/event/stage-de-voile-a-rostiviec-loperhet-finistere-2026-07-06/",
+    "summary": "Stage de voile à Rostiviec Port de Rostiviec Centre Nautique Rostiviec Loperhet Loperhet Finistère 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-11T07:52:58+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "c3adc766b8fb6569",
+    "title": "Stages d’été du tennis club Carantec",
+    "link": "https://unidivers.fr/event/stages-dete-du-tennis-club-carantec-finistere-2026-07-06/",
+    "summary": "Stages d'été du tennis club Rue de Pen-al-Lann Carantec Finistère 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-10T21:11:15+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "e7cce1ae670ac0fb",
     "title": "Sport avec Cynthia Chemillé-sur-Indrois",
     "link": "https://unidivers.fr/event/sport-avec-cynthia-chemille-sur-indrois-indre-et-loire-2026-07-06/",
@@ -4354,6 +4336,33 @@
     "date": "2026-05-08T14:01:00+00:00",
     "source": "Festival du film court de Brest",
     "category": "festivals"
+  },
+  {
+    "id": "639bed55364e4498",
+    "title": "Le café des vacanciers Cernay",
+    "link": "https://unidivers.fr/event/le-cafe-des-vacanciers-cernay-haut-rhin-2026-07-06/",
+    "summary": "Le café des vacanciers 1 rue Latouche Cernay Haut-Rhin Lundi 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-07T18:47:05+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "f96067ccc7825c27",
+    "title": "Le café des vacanciers Thann",
+    "link": "https://unidivers.fr/event/le-cafe-des-vacanciers-thann-haut-rhin-2026-07-06/",
+    "summary": "Le café des vacanciers 7 rue de la 1ère armée Thann Haut-Rhin Lundi 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-07T18:47:05+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "184b8bbc6979e5be",
+    "title": "Stage de chant choral Rue Gilbert Marot Barneville-Carteret",
+    "link": "https://unidivers.fr/event/stage-de-chant-choral-barneville-carteret-manche-2026-07-06/",
+    "summary": "Stage de chant choral Rue Gilbert Marot Maison des associations Barneville-Carteret Manche Vendredi Vendredi 2026-07-06 09:30:00 2026-07-06 13:30:00",
+    "date": "2026-05-07T18:13:41+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
   },
   {
     "id": "6ef9ff2a5d99c6ba",
@@ -4388,6 +4397,42 @@
     "link": "https://unidivers.fr/event/stage-sportif-aquaparc-isis-dole-jura-2026-07-06/",
     "summary": "Stage Sportif Aquaparc ISIS Aquaparc Isis Allée des Prés Buffard Dole Jura 2026-08-10 09:00:00 2026-08-10",
     "date": "2026-05-05T06:13:16+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "f4aad2ae8de3634f",
+    "title": "Deviens le capitaine de la Mayenne Laval",
+    "link": "https://unidivers.fr/event/deviens-le-capitaine-de-la-mayenne-laval-mayenne-2026-07-06/",
+    "summary": "Deviens le capitaine de la Mayenne 181 Rue de la Filature Laval Mayenne 2026-08-24 09:30:00 2026-08-24",
+    "date": "2026-05-05T06:13:16+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "5aa0700e6061f908",
+    "title": "Stage de voile Moussaillon (4-8 ans) Kloar Nautik Place de l’Océan Clohars-Carnoët",
+    "link": "https://unidivers.fr/event/stage-de-voile-moussaillon-4-8-ans-kloar-nautik-clohars-carnoet-finistere-2026-07-06-3/",
+    "summary": "Stage de voile Moussaillon (4-8 ans) Kloar Nautik Place de l'Océan Base nautique du Pouldu Clohars-Carnoët Finistère 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-04T20:46:28+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "2c1724ebff63b6c4",
+    "title": "Escalade et Canyon’île à Primel cet été (du 6 juillet au 25 aout) Plougasnou",
+    "link": "https://unidivers.fr/event/escalade-et-canyonile-a-primel-cet-ete-du-6-juillet-au-25-aout-plougasnou-finistere-2026-07-06/",
+    "summary": "Escalade et Canyon'île à Primel cet été (du 6 juillet au 25 aout) Pointe de Primel Plougasnou Finistère 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-04T20:46:28+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "db35df05f4d3d4be",
+    "title": "Stage de voile Catamaran (14 ans et +) initiation Kloar Nautik Place de l’Océan Clohars-Carnoët",
+    "link": "https://unidivers.fr/event/stage-de-voile-catamaran-14-ans-et-initiation-kloar-nautik-clohars-carnoet-finistere-2026-07-06/",
+    "summary": "Stage de voile Catamaran (14 ans et +) initiation Kloar Nautik Place de l'Océan Base nautique du Pouldu Clohars-Carnoët Finistère 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-05-04T19:39:22+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4428,6 +4473,24 @@
     "category": "culture"
   },
   {
+    "id": "9f0c7cc5b024ba45",
+    "title": "Stage optimist 7-10 ans à Moulin Mer Centre Nautique de Moulin Mer Logonna-Daoulas",
+    "link": "https://unidivers.fr/event/stage-optimist-7-10-ans-a-moulin-mer-logonna-daoulas-finistere-2026-07-06/",
+    "summary": "Stage optimist 7-10 ans à Moulin Mer Centre Nautique de Moulin Mer 32 Route du Centre Nautique Logonna-Daoulas Finistère 2026-07-27 09:30:00 2026-07-27",
+    "date": "2026-04-29T10:44:01+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "48de1702d43691e2",
+    "title": "Stage Moussaillon 4-7 ans à Moulin Mer Centre Nautique de Moulin Mer Logonna-Daoulas",
+    "link": "https://unidivers.fr/event/stage-moussaillon-4-7-ans-a-moulin-mer-logonna-daoulas-finistere-2026-07-06/",
+    "summary": "Stage Moussaillon 4-7 ans à Moulin Mer Centre Nautique de Moulin Mer 32 Route du Centre Nautique Logonna-Daoulas Finistère 2026-07-27 09:30:00 2026-07-27",
+    "date": "2026-04-29T10:44:01+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "32b51a48ada34f50",
     "title": "Stage de breton d’été de l’UDB à Landeleau",
     "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
@@ -4459,6 +4522,24 @@
     "title": "Aquatraining Rue des Pinasses Mimizan",
     "link": "https://unidivers.fr/event/aquatraining-mimizan-landes-2026-07-06/",
     "summary": "Aquatraining Rue des Pinasses Parking rue des pinasses Mimizan Landes 2026-07-06 09:30:00 2026-07-06",
+    "date": "2026-04-24T13:57:09+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "af80a1f8a0a2b28a",
+    "title": "Exposition de Blandine Rossa Destouches, Pascale Douillard et Marie-Christine Tere Salle d’exposition Les Moutiers-en-Retz",
+    "link": "https://unidivers.fr/event/exposition-de-blandine-rossa-destouches-pascale-douillard-et-marie-christine-tere-les-moutiers-en-retz-loire-atlantique-2026-07-06/",
+    "summary": "Exposition de Blandine Rossa Destouches, Pascale Douillard et Marie-Christine Tere Salle d'exposition 13 place de l'Eglise Madame Les Moutiers-en-Retz Loire-Atlantique 2026-07-10 09:30:00 2026-07-10",
+    "date": "2026-04-24T13:57:09+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "d87920f2564fe53c",
+    "title": "Bulles de Culture Art Déco et Eclats de mots visite + atelier d’écriture Angers",
+    "link": "https://unidivers.fr/event/bulles-de-culture-art-deco-et-eclats-de-mots-visite-atelier-decriture-angers-maine-et-loire-2026-07-06/",
+    "summary": "Bulles de Culture Art Déco et Eclats de mots visite + atelier d’écriture 80 rue du lutin Angers Maine-et-Loire 2026-08-21 09:30:00 2026-08-21",
     "date": "2026-04-24T13:57:09+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4707,69 +4788,6 @@
     "category": "independants"
   },
   {
-    "id": "7a2a9eced43903c4",
-    "title": "THE WARNING LE BIKINI Ramonville St Agne",
-    "link": "https://unidivers.fr/event/the-warning-le-bikini-ramonville-st-agne-2026-07-06/",
-    "summary": "2026-07-06 à 19:30 THE WARNING LE BIKINI Parc Technologique du Canal 31520 Ramonville St Agne 31",
-    "date": "2026-04-03T20:36:56+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "fc2ae7159e18707f",
-    "title": "LES MUSICIENS DE SAINT-JULIEN HOTEL DE VILLE SALLE DES FETES Reims",
-    "link": "https://unidivers.fr/event/les-musiciens-de-saint-julien-hotel-de-ville-salle-des-fetes-reims-2026-07-06/",
-    "summary": "2026-07-06 à 20:00 LES MUSICIENS DE SAINT-JULIEN HOTEL DE VILLE SALLE DES FETES Place de l'Hotel de Ville 51100 Reims 51",
-    "date": "2026-04-03T20:36:56+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "30859b5b617e9d6f",
-    "title": "LALOU LA SCALA PROVENCE – SCALA 600 Avignon",
-    "link": "https://unidivers.fr/event/lalou-la-scala-provence-scala-600-avignon-2026-07-06/",
-    "summary": "2026-07-06 à 18:00 LALOU LA SCALA PROVENCE - SCALA 600 3 RUE POURQUERY BOISSERIN 84000 Avignon 84",
-    "date": "2026-04-03T20:36:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "2e9db7858e1867fa",
-    "title": "CHOPIN SCHUBERT SATIE BEETHOVEN EGLISE SAINT-EPHREM Paris",
-    "link": "https://unidivers.fr/event/chopin-schubert-satie-beethoven-eglise-saint-ephrem-paris-2026-07-06/",
-    "summary": "2026-07-06 à 19:00 CHOPIN SCHUBERT SATIE BEETHOVEN EGLISE SAINT-EPHREM 17 RUE DES CARMES 75005 Paris 75",
-    "date": "2026-04-03T20:36:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "afcc86d67c4b609f",
-    "title": "FESTIVAL DE POUPET – YSE THEATRE DE VERDURE St Malo Du Bois",
-    "link": "https://unidivers.fr/event/festival-de-poupet-yse-theatre-de-verdure-st-malo-du-bois-2026-07-06/",
-    "summary": "2026-07-06 à 19:00 FESTIVAL DE POUPET - YSE THEATRE DE VERDURE BASE PLEIN AIR DE POUPET 85590 St Malo Du Bois 85",
-    "date": "2026-04-03T20:36:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "e8975071cccaa9e3",
-    "title": "JEAN-PAUL ROUVE CHATEAU COMTAL (COUR D’HONNEUR) Carcassonne",
-    "link": "https://unidivers.fr/event/jean-paul-rouve-chateau-comtal-cour-dhonneur-carcassonne-2026-07-06/",
-    "summary": "2026-07-06 à 21:30 JEAN-PAUL ROUVE CHATEAU COMTAL (COUR D'HONNEUR) LA CITE 11000 Carcassonne 11",
-    "date": "2026-04-03T20:36:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "e9273f82e5ad0712",
-    "title": "JEAN-PIERRE COMO & JAVIER GIROTTO – Jean-Pierre Como & Javier Girotto / Christophe L. CONSERVATOIRE PIERRE BARBIZET Marseille",
-    "link": "https://unidivers.fr/event/jean-pierre-como-javier-girotto-jean-pierre-como-javier-girotto-christophe-l-conservatoire-pierre-barbizet-marseille-2026-07-06/",
-    "summary": "2026-07-06 à 18:00 JEAN-PIERRE COMO & JAVIER GIROTTO - Jean-Pierre Como & Javier Girotto / Christophe L. CONSERVATOIRE PIERRE BARBIZET 2 PLACE CARLI 13001 Marseille 13",
-    "date": "2026-04-03T20:36:55+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "491e6fbd377d0eec",
     "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
     "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
@@ -4829,15 +4847,6 @@
     "link": "https://unidivers.fr/event/fifteenth-international-conference-on-emotions-and-organizational-life-emonet-xv-igr-iae-rennes-rennes-2026-07-06t090000-0000200/",
     "summary": "6 - 8 juillet Fifteenth International Conference on Emotions and Organizational Life (‘Emonet XV’) IGR-IAE Rennes 11 rue Jean Macé 35700 Rennes Rennes Ille-et-Vilaine Emotions and Sustainable Horizons",
     "date": "2026-03-16T09:55:49+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "a9cc1f3b8555045b",
-    "title": "Stage – écrire dans Paris R de jeux de la Place de la République Paris",
-    "link": "https://unidivers.fr/event/stage-ecrire-dans-paris-r-de-jeux-de-la-place-de-la-republique-paris-paris-2026-07-06t0200000200/",
-    "summary": "Stage - écrire dans Paris R de jeux de la Place de la République Paris Une semaine pendant les vacances d'été, en juillet, en itinérance sur les traces des grand·es écrivain·es dans Paris, pour faire le plein de culture et prendre le temps d’écrire.",
-    "date": "2026-03-15T03:57:20+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5414,15 +5423,6 @@
     "link": "https://unidivers.fr/event/marche-traditionnel-tardets-sorholus-pyrenees-atlantiques-2026-07-06/",
     "summary": "Marché traditionnel Place centrale Tardets-Sorholus Pyrénées-Atlantiques 2026-07-06 2026-07-06",
     "date": "2025-12-04T11:37:56+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "2094903e7534b12a",
-    "title": "Stage de Yoga à Paris, à la carte, au centre Jacques Bravo Centre Paris Anim’ Jacques Bravo Paris",
-    "link": "https://unidivers.fr/event/stage-de-yoga-a-paris-a-la-carte-au-centre-jacques-bravo-centre-paris-anim-jacques-bravo-paris-paris-2026-07-06t0200000200/",
-    "summary": "Stage de Yoga à Paris, à la carte, au centre Jacques Bravo Centre Paris Anim' Jacques Bravo Paris Stage de Yoga de l'alignement à Paris du 06 au 11 Juillet 2026, à la carte, Centre jacques bravo, 14 rue de la tour des dames 75009 Paris. Stage en présentiel, proposé simultanément par zoom.",
-    "date": "2025-11-30T09:06:19+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
