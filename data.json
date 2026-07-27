@@ -176,7 +176,7 @@
     "link": "https://www.letelegramme.fr/finistere/lanveoc-29160/jespere-quon-trouvera-une-solution-rapidement-des-gens-du-voyage-sinstallent-sur-le-parking-du-festival-du-bout-du-monde-en-presquile-de-crozon-7090369.php",
     "summary": "Une cinquantaine de caravanes se sont installées, ce dimanche, sur le parking du festival du Bout du monde, à quelques jours du début de l’évènement. Préfecture et gendarmerie cherchent une solution.",
     "date": "2026-07-26T16:45:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -252,21 +252,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "38e327d92f7495cc",
-    "title": "À Brest, Buntac va ouvrir et proposer de la restauration rapide bas de Siam",
-    "link": "https://www.letelegramme.fr/finistere/brest-29200/a-brest-buntac-va-ouvrir-et-proposer-de-la-restauration-rapide-bas-de-siam-7090328.php",
-    "summary": "Burgers, tacos, wraps, bowls… Une nouvelle adresse de restauration rapide va ouvrir début août au centre-ville de Brest.",
-    "date": "2026-07-26T15:00:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
     "id": "335a6431f1218b7c",
     "title": "Disparition de Ben Barka : le roi Hassan II « a donné l’ordre d’en finir », affirme le journaliste Stephen Smith",
     "link": "https://www.letelegramme.fr/monde/disparition-de-ben-barka-le-roi-hassan-ii-a-donne-lordre-den-finir-affirme-le-journaliste-stephen-smith-7090258.php",
     "summary": "Soixante ans après la disparition de l’opposant marocain Mehdi Ben Barka, à Paris, les journalistes Stephen Smith et Ronen Bergman publient une enquête (*) fondée sur des archives inédites. Ils y affirment que le roi Hassan II a personnellement ordonné cet assassinat, qui a impliqué des services marocains, israéliens et plusieurs complices français.",
     "date": "2026-07-26T15:00:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "38e327d92f7495cc",
+    "title": "À Brest, Buntac va ouvrir et proposer de la restauration rapide bas de Siam",
+    "link": "https://www.letelegramme.fr/finistere/brest-29200/a-brest-buntac-va-ouvrir-et-proposer-de-la-restauration-rapide-bas-de-siam-7090328.php",
+    "summary": "Burgers, tacos, wraps, bowls… Une nouvelle adresse de restauration rapide va ouvrir début août au centre-ville de Brest.",
+    "date": "2026-07-26T15:00:00+00:00",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -563,7 +563,7 @@
     "link": "https://www.letelegramme.fr/finistere/concarneau-29900/a-concarneau-ames-de-bretagne-collecte-la-memoire-des-habitants-7089772.php",
     "summary": "Avec son projet de livre participatif, l’association Âmes de Bretagne part sur les routes, à la rencontre des Bretons et de leur vécu. Cette semaine, les bénévoles ont fait escale à la résidence autonomie des Filets Bleus, à Concarneau.",
     "date": "2026-07-26T04:30:00+00:00",
-    "source": "Le Télégramme – Carhaix",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -617,7 +617,7 @@
     "link": "https://www.letelegramme.fr/sports/football/stade-brestois/nouveau-stade-a-brest-la-decision-du-juge-des-referes-va-t-elle-accelerer-le-dossier-arkea-park-7089892.php",
     "summary": "Vendredi, le juge des référés a rejeté les recours en suspension contre le permis de construire du projet d’Arkéa Park à Guipavas. Pourtant, cela ne signifie pas que le chantier va s’ouvrir demain. Explications.",
     "date": "2026-07-25T17:00:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -972,6 +972,15 @@
     "category": "culture"
   },
   {
+    "id": "6c6e72836cab2254",
+    "title": "Exposition Vicky Vanlerberghe Maison du Phare Port Haliguen Quiberon",
+    "link": "https://unidivers.fr/event/exposition-vicky-vanlerberghe-maison-du-phare-quiberon-morbihan-2026-07-27/",
+    "summary": "Exposition Vicky Vanlerberghe Maison du Phare Port Haliguen Maison du Phare Port Haliguen Quiberon Morbihan 2026-07-27 10:00:00 2026-07-27 10:00:00",
+    "date": "2026-07-22T11:23:56+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "68f7a3d9a453ce29",
     "title": "Loi d’urgence agricole : que change vraiment le texte pour l’eau et les pesticides ?",
     "link": "https://unidivers.fr/loi-urgence-agricole-eau-pesticides/",
@@ -987,6 +996,15 @@
     "summary": "Des femmes seules, mais non défaites : dans Babil alone, Sophie Lamotte d’Argy donne voix à des existences féminines que la petite ville, le regard masculin ou l’isolement pourraient engloutir. Premier livre bref et vif, ce recueil de nouvelles observe les résistances minuscules : celles qui se jouent dans une phrase, une fuite, une amitié…",
     "date": "2026-07-22T07:23:33+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "b368c247c3415d13",
+    "title": "Jacques Josse : « Les buveurs de bière »",
+    "link": "https://www.bretagne-actuelle.com/jacques-josse-les-buveurs-de-biere/livres/?utm_source=rss&utm_medium=rss&utm_campaign=jacques-josse-les-buveurs-de-biere",
+    "summary": "Les buveurs de bière de Jacques Josse ne sont pas celles de grandes tablées mais ceux des bars et des bistrots où l’auteur rennais capte, avec finesse, des moments suspendus. Toujours à l’écoute des déclassés, des gens de l’ombre, des invisibles, comme dans la plupart de ses livres. L’article Jacques Josse : « Les buveurs de bière » est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-22T07:02:51+00:00",
+    "source": "Bretagne Actuelle",
     "category": "culture"
   },
   {
@@ -1017,15 +1035,6 @@
     "category": "culture"
   },
   {
-    "id": "cc75c18f6390538f",
-    "title": "Les députés bretons rejettent massivement la réintroduction de pesticides interdits",
-    "link": "https://lepeuplebreton.bzh/2026/07/21/les-deputes-bretons-rejettent-massivement-la-reintroduction-de-pesticides-interdits/",
-    "summary": "L’Aulne à Meilh-Nevez, Landeleau. Les députés bretons ont massivement rejeté, ce lundi 20 juillet, la loi dite d’urgence agricole dont la mesure phare est la réintroduction à titre dérogatoire de pesticides interdits: l’acétamipride et le flupyradifurone, des néonicotinoïdes dits « tueurs d’abeilles ». Alors que l’Assemblée nationale se prononçait majoritairement pour, seul 9 des 37 députés bretons … Cet article Les députés bretons rejettent massivement la réintroduction de pesticides interdits est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-07-21T10:39:53+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "274b833c0e1f389c",
     "title": "Entrer en Dialogue Permanent pour la Nature avec des Paysans… de Nature !",
     "link": "https://www.eco-bretons.info/entrer-en-dialogue-permanent-pour-la-nature-avec-des-paysans-de-nature/",
@@ -1033,6 +1042,15 @@
     "date": "2026-07-21T07:47:00+00:00",
     "source": "Eco-Bretons",
     "category": "independants"
+  },
+  {
+    "id": "66eef5af6823ab6d",
+    "title": "Vieilles Charrues 2026, mélodies en plein champ",
+    "link": "https://www.bretagne-actuelle.com/vieilles-charrues-2026-melodies-en-plein-champ/accueil-top/?utm_source=rss&utm_medium=rss&utm_campaign=vieilles-charrues-2026-melodies-en-plein-champ",
+    "summary": "Une richesse de programmation, une sérénité palpable guidée par la simple envie de se retrouver, les 280000 spectateurs ont trouvé leur bonheur lors de ces quatre jours carhaisiens. Retour sur cette édition en quelques choix subjectifs mais toujours sincères. L’article Vieilles Charrues 2026, mélodies en plein champ est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-21T07:17:33+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
   },
   {
     "id": "db99a29fd0a1eaf6",
@@ -1059,6 +1077,15 @@
     "summary": "Le rapport du Sénat sur la désinformation ne se limite pas à quelques recommandations techniques. Il s'inscrit dans une évolution plus large de la régulation de l'information en France et en Europe. Entre lutte contre les manipulations, rôle des plateformes numériques, algorithmes et protection des libertés publiques, où se situe désormais l'équilibre ? Analyse d'un débat qui concerne aussi les médias indépendants. L’article Contrôle de l’information : « protection » ou censure ? est apparu en premier sur NHU | Votre Média Breton .",
     "date": "2026-07-20T06:43:18+00:00",
     "source": "NHU Bretagne",
+    "category": "culture"
+  },
+  {
+    "id": "8861f2b15dbf435d",
+    "title": "Le titre de la semaine : Maintenant et ici de Kiliminog",
+    "link": "https://www.bretagne-actuelle.com/le-titre-de-la-semaine-maintenant-et-ici-de-kiliminog/accueil-bas/?utm_source=rss&utm_medium=rss&utm_campaign=le-titre-de-la-semaine-maintenant-et-ici-de-kiliminog",
+    "summary": "L’article Le titre de la semaine : Maintenant et ici de Kiliminog est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-20T05:59:32+00:00",
+    "source": "Bretagne Actuelle",
     "category": "culture"
   },
   {
@@ -1098,10 +1125,28 @@
     "category": "culture"
   },
   {
+    "id": "b32063fdc4537c35",
+    "title": "Exposition de sculpture sur bois L. de Maisonneuve Salle Gothique Vezelay Vézelay",
+    "link": "https://unidivers.fr/event/exposition-de-sculpture-sur-bois-l-de-maisonneuve-vezelay-yonne-2026-07-27/",
+    "summary": "Exposition de sculpture sur bois L. de Maisonneuve Salle Gothique Vezelay 24 rue St-Pierre Vézelay Yonne 2026-07-27 10:00:00 2026-07-27",
+    "date": "2026-07-19T09:27:49+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "cbbaae9ad3c47f34",
     "title": "Les secrets de santé naturels impériaux de Napoléon et de l’Impératrice Eugénie Arcachon",
     "link": "https://unidivers.fr/event/les-secrets-de-sante-naturels-imperiaux-de-napoleon-et-de-limperatrice-eugenie-arcachon-gironde-2026-07-27/",
     "summary": "Les secrets de santé naturels impériaux de Napoléon et de l'Impératrice Eugénie 22 Boulevard du Général Leclerc Arcachon Gironde 2026-08-24 10:00:00 2026-08-24",
+    "date": "2026-07-18T17:31:52+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "a1b7c8c18fbad430",
+    "title": "À la découverte des oiseaux Larrau",
+    "link": "https://unidivers.fr/event/a-la-decouverte-des-oiseaux-larrau-pyrenees-atlantiques-2026-07-27/",
+    "summary": "À la découverte des oiseaux Chalets d'Iraty Larrau Pyrénées-Atlantiques 2026-07-27 10:00:00 2026-07-27",
     "date": "2026-07-18T17:31:52+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -1150,6 +1195,15 @@
     "date": "2026-07-17T15:26:22+00:00",
     "source": "ICI Breizh Izel",
     "category": "radio-tv"
+  },
+  {
+    "id": "38484d349c24b851",
+    "title": "Deep Purple « Splat ! »",
+    "link": "https://www.bretagne-actuelle.com/deep-purple-splat/disques/?utm_source=rss&utm_medium=rss&utm_campaign=deep-purple-splat",
+    "summary": "L’article Deep Purple « Splat ! » est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-17T11:33:52+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
   },
   {
     "id": "ab59c1f72376a510",
@@ -1251,6 +1305,15 @@
     "category": "culture"
   },
   {
+    "id": "741d8c4d8f418328",
+    "title": "Dust to Dust",
+    "link": "https://www.bretagne-actuelle.com/dust-to-dust/livres/?utm_source=rss&utm_medium=rss&utm_campaign=dust-to-dust",
+    "summary": "Une enquête menant sur les traces d’un tueur en série au cours de la Grande Dépression : voilà ce que nous proposent Phil Brams et J.G. Jones avec Dut to Dust, un one shot haletant et passionnant. L’article Dust to Dust est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-16T06:25:24+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
+  },
+  {
     "id": "573cbecfc5a0cda6",
     "title": "Ni class first, ni intersectionnel.le. Redéfinir la classe. (première partie)",
     "link": "https://expansive.info/Ni-class-first-ni-intersectionnel-le-Redefinir-la-classe-premiere-partie-5948",
@@ -1303,6 +1366,15 @@
     "date": "2026-07-15T07:37:00+00:00",
     "source": "Eco-Bretons",
     "category": "independants"
+  },
+  {
+    "id": "48fccd3de582ae73",
+    "title": "Vieilles Charrues 2026 : que la fête soit belle !",
+    "link": "https://www.bretagne-actuelle.com/vieilles-charrues-2026-que-la-fete-soit-belle/accueil-top/?utm_source=rss&utm_medium=rss&utm_campaign=vieilles-charrues-2026-que-la-fete-soit-belle",
+    "summary": "La nouvelle édition des Vieilles Charrues se tiendra à Carhaix du 16 au 19 juillet. Jeanne Rucet, programmatrice, Jean-Jacques Toux programmateur et Jérôme Tréhorel directeur, ont répondu sans se concerter à dix questions. L’article Vieilles Charrues 2026 : que la fête soit belle ! est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-15T06:48:53+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
   },
   {
     "id": "600f2fbec2f0b954",
@@ -1422,6 +1494,15 @@
     "category": "culture"
   },
   {
+    "id": "611e6ad6dfd44a70",
+    "title": "Ty Blurt à Quimper : disquaire à l’ancienne",
+    "link": "https://www.bretagne-actuelle.com/ty-blurt-a-quimper-disquaire-a-lancienne/accueil-top/?utm_source=rss&utm_medium=rss&utm_campaign=ty-blurt-a-quimper-disquaire-a-lancienne",
+    "summary": "Philippe Morel est passé de la pizza à la galette sans aucun remords. Depuis 26 ans, il s’impose comme le disquaire que l’on doit absolument visiter. Franchir l’Odet est devenu un plaisir qu’on ne se refuse plus. L’article Ty Blurt à Quimper : disquaire à l’ancienne est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-14T13:29:06+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
+  },
+  {
     "id": "88f9907787566507",
     "title": "Caravane Sport Santé Parc du Berry Rennes",
     "link": "https://unidivers.fr/event/caravane-sport-sante-parc-du-berry-rennes-2026-07-27t100000-0000200/",
@@ -1446,6 +1527,15 @@
     "summary": "A l’occasion de la demi-finale de la Coupe du monde de football, mardi 14 juillet à 21h, la Ville de Rennes et les services de l’État mettent en œuvre un dispositif de sécurité et de secours permettant d’accueillir dans les meilleures conditions les supportrices et supporters qui choisiront de se rendre dans les bars et…",
     "date": "2026-07-14T08:33:12+00:00",
     "source": "UniDivers",
+    "category": "culture"
+  },
+  {
+    "id": "35289309350dff1f",
+    "title": "Rolling Stones « Foreign Tongues »",
+    "link": "https://www.bretagne-actuelle.com/rolling-stones-foreign-tongues/disques/?utm_source=rss&utm_medium=rss&utm_campaign=rolling-stones-foreign-tongues",
+    "summary": "L’article Rolling Stones « Foreign Tongues » est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-14T06:12:47+00:00",
+    "source": "Bretagne Actuelle",
     "category": "culture"
   },
   {
@@ -1474,6 +1564,15 @@
     "date": "2026-07-13T07:43:00+00:00",
     "source": "Eco-Bretons",
     "category": "independants"
+  },
+  {
+    "id": "232312e4cb40985c",
+    "title": "Le titre de la semaine : Several got away de Dinosaur JR",
+    "link": "https://www.bretagne-actuelle.com/le-titre-de-la-semaine-several-got-away-de-dinosaur-jr/accueil-bas/?utm_source=rss&utm_medium=rss&utm_campaign=le-titre-de-la-semaine-several-got-away-de-dinosaur-jr",
+    "summary": "Dinosaur Jr. annonce la sortie de son nouvel album, “There Near”, prévue le 28 août chez Jagjaguwar, et dévoile le premier single et clip, « Several Got Away ». L’article Le titre de la semaine : Several got away de Dinosaur JR est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-13T06:44:43+00:00",
+    "source": "Bretagne Actuelle",
+    "category": "culture"
   },
   {
     "id": "4b12f4f508197e25",
@@ -1680,6 +1779,15 @@
     "summary": "Prix du livre d’histoire de Bretagne : les finalistes 2026 Le jury du prix du livre d’histoire de Bretagne s’est réuni le 19 juin et a sélectionné 8 finalistes pour l’édition 2026 du Prix du livre d’histoire de Bretagne. Après un après-midi d’échanges et de discussions sur l’ensemble des ouvrages sur l’histoire de la Bretagne […] The post Prix du livre d’histoire de Bretagne : les finalistes 2026 appeared first on Bretagne Culture Diversité .",
     "date": "2026-07-08T12:00:00+00:00",
     "source": "Bretagne Culture Diversité",
+    "category": "culture"
+  },
+  {
+    "id": "5ddaa658dd3f9b5a",
+    "title": "Joe Bonamassa « The spirit of Rory – Live from Cork »",
+    "link": "https://www.bretagne-actuelle.com/joe-bonamassa-the-spirit-of-rory-live-from-cork/disques/?utm_source=rss&utm_medium=rss&utm_campaign=joe-bonamassa-the-spirit-of-rory-live-from-cork",
+    "summary": "L’article Joe Bonamassa « The spirit of Rory – Live from Cork » est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
+    "date": "2026-07-08T11:36:44+00:00",
+    "source": "Bretagne Actuelle",
     "category": "culture"
   },
   {
@@ -2536,15 +2644,6 @@
     "date": "2026-06-25T21:13:31+00:00",
     "source": "UniDivers",
     "category": "culture"
-  },
-  {
-    "id": "30559e0eec1a6ac3",
-    "title": "Les députés bretons votent pour l’autonomie de la Corse",
-    "link": "https://lepeuplebreton.bzh/2026/06/25/les-deputes-bretons-votent-pour-lautonomie-de-la-corse/",
-    "summary": "Ce mardi 23 juin, l’Assemblée nationale votait un texte ouvrant la possibilité de l’autonomie pour la Corse, présentée comme une « communauté insulaire » pour éviter le mot « peuple ». Le chemin est encore long, avec un passage nécessaire au Sénat, puis en Congrès (ensemble des députés et sénateurs), avant l’adoption d’une loi organique définissant les domaines dans … Cet article Les députés bretons votent pour l’autonomie de la Corse est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-25T08:14:13+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "441c441b8070371f",
@@ -3834,15 +3933,6 @@
     "category": "culture"
   },
   {
-    "id": "02130d54110df15b",
-    "title": "Ur c’hoarier mell-droad skosat war bilhedoù bank",
-    "link": "https://lepeuplebreton.bzh/2026/06/09/ur-choarier-mell-droad-skosat-war-bilhedou-bank/",
-    "summary": "E Bro-Skos e vez graet an traoù war an ton bras pa vez anv a vell-droad. Ha dreist-holl gant distro d’ur genstrivadeg etrebroadel hir c’hortozet (28 vloaz) : kib ar bed mell-droad. Gouarnamant Bro-Skos en doa diskleriet e vo un deiz vak an deiz goude ar c’hrogad kentañ. Hag un ti-bank en deus moullet bilhedoù gant … Cet article Ur c’hoarier mell-droad skosat war bilhedoù bank est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-09T07:00:00+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "cc22b69c5960b1c6",
     "title": "185 kg de cannabis saisis à Roissy : un Rennais soupçonné d’être à la tête d’un trafic vers la Martinique",
     "link": "https://unidivers.fr/185-kg-cannabis-roissy-rennes-martinique-ofast/",
@@ -3958,15 +4048,6 @@
     "date": "2026-06-08T08:19:50+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "21ec5d6b5692f92e",
-    "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
-    "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
-    "summary": "An daou vestr-prezegenner e-kerzh lid Disprizioù ar brezhoneg. Lurc’hskeudenn gant Nil Caouissin. « Gourc’hemennoù d’ar re o deus stourmet a-enep ar vrezhonegerien ! Div wech nebeutoc’h anezho a oa e 2024 eget e 2018. War an hent mat emaomp. Labour zo c’hoazh memestra rak chom a ra 100 000 den oc’h ober gant ar « yezh »-se c’hoazh. » Bodet … Cet article Distro Ai’ta ha Disprizioù ar brezhoneg est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-08T07:52:49+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "0c34ade831d7dfa7",
@@ -4518,15 +4599,6 @@
     "category": "culture"
   },
   {
-    "id": "37b20413c806a167",
-    "title": "Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections",
-    "link": "https://lepeuplebreton.bzh/2026/05/12/ecosse-pays-de-galles-le-snp-et-le-plaid-cymru-gagnent-les-elections/",
-    "summary": "Rhun ar Iorweth, Premier Ministre du pays de Galles. Image : Senedd cymru Les élections locales du 7 mai au Royaume-Uni ont été marquée par le triomphe du parti d’extrême-droite Reform UK, et par l’effondrement du Labour. À gauche, la progression des Verts n’a pas suffit à compenser le recul des travaillistes et l’extrême-droite a … Cet article Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-05-12T17:41:14+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "f077a9c6f60dabc8",
     "title": "Les Jeunes Ambassadeur·rices du cinéma à Brest",
     "link": "https://www.filmcourt.fr/Les-Jeunes-Ambassadeur-rices-du-cinema-a-Brest.html",
@@ -4698,24 +4770,6 @@
     "category": "culture"
   },
   {
-    "id": "32b51a48ada34f50",
-    "title": "Stage de breton d’été de l’UDB à Landeleau",
-    "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
-    "summary": "Moreau.henri, CC BY-SA 3.0, via Wikimedia Commons Après une pause en 2025, le stage de breton de l’UDB reprend en 2026 ! Nouveauté : ce sera à Landeleau, et non à Groix, cette année. L’hébergement et les cours de breton auront lieu au Presbital kozh, du dimanche 12 (soir) au samedi 18 juillet. Les inscriptions sont ouvertes… … Cet article Stage de breton d’été de l’UDB à Landeleau est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-29T09:50:32+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "06fd24a3059d45dd",
-    "title": "Plaid Cymru : un siècle de transformation politique",
-    "link": "https://lepeuplebreton.bzh/2026/04/27/plaid-cymru-un-siecle-de-transformation-politique/",
-    "summary": "Fondé en 1925, le Plaid Cymru est longtemps resté un parti de défense culturelle, centré sur la langue galloise et la préservation d’une identité menacée. Pendant des décennies, son influence électorale demeure marginale, cantonnée à certains bastions ruraux galloisants. Mais derrière cette apparente marginalité, un travail de fond s’opère… Le parti structure un militantisme, élabore … Cet article Plaid Cymru : un siècle de transformation politique est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-27T13:01:16+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "cb9b8a4731f27f68",
     "title": "Été Actif Conte animé les gardiens des Lavoirs à Vanxains Vanxains",
     "link": "https://unidivers.fr/event/ete-actif-conte-anime-les-gardiens-des-lavoirs-a-vanxains-vanxains-dordogne-2026-07-27/",
@@ -4806,15 +4860,6 @@
     "category": "culture"
   },
   {
-    "id": "7b6304ed429ed927",
-    "title": "Un vote décisif pour la Région Alsace",
-    "link": "https://lepeuplebreton.bzh/2026/04/09/un-vote-decisif-pour-la-region-alsace/",
-    "summary": "La soirée du 7 avril n’aura pas suffit: il a fallu prolonger la discussion le 8 avril pour enfin arriver au vote des députés sur la sortie de l’Alsace du Grand Est, et la recréation d’une Région Alsace. C’est chose faite. Par 131 voix contre 100, avec 12 abstention, l’Assemblée nationale a adopté la loi … Cet article Un vote décisif pour la Région Alsace est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-09T14:32:51+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "1d5f2309bb06bbce",
     "title": "Saint-Nazaire, un vieux Liberty ship dans l’aventure technologique des méthaniers",
     "link": "https://armen.bzh/2026/04/09/methanier-methane-gaz-navire-marine-saint-nazaire-bretagne-energie/",
@@ -4831,51 +4876,6 @@
     "date": "2026-04-07T10:03:10+00:00",
     "source": "ArMen",
     "category": "culture"
-  },
-  {
-    "id": "692a2533aad912ee",
-    "title": "Hag ur rannvro Elsaz a vo savet en-dro?",
-    "link": "https://lepeuplebreton.bzh/2026/04/06/hag-ur-rannvro-elsaz-a-vo-savet-en-dro/",
-    "summary": "Logo strollegezh europat Elsaz. Reuz a zo diwar-benn Elzas! Abaoe an 11 vloaz ma oa teuzet Elzas er rannvro « Reter Bras » en desped da youl Elzasiz ez eus bet klasket alies gant dilennidi eus an tiriad-se gounit ar gwir da gaout o rannvro dezho adarre. En aner da gentañ. Un trec’h kentañ o doe e … Cet article Hag ur rannvro Elsaz a vo savet en-dro? est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-06T08:15:11+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "7497722d408a154f",
-    "title": "AQUASPLASH – HAUTE SAISON – ENTREE – AQUASPLASH AQUASPLASH Antibes",
-    "link": "https://unidivers.fr/event/aquasplash-haute-saison-entree-aquasplash-aquasplash-antibes-2026-07-27/",
-    "summary": "2026-07-27 à 00:00 AQUASPLASH - HAUTE SAISON - ENTREE - AQUASPLASH AQUASPLASH 306 AVENUE MOZART 06600 Antibes 06",
-    "date": "2026-04-03T20:37:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "aeebd0a2f01ef03f",
-    "title": "FEU! CHATTERTON – FEU! CHATTERTON THE ZAC SCHLUZE GANG THEATRE DE VERDURE Patrimonio",
-    "link": "https://unidivers.fr/event/feu-chatterton-feu-chatterton-the-zac-schluze-gang-theatre-de-verdure-patrimonio-2026-07-27/",
-    "summary": "2026-07-27 à 21:00 FEU! CHATTERTON - FEU! CHATTERTON THE ZAC SCHLUZE GANG THEATRE DE VERDURE THEATRE DE VERDURE 20253 Patrimonio 2B",
-    "date": "2026-04-03T20:37:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "e21a828c6d5f15e5",
-    "title": "ZAZ THEATRE DE LA MER – STE MAXIME Ste Maxime",
-    "link": "https://unidivers.fr/event/zaz-theatre-de-la-mer-ste-maxime-ste-maxime-2026-07-27/",
-    "summary": "2026-07-27 à 21:30 ZAZ THEATRE DE LA MER - STE MAXIME PROMENADE SIMON LORIERE 83120 Ste Maxime 83",
-    "date": "2026-04-03T20:37:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "491e6fbd377d0eec",
-    "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
-    "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
-    "summary": "Lydie Massard, porte-parole de l’Union démocratique bretonne et conseillère municipale à Pontivy, vient de déclarer sa candidature à l’élection présidentielle, en passant par la primaire de la gauche unitaire. Cette annonce intervient dans un contexte paradoxal, avec une majorité de français partisans d’une République fédérale, alors que le sujet n’est pas traité par les partis … Cet article Lydie Massard, candidate fédéraliste à l’élection présidentielle est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-02T12:48:35+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "e1fc04658078d198",
