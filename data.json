@@ -293,7 +293,7 @@
     "link": "https://www.letelegramme.fr/bretagne/cest-exceptionnel-la-2e-fois-seulement-en-50-ans-on-connait-lidentite-de-lacquereur-du-tableau-de-filiger-negocie-165-000-eur-aux-encheres-a-brest-7091503.php",
     "summary": "On sait qui est le mystérieux acheteur du tableau de Filiger, ami de Gauguin et Sérusier, adjugé 165 000 € aux enchères, à Brest, le 18 juillet 2026.",
     "date": "2026-07-28T15:16:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -365,7 +365,7 @@
     "link": "https://www.letelegramme.fr/bretagne/le-mouvement-des-free-parties-est-voue-a-se-modifier-mais-il-va-continuer-reagit-un-teufeur-apres-la-saisie-de-materiel-a-ploumagoar-7091422.php",
     "summary": "Le Breton Camille (prénom modifié), membre du « Tekno anti Rep », collectif national de soutien au mouvement Free party, n’est pas surpris par la procédure de destruction, « disproportionnée » à ses yeux, menée, ce mardi, à Ploumagoar.",
     "date": "2026-07-28T13:52:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -401,7 +401,7 @@
     "link": "https://www.letelegramme.fr/finistere/risque-dincendies-dans-les-monts-darree-et-sur-la-presquile-de-crozon-linterdiction-dacces-aux-espaces-naturels-prolongee-jusqua-vendredi-7091399.php",
     "summary": "La préfecture du Finistère prolonge jusqu’à vendredi l’interdiction d’accès, de 12 h à 20 h, des « massifs forestiers » des monts d’Arrée et de la presqu’île de Crozon. Face au risque d’incendie, d’autres mesures de protection restent en vigueur.",
     "date": "2026-07-28T13:27:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -410,7 +410,7 @@
     "link": "https://www.letelegramme.fr/finistere/plouguerneau-29880/localiser-des-bateaux-en-mer-sans-satellite-une-innovation-signee-par-des-radioamateurs-bretons-7091382.php",
     "summary": "Savoir où se situe un navire en haute mer, sans utiliser de moyens satellites : deux radioamateurs finistériens, Maurice Uguen et Anthony Le Cren, planchent depuis quatre ans sur une balise « onde courte », avec des premiers essais concluants.",
     "date": "2026-07-28T13:16:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -495,21 +495,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "0effcc60bf3bfd4a",
-    "title": "Pourquoi l’Afrique apparaît en « rouge vif » sur la carte mondiale des incendies (et pourquoi c’est trompeur)",
-    "link": "https://www.letelegramme.fr/monde/pourquoi-lafrique-apparait-en-rouge-vif-sur-la-carte-mondiale-des-incendies-et-pourquoi-cest-trompeur-7091220.php",
-    "summary": "Sur les cartes de la Nasa répertoriant les incendies dans le monde, l’Afrique centrale est représentée en rouge, signe de la présence de nombreux feux. Contrairement aux brasiers en Gironde, ici, il s’agit d’incendies volontaires.",
-    "date": "2026-07-28T10:05:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "0c8bbea2e690b03f",
     "title": "« On pourra choisir le niveau de piments » : « Épices et feu » va ouvrir au centre-ville de Brest",
     "link": "https://www.letelegramme.fr/finistere/brest-29200/on-pourra-choisir-le-niveau-de-piments-epices-et-feu-va-ouvrir-au-centre-ville-de-brest-7091223.php",
     "summary": "Un nouveau restaurant de cuisines du monde va ouvrir début août dans le quartier Saint-Martin, à Brest : « Épices et feu ». Restauration rapide thaï et indienne, notamment.",
     "date": "2026-07-28T10:05:00+00:00",
     "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "0effcc60bf3bfd4a",
+    "title": "Pourquoi l’Afrique apparaît en « rouge vif » sur la carte mondiale des incendies (et pourquoi c’est trompeur)",
+    "link": "https://www.letelegramme.fr/monde/pourquoi-lafrique-apparait-en-rouge-vif-sur-la-carte-mondiale-des-incendies-et-pourquoi-cest-trompeur-7091220.php",
+    "summary": "Sur les cartes de la Nasa répertoriant les incendies dans le monde, l’Afrique centrale est représentée en rouge, signe de la présence de nombreux feux. Contrairement aux brasiers en Gironde, ici, il s’agit d’incendies volontaires.",
+    "date": "2026-07-28T10:05:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -527,7 +527,7 @@
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/fete-du-bruit/le-telegramme-vous-fait-gagner-six-places-pour-la-fete-du-bruit-dans-landerneau-7091164.php",
     "summary": "Abonnez-vous à la newsletter « Les immanquables Brest » et tentez de gagner des places pour le festival Fête du bruit dans Landerneau, du 7 au 9 août.",
     "date": "2026-07-28T10:00:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -572,7 +572,7 @@
     "link": "https://www.letelegramme.fr/finistere/crozon-29160/cest-soit-la-ferme-soit-le-marche-a-crozon-le-pari-reussi-du-circuit-court-dyvanne-drevillon-7091136.php",
     "summary": "Ils sont nos pourvoyeurs de bons produits. Cet été, on vous amène à la rencontre de producteurs du coin. Aujourd’hui, on pousse la porte de la bergerie d’Yvanne Drévillon, à Crozon, où le lait de brebis se transforme en yaourts, tommes et douceurs fermières.",
     "date": "2026-07-28T08:51:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -590,7 +590,7 @@
     "link": "https://www.letelegramme.fr/finistere/brest-29200/286-heures-de-ciel-bleu-brest-a-battu-son-record-densoleillement-en-juillet-7091072.php",
     "summary": "Le ciel n’avait jamais été aussi ensoleillé à Brest pendant un mois de juillet. Ce week-end, la ville a dépassé de près de huit heures son précédent record mensuel d’ensoleillement, qui datait de 2022.",
     "date": "2026-07-28T08:03:00+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -653,16 +653,7 @@
     "link": "https://www.letelegramme.fr/france/ma-grand-tante-a-pris-tous-ses-albums-photo-et-on-a-evacue-la-brestoise-irene-17-ans-raconte-son-depart-precipite-du-bassin-darcachon-7091001.php",
     "summary": "En vacances dans la maison familiale de ses grands-parents à Arès, dans le bassin d’Arcachon, la Brestoise Irène Penaud-Mosquera a dû évacuer les lieux vendredi 24 juillet. Depuis la Dordogne, elle évoque « un sentiment étrange, d’irréalité ».",
     "date": "2026-07-28T04:00:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
-    "id": "b97de060bb0d7214",
-    "title": "Grâces, Carhaix, stade de Roudourou… Quelles sont les étapes du Kreiz Breizh Élites 2026 ?",
-    "link": "https://www.letelegramme.fr/sports/cyclisme/graces-carhaix-stade-de-roudourou-quelles-sont-les-etapes-du-kreiz-breizh-elites-2026-7089465.php",
-    "summary": "La 30e édition de la Kreiz Breizh Élites, épreuve labellisée 2.2, se disputera du vendredi 31 juillet au lundi 3 août. Au menu : trois étapes et une arrivée finale à Rostrenen. Retrouvez le parcours.",
-    "date": "2026-07-28T04:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -672,6 +663,15 @@
     "summary": "À quelques jours du Festival interceltique de Lorient, Sonerion, qui organise le championnat des bagadoù, compte désormais « avancer plus sereinement » après avoir été sonné par des turbulences ayant secoué la confédération de musique traditionnelle bretonne (*).",
     "date": "2026-07-28T04:00:00+00:00",
     "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "b97de060bb0d7214",
+    "title": "Grâces, Carhaix, stade de Roudourou… Quelles sont les étapes du Kreiz Breizh Élites 2026 ?",
+    "link": "https://www.letelegramme.fr/sports/cyclisme/graces-carhaix-stade-de-roudourou-quelles-sont-les-etapes-du-kreiz-breizh-elites-2026-7089465.php",
+    "summary": "La 30e édition de la Kreiz Breizh Élites, épreuve labellisée 2.2, se disputera du vendredi 31 juillet au lundi 3 août. Au menu : trois étapes et une arrivée finale à Rostrenen. Retrouvez le parcours.",
+    "date": "2026-07-28T04:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -720,21 +720,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "f8fe5ae3271e4471",
-    "title": "« Témoigner de la grande vitalité de la culture bretonne » : le Kenleur Tour fera étape à Carhaix, ce vendredi 31 juillet",
-    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/temoigner-de-la-grande-vitalite-de-la-culture-bretonne-le-kenleur-tour-fera-etape-a-carhaix-ce-vendredi-31-juillet-7090802.php",
-    "summary": "En tournée en Bretagne, le festival itinérant Kenleur Tour fait escale, à Carhaix, ce vendredi 31 juillet. Le cercle d’Ahès propose une soirée gratuite mêlant initiation à la danse, spectacle et fest-noz.",
-    "date": "2026-07-27T17:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
-    "category": "presse-locale"
-  },
-  {
     "id": "1ed19d8ae9aa3ff5",
     "title": "« S’il va en 6e générale, ce sera la descente aux enfers » : à Morlaix, des parents sans solution pour leur enfant atteint de trouble de l’attention",
     "link": "https://www.letelegramme.fr/finistere/plourin-les-morlaix-29600/sil-va-en-6e-generale-ce-sera-la-descente-aux-enfers-a-morlaix-des-parents-sans-solution-pour-leur-enfant-atteint-de-trouble-de-lattention-7090918.php",
     "summary": "À un mois de la rentrée, des parents de Plourin-lès-Morlaix sont désemparés : leur fils de 12 ans, atteint de trouble de l’attention et en classe spécialisée Ulis depuis le CE1, se retrouve sans place pour sa rentrée en 6e.",
     "date": "2026-07-27T17:00:00+00:00",
     "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "f8fe5ae3271e4471",
+    "title": "« Témoigner de la grande vitalité de la culture bretonne » : le Kenleur Tour fera étape à Carhaix, ce vendredi 31 juillet",
+    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/temoigner-de-la-grande-vitalite-de-la-culture-bretonne-le-kenleur-tour-fera-etape-a-carhaix-ce-vendredi-31-juillet-7090802.php",
+    "summary": "En tournée en Bretagne, le festival itinérant Kenleur Tour fait escale, à Carhaix, ce vendredi 31 juillet. Le cercle d’Ahès propose une soirée gratuite mêlant initiation à la danse, spectacle et fest-noz.",
+    "date": "2026-07-27T17:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -1599,15 +1599,6 @@
     "summary": "Philippe Morel est passé de la pizza à la galette sans aucun remords. Depuis 26 ans, il s’impose comme le disquaire que l’on doit absolument visiter. Franchir l’Odet est devenu un plaisir qu’on ne se refuse plus. L’article Ty Blurt à Quimper : disquaire à l’ancienne est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
     "date": "2026-07-14T13:29:06+00:00",
     "source": "Bretagne Actuelle",
-    "category": "culture"
-  },
-  {
-    "id": "8abfaedb8498009e",
-    "title": "Testez (gratuitement) une expérience de réalité virtuelle ! Lycée Gustave Ferrié Paris",
-    "link": "https://unidivers.fr/event/testez-gratuitement-une-experience-de-realite-virtuelle-lycee-gustave-ferrie-paris-paris-2026-07-29t0200000200/",
-    "summary": "Testez (gratuitement) une expérience de réalité virtuelle ! Lycée Gustave Ferrié Paris Du 29 au 31 juillet, Le studio Lucid Realities ouvre exceptionnellement au public une phase de test de sa toute nouvelle expérience de réalité virtuelle, Le Fabuleux Voyage de Charles Darwin.",
-    "date": "2026-07-14T09:20:12+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -3582,6 +3573,15 @@
     "category": "culture"
   },
   {
+    "id": "ea67f6b039c84c17",
+    "title": "LEVEZ LE PIED SUR LE MONT LOZERE JEUX EN BOIS XXL Mont Lozère et Goulet",
+    "link": "https://unidivers.fr/event/levez-le-pied-sur-le-mont-lozere-jeux-en-bois-xxl-mont-lozere-et-goulet-lozere-2026-07-15/",
+    "summary": "LEVEZ LE PIED SUR LE MONT LOZERE JEUX EN BOIS XXL Station de pleine nature du Mont Lozère Mont Lozère et Goulet Lozère 2026-08-26 09:00:00 2026-08-26 09:00:00",
+    "date": "2026-06-11T15:20:59+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "e2ad4c190ee8837a",
     "title": "Les secrets des plantes sauvages médicinales (balade botanique) Camping Les Avenières Manthes",
     "link": "https://unidivers.fr/event/les-secrets-des-plantes-sauvages-medicinales-balade-botanique-manthes-drome-2026-07-29/",
@@ -4725,132 +4725,6 @@
     "category": "independants"
   },
   {
-    "id": "199927247f0c2919",
-    "title": "POE FANTASTIC OPERA ORANGERIE DU PARC DE BAGATELLE Paris",
-    "link": "https://unidivers.fr/event/poe-fantastic-opera-orangerie-du-parc-de-bagatelle-paris-2026-07-29/",
-    "summary": "2026-07-29 à 19:00 POE FANTASTIC OPERA ORANGERIE DU PARC DE BAGATELLE ROUTE DE SÈVRES À NEUILLY 75116 Paris 75",
-    "date": "2026-04-03T20:37:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "a10d3920f585f090",
-    "title": "L’ARAPEDE LA COMEDIE D’AIX – AIX EN PROVENCE Aix En Provence",
-    "link": "https://unidivers.fr/event/larapede-la-comedie-daix-aix-en-provence-aix-en-provence-2026-07-29/",
-    "summary": "2026-07-29 à 20:30 L'ARAPEDE LA COMEDIE D'AIX - AIX EN PROVENCE 8, AVENUE DE LA VIOLETTE 13100 Aix En Provence 13",
-    "date": "2026-04-03T20:37:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d43fea165a3bc2c2",
-    "title": "ARCHIVE PALAIS DES FESTIVALS-GRAND AUDITORIUM Cannes",
-    "link": "https://unidivers.fr/event/archive-palais-des-festivals-grand-auditorium-cannes-2026-07-29/",
-    "summary": "2026-07-29 à 20:30 ARCHIVE PALAIS DES FESTIVALS-GRAND AUDITORIUM Esplanade Georges Pompidou 06400 Cannes 06",
-    "date": "2026-04-03T20:37:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "a6ff9fc9552a2aef",
-    "title": "MON BREL PREFERE THEATRE DE VERDURE Carry Le Rouet",
-    "link": "https://unidivers.fr/event/mon-brel-prefere-theatre-de-verdure-carry-le-rouet-2026-07-29/",
-    "summary": "2026-07-29 à 21:00 MON BREL PREFERE THEATRE DE VERDURE Chemin du Jas Vieux 13620 Carry Le Rouet 13",
-    "date": "2026-04-03T20:37:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "f65a501d6b077b2d",
-    "title": "ROGE / GILSONS THEATRE DE LA MER-JEAN VILAR Sete",
-    "link": "https://unidivers.fr/event/roge-gilsons-theatre-de-la-mer-jean-vilar-sete-2026-07-29/",
-    "summary": "2026-07-29 à 21:00 ROGE / GILSONS THEATRE DE LA MER-JEAN VILAR Promenade du Marechal Leclerc 34200 Sete 34",
-    "date": "2026-04-03T20:37:26+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "f016ebf57da3ad58",
-    "title": "LE PETIT CHAPERON ROUGE ORANGERIE DU PARC DE BAGATELLE Paris",
-    "link": "https://unidivers.fr/event/le-petit-chaperon-rouge-orangerie-du-parc-de-bagatelle-paris-2026-07-29/",
-    "summary": "2026-07-29 à 14:00 LE PETIT CHAPERON ROUGE ORANGERIE DU PARC DE BAGATELLE ROUTE DE SÈVRES À NEUILLY 75116 Paris 75",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ca847ab88be90b8e",
-    "title": "FRANGES – QUINTET HYBRIDE L’ASTRADA Marciac",
-    "link": "https://unidivers.fr/event/franges-quintet-hybride-lastrada-marciac-2026-07-29/",
-    "summary": "2026-07-29 à 15:00 FRANGES - QUINTET HYBRIDE L'ASTRADA 53 CHEMIN DE RONDE 32230 Marciac 32",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "13a99154fea9c48d",
-    "title": "LES CONTES DU CHAT PERCHE ORANGERIE DU PARC DE BAGATELLE Paris",
-    "link": "https://unidivers.fr/event/les-contes-du-chat-perche-orangerie-du-parc-de-bagatelle-paris-2026-07-29/",
-    "summary": "2026-07-29 à 16:00 LES CONTES DU CHAT PERCHE ORANGERIE DU PARC DE BAGATELLE ROUTE DE SÈVRES À NEUILLY 75116 Paris 75",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "09f4692b28a83769",
-    "title": "LES AVENTURES DE PINOCCHIO THEATRE DE VERDURE Carry Le Rouet",
-    "link": "https://unidivers.fr/event/les-aventures-de-pinocchio-theatre-de-verdure-carry-le-rouet-2026-07-29/",
-    "summary": "2026-07-29 à 18:00 LES AVENTURES DE PINOCCHIO THEATRE DE VERDURE Chemin du Jas Vieux 13620 Carry Le Rouet 13",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "694166a12e4ab9a9",
-    "title": "THIBAUT – THIBAUT DANS LES APPRENTIS MAGICIENS CHATEAU – ST VICTOR SUR LOIRE St Etienne",
-    "link": "https://unidivers.fr/event/thibaut-thibaut-dans-les-apprentis-magiciens-chateau-st-victor-sur-loire-st-etienne-2026-07-29/",
-    "summary": "2026-07-29 à 18:00 THIBAUT - THIBAUT DANS LES APPRENTIS MAGICIENS CHATEAU - ST VICTOR SUR LOIRE Commune de Saint Etienne - 42230 St Etienne 42",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "c537ff7faddc736f",
-    "title": "ON A ECHANGE NOS ADOS DOMAINE ALLOIS Caseneuve",
-    "link": "https://unidivers.fr/event/on-a-echange-nos-ados-domaine-allois-caseneuve-2026-07-29/",
-    "summary": "2026-07-29 à 21:00 ON A ECHANGE NOS ADOS DOMAINE ALLOIS HAMEAU LE BOISSET 84750 Caseneuve 84",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "774c8ae031adef0d",
-    "title": "LAURENT VOULZY THEATRE ANTIQUE VAISON Vaison La Romaine",
-    "link": "https://unidivers.fr/event/laurent-voulzy-theatre-antique-vaison-vaison-la-romaine-2026-07-29/",
-    "summary": "2026-07-29 à 21:00 LAURENT VOULZY THEATRE ANTIQUE VAISON RUE BERNARD NOËL 84110 Vaison La Romaine 84",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "cc7ecf207e4cab76",
-    "title": "GOLD ARENES DU CRES Le Cres",
-    "link": "https://unidivers.fr/event/gold-arenes-du-cres-le-cres-2026-07-29/",
-    "summary": "2026-07-29 à 21:15 GOLD ARENES DU CRES 25 PLACE DU PONT TRINQUAT 34920 Le Cres 34",
-    "date": "2026-04-03T20:37:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "86ec2d8231e08607",
-    "title": "PAS D’OMELETTES SANS OEUFS ORANGERIE DU PARC DE BAGATELLE Paris",
-    "link": "https://unidivers.fr/event/pas-domelettes-sans-oeufs-orangerie-du-parc-de-bagatelle-paris-2026-07-29/",
-    "summary": "2026-07-29 à 11:00 PAS D'OMELETTES SANS OEUFS ORANGERIE DU PARC DE BAGATELLE ROUTE DE SÈVRES À NEUILLY 75116 Paris 75",
-    "date": "2026-04-03T20:37:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "491e6fbd377d0eec",
     "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
     "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
@@ -4874,6 +4748,15 @@
     "link": "https://unidivers.fr/event/concours-complet-dequitation-international-le-pin-au-haras-orne-2026-07-29/",
     "summary": "Concours complet d'équitation international Pôle international de sports équestres Le Pin-au-Haras Orne Vendredi Vendredi 2026-07-29 09:00:00 2026-07-29 09:00:00",
     "date": "2026-03-26T14:22:36+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "c6a7b5f2f6a06e20",
+    "title": "Exposition Mathieu Piffeteau Musée de Guéthary Guéthary",
+    "link": "https://unidivers.fr/event/exposition-mathieu-piffeteau-guethary-pyrenees-atlantiques-2026-07-29/",
+    "summary": "Exposition Mathieu Piffeteau Musée de Guéthary 165 Avenue du Général de Gaulle Guéthary Pyrénées-Atlantiques 2026-07-29 15:00:00 2026-07-29",
+    "date": "2026-03-24T13:15:16+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4910,6 +4793,24 @@
     "link": "https://unidivers.fr/event/decouverte-du-marais-dorx-labenne-landes-2026-07-29/",
     "summary": "Découverte du Marais d'Orx Réserve Naturelle du Marais d'Orx 1005 Route du Marais Labenne Landes 2026-07-29 2026-07-29",
     "date": "2026-03-18T06:37:42+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "60ea30f8fa8b7dcf",
+    "title": "Visite guidée Saint-Enogat Terre d’artistes Office de Tourisme Dinard",
+    "link": "https://unidivers.fr/event/visite-guidee-saint-enogat-terre-dartistes-dinard-ille-et-vilaine-2026-07-29/",
+    "summary": "Visite guidée Saint-Enogat Terre d'artistes Office de Tourisme 2 Boulevard Féart Dinard Ille-et-Vilaine 2026-07-29 10:00:00 2026-07-29",
+    "date": "2026-03-18T06:37:38+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "4e747dfd612a753f",
+    "title": "Jeu de piste en famille Lussat",
+    "link": "https://unidivers.fr/event/jeu-de-piste-en-famille-lussat-creuse-2026-07-29/",
+    "summary": "Jeu de piste en famille Route de l'Étang des Landes Lussat Creuse 2026-08-06 2026-08-06",
+    "date": "2026-03-14T15:23:36+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4995,11 +4896,38 @@
     "category": "culture"
   },
   {
+    "id": "b68c3cd94dce1c14",
+    "title": "COOL AND ZE GAMES Plage Verte Saint-Brevin-les-Pins",
+    "link": "https://unidivers.fr/event/cool-and-ze-games-saint-brevin-les-pins-loire-atlantique-2026-07-29/",
+    "summary": "COOL AND ZE GAMES Plage Verte Bd de l'Océan Saint-Brevin-les-Pins Loire-Atlantique 2026-08-01 10:00:00 2026-08-01",
+    "date": "2026-02-27T17:26:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "5b7b29703d8f5719",
     "title": "Marmottes et oiseaux Le Chambon-sur-Lignon",
     "link": "https://unidivers.fr/event/marmottes-et-oiseaux-le-chambon-sur-lignon-haute-loire-2026-07-29/",
     "summary": "Marmottes et oiseaux Rdv Office de tourisme Le Chambon-sur-Lignon Haute-Loire 2026-07-29 09:15:00 2026-07-29 09:15:00",
     "date": "2026-02-27T16:59:45+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "6eca51f075937848",
+    "title": "Mini-atelier rigolo Balade des petits curieux Caudebec-en-Caux Rives-en-Seine",
+    "link": "https://unidivers.fr/event/mini-atelier-rigolo-balade-des-petits-curieux-rives-en-seine-seine-maritime-2026-07-29/",
+    "summary": "Mini-atelier rigolo Balade des petits curieux Caudebec-en-Caux Avenue Winston Churchill Rives-en-Seine Seine-Maritime 2026-07-29 10:00:00 2026-07-29 10:00:00",
+    "date": "2026-02-27T15:56:29+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "92516ec03182b610",
+    "title": "Initiation à la pelote basque Jai Alai Saint-Jean-de-Luz",
+    "link": "https://unidivers.fr/event/initiation-a-la-pelote-basque-saint-jean-de-luz-pyrenees-atlantiques-2026-07-29/",
+    "summary": "Initiation à la pelote basque Jai Alai 18 avenue André Ithurralde Saint-Jean-de-Luz Pyrénées-Atlantiques 2026-07-29 10:00:00 2026-07-29",
+    "date": "2026-02-27T15:40:02+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5036,6 +4964,33 @@
     "link": "https://unidivers.fr/event/rando-a-la-ferme-avec-trottiraty-et-pique-nique-du-berger-au-cayolar-saint-jean-pied-de-port-pyrenees-atlantiques-2026-07-29/",
     "summary": "Rando à la ferme avec Trott'Iraty et pique-nique du berger au cayolar Saint-Jean-Pied-de-Port Pyrénées-Atlantiques 2026-07-29 2026-07-29",
     "date": "2026-02-24T09:29:48+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "6849d5ec9f40ae22",
+    "title": "Atelier d’expression libre en art plastique Éveillez vos sens, libérez vos couleurs Honfleur",
+    "link": "https://unidivers.fr/event/atelier-arts-plastiques-eveillez-vos-sens-liberez-vos-couleurs-honfleur-calvados-2026-03-21/",
+    "summary": "Atelier Arts plastiques Éveillez vos sens, libérez vos couleurs 34 Rue Notre Dame Honfleur Calvados 2026-04-15 09:00:00 2026-04-15 14:00:00",
+    "date": "2026-02-22T13:42:01+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "f266d1fa933f4baa",
+    "title": "Balade guidée de Monpazier Porte Saint-Jacques Monpazier",
+    "link": "https://unidivers.fr/event/balade-guidee-de-monpazier-monpazier-dordogne-2026-07-29/",
+    "summary": "Balade guidée de Monpazier Porte Saint-Jacques 85 Rue Saint-Jacques Monpazier Dordogne 2026-07-29 2026-07-29",
+    "date": "2026-02-22T13:37:38+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "f1c0c171ade6ff8f",
+    "title": "Festival du dessin animé Cine Tence Tence",
+    "link": "https://unidivers.fr/event/festival-du-dessin-anime-tence-haute-loire-2026-07-29/",
+    "summary": "Festival du dessin animé Cine Tence 8 rue de St-Agrève Tence Haute-Loire 2026-07-29 2026-07-29",
+    "date": "2026-02-22T12:10:29+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5247,6 +5202,15 @@
     "category": "culture"
   },
   {
+    "id": "82f8808c32bdf6df",
+    "title": "Atelier découverte et dégustation de thés bio Noisettes et bergamote Le Pouliguen",
+    "link": "https://unidivers.fr/event/atelier-decouverte-et-degustation-de-thes-bio-le-pouliguen-loire-atlantique-2026-02-25/",
+    "summary": "Atelier découverte et dégustation de thés bio Noisettes et bergamote 5 rue du centre Le Pouliguen Loire-Atlantique 2026-07-08 09:30:00 2026-07-08",
+    "date": "2026-01-24T15:21:04+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "ec7a35e69c46bd55",
     "title": "Visite sportive commentée Vignoble et dégustation Offre été 2026 Wolxheim",
     "link": "https://unidivers.fr/event/visite-sportive-commentee-vignoble-et-degustation-offre-ete-2026-wolxheim-bas-rhin-2026-07-15/",
@@ -5270,6 +5234,15 @@
     "link": "https://unidivers.fr/event/chasse-au-tresor-saint-jean-de-luz-pyrenees-atlantiques-2026-07-29/",
     "summary": "Chasse au trésor Office de tourisme 20 boulevard Victor Hugo Saint-Jean-de-Luz Pyrénées-Atlantiques 2026-07-29 2026-07-29",
     "date": "2026-01-22T11:35:52+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "474e571695d86e46",
+    "title": "Ateliers famille au Château à motte Château à Motte Verrières-en-Anjou",
+    "link": "https://unidivers.fr/event/ateliers-famille-au-chateau-a-motte-verrieres-en-anjou-maine-et-loire-2026-04-14/",
+    "summary": "Ateliers famille au Château à motte Château à Motte Avenue du Parc, Parc André Delibes Verrières-en-Anjou Maine-et-Loire 2026-04-14 10:00:00 2026-04-14",
+    "date": "2026-01-20T08:47:54+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5333,6 +5306,15 @@
     "link": "https://unidivers.fr/event/marche-a-pomarez-pomarez-landes-2026-07-29/",
     "summary": "Marché à Pomarez Place des arènes Pomarez Landes 2026-07-29 2026-07-29",
     "date": "2026-01-12T12:51:18+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "145e178e666e76f8",
+    "title": "Marché de Murol Murol",
+    "link": "https://unidivers.fr/event/marche-de-murol-murol-puy-de-dome-2026-01-07/",
+    "summary": "Marché de Murol Centre-bourg Murol Puy-de-Dôme 2026-03-11 09:00:00 2026-03-11 09:00:00",
+    "date": "2026-01-08T12:49:25+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5499,6 +5481,15 @@
     "category": "culture"
   },
   {
+    "id": "caab687228122ddb",
+    "title": "Marché de la Birochère à Pornic Rue de la Bernerie Pornic",
+    "link": "https://unidivers.fr/event/marche-de-la-birochere-a-pornic-pornic-loire-atlantique-2025-04-02/",
+    "summary": "Marché de la Birochère à Pornic Rue de la Bernerie Parking de la Birochère Pornic Loire-Atlantique 2026-09-23 08:00:00 2026-09-23",
+    "date": "2025-04-03T18:39:04+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "a7d5ea9efc28a260",
     "title": "Marché de Préfailles Préfailles",
     "link": "https://unidivers.fr/event/marche-de-prefailles-prefailles-loire-atlantique-2025-04-02/",
@@ -5522,6 +5513,15 @@
     "link": "https://unidivers.fr/event/marche-traditionnel-veules-les-roses-seine-maritime-2025-06-25/",
     "summary": "Marché traditionnel Rue Victor Hugo Veules-les-Roses Seine-Maritime 2026-03-18 09:00:00 2026-03-18 09:00:00",
     "date": "2025-03-28T23:48:57+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "bbdfbe6b1254bd34",
+    "title": "Marché de Vihiers Le Mercredi Vihiers Lys-Haut-Layon",
+    "link": "https://unidivers.fr/event/marche-de-vihiers-le-mercredi-lys-haut-layon-maine-et-loire-2025-04-02/",
+    "summary": "Marché de Vihiers Le Mercredi Vihiers Place Charles de Gaulle Lys-Haut-Layon Maine-et-Loire 2025-12-31 08:30:00 2025-12-31",
+    "date": "2025-03-28T17:36:29+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   }
