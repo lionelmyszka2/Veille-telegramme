@@ -14,7 +14,7 @@
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/bout-du-monde/direct-festival-du-bout-du-monde-le-dernier-jour-du-boudu-est-lance-7094052.php",
     "summary": "La dernière ligne droite est lancée au Bout du monde ! Mais le Boudu n’a pas encore dit son dernier mot : Miossec montera sur scène à 23 h, avant Hilight Tribe qui fera vibrer Landaoudec jusqu’au bout de la nuit.",
     "date": "2026-08-02T21:24:37+00:00",
-    "source": "Le Télégramme – Brest",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -423,6 +423,15 @@
     "category": "radio-tv"
   },
   {
+    "id": "013a3338544437a5",
+    "title": "Canicules, mégafeux… L’étrange été du tourisme en France",
+    "link": "https://www.letelegramme.fr/france/canicules-megafeux-letrange-ete-du-tourisme-en-france-7093846.php",
+    "summary": "Des incendies géants en Gironde, des festivals annulés sous l’effet de la canicule, des vacanciers qui privilégient des régions plus fraîches : l’été 2026 bouscule les habitudes du tourisme français.",
+    "date": "2026-08-02T10:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
     "id": "384edf8f8a0f3708",
     "title": "« Je mange les raviolis froids, à la dure, quoi ! » : au camping du Boudu à Crozon, les menus détonants des festivaliers",
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/bout-du-monde/je-mange-les-raviolis-froids-a-la-dure-quoi-au-camping-du-boudu-a-crozon-les-menus-detonants-des-festivaliers-7093793.php",
@@ -438,15 +447,6 @@
     "summary": "Les coureurs ont parcouru 169 km dans cette troisième étape du Kreiz Breizh Elites 2026 entre Trévarez et Carhaix, ce dimanche 2 août. C'est Hugo Millet (Mayenne-Monbana-Rapido) qui s'est imposé. Revivez la course en vidéo.",
     "date": "2026-08-02T10:00:00+00:00",
     "source": "Le Télégramme – Carhaix",
-    "category": "presse-locale"
-  },
-  {
-    "id": "013a3338544437a5",
-    "title": "Canicules, mégafeux… L’étrange été du tourisme en France",
-    "link": "https://www.letelegramme.fr/france/canicules-megafeux-letrange-ete-du-tourisme-en-france-7093846.php",
-    "summary": "Des incendies géants en Gironde, des festivals annulés sous l’effet de la canicule, des vacanciers qui privilégient des régions plus fraîches : l’été 2026 bouscule les habitudes du tourisme français.",
-    "date": "2026-08-02T10:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -567,21 +567,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "3c3db1e9f4244e7a",
-    "title": "Il l’appelait « Mon Brest » : quand Richelieu actait la naissance de l’Arsenal",
-    "link": "https://www.letelegramme.fr/finistere/brest-29200/il-lappelait-mon-brest-quand-richelieu-actait-la-naissance-de-larsenal-7093587.php",
-    "summary": "Il l’appelait « Mon Brest » mais n’y est jamais venu. Il y a bientôt 400 ans, à la fin de l’été 1631, le cardinal de Richelieu actait la naissance du port militaire, le fameux Arsenal, dans une ville bientôt stratégique.",
-    "date": "2026-08-02T04:00:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
     "id": "85a954504bab0360",
     "title": "En Espagne, le « potager de l’Europe » s’adapte tant bien que mal à la raréfaction de l’eau",
     "link": "https://www.letelegramme.fr/monde/en-espagne-le-potager-de-leurope-sadapte-tant-bien-que-mal-a-la-rarefaction-de-leau-7093265.php",
     "summary": "Certains demandent infrastructures et mesures techniques pour augmenter la disponibilité, d’autres estiment qu’il faut réduire la part de cultures arrosées.",
     "date": "2026-08-02T04:00:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "3c3db1e9f4244e7a",
+    "title": "Il l’appelait « Mon Brest » : quand Richelieu actait la naissance de l’Arsenal",
+    "link": "https://www.letelegramme.fr/finistere/brest-29200/il-lappelait-mon-brest-quand-richelieu-actait-la-naissance-de-larsenal-7093587.php",
+    "summary": "Il l’appelait « Mon Brest » mais n’y est jamais venu. Il y a bientôt 400 ans, à la fin de l’été 1631, le cardinal de Richelieu actait la naissance du port militaire, le fameux Arsenal, dans une ville bientôt stratégique.",
+    "date": "2026-08-02T04:00:00+00:00",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -783,21 +783,21 @@
     "category": "radio-tv"
   },
   {
-    "id": "41b832d4ef1cdf4d",
-    "title": "Partir sans payer la note : à Brest, plusieurs restaurants déplorent des actes de grivèlerie ou « resto basket »",
-    "link": "https://www.letelegramme.fr/finistere/brest-29200/partir-sans-payer-la-note-a-brest-plusieurs-restaurants-deplorent-des-actes-de-grivelerie-ou-resto-basket-7093305.php",
-    "summary": "Des restaurants du centre-ville de Brest et de la marina du Château assurent avoir été victimes d’actes de grivèlerie, où un client part sans payer sa note. L’Umih, le syndicat du secteur, appelle à porter plainte à chaque fois.",
-    "date": "2026-08-01T04:00:00+00:00",
-    "source": "Le Télégramme – Brest",
-    "category": "presse-locale"
-  },
-  {
     "id": "6df95c6284ddd7c9",
     "title": "La Bretagne manque de bras… pour tourner les crêpes ! [Vidéo]",
     "link": "https://www.letelegramme.fr/bretagne/la-bretagne-manque-de-bras-pour-tourner-les-crepes-video-7093170.php",
     "summary": "Les billigs boudées par les crêpiers, en voilà un comble en Bretagne ! Chaleur, position debout, rémunération, logement… Les gérants de crêperies peinent à attirer du personnel pour étaler les crêpes. Un savoir-faire qui se transmet aussi moins naturellement dans les familles.",
     "date": "2026-08-01T04:00:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "41b832d4ef1cdf4d",
+    "title": "Partir sans payer la note : à Brest, plusieurs restaurants déplorent des actes de grivèlerie ou « resto basket »",
+    "link": "https://www.letelegramme.fr/finistere/brest-29200/partir-sans-payer-la-note-a-brest-plusieurs-restaurants-deplorent-des-actes-de-grivelerie-ou-resto-basket-7093305.php",
+    "summary": "Des restaurants du centre-ville de Brest et de la marina du Château assurent avoir été victimes d’actes de grivèlerie, où un client part sans payer sa note. L’Umih, le syndicat du secteur, appelle à porter plainte à chaque fois.",
+    "date": "2026-08-01T04:00:00+00:00",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -4311,6 +4311,15 @@
     "category": "culture"
   },
   {
+    "id": "1b3888e5d3046595",
+    "title": "Rendez-vous vigneron Place du Champ de Foire Doué-en-Anjou",
+    "link": "https://unidivers.fr/event/rendez-vous-vigneron-doue-en-anjou-maine-et-loire-2026-08-03/",
+    "summary": "Rendez-vous vigneron Place du Champ de Foire Doué-la-Fontaine Doué-en-Anjou Maine-et-Loire 2026-08-03 10:30:00 2026-08-03",
+    "date": "2026-06-08T08:34:50+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "92283588d9029349",
     "title": "Rennes. Les Salopettes font le bazar au Grand Huit vendredi 12 juin 2026",
     "link": "https://unidivers.fr/rennes-les-salopettes-le-bazar-du-hasard/",
@@ -4333,6 +4342,15 @@
     "title": "Exposition d’été Ancienne Mairie Saint-Quay-Portrieux",
     "link": "https://unidivers.fr/event/exposition-dete-saint-quay-portrieux-cotes-darmor-2026-08-03/",
     "summary": "Exposition d'été Ancienne Mairie 20 Quai de la République Saint-Quay-Portrieux Côtes-d'Armor 2026-08-03 2026-08-03",
+    "date": "2026-06-08T08:19:41+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "e5c1046529b2030f",
+    "title": "Visite gourmande de Tardets Tardets-Sorholus",
+    "link": "https://unidivers.fr/event/visite-gourmande-de-tardets-tardets-sorholus-pyrenees-atlantiques-2026-08-03/",
+    "summary": "Visite gourmande de Tardets Bureau d'accueil touristique Tardets-Sorholus Pyrénées-Atlantiques 2026-08-03 10:30:00 2026-08-03",
     "date": "2026-06-08T08:19:41+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4531,6 +4549,15 @@
     "title": "Course d’orientation Saint-Cybardeaux",
     "link": "https://unidivers.fr/event/course-dorientation-saint-cybardeaux-charente-2026-08-03/",
     "summary": "Course d'orientation Site archeologique des bouchauds Saint-Cybardeaux Charente 2026-08-03 10:00:00 2026-08-03 10:00:00",
+    "date": "2026-06-04T17:33:47+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "4c388b3b24090bf7",
+    "title": "Visite Atelier Château d’Assier ? Château recyclé Assier",
+    "link": "https://unidivers.fr/event/visite-atelier-chateau-dassier-chateau-recycle-assier-lot-2026-08-03/",
+    "summary": "Visite Atelier Château d'Assier ? Château recyclé Château d'Assier Assier Lot 2026-08-03 10:30:00 2026-08-03",
     "date": "2026-06-04T17:33:47+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -5103,24 +5130,6 @@
     "category": "culture"
   },
   {
-    "id": "06a42322eb0ab49b",
-    "title": "ARCH ENEMY La Maroquinerie Paris",
-    "link": "https://unidivers.fr/event/arch-enemy-la-maroquinerie-paris-2026-08-03/",
-    "summary": "2026-08-03 à 21:00 ARCH ENEMY La Maroquinerie 23, RUE BOYER 75020 Paris 75",
-    "date": "2026-04-03T20:38:16+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "75382f908ce502c7",
-    "title": "ALFREDO RODRIGUEZ/SON ROMPE PERA – ALFREDO RODRIGUEZ THEATRE DE LA MER-JEAN VILAR Sete",
-    "link": "https://unidivers.fr/event/alfredo-rodriguez-son-rompe-pera-alfredo-rodriguez-theatre-de-la-mer-jean-vilar-sete-2026-08-03/",
-    "summary": "2026-08-03 à 21:00 ALFREDO RODRIGUEZ/SON ROMPE PERA - ALFREDO RODRIGUEZ THEATRE DE LA MER-JEAN VILAR Promenade du Marechal Leclerc 34200 Sete 34",
-    "date": "2026-04-03T20:38:16+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "3baef4952b19f801",
     "title": "Fête du Saint Curé d’Ars Rue Jean-Marie Vianney Ars-sur-Formans",
     "link": "https://unidivers.fr/event/fete-du-saint-cure-dars-ars-sur-formans-ain-2026-08-03/",
@@ -5549,15 +5558,6 @@
     "link": "https://unidivers.fr/event/marche-nocturne-createurs-artisans-hendaye-pyrenees-atlantiques-2026-08-03/",
     "summary": "Marché nocturne Créateurs & Artisans Placette Croisière (Ancien Casino) Boulevard de la Mer Hendaye Pyrénées-Atlantiques 2026-08-03 2026-08-03",
     "date": "2026-01-05T10:12:01+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "4cfb48b6da2d7712",
-    "title": "BAPTISTE TROTIGNON/FEU! CHATTERTON – Baptiste Trotignon – Art Is Simple – CHAPITEAU JIM MARCIAC Marciac",
-    "link": "https://unidivers.fr/event/baptiste-trotignon-feu-chatterton-baptiste-trotignon-art-is-simple-chapiteau-jim-marciac-marciac-2026-08-03/",
-    "summary": "2026-08-03 à 21:00 BAPTISTE TROTIGNON/FEU! CHATTERTON - Baptiste Trotignon - Art Is Simple CHAPITEAU JIM MARCIAC La Sape 32230 Marciac 32",
-    "date": "2025-12-20T13:39:42+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
