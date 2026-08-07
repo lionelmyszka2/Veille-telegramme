@@ -1,13 +1,13 @@
 {
-  "https://www.ouest-france.fr/rss/une": {
-    "url": "https://www.ouest-france.fr/rss/une",
-    "name": "Ouest-France – À la Une",
+  "https://actu.fr/bretagne/rss.xml": {
+    "url": "https://actu.fr/bretagne/rss.xml",
+    "name": "actu.fr – Bretagne",
     "ok": true,
-    "items_count": 0,
-    "raw_count": 10,
-    "duration_s": 0.38,
+    "items_count": 1,
+    "raw_count": 20,
+    "duration_s": 0.4,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:37.994595+00:00"
+    "fetched_at": "2026-08-07T07:05:45.038588+00:00"
   },
   "https://www.ici.fr/rss/breizh-izel/a-la-une.xml": {
     "url": "https://www.ici.fr/rss/breizh-izel/a-la-une.xml",
@@ -15,29 +15,19 @@
     "ok": true,
     "items_count": 40,
     "raw_count": 40,
-    "duration_s": 0.4,
+    "duration_s": 0.45,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:37.996104+00:00"
+    "fetched_at": "2026-08-07T07:05:45.039450+00:00"
   },
-  "https://www.ouest-france.fr/rss-en-continu.xml": {
-    "url": "https://www.ouest-france.fr/rss-en-continu.xml",
-    "name": "Ouest-France – En continu",
+  "https://www.ouest-france.fr/rss/une": {
+    "url": "https://www.ouest-france.fr/rss/une",
+    "name": "Ouest-France – À la Une",
     "ok": true,
     "items_count": 0,
     "raw_count": 10,
-    "duration_s": 0.52,
+    "duration_s": 0.6,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:37.994345+00:00"
-  },
-  "https://actu.fr/bretagne/rss.xml": {
-    "url": "https://actu.fr/bretagne/rss.xml",
-    "name": "actu.fr – Bretagne",
-    "ok": true,
-    "items_count": 1,
-    "raw_count": 20,
-    "duration_s": 0.67,
-    "error": null,
-    "fetched_at": "2026-08-07T05:35:37.994903+00:00"
+    "fetched_at": "2026-08-07T07:05:45.038197+00:00"
   },
   "https://www.ici.fr/rss/armorique/a-la-une.xml": {
     "url": "https://www.ici.fr/rss/armorique/a-la-une.xml",
@@ -45,9 +35,19 @@
     "ok": true,
     "items_count": 2,
     "raw_count": 40,
-    "duration_s": 0.3,
+    "duration_s": 0.2,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:38.379701+00:00"
+    "fetched_at": "2026-08-07T07:05:45.443828+00:00"
+  },
+  "https://www.ouest-france.fr/rss-en-continu.xml": {
+    "url": "https://www.ouest-france.fr/rss-en-continu.xml",
+    "name": "Ouest-France – En continu",
+    "ok": true,
+    "items_count": 0,
+    "raw_count": 10,
+    "duration_s": 0.81,
+    "error": null,
+    "fetched_at": "2026-08-07T07:05:45.037910+00:00"
   },
   "https://france3-regions.francetvinfo.fr/bretagne/rss": {
     "url": "https://france3-regions.francetvinfo.fr/bretagne/rss",
@@ -55,9 +55,19 @@
     "ok": true,
     "items_count": 8,
     "raw_count": 30,
-    "duration_s": 0.88,
+    "duration_s": 0.9,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:38.394323+00:00"
+    "fetched_at": "2026-08-07T07:05:45.493297+00:00"
+  },
+  "https://www.letelegramme.fr/rss.xml": {
+    "url": "https://www.letelegramme.fr/rss.xml",
+    "name": "Le Télégramme – Toutes éditions",
+    "ok": true,
+    "items_count": 20,
+    "raw_count": 20,
+    "duration_s": 1.51,
+    "error": null,
+    "fetched_at": "2026-08-07T07:05:45.037626+00:00"
   },
   "https://www.letelegramme.fr/finistere/carhaix-29270/rss.xml": {
     "url": "https://www.letelegramme.fr/finistere/carhaix-29270/rss.xml",
@@ -65,19 +75,9 @@
     "ok": true,
     "items_count": 20,
     "raw_count": 20,
-    "duration_s": 1.73,
+    "duration_s": 1.6,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:37.993772+00:00"
-  },
-  "https://www.letelegramme.fr/rss.xml": {
-    "url": "https://www.letelegramme.fr/rss.xml",
-    "name": "Le Télégramme – Toutes éditions",
-    "ok": true,
-    "items_count": 19,
-    "raw_count": 19,
-    "duration_s": 1.75,
-    "error": null,
-    "fetched_at": "2026-08-07T05:35:37.994018+00:00"
+    "fetched_at": "2026-08-07T07:05:45.037407+00:00"
   },
   "https://www.letelegramme.fr/finistere/brest-29200/rss.xml": {
     "url": "https://www.letelegramme.fr/finistere/brest-29200/rss.xml",
@@ -85,9 +85,9 @@
     "ok": true,
     "items_count": 20,
     "raw_count": 20,
-    "duration_s": 1.8,
+    "duration_s": 2.19,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:37.993516+00:00"
+    "fetched_at": "2026-08-07T07:05:45.037160+00:00"
   },
   "https://www.letelegramme.fr/finistere/rss.xml": {
     "url": "https://www.letelegramme.fr/finistere/rss.xml",
@@ -95,9 +95,9 @@
     "ok": true,
     "items_count": 20,
     "raw_count": 20,
-    "duration_s": 2.09,
+    "duration_s": 2.47,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:37.992521+00:00"
+    "fetched_at": "2026-08-07T07:05:45.036129+00:00"
   },
   "https://www.nhu.bzh/feed/": {
     "url": "https://www.nhu.bzh/feed/",
@@ -105,19 +105,9 @@
     "ok": true,
     "items_count": 10,
     "raw_count": 10,
-    "duration_s": 1.05,
+    "duration_s": 0.9,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:39.740172+00:00"
-  },
-  "https://www.bretagne-actuelle.com/feed/": {
-    "url": "https://www.bretagne-actuelle.com/feed/",
-    "name": "Bretagne Actuelle",
-    "ok": true,
-    "items_count": 10,
-    "raw_count": 10,
-    "duration_s": 1.02,
-    "error": null,
-    "fetched_at": "2026-08-07T05:35:39.790327+00:00"
+    "fetched_at": "2026-08-07T07:05:46.637501+00:00"
   },
   "https://bcd.bzh/feed/": {
     "url": "https://bcd.bzh/feed/",
@@ -125,29 +115,9 @@
     "ok": true,
     "items_count": 10,
     "raw_count": 10,
-    "duration_s": 2.24,
+    "duration_s": 2.22,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:38.681466+00:00"
-  },
-  "https://www.armen.bzh/feed/": {
-    "url": "https://www.armen.bzh/feed/",
-    "name": "ArMen",
-    "ok": true,
-    "items_count": 10,
-    "raw_count": 10,
-    "duration_s": 2.4,
-    "error": null,
-    "fetched_at": "2026-08-07T05:35:39.279244+00:00"
-  },
-  "https://expansive.info/spip.php?page=backend": {
-    "url": "https://expansive.info/spip.php?page=backend",
-    "name": "Expansive",
-    "ok": true,
-    "items_count": 10,
-    "raw_count": 10,
-    "duration_s": 0.89,
-    "error": null,
-    "fetched_at": "2026-08-07T05:35:40.920832+00:00"
+    "fetched_at": "2026-08-07T07:05:45.844881+00:00"
   },
   "https://www.eco-bretons.info/feed/": {
     "url": "https://www.eco-bretons.info/feed/",
@@ -155,9 +125,29 @@
     "ok": true,
     "items_count": 10,
     "raw_count": 10,
-    "duration_s": 2.01,
+    "duration_s": 0.71,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:40.085217+00:00"
+    "fetched_at": "2026-08-07T07:05:47.505841+00:00"
+  },
+  "https://www.armen.bzh/feed/": {
+    "url": "https://www.armen.bzh/feed/",
+    "name": "ArMen",
+    "ok": true,
+    "items_count": 10,
+    "raw_count": 10,
+    "duration_s": 2.25,
+    "error": null,
+    "fetched_at": "2026-08-07T07:05:46.393830+00:00"
+  },
+  "https://www.bretagne-actuelle.com/feed/": {
+    "url": "https://www.bretagne-actuelle.com/feed/",
+    "name": "Bretagne Actuelle",
+    "ok": true,
+    "items_count": 10,
+    "raw_count": 10,
+    "duration_s": 1.45,
+    "error": null,
+    "fetched_at": "2026-08-07T07:05:47.227716+00:00"
   },
   "https://splann.org/feed/": {
     "url": "https://splann.org/feed/",
@@ -165,19 +155,9 @@
     "ok": true,
     "items_count": 20,
     "raw_count": 20,
-    "duration_s": 1.66,
+    "duration_s": 1.36,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:40.788627+00:00"
-  },
-  "https://www.bourrasque-info.org/spip.php?page=backend": {
-    "url": "https://www.bourrasque-info.org/spip.php?page=backend",
-    "name": "Bourrasque Info",
-    "ok": true,
-    "items_count": 10,
-    "raw_count": 10,
-    "duration_s": 1.07,
-    "error": null,
-    "fetched_at": "2026-08-07T05:35:41.676092+00:00"
+    "fetched_at": "2026-08-07T07:05:47.534881+00:00"
   },
   "https://www.filmcourt.fr/spip.php?page=backend": {
     "url": "https://www.filmcourt.fr/spip.php?page=backend",
@@ -185,9 +165,9 @@
     "ok": true,
     "items_count": 10,
     "raw_count": 10,
-    "duration_s": 0.72,
+    "duration_s": 0.65,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:42.100434+00:00"
+    "fetched_at": "2026-08-07T07:05:48.900892+00:00"
   },
   "https://abp.bzh/rss.php": {
     "url": "https://abp.bzh/rss.php",
@@ -195,9 +175,29 @@
     "ok": false,
     "items_count": 0,
     "raw_count": 0,
-    "duration_s": 4.25,
+    "duration_s": 4.23,
     "error": "HTTP Error 404: Not Found",
-    "fetched_at": "2026-08-07T05:35:39.729002+00:00"
+    "fetched_at": "2026-08-07T07:05:46.549177+00:00"
+  },
+  "https://expansive.info/spip.php?page=backend": {
+    "url": "https://expansive.info/spip.php?page=backend",
+    "name": "Expansive",
+    "ok": true,
+    "items_count": 10,
+    "raw_count": 10,
+    "duration_s": 3.11,
+    "error": null,
+    "fetched_at": "2026-08-07T07:05:48.214061+00:00"
+  },
+  "https://www.bourrasque-info.org/spip.php?page=backend": {
+    "url": "https://www.bourrasque-info.org/spip.php?page=backend",
+    "name": "Bourrasque Info",
+    "ok": true,
+    "items_count": 10,
+    "raw_count": 10,
+    "duration_s": 3.43,
+    "error": null,
+    "fetched_at": "2026-08-07T07:05:48.646828+00:00"
   },
   "https://www.festival-cornouaille.bzh/feed/": {
     "url": "https://www.festival-cornouaille.bzh/feed/",
@@ -205,9 +205,9 @@
     "ok": false,
     "items_count": 0,
     "raw_count": 0,
-    "duration_s": 8.97,
+    "duration_s": 8.25,
     "error": "aucun article",
-    "fetched_at": "2026-08-07T05:35:41.808215+00:00"
+    "fetched_at": "2026-08-07T07:05:48.676169+00:00"
   },
   "https://www.unidivers.fr/feed/": {
     "url": "https://www.unidivers.fr/feed/",
@@ -215,19 +215,19 @@
     "ok": true,
     "items_count": 200,
     "raw_count": 1999,
-    "duration_s": 14.94,
+    "duration_s": 13.95,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:38.516052+00:00"
+    "fetched_at": "2026-08-07T07:05:45.635216+00:00"
   },
   "https://www.unidivers.fr/events/feed/": {
     "url": "https://www.unidivers.fr/events/feed/",
     "name": "UniDivers – Agenda",
     "ok": true,
     "items_count": 200,
-    "raw_count": 1998,
-    "duration_s": 31.26,
+    "raw_count": 1999,
+    "duration_s": 29.84,
     "error": null,
-    "fetched_at": "2026-08-07T05:35:38.662689+00:00"
+    "fetched_at": "2026-08-07T07:05:45.649674+00:00"
   },
   "https://lepeuplebreton.bzh/feed/": {
     "url": "https://lepeuplebreton.bzh/feed/",
@@ -235,8 +235,8 @@
     "ok": false,
     "items_count": 0,
     "raw_count": 0,
-    "duration_s": 43.25,
+    "duration_s": 43.22,
     "error": "<urlopen error timed out>",
-    "fetched_at": "2026-08-07T05:35:40.809783+00:00"
+    "fetched_at": "2026-08-07T07:05:48.064027+00:00"
   }
 }
