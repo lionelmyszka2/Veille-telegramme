@@ -1,5 +1,14 @@
 [
   {
+    "id": "ebdf43ab809d6f7f",
+    "title": "À cause d'un incendie dans les Côtes-d'Armor, 120 foyers coupés d'électricité",
+    "link": "https://www.ici.fr/bretagne/cotes-d-armor-22/locarn/a-cause-d-un-incendie-dans-les-cotes-d-armor-120-foyers-coupes-d-electricite-2787197?at_medium=lien_RSS&at_locale=20",
+    "summary": "Ce lundi 10 août, l'incendie d'un terrain de chaume de 5 hectares a provoqué la coupure d'électricité de 120 foyers à Locarn et ses alentours (Côtes-d'Armor). Une ligne électrique de moyenne tension de 20.000 volts, à proximité des flammes, menacaient d'exploser.",
+    "date": "2026-08-11T02:06:15+00:00",
+    "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
     "id": "352262ae74e3c955",
     "title": "En Turquie, le Parlement adopte une loi historique sur la réintégration des combattants du PKK",
     "link": "https://www.letelegramme.fr/monde/en-turquie-le-parlement-adopte-une-loi-historique-sur-la-reintegration-des-combattants-du-pkk-7098368.php",
@@ -50,7 +59,7 @@
     "link": "https://www.letelegramme.fr/finistere/milizac-guipronvel-29290/elles-grimpent-sur-les-murs-remplissent-les-poubelles-en-bretagne-les-punaises-des-champs-sincrustent-dans-les-maisons-video-7098346.php",
     "summary": "« Toute la Bretagne est touchée », signale le Fredon. Les punaises des champs envahissent les maisons. Un phénomène lié à la sécheresse. Mais sans danger pour les biens et les personnes.",
     "date": "2026-08-10T18:05:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -113,7 +122,7 @@
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/motocultor/tribute-bands-de-queen-metallica-scorpions-la-vague-dhommages-au-classiques-du-rock-va-deferler-sur-carhaix-lors-du-festival-off-motocultor-7098109.php",
     "summary": "Le Festival Off Motocultor revient à Carhaix pour sa troisième édition. Des tribute bands rendant hommage à Queen, Metallica et Scorpions animeront le centre-ville, offrant un avant-goût gratuit aux festivaliers et habitants.",
     "date": "2026-08-10T17:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -149,7 +158,7 @@
     "link": "https://www.letelegramme.fr/finistere/brest-29200/1-500-paires-vendues-en-un-week-end-a-brest-ruee-sur-les-lunettes-avant-leclipse-solaire-video-7098306.php",
     "summary": "Avant l’éclipse solaire prévue ce mercredi 12 août, c’est la ruée sur les lunettes. À Brest, les pharmacies ont été prises d’assaut et attendent un réassort pour faire face à la demande.",
     "date": "2026-08-10T16:21:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -167,7 +176,7 @@
     "link": "https://www.letelegramme.fr/bretagne/secheresse-en-bretagne-il-y-a-peu-despoir-quon-rouvre-certains-canaux-a-la-navigation-avant-octobre-selon-cet-expert-7098299.php",
     "summary": "Des dizaines d’écluses ont été fermées, sur les canaux navigables du Finistère et du Morbihan depuis la fin juillet. C’est le signe que la situation est plus critique qu’en 2022, aux yeux du directeur adjoint des Canaux de Bretagne, Laurent Couturier.",
     "date": "2026-08-10T16:08:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -243,21 +252,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "3ae65ef756bb25eb",
-    "title": "Vague de chaleur : la Bretagne en alerte orange à partir de mardi midi, 43 départements au niveau national",
-    "link": "https://www.letelegramme.fr/france/canicule-43-departements-en-alerte-orange-a-partir-de-mardi-midi-7098233.php",
-    "summary": "Alors que 22 départements étaient déjà placés en vigilance orange fortes chaleurs par Météo-France, 21 départements supplémentaires passeront également ce seuil à partir de mardi midi.",
-    "date": "2026-08-10T15:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "132b406710ced753",
     "title": "Éclipse solaire : la Bretagne s’apprête à vivre un spectacle rare",
     "link": "https://www.letelegramme.fr/monde/eclipse-solaire-la-bretagne-sapprete-a-vivre-un-spectacle-rare-7098137.php",
     "summary": "Le Soleil a rendez-vous avec la Lune, mercredi. En Bretagne, jusqu’à 96 % du disque solaire seront masqués, offrant une éclipse spectaculaire, qui nécessitera quelques précautions pour être observée en toute sécurité.",
     "date": "2026-08-10T15:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "3ae65ef756bb25eb",
+    "title": "Vague de chaleur : la Bretagne en alerte orange à partir de mardi midi, 43 départements au niveau national",
+    "link": "https://www.letelegramme.fr/france/canicule-43-departements-en-alerte-orange-a-partir-de-mardi-midi-7098233.php",
+    "summary": "Alors que 22 départements étaient déjà placés en vigilance orange fortes chaleurs par Météo-France, 21 départements supplémentaires passeront également ce seuil à partir de mardi midi.",
+    "date": "2026-08-10T15:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -266,7 +275,7 @@
     "link": "https://www.letelegramme.fr/bretagne/secheresse-la-navigation-restreinte-sur-les-canaux-dans-le-morbihan-et-le-finistere-7098236.php",
     "summary": "Les faibles niveaux d’eau obligent l’État à réduire la navigation sur les canaux dans le Morbihan et le Finistère.",
     "date": "2026-08-10T14:56:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -338,7 +347,7 @@
     "link": "https://www.letelegramme.fr/finistere/saint-renan-29290/le-meilleur-endroit-cest-le-plus-securise-qui-veut-regarder-leclipse-a-saint-renan-avec-le-club-dastronomie-le-plus-a-louest-de-france-7098190.php",
     "summary": "L’éclipse totale solaire du mercredi 12 août devrait attirer les foules à l’observatoire de Kerzouar, à Saint-Renan. Le club Pégase propose une soirée gratuite et ouverte à tous, pour profiter en toute sécurité.",
     "date": "2026-08-10T14:09:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -374,7 +383,7 @@
     "link": "https://www.letelegramme.fr/finistere/plougastel-daoulas-29470/a-plougastel-daoulas-un-camion-a-pris-feu-sur-la-voie-express-la-circulation-a-larret-dans-le-sens-brest-quimper-7098143.php",
     "summary": "Ce lundi 10 août 2026, un camion transportant du soja s’est embrasé sur la RN165, à Plougastel-Daoulas, provoquant un feu de broussailles. Le poids lourd et sa cargaison ont été enlevés et la circulation a rouvert aux alentours de 19 h 30.",
     "date": "2026-08-10T13:27:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -455,7 +464,7 @@
     "link": "https://www.letelegramme.fr/bretagne/jusqua-38c-une-nouvelle-vague-de-chaleur-attendue-de-mardi-a-jeudi-en-bretagne-7098030.php",
     "summary": "La Bretagne ne sera pas épargnée par la cinquième vague de chaleur qui va s’abattre sur le pays. Ce mardi, toute la région sera placée en vigilance orange. Les zones côtières bretonnes devraient mieux s’en sortir, surtout la nuit.",
     "date": "2026-08-10T11:01:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -464,7 +473,7 @@
     "link": "https://www.letelegramme.fr/bretagne/tout-le-finistere-place-en-crise-secheresse-voici-ce-que-ca-change-pour-vous-sur-lusage-de-leau-7098023.php",
     "summary": "Le Finistère est, depuis vendredi, en « crise sécheresse », le niveau d’alerte maximal. De nouvelles restrictions sur l’usage de l’eau sont définies.",
     "date": "2026-08-10T10:46:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -482,7 +491,7 @@
     "link": "https://www.letelegramme.fr/finistere/brest-29200/si-les-gens-sarretent-et-trouvent-lanimal-cest-un-pari-gagnant-manon-caizergue-est-soigneuse-plongeuse-au-pavillon-tropical-doceanopolis-7097941.php",
     "summary": "Manon Caizergue est soigneuse plongeuse. Elle prend soin des coraux et petits poissons du nouveau pavillon tropical d’Océanopolis, à Brest. Nouvel épisode de notre série à la découverte des métiers d’Océanopolis.",
     "date": "2026-08-10T08:50:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -585,21 +594,12 @@
     "category": "presse-locale"
   },
   {
-    "id": "3e72d45dba9b2d7e",
-    "title": "Ils connaissent « un véritable engouement » : zoom sur les marchés nocturnes",
-    "link": "https://www.letelegramme.fr/bretagne/ils-connaissent-un-veritable-engouement-zoom-sur-les-marches-nocturnes-7096892.php",
-    "summary": "Réunions estivales tendance, les marchés nocturnes fleurissent en Bretagne depuis plusieurs années. Parfois victimes de leurs succès, ils ont la cote auprès des touristes comme des locaux. Ainsi, à Plestin-les-Grèves (22), commerçants et chalands vantent un marché « authentique » et « festif ».",
-    "date": "2026-08-10T04:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "3a4a83296bd18d81",
     "title": "« Ils s’arrêtent de plus en plus pour les regarder » : à Brest, le regain d’intérêt des jeunes pour les cartes postales",
     "link": "https://www.letelegramme.fr/finistere/brest-29200/ils-sarretent-de-plus-en-plus-pour-les-regarder-a-brest-le-regain-dinteret-des-jeunes-pour-les-cartes-postales-7097658.php",
     "summary": "D’après une récente étude de la société de sondages YouGov, 68 % des 18-24 ans déclarent envoyer des cartes postales. Pour en avoir le cœur net, on a donné la parole aux jeunes cartophiles de Brest.",
     "date": "2026-08-10T04:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -612,6 +612,15 @@
     "category": "presse-locale"
   },
   {
+    "id": "3e72d45dba9b2d7e",
+    "title": "Ils connaissent « un véritable engouement » : zoom sur les marchés nocturnes",
+    "link": "https://www.letelegramme.fr/bretagne/ils-connaissent-un-veritable-engouement-zoom-sur-les-marches-nocturnes-7096892.php",
+    "summary": "Réunions estivales tendance, les marchés nocturnes fleurissent en Bretagne depuis plusieurs années. Parfois victimes de leurs succès, ils ont la cote auprès des touristes comme des locaux. Ainsi, à Plestin-les-Grèves (22), commerçants et chalands vantent un marché « authentique » et « festif ».",
+    "date": "2026-08-10T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
     "id": "3b94e75835d19fb6",
     "title": "« Les grosses stars n’ont pas déçu » : Fête du bruit dans Landerneau se réjouit d’une édition « de tous les records »",
     "link": "https://www.letelegramme.fr/culture-loisirs/festivals/fete-du-bruit/les-grosses-stars-nont-pas-decu-fete-du-bruit-dans-landerneau-se-rejouit-dune-edition-de-tous-les-records-7097831.php",
@@ -621,21 +630,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "bd07fa233f0064cb",
-    "title": "« Un réflexe naturel » : Face aux incendies, l’appui du monde agricole dans le secteur de Carhaix",
-    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/un-reflexe-naturel-face-aux-incendies-lappui-du-monde-agricole-dans-le-secteur-de-carhaix-7097462.php",
-    "summary": "Partout sur le territoire, la solidarité paysanne s’active contre les feux de végétation. Exemple dans le secteur de Carhaix, où engins et citernes renforcent les secours.",
-    "date": "2026-08-09T17:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
-    "category": "presse-locale"
-  },
-  {
     "id": "f3b36a2c777eb4e2",
     "title": "« Depuis celle de 1999, elle m’en parle » : cette Morlaisienne part﻿ avec sa mère en Espagne pour vivre l’éclipse solaire totale",
     "link": "https://www.letelegramme.fr/finistere/morlaix-29600/depuis-celle-de-1999-elle-men-parle-cette-morlaisienne-part-avec-sa-mere-en-espagne-pour-vivre-leclipse-solaire-totale-7097748.php",
     "summary": "Lola Cloutour, Morlaisienne de 37 ans et sa mère nantaise, Christiane Rouzic, s’apprêtent à observer l’éclipse solaire totale du 12 août ensemble. En route pour l’Espagne exprès pour la voir dans les meilleures conditions, mère et fille avaient déjà vécu ensemble l’éclipse de 1999.",
     "date": "2026-08-09T17:00:00+00:00",
     "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "bd07fa233f0064cb",
+    "title": "« Un réflexe naturel » : Face aux incendies, l’appui du monde agricole dans le secteur de Carhaix",
+    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/un-reflexe-naturel-face-aux-incendies-lappui-du-monde-agricole-dans-le-secteur-de-carhaix-7097462.php",
+    "summary": "Partout sur le territoire, la solidarité paysanne s’active contre les feux de végétation. Exemple dans le secteur de Carhaix, où engins et citernes renforcent les secours.",
+    "date": "2026-08-09T17:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -765,21 +774,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "59dd851a53de8299",
-    "title": "Vannes : 70 personnes évacuées d'un hôtel après l'incendie d'un bâtiment voisin",
-    "link": "https://www.ici.fr/bretagne/morbihan-56/vannes/70-personnes-evacuees-d-un-hotel-a-cause-d-un-incendie-a-vannes-3665490?at_medium=lien_RSS&at_locale=13",
-    "summary": "Soixante sapeurs-pompiers étaient mobilisés ce samedi matin à Vannes (Morbihan) pour un incendie au sein de l'entreprise Temo. Selon le maire, c'est une batterie en lithium qui a pris feu. Les 70 personnes présentes dans un hôtel Mercure, juste à côté de l'incendie, ont été évacuées.",
-    "date": "2026-08-08T12:59:21+00:00",
-    "source": "ICI Armorique",
-    "category": "radio-tv"
-  },
-  {
     "id": "d6e9a3aa949a3cbc",
     "title": "Vannes : 70 personnes évacuées d'un hôtel après l'incendie d'un bâtiment voisin",
     "link": "https://www.ici.fr/bretagne/morbihan-56/vannes/70-personnes-evacuees-d-un-hotel-a-cause-d-un-incendie-a-vannes-3665490?at_medium=lien_RSS&at_locale=20",
     "summary": "Soixante sapeurs-pompiers étaient mobilisés ce samedi matin à Vannes (Morbihan) pour un incendie au sein de l'entreprise Temo. Selon le maire, c'est une batterie en lithium qui a pris feu. Les 70 personnes présentes dans un hôtel Mercure, juste à côté de l'incendie, ont été évacuées.",
     "date": "2026-08-08T12:59:21+00:00",
     "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "59dd851a53de8299",
+    "title": "Vannes : 70 personnes évacuées d'un hôtel après l'incendie d'un bâtiment voisin",
+    "link": "https://www.ici.fr/bretagne/morbihan-56/vannes/70-personnes-evacuees-d-un-hotel-a-cause-d-un-incendie-a-vannes-3665490?at_medium=lien_RSS&at_locale=13",
+    "summary": "Soixante sapeurs-pompiers étaient mobilisés ce samedi matin à Vannes (Morbihan) pour un incendie au sein de l'entreprise Temo. Selon le maire, c'est une batterie en lithium qui a pris feu. Les 70 personnes présentes dans un hôtel Mercure, juste à côté de l'incendie, ont été évacuées.",
+    "date": "2026-08-08T12:59:21+00:00",
+    "source": "ICI Armorique",
     "category": "radio-tv"
   },
   {
@@ -862,15 +871,6 @@
     "date": "2026-08-08T04:00:00+00:00",
     "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
-  },
-  {
-    "id": "da671fbe51f58b07",
-    "title": "Carlos Núñez annonce un nouvel album depuis le Festival Interceltique de Lorient : son interview inédite",
-    "link": "https://www.ici.fr/bretagne/morbihan-56/lorient/carlos-nunez-annonce-un-nouvel-album-depuis-le-festival-interceltique-de-lorient-son-interview-inedite-7169030?at_medium=lien_RSS&at_locale=20",
-    "summary": "Festival Interceltique de Lorient 2026, c'est à Lorient que ce grand musicien a réellement débuté",
-    "date": "2026-08-07T20:49:05+00:00",
-    "source": "ICI Breizh Izel",
-    "category": "radio-tv"
   },
   {
     "id": "ae7a99de231630e1",
@@ -1071,15 +1071,6 @@
     "category": "culture"
   },
   {
-    "id": "6596e4d83e56a1b3",
-    "title": "Samedi 29 et dimanche 30 août 2026 : WE Antifa dans la Manche !",
-    "link": "https://expansive.info/Samedi-29-et-dimanche-30-aout-2026-WE-Antifa-dans-la-Manche-6112",
-    "summary": "Week-end antifasciste organisé à la Grange de Montabot, 2 impasse de la Bessardière à Montabot (50) par PaFaCaB 50 (Pas de Fascistes dans nos Campagnes Bocagères). - Info d'ailleurs / Une , Antifascismes - Extrêmes droite , Antiracismes - colonialismes , Montabot",
-    "date": "2026-08-04T12:41:40+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
     "id": "d11f120fbcab78e5",
     "title": "Somme et Pâques 1916 : comprendre deux mémoires opposées.",
     "link": "https://www.nhu.bzh/somme-paques-1916/",
@@ -1096,15 +1087,6 @@
     "date": "2026-08-04T07:38:18+00:00",
     "source": "Bretagne Actuelle",
     "category": "culture"
-  },
-  {
-    "id": "1a3c604370a38874",
-    "title": "Agenda Lutte & Démosphère : vos RDV militants rennais !",
-    "link": "https://expansive.info/Agenda-Lutte-une-liste-d-evenements-complementaire-a-celle-d-Expansive-6079",
-    "summary": "Agendas extérieurs à expansive.info , actualisés et modérés par des personnes sympathiques. Nous vous invitons à les consulter dès que le coeur vous en dit ! À terme, nous aimerions les fusionner avec le nôtre. - Info locale / Une , Rennes , Information - médias",
-    "date": "2026-08-04T07:30:00+00:00",
-    "source": "Expansive",
-    "category": "independants"
   },
   {
     "id": "821a3f91364fa634",
@@ -1197,15 +1179,6 @@
     "category": "radio-tv"
   },
   {
-    "id": "9cdf7098adc526ca",
-    "title": "En finir avec l'humour oppressif",
-    "link": "https://expansive.info/En-finir-avec-l-humour-oppressif-6105",
-    "summary": "https://infokiosques.net/IMG/pdf/en_finir_avec_l_humour_oppressif-mai2026-pageparpage-asa-48pa5-2.pdf L'humour est omniprésent, et pourtant, les conséquences de ce qu'il transporte avec lui sont souvent invisibilisés. Et oui, on dit des trucs « juste pour rire », il faut « pas prendre au sérieux » ce qui est dit, et puis si on rigole pas c'est « qu'on est pas drôle ». Alors, c'est difficile de combattre les méfaits de l'humour quand ses effets paraissent difficiles à rendre visible. (...) - Flux RSS d'ailleurs / Une , Dynamiques collectives",
-    "date": "2026-08-02T13:54:08+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
     "id": "2b996613900b8129",
     "title": "Amira Casar présidera le festival de Dinard 2026",
     "link": "https://www.bretagne-actuelle.com/amira-casar-presidera-le-festival-de-dinard-2026/scene-arts/?utm_source=rss&utm_medium=rss&utm_campaign=amira-casar-presidera-le-festival-de-dinard-2026",
@@ -1213,15 +1186,6 @@
     "date": "2026-08-02T11:32:49+00:00",
     "source": "Bretagne Actuelle",
     "category": "culture"
-  },
-  {
-    "id": "c9c0249f1f6db90e",
-    "title": "Vive la génération zbeul !",
-    "link": "https://expansive.info/Vive-la-generation-zbeul-6087",
-    "summary": "À propos des récentes émeutes au Maroc vues depuis un coin de la France. En France l'expression « zbeuler » est désormais généralisée, en particulier parmi toutes celles et ceux qui cherchent à rompre la normalité, celle de l'exploitation au travail, de l'autorité des flics, du patriarcat, etc… Zbeuler c'est désordonner un état de fait que les riches et les puissant.e.s cherchent à imposer aux autres. Linguistiquement l'expression tire son origine du mot arabe « zbel » qui signifie la (...) - Flux RSS d'ailleurs / Une , Répression - Justice - Prison , Antiracismes - colonialismes , Mouvements…",
-    "date": "2026-08-02T08:00:00+00:00",
-    "source": "Expansive",
-    "category": "independants"
   },
   {
     "id": "88890b767c200b5a",
@@ -1296,15 +1260,6 @@
     "category": "culture"
   },
   {
-    "id": "3f05f2052826f3d7",
-    "title": "Help4dunkerque - saison 2026 - 2027",
-    "link": "https://expansive.info/Help4dunkerque-saison-2026-2027-6109",
-    "summary": "Appel à soutien pour l'association Help4dunkerque qui vient en aide aux exilé.e.s de la jungle de Grande-Synthe près de Dunkerque - Info d'ailleurs / Migrations - Luttes contre les frontières , Migrant·es , Solidarités internationales , Calais",
-    "date": "2026-07-31T11:39:00+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
     "id": "e59cd5b95a92651d",
     "title": "Retrouvez chaque semaine l’horoscope qui unit votre diversité",
     "link": "https://unidivers.fr/horoscope/",
@@ -1359,15 +1314,6 @@
     "category": "independants"
   },
   {
-    "id": "13dea12020166122",
-    "title": "Capitalisme extractiviste et écologie de façade : un ex-pétrolier à la tête d'Eau et Rivières de Bretagne",
-    "link": "https://expansive.info/Capitalisme-extractiviste-et-ecologie-de-facade-un-ex-petrolier-a-la-tete-d-Eau-6096",
-    "summary": "Quand on apprend que Francis Nativel, le président d'Eau et Rivières de Bretagne, a fait toute sa carrière professionnelle dans le raffinage et la pétrochimie. Certains vont encore en tomber de leur chaise. Mais c'est comme ça : la réalité est parfois difficile à accepter. - Analyse / Ecologies - Aménagement du territoire , Luttes écologistes , Breizh Bretagne",
-    "date": "2026-07-30T12:23:04+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
     "id": "2ee733ee4016f41a",
     "title": "Lettre ouverte à Jean-Luc Mélenchon : changer la politique",
     "link": "https://www.nhu.bzh/lettre-ouverte-jean-luc-melenchon/",
@@ -1384,15 +1330,6 @@
     "date": "2026-07-29T20:15:47+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "b099124b73eec594",
-    "title": "LFI en campagne : les beaux yeux bleus blancs rouges de Mélenchon",
-    "link": "https://expansive.info/LFI-en-campagne-les-beaux-yeux-bleus-blancs-rouges-de-Melenchon-6104",
-    "summary": "Ce texte tente d'apporter un regard critique sur les perspectives politiques portées par LFI, nottamment par rapport à l'autonomie de la Bretagne. - Analyse / Une , Cultures - Contre-cultures , Autonomie & auto-gestion , Dispac'h , Breizh Bretagne",
-    "date": "2026-07-29T13:55:58+00:00",
-    "source": "Expansive",
-    "category": "independants"
   },
   {
     "id": "81837fbd156f6328",
@@ -1674,6 +1611,15 @@
     "category": "culture"
   },
   {
+    "id": "cc75c18f6390538f",
+    "title": "Les députés bretons rejettent massivement la réintroduction de pesticides interdits",
+    "link": "https://lepeuplebreton.bzh/2026/07/21/les-deputes-bretons-rejettent-massivement-la-reintroduction-de-pesticides-interdits/",
+    "summary": "L’Aulne à Meilh-Nevez, Landeleau. Les députés bretons ont massivement rejeté, ce lundi 20 juillet, la loi dite d’urgence agricole dont la mesure phare est la réintroduction à titre dérogatoire de pesticides interdits: l’acétamipride et le flupyradifurone, des néonicotinoïdes dits « tueurs d’abeilles ». Alors que l’Assemblée nationale se prononçait majoritairement pour, seul 9 des 37 députés bretons … Cet article Les députés bretons rejettent massivement la réintroduction de pesticides interdits est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-07-21T10:39:53+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "274b833c0e1f389c",
     "title": "Entrer en Dialogue Permanent pour la Nature avec des Paysans… de Nature !",
     "link": "https://www.eco-bretons.info/entrer-en-dialogue-permanent-pour-la-nature-avec-des-paysans-de-nature/",
@@ -1825,15 +1771,6 @@
     "date": "2026-07-16T06:54:00+00:00",
     "source": "UniDivers",
     "category": "culture"
-  },
-  {
-    "id": "573cbecfc5a0cda6",
-    "title": "Ni class first, ni intersectionnel.le. Redéfinir la classe. (première partie)",
-    "link": "https://expansive.info/Ni-class-first-ni-intersectionnel-le-Redefinir-la-classe-premiere-partie-5948",
-    "summary": "On est frustré.e des articulations classe/race/genre qu'on croise un peu partout. On a l'impression que le milieu toto est à la traîne des léninistes dans ses analyses des oppressions du fait de l'absence d'une ligne de classe forte. Or on veut pas soutenir les courants antiracistes ou anti-impérialistes des communistes autoritaires – qui cachent toujours des horizons étatistes et nationalistes. On ne veut pas non plus rejoindre des orgas trotskystes, dont la forme « parti », hiérarchique, représentative et centralisatrise nous semble une impasse pour la lutte. Mais on en a marre de l'absence…",
-    "date": "2026-07-15T17:25:59+00:00",
-    "source": "Expansive",
-    "category": "independants"
   },
   {
     "id": "5ce435fdaaa1bd6d",
@@ -1998,15 +1935,6 @@
     "category": "radio-tv"
   },
   {
-    "id": "4b12f4f508197e25",
-    "title": "(Calais) 💥 Besoin de soutien au Markaz Alshebaab 💥",
-    "link": "https://expansive.info/Calais-💥-Besoin-de-soutien-au-Markaz-Alshebaab-💥-6089",
-    "summary": "Besoin de soutien dès maintenant à Calais au Markaz Alshebaab ! - Info d'ailleurs / Une , Migrations - Luttes contre les frontières",
-    "date": "2026-07-12T15:44:00+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
     "id": "7560bab97911a13d",
     "title": "« Aidez-nous à enquêter sur les pesticides », Julie Lallouët-Geffroy chez Guillaume Meurice sur Radio Nova",
     "link": "https://splann.org/julie-lallouet-geffroy-guillaume-meurice-radio-nova/",
@@ -2068,15 +1996,6 @@
     "date": "2026-07-11T16:47:58+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "fe8c737998897f69",
-    "title": "Indépendantisme = nationalisme ?",
-    "link": "https://expansive.info/Independantisme-nationalisme-6092",
-    "summary": "Une question revient souvent au sujet de l'indépendantisme : l'indépendantisme ne mènerait-il pas tout droit au nationalisme ? - Analyse / Une , Cultures - Contre-cultures , Autonomie & auto-gestion , Dispac'h , Breizh Bretagne",
-    "date": "2026-07-11T13:30:06+00:00",
-    "source": "Expansive",
-    "category": "independants"
   },
   {
     "id": "d2734d1344afaac4",
@@ -2959,6 +2878,15 @@
     "date": "2026-06-25T21:13:31+00:00",
     "source": "UniDivers",
     "category": "culture"
+  },
+  {
+    "id": "30559e0eec1a6ac3",
+    "title": "Les députés bretons votent pour l’autonomie de la Corse",
+    "link": "https://lepeuplebreton.bzh/2026/06/25/les-deputes-bretons-votent-pour-lautonomie-de-la-corse/",
+    "summary": "Ce mardi 23 juin, l’Assemblée nationale votait un texte ouvrant la possibilité de l’autonomie pour la Corse, présentée comme une « communauté insulaire » pour éviter le mot « peuple ». Le chemin est encore long, avec un passage nécessaire au Sénat, puis en Congrès (ensemble des députés et sénateurs), avant l’adoption d’une loi organique définissant les domaines dans … Cet article Les députés bretons votent pour l’autonomie de la Corse est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-25T08:14:13+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "441c441b8070371f",
@@ -4122,6 +4050,15 @@
     "category": "culture"
   },
   {
+    "id": "02130d54110df15b",
+    "title": "Ur c’hoarier mell-droad skosat war bilhedoù bank",
+    "link": "https://lepeuplebreton.bzh/2026/06/09/ur-choarier-mell-droad-skosat-war-bilhedou-bank/",
+    "summary": "E Bro-Skos e vez graet an traoù war an ton bras pa vez anv a vell-droad. Ha dreist-holl gant distro d’ur genstrivadeg etrebroadel hir c’hortozet (28 vloaz) : kib ar bed mell-droad. Gouarnamant Bro-Skos en doa diskleriet e vo un deiz vak an deiz goude ar c’hrogad kentañ. Hag un ti-bank en deus moullet bilhedoù gant … Cet article Ur c’hoarier mell-droad skosat war bilhedoù bank est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-09T07:00:00+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "cc22b69c5960b1c6",
     "title": "185 kg de cannabis saisis à Roissy : un Rennais soupçonné d’être à la tête d’un trafic vers la Martinique",
     "link": "https://unidivers.fr/185-kg-cannabis-roissy-rennes-martinique-ofast/",
@@ -4219,6 +4156,15 @@
     "date": "2026-06-08T08:19:29+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
+  },
+  {
+    "id": "21ec5d6b5692f92e",
+    "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
+    "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
+    "summary": "An daou vestr-prezegenner e-kerzh lid Disprizioù ar brezhoneg. Lurc’hskeudenn gant Nil Caouissin. « Gourc’hemennoù d’ar re o deus stourmet a-enep ar vrezhonegerien ! Div wech nebeutoc’h anezho a oa e 2024 eget e 2018. War an hent mat emaomp. Labour zo c’hoazh memestra rak chom a ra 100 000 den oc’h ober gant ar « yezh »-se c’hoazh. » Bodet … Cet article Distro Ai’ta ha Disprizioù ar brezhoneg est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-08T07:52:49+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "0c34ade831d7dfa7",
@@ -4428,6 +4374,15 @@
     "category": "culture"
   },
   {
+    "id": "37b20413c806a167",
+    "title": "Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections",
+    "link": "https://lepeuplebreton.bzh/2026/05/12/ecosse-pays-de-galles-le-snp-et-le-plaid-cymru-gagnent-les-elections/",
+    "summary": "Rhun ar Iorweth, Premier Ministre du pays de Galles. Image : Senedd cymru Les élections locales du 7 mai au Royaume-Uni ont été marquée par le triomphe du parti d’extrême-droite Reform UK, et par l’effondrement du Labour. À gauche, la progression des Verts n’a pas suffit à compenser le recul des travaillistes et l’extrême-droite a … Cet article Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-05-12T17:41:14+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "f077a9c6f60dabc8",
     "title": "Les Jeunes Ambassadeur·rices du cinéma à Brest",
     "link": "https://www.filmcourt.fr/Les-Jeunes-Ambassadeur-rices-du-cinema-a-Brest.html",
@@ -4599,6 +4554,24 @@
     "category": "culture"
   },
   {
+    "id": "32b51a48ada34f50",
+    "title": "Stage de breton d’été de l’UDB à Landeleau",
+    "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
+    "summary": "Moreau.henri, CC BY-SA 3.0, via Wikimedia Commons Après une pause en 2025, le stage de breton de l’UDB reprend en 2026 ! Nouveauté : ce sera à Landeleau, et non à Groix, cette année. L’hébergement et les cours de breton auront lieu au Presbital kozh, du dimanche 12 (soir) au samedi 18 juillet. Les inscriptions sont ouvertes… … Cet article Stage de breton d’été de l’UDB à Landeleau est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-29T09:50:32+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
+    "id": "06fd24a3059d45dd",
+    "title": "Plaid Cymru : un siècle de transformation politique",
+    "link": "https://lepeuplebreton.bzh/2026/04/27/plaid-cymru-un-siecle-de-transformation-politique/",
+    "summary": "Fondé en 1925, le Plaid Cymru est longtemps resté un parti de défense culturelle, centré sur la langue galloise et la préservation d’une identité menacée. Pendant des décennies, son influence électorale demeure marginale, cantonnée à certains bastions ruraux galloisants. Mais derrière cette apparente marginalité, un travail de fond s’opère… Le parti structure un militantisme, élabore … Cet article Plaid Cymru : un siècle de transformation politique est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-27T13:01:16+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "7b0809b6bb55214c",
     "title": "Géocaching à la découverte des trésors de la vallée Villé",
     "link": "https://unidivers.fr/event/geocaching-a-la-decouverte-des-tresors-de-la-vallee-ville-bas-rhin-2026-07-16/",
@@ -4707,6 +4680,24 @@
     "category": "culture"
   },
   {
+    "id": "f520bcc7521fe601",
+    "title": "Contes d’une plage vivante, Lieu de rdv donné à la réservation, Colleville-Montgomery",
+    "link": "https://unidivers.fr/event/contes-dune-plage-vivante-lieu-de-rdv-donne-a-la-reservation-colleville-montgomery-calvados-2026-08-11t1000000200/",
+    "summary": "Mardi 11 août, 10h00 Lieu de rdv donné à la réservation Colleville-Montgomery, Lieu de rdv donné à la réservationPas de descriptionCOLLEVILLE-MONTGOMERY Une plage c'est du sable mais ce sont aussi des êtres vivants qui te racontent leurs histoires incroyables… Laisse-toi bercer au rythme des vagues et des mots !",
+    "date": "2026-04-14T08:11:20+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "d5d8a3dd2efcb789",
+    "title": "Balade botanique, Parc de la Mairie de Confignon, Genève",
+    "link": "https://unidivers.fr/event/balade-botanique-parc-de-la-mairie-de-confignon-geneve-2026-08-11t1000000200/",
+    "summary": "Mardi 11 août, 10h00 Parc de la Mairie de Confignon Genève, Promenade des Rêveries 2 Un univers passionnant à découvrir",
+    "date": "2026-04-14T08:11:20+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "4d438d0b3a500fbb",
     "title": "Insectes de tout poil, Parking du site du Vaudobin, Guëprei, Bailleul",
     "link": "https://unidivers.fr/event/insectes-de-tout-poil-parking-du-site-du-vaudobin-gueprei-bailleul-orne-2026-08-11t1000000200/",
@@ -4752,6 +4743,15 @@
     "category": "culture"
   },
   {
+    "id": "7b6304ed429ed927",
+    "title": "Un vote décisif pour la Région Alsace",
+    "link": "https://lepeuplebreton.bzh/2026/04/09/un-vote-decisif-pour-la-region-alsace/",
+    "summary": "La soirée du 7 avril n’aura pas suffit: il a fallu prolonger la discussion le 8 avril pour enfin arriver au vote des députés sur la sortie de l’Alsace du Grand Est, et la recréation d’une Région Alsace. C’est chose faite. Par 131 voix contre 100, avec 12 abstention, l’Assemblée nationale a adopté la loi … Cet article Un vote décisif pour la Région Alsace est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-09T14:32:51+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "1d5f2309bb06bbce",
     "title": "Saint-Nazaire, un vieux Liberty ship dans l’aventure technologique des méthaniers",
     "link": "https://armen.bzh/2026/04/09/methanier-methane-gaz-navire-marine-saint-nazaire-bretagne-energie/",
@@ -4770,13 +4770,22 @@
     "category": "culture"
   },
   {
-    "id": "420a68d01ca6dad1",
-    "title": "Marché hebdomadaire de Courseulles-sur-mer Courseulles-sur-Mer",
-    "link": "https://unidivers.fr/event/marche-hebdomadaire-de-courseulles-sur-mer-courseulles-sur-mer-calvados-2026-03-10/",
-    "summary": "Marché hebdomadaire de Courseulles-sur-mer Place du Marché Courseulles-sur-Mer Calvados 2026-03-31 05:00:00 2026-03-31 05:00:00",
-    "date": "2026-04-01T18:41:35+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
+    "id": "692a2533aad912ee",
+    "title": "Hag ur rannvro Elsaz a vo savet en-dro?",
+    "link": "https://lepeuplebreton.bzh/2026/04/06/hag-ur-rannvro-elsaz-a-vo-savet-en-dro/",
+    "summary": "Logo strollegezh europat Elsaz. Reuz a zo diwar-benn Elzas! Abaoe an 11 vloaz ma oa teuzet Elzas er rannvro « Reter Bras » en desped da youl Elzasiz ez eus bet klasket alies gant dilennidi eus an tiriad-se gounit ar gwir da gaout o rannvro dezho adarre. En aner da gentañ. Un trec’h kentañ o doe e … Cet article Hag ur rannvro Elsaz a vo savet en-dro? est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-06T08:15:11+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
+    "id": "491e6fbd377d0eec",
+    "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
+    "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
+    "summary": "Lydie Massard, porte-parole de l’Union démocratique bretonne et conseillère municipale à Pontivy, vient de déclarer sa candidature à l’élection présidentielle, en passant par la primaire de la gauche unitaire. Cette annonce intervient dans un contexte paradoxal, avec une majorité de français partisans d’une République fédérale, alors que le sujet n’est pas traité par les partis … Cet article Lydie Massard, candidate fédéraliste à l’élection présidentielle est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-02T12:48:35+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "2b553e6e313d95a8",
@@ -4856,15 +4865,6 @@
     "link": "https://unidivers.fr/event/yoga-sur-la-plage-ciboure-pyrenees-atlantiques-2026-08-11/",
     "summary": "Yoga sur la plage Plage du centre Ciboure Pyrénées-Atlantiques 2026-08-11 2026-08-11",
     "date": "2026-03-18T06:35:29+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "7846e7d4a6aebe0f",
-    "title": "Visite guidée la criée Port de La Turballe La Turballe",
-    "link": "https://unidivers.fr/event/visite-guidee-la-criee-la-turballe-loire-atlantique-2026-04-10/",
-    "summary": "Visite guidée la criée Port de La Turballe Centre de marée La Turballe Loire-Atlantique 2026-04-17 05:00:00 2026-04-17",
-    "date": "2026-03-14T14:00:47+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
