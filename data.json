@@ -149,7 +149,7 @@
     "link": "https://www.letelegramme.fr/bretagne/jadore-beg-meil-ou-il-est-exquis-de-vivre-linoubliable-escapade-finisterienne-de-marcel-proust-7101293.php",
     "summary": "À Beg-Meil, à l’automne 1895, Proust tombe sous le charme de la végétation foisonnante et des criques de la côte fouesnantaise, qui lui inspirent l’ébauche de son roman « À la recherche du temps perdu ».",
     "date": "2026-08-19T16:45:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -189,21 +189,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "be0114d9ee01e947",
-    "title": "Que faire vers Carhaix et Châteaulin ce jeudi 20 août ?",
-    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/que-faire-vers-carhaix-et-chateaulin-ce-jeudi-20-aout-7102223.php",
-    "summary": "Musique traditionnelle, ateliers du patrimoine, voyage dans le temps… La rédaction vous propose trois idées de sorties dans les secteurs de Carhaix et Châteaulin, ce jeudi 20 août 2026.",
-    "date": "2026-08-19T16:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
-    "category": "presse-locale"
-  },
-  {
     "id": "59c2e0c2052f0623",
     "title": "Sans renier son héritage, le Stade Brestois a une nouvelle histoire à écrire",
     "link": "https://www.letelegramme.fr/sports/football/stade-brestois/sans-renier-son-heritage-le-stade-brestois-a-une-nouvelle-histoire-a-ecrire-7102335.php",
     "summary": "Après une intersaison marquée par le départ de Grégory Lorenzi et le décès d’Éric Roy, le Stade Brestois a changé de cap. Le club finistérien entame sa huitième saison consécutive en Ligue 1 au Mans avec un nouvel entraîneur et le maintien en ligne de mire.",
     "date": "2026-08-19T16:00:00+00:00",
     "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "be0114d9ee01e947",
+    "title": "Que faire vers Carhaix et Châteaulin ce jeudi 20 août ?",
+    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/que-faire-vers-carhaix-et-chateaulin-ce-jeudi-20-aout-7102223.php",
+    "summary": "Musique traditionnelle, ateliers du patrimoine, voyage dans le temps… La rédaction vous propose trois idées de sorties dans les secteurs de Carhaix et Châteaulin, ce jeudi 20 août 2026.",
+    "date": "2026-08-19T16:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -261,21 +261,21 @@
     "category": "radio-tv"
   },
   {
-    "id": "3307cf08cd8ff952",
-    "title": "« Peu de ministères sont au niveau requis » : Lecornu admet un retard sur la cybersécurité en France et annonce la création d’une « unité cyber »",
-    "link": "https://www.letelegramme.fr/france/peu-de-ministeres-sont-au-niveau-requis-lecornu-admet-un-retard-sur-la-cybersecurite-en-france-et-annonce-la-creation-dune-unite-cyber-7102339.php",
-    "summary": "Le Premier ministre Sébastien Lecornu a demandé ce mercredi la formation d’une « nouvelle unité cyber » pour offrir une « réponse opérationnelle plus réactive » aux cyberattaques. « Peu de ministères sont au niveau requis » en France, a-t-il déploré.",
-    "date": "2026-08-19T15:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "baa7a87a1f2659e2",
     "title": "« Comme si le foot avait adouci le sexisme » : l’artiste marocaine Inès Bouallou expose ses combats au Festival de cinéma de Douarnenez",
     "link": "https://www.letelegramme.fr/finistere/douarnenez-29100/comme-si-le-foot-avait-adouci-le-sexisme-lartiste-marocaine-ines-bouallou-expose-ses-combats-au-festival-de-cinema-de-douarnenez-7102264.php",
     "summary": "De ses autoportraits autour du football à son travail sur la santé mentale des personnes queer, l’artiste marocaine Inès Bouallou explore les identités et les regards qui les façonnent. L’un de ses autoportraits a été choisi pour illustrer l’affiche du 48e Festival de cinéma de Douarnenez.",
     "date": "2026-08-19T15:00:00+00:00",
     "source": "Le Télégramme – Finistère",
+    "category": "presse-locale"
+  },
+  {
+    "id": "3307cf08cd8ff952",
+    "title": "« Peu de ministères sont au niveau requis » : Lecornu admet un retard sur la cybersécurité en France et annonce la création d’une « unité cyber »",
+    "link": "https://www.letelegramme.fr/france/peu-de-ministeres-sont-au-niveau-requis-lecornu-admet-un-retard-sur-la-cybersecurite-en-france-et-annonce-la-creation-dune-unite-cyber-7102339.php",
+    "summary": "Le Premier ministre Sébastien Lecornu a demandé ce mercredi la formation d’une « nouvelle unité cyber » pour offrir une « réponse opérationnelle plus réactive » aux cyberattaques. « Peu de ministères sont au niveau requis » en France, a-t-il déploré.",
+    "date": "2026-08-19T15:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -1863,15 +1863,6 @@
     "category": "culture"
   },
   {
-    "id": "6e43179a4c61f396",
-    "title": "L’art d’avoir toujours raison, au théâtre Tristan Bernard Théâtre Tristan Bernard Paris",
-    "link": "https://unidivers.fr/event/lart-davoir-toujours-raison-au-theatre-tristan-bernard-theatre-tristan-bernard-paris-paris-2026-08-20t0200000200/",
-    "summary": "L'art d'avoir toujours raison, au théâtre Tristan Bernard Théâtre Tristan Bernard Paris Imaginez que l'on vous communique le secret pour gagner toute élection ? : voilà le pitch de départ de cette pièce de théâtre.",
-    "date": "2026-07-27T07:59:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "9600fcd31ded3cc2",
     "title": "Nathalie Ribet, du Blosne à la direction de la Culture de Rennes",
     "link": "https://unidivers.fr/nathalie-ribet-culture-rennes/",
@@ -1969,15 +1960,6 @@
     "date": "2026-07-22T06:30:00+00:00",
     "source": "Bretagne Culture Diversité",
     "category": "culture"
-  },
-  {
-    "id": "cc75c18f6390538f",
-    "title": "Les députés bretons rejettent massivement la réintroduction de pesticides interdits",
-    "link": "https://lepeuplebreton.bzh/2026/07/21/les-deputes-bretons-rejettent-massivement-la-reintroduction-de-pesticides-interdits/",
-    "summary": "L’Aulne à Meilh-Nevez, Landeleau. Les députés bretons ont massivement rejeté, ce lundi 20 juillet, la loi dite d’urgence agricole dont la mesure phare est la réintroduction à titre dérogatoire de pesticides interdits: l’acétamipride et le flupyradifurone, des néonicotinoïdes dits « tueurs d’abeilles ». Alors que l’Assemblée nationale se prononçait majoritairement pour, seul 9 des 37 députés bretons … Cet article Les députés bretons rejettent massivement la réintroduction de pesticides interdits est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-07-21T10:39:53+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "5760f033c52fb417",
@@ -3222,15 +3204,6 @@
     "category": "culture"
   },
   {
-    "id": "30559e0eec1a6ac3",
-    "title": "Les députés bretons votent pour l’autonomie de la Corse",
-    "link": "https://lepeuplebreton.bzh/2026/06/25/les-deputes-bretons-votent-pour-lautonomie-de-la-corse/",
-    "summary": "Ce mardi 23 juin, l’Assemblée nationale votait un texte ouvrant la possibilité de l’autonomie pour la Corse, présentée comme une « communauté insulaire » pour éviter le mot « peuple ». Le chemin est encore long, avec un passage nécessaire au Sénat, puis en Congrès (ensemble des députés et sénateurs), avant l’adoption d’une loi organique définissant les domaines dans … Cet article Les députés bretons votent pour l’autonomie de la Corse est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-25T08:14:13+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "441c441b8070371f",
     "title": "Rouge signal : Laurie Agusti met la dérive masculiniste sous tension",
     "link": "https://unidivers.fr/rouge-signal-laurie-agusti-masculiniste/",
@@ -4320,15 +4293,6 @@
     "category": "culture"
   },
   {
-    "id": "02130d54110df15b",
-    "title": "Ur c’hoarier mell-droad skosat war bilhedoù bank",
-    "link": "https://lepeuplebreton.bzh/2026/06/09/ur-choarier-mell-droad-skosat-war-bilhedou-bank/",
-    "summary": "E Bro-Skos e vez graet an traoù war an ton bras pa vez anv a vell-droad. Ha dreist-holl gant distro d’ur genstrivadeg etrebroadel hir c’hortozet (28 vloaz) : kib ar bed mell-droad. Gouarnamant Bro-Skos en doa diskleriet e vo un deiz vak an deiz goude ar c’hrogad kentañ. Hag un ti-bank en deus moullet bilhedoù gant … Cet article Ur c’hoarier mell-droad skosat war bilhedoù bank est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-09T07:00:00+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "dd7b8e855a2ccc7b",
     "title": "Cours de Yoga Cap Yoga Club Capbreton",
     "link": "https://unidivers.fr/event/cours-de-yoga-cap-yoga-club-capbreton-landes-2026-08-20/",
@@ -4347,15 +4311,6 @@
     "category": "culture"
   },
   {
-    "id": "21ec5d6b5692f92e",
-    "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
-    "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
-    "summary": "An daou vestr-prezegenner e-kerzh lid Disprizioù ar brezhoneg. Lurc’hskeudenn gant Nil Caouissin. « Gourc’hemennoù d’ar re o deus stourmet a-enep ar vrezhonegerien ! Div wech nebeutoc’h anezho a oa e 2024 eget e 2018. War an hent mat emaomp. Labour zo c’hoazh memestra rak chom a ra 100 000 den oc’h ober gant ar « yezh »-se c’hoazh. » Bodet … Cet article Distro Ai’ta ha Disprizioù ar brezhoneg est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-08T07:52:49+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "0c34ade831d7dfa7",
     "title": "AWAVES, un projet européen pour le patrimoine culturel maritime !",
     "link": "https://www.bcd.bzh/bcd/awaves-projet-europeen-patrimoine-culturel-maritime/",
@@ -4371,15 +4326,6 @@
     "summary": "Tournée de la ciné-conférence « Femmes : au travail ! » À l’usine, dans les champs ou sur les ports de pêche, en coiffe ou en blouse, les femmes ont toujours été les piliers de l’économie bretonne. Pourtant, leur travail est resté trop souvent invisible, sans salaire ni reconnaissance. Fin juin, la ciné-conférence « Femmes : au […] The post Tournée de la ciné-conférence « Femmes : au travail ! » appeared first on Bretagne Culture Diversité .",
     "date": "2026-06-08T06:30:00+00:00",
     "source": "Bretagne Culture Diversité",
-    "category": "culture"
-  },
-  {
-    "id": "3b7d07aacf73f13b",
-    "title": "Festival Ciné-Jardins : visites de jardins et cinéma d’écologie en plein air !",
-    "link": "https://unidivers.fr/event/festival-cine-jardins-visites-de-jardins-et-cinema-decologie-en-plein-air-paris-2026-08-20t0200000200/",
-    "summary": "Festival Ciné-Jardins : visites de jardins et cinéma d'écologie en plein air ! La fabrique documentaire présente la 12e édition du festival Ciné-Jardins ! Ciné-Jardins vous propose dix séances de cinéma en plein air dans les jardins publics et partagés du Nord-Est parisien.",
-    "date": "2026-06-08T05:48:49+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -4581,15 +4527,6 @@
     "category": "culture"
   },
   {
-    "id": "37b20413c806a167",
-    "title": "Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections",
-    "link": "https://lepeuplebreton.bzh/2026/05/12/ecosse-pays-de-galles-le-snp-et-le-plaid-cymru-gagnent-les-elections/",
-    "summary": "Rhun ar Iorweth, Premier Ministre du pays de Galles. Image : Senedd cymru Les élections locales du 7 mai au Royaume-Uni ont été marquée par le triomphe du parti d’extrême-droite Reform UK, et par l’effondrement du Labour. À gauche, la progression des Verts n’a pas suffit à compenser le recul des travaillistes et l’extrême-droite a … Cet article Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-05-12T17:41:14+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "f077a9c6f60dabc8",
     "title": "Les Jeunes Ambassadeur·rices du cinéma à Brest",
     "link": "https://www.filmcourt.fr/Les-Jeunes-Ambassadeur-rices-du-cinema-a-Brest.html",
@@ -4723,24 +4660,6 @@
     "date": "2026-04-29T10:40:14+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "32b51a48ada34f50",
-    "title": "Stage de breton d’été de l’UDB à Landeleau",
-    "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
-    "summary": "Moreau.henri, CC BY-SA 3.0, via Wikimedia Commons Après une pause en 2025, le stage de breton de l’UDB reprend en 2026 ! Nouveauté : ce sera à Landeleau, et non à Groix, cette année. L’hébergement et les cours de breton auront lieu au Presbital kozh, du dimanche 12 (soir) au samedi 18 juillet. Les inscriptions sont ouvertes… … Cet article Stage de breton d’été de l’UDB à Landeleau est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-29T09:50:32+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "06fd24a3059d45dd",
-    "title": "Plaid Cymru : un siècle de transformation politique",
-    "link": "https://lepeuplebreton.bzh/2026/04/27/plaid-cymru-un-siecle-de-transformation-politique/",
-    "summary": "Fondé en 1925, le Plaid Cymru est longtemps resté un parti de défense culturelle, centré sur la langue galloise et la préservation d’une identité menacée. Pendant des décennies, son influence électorale demeure marginale, cantonnée à certains bastions ruraux galloisants. Mais derrière cette apparente marginalité, un travail de fond s’opère… Le parti structure un militantisme, élabore … Cet article Plaid Cymru : un siècle de transformation politique est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-27T13:01:16+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "10a66fede5fd532a",
@@ -4905,15 +4824,6 @@
     "category": "culture"
   },
   {
-    "id": "7b6304ed429ed927",
-    "title": "Un vote décisif pour la Région Alsace",
-    "link": "https://lepeuplebreton.bzh/2026/04/09/un-vote-decisif-pour-la-region-alsace/",
-    "summary": "La soirée du 7 avril n’aura pas suffit: il a fallu prolonger la discussion le 8 avril pour enfin arriver au vote des députés sur la sortie de l’Alsace du Grand Est, et la recréation d’une Région Alsace. C’est chose faite. Par 131 voix contre 100, avec 12 abstention, l’Assemblée nationale a adopté la loi … Cet article Un vote décisif pour la Région Alsace est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-09T14:32:51+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "1d5f2309bb06bbce",
     "title": "Saint-Nazaire, un vieux Liberty ship dans l’aventure technologique des méthaniers",
     "link": "https://armen.bzh/2026/04/09/methanier-methane-gaz-navire-marine-saint-nazaire-bretagne-energie/",
@@ -4930,51 +4840,6 @@
     "date": "2026-04-07T10:03:10+00:00",
     "source": "ArMen",
     "category": "culture"
-  },
-  {
-    "id": "692a2533aad912ee",
-    "title": "Hag ur rannvro Elsaz a vo savet en-dro?",
-    "link": "https://lepeuplebreton.bzh/2026/04/06/hag-ur-rannvro-elsaz-a-vo-savet-en-dro/",
-    "summary": "Logo strollegezh europat Elsaz. Reuz a zo diwar-benn Elzas! Abaoe an 11 vloaz ma oa teuzet Elzas er rannvro « Reter Bras » en desped da youl Elzasiz ez eus bet klasket alies gant dilennidi eus an tiriad-se gounit ar gwir da gaout o rannvro dezho adarre. En aner da gentañ. Un trec’h kentañ o doe e … Cet article Hag ur rannvro Elsaz a vo savet en-dro? est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-06T08:15:11+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "43ffd33e33428137",
-    "title": "CERRONE ET PHILIPPE CORTI ARENES DE PALAVAS Palavas Les Flots",
-    "link": "https://unidivers.fr/event/cerrone-et-philippe-corti-arenes-de-palavas-palavas-les-flots-2026-08-20/",
-    "summary": "2026-08-20 à 19:00 CERRONE ET PHILIPPE CORTI ARENES DE PALAVAS Avenue Abbé Brocardi 34250 Palavas Les Flots 34",
-    "date": "2026-04-03T20:38:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "92d9f3a565d2ee2a",
-    "title": "SNIPER LE TUBE Seignosse",
-    "link": "https://unidivers.fr/event/sniper-le-tube-seignosse-2026-08-20/",
-    "summary": "2026-08-20 à 19:00 SNIPER LE TUBE AVENUE DES ARENES 40510 Seignosse 40",
-    "date": "2026-04-03T20:38:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "1b08b20c10ffcb2b",
-    "title": "SEXFRIENDS COMEDIE DE METZ Metz",
-    "link": "https://unidivers.fr/event/sexfriends-comedie-de-metz-metz-2026-08-20/",
-    "summary": "2026-08-20 à 20:00 SEXFRIENDS COMEDIE DE METZ 1-3 RUE DU PONT SAINT-MARCEL 57000 Metz 57",
-    "date": "2026-04-03T20:38:24+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "491e6fbd377d0eec",
-    "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
-    "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
-    "summary": "Lydie Massard, porte-parole de l’Union démocratique bretonne et conseillère municipale à Pontivy, vient de déclarer sa candidature à l’élection présidentielle, en passant par la primaire de la gauche unitaire. Cette annonce intervient dans un contexte paradoxal, avec une majorité de français partisans d’une République fédérale, alors que le sujet n’est pas traité par les partis … Cet article Lydie Massard, candidate fédéraliste à l’élection présidentielle est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-02T12:48:35+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "0ae483a5dd8c1cf6",
@@ -5049,12 +4914,30 @@
     "category": "culture"
   },
   {
+    "id": "7062c2dba348dab5",
+    "title": "Sortie nature La musique verte Sentier musical Pageas",
+    "link": "https://unidivers.fr/event/sortie-nature-la-musique-verte-pageas-haute-vienne-2026-08-20/",
+    "summary": "Sortie nature La musique verte Sentier musical Aire de repos Pageas Haute-Vienne 2026-08-20 2026-08-20",
+    "date": "2026-03-14T21:39:29+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "3a276090f8a7c5d7",
     "title": "Le numéro 271 d’ArMen est paru !",
     "link": "https://armen.bzh/2026/03/14/combat-de-trente-armen-revue-styliste-cap-sizun-abeille-pays-de-galles-methanier-saint-nazaire-carte-postale-baud-bretagne-chanteuse/",
     "summary": "Le numéro de mars-avril 2026 d'ArMen est en kiosque. Revivez le combat des Trente et plongez dans la richesse culturelle bretonne ! Cet article Le numéro 271 d’ArMen est paru ! est apparu en premier sur ArMen - La Bretagne culture société .",
     "date": "2026-03-14T09:49:48+00:00",
     "source": "ArMen",
+    "category": "culture"
+  },
+  {
+    "id": "b42f6e43b19cc564",
+    "title": "Été actif balade avec un âne Payzac",
+    "link": "https://unidivers.fr/event/ete-actif-balade-avec-un-ane-payzac-dordogne-2026-08-20/",
+    "summary": "Été actif balade avec un âne Payzac Dordogne 2026-08-20 2026-08-20",
+    "date": "2026-03-11T12:54:27+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -5139,6 +5022,15 @@
     "category": "culture"
   },
   {
+    "id": "eb3fab6079a9e185",
+    "title": "Carte postale végétale Nogent-sur-Vernisson",
+    "link": "https://unidivers.fr/event/carte-postale-vegetale-nogent-sur-vernisson-loiret-2026-07-16/",
+    "summary": "Carte postale végétale Nogent-sur-Vernisson Loiret 2026-08-20 10:00:00 2026-08-20",
+    "date": "2026-03-05T19:47:48+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "8b46c33a1c1e5a0b",
     "title": "Visite du château de Gramont Bidache",
     "link": "https://unidivers.fr/event/visite-du-chateau-de-gramont-bidache-pyrenees-atlantiques-2026-08-20/",
@@ -5175,11 +5067,29 @@
     "category": "culture"
   },
   {
+    "id": "f1abe0f065627b00",
+    "title": "Visite guidée Le jardin de Michel et Jacqueline Saint-Paul-en-Born",
+    "link": "https://unidivers.fr/event/visite-guidee-le-jardin-de-michel-et-jacqueline-saint-paul-en-born-landes-2026-08-20/",
+    "summary": "Visite guidée Le jardin de Michel et Jacqueline 41 Lotissement Lamazère Saint-Paul-en-Born Landes 2026-08-20 2026-08-20",
+    "date": "2026-02-22T12:53:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "69b9f64f2f901ef3",
     "title": "Maison du Tapissier La visite de Faustine 20 Août Aubusson",
     "link": "https://unidivers.fr/event/maison-du-tapissier-la-visite-de-faustine-20-aout-aubusson-creuse-2026-08-20/",
     "summary": "Maison du Tapissier La visite de Faustine 20 Août Rue Vieille Aubusson Creuse 2026-08-20 2026-08-20",
     "date": "2026-02-22T12:24:45+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "9184c873c0b85878",
+    "title": "Atelier d’écriture de poèmes japonais Haïku Chaussée du Pays de retz La Bernerie-en-Retz",
+    "link": "https://unidivers.fr/event/atelier-decriture-de-poemes-japonais-haiku-la-bernerie-en-retz-loire-atlantique-2026-07-09/",
+    "summary": "Atelier d'écriture de poèmes japonais Haïku Chaussée du Pays de retz Bibliothèque Olympe de Gouges La Bernerie-en-Retz Loire-Atlantique 2026-07-23 10:00:00 2026-07-23",
+    "date": "2026-02-20T18:54:40+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5382,6 +5292,15 @@
     "category": "culture"
   },
   {
+    "id": "2b93dd9e919cdc8b",
+    "title": "A la découverte du domaine d’Abbadia, Espace Naturel Sensible à Hendaye Une terre sur l’océan. Route de la Corniche Hendaye",
+    "link": "https://unidivers.fr/event/a-la-decouverte-du-domaine-dabbadia-espace-naturel-sensible-a-hendaye-une-terre-sur-locean-hendaye-pyrenees-atlantiques-2026-08-20/",
+    "summary": "A la découverte du domaine d'Abbadia, Espace Naturel Sensible à Hendaye Une terre sur l'océan. Route de la Corniche Asporotsttipi Maison de la Corniche Hendaye Pyrénées-Atlantiques 2026-08-20 2026-08-20",
+    "date": "2026-01-28T12:33:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "b8efff204be1e7bf",
     "title": "Visite d’une ferme familiale de porcs Kintoa et de piment d’Espelette Ferme Uronakoborda Ainhoa",
     "link": "https://unidivers.fr/event/visite-dune-ferme-familiale-de-porcs-kintoa-et-de-piment-despelette-ainhoa-pyrenees-atlantiques-2026-08-20/",
@@ -5458,6 +5377,15 @@
     "title": "Tournoi de polo Federations cup Polo Club Haras de Gassin Gassin",
     "link": "https://unidivers.fr/event/tournoi-de-polo-federations-cup-gassin-var-2026-08-20/",
     "summary": "Tournoi de polo Federations cup Polo Club Haras de Gassin 1999, route du Bourrian Gassin Var 2026-08-20 2026-08-20",
+    "date": "2026-01-15T10:41:09+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "b6b60d4153dadb25",
+    "title": "Visite commentée de la Collection de faïences Vieux Forges Forges-les-Eaux",
+    "link": "https://unidivers.fr/event/visite-commentee-de-la-collection-de-faiences-vieux-forges-forges-les-eaux-seine-maritime-2026-08-20/",
+    "summary": "Visite commentée de la Collection de faïences Vieux Forges Rue Albert Bochet Forges-les-Eaux Seine-Maritime 2026-08-20 10:00:00 2026-08-20 10:00:00",
     "date": "2026-01-15T10:41:09+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -5540,24 +5468,6 @@
     "link": "https://unidivers.fr/event/initiation-longe-cote-bella-vista-hendaye-pyrenees-atlantiques-2026-08-20/",
     "summary": "Initiation Longe Côte Bella Vista Sur la plage, face à cabane La Baleine Boulevard de la Mer Hendaye Pyrénées-Atlantiques 2026-08-20 2026-08-20",
     "date": "2025-12-17T11:52:48+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "0bc3f5d5d1b00bff",
-    "title": "FESTIVAL CABARET VERT – 2 JOURS – VENDREDI SAMEDI – SQUARE BAYARD Charleville-Mezieres",
-    "link": "https://unidivers.fr/event/festival-cabaret-vert-2-jours-vendredi-samedi-square-bayard-charleville-mezieres-2026-08-20/",
-    "summary": "2026-08-20 à 00:00 FESTIVAL CABARET VERT - 2 JOURS - VENDREDI SAMEDI SQUARE BAYARD RUE DE L'INDUSTRIE 08000 Charleville-Mezieres 08",
-    "date": "2025-12-03T18:06:13+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "1ce03f421d865227",
-    "title": "FESTIVAL CABARET VERT – 3 JOURS – Jeudi Vendredi Samedi – SQUARE BAYARD Charleville-Mezieres",
-    "link": "https://unidivers.fr/event/festival-cabaret-vert-3-jours-jeudi-vendredi-samedi-square-bayard-charleville-mezieres-2026-08-20/",
-    "summary": "2026-08-20 à 00:00 FESTIVAL CABARET VERT - 3 JOURS - Jeudi Vendredi Samedi SQUARE BAYARD RUE DE L'INDUSTRIE 08000 Charleville-Mezieres 08",
-    "date": "2025-12-03T18:06:12+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
