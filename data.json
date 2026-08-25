@@ -162,21 +162,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "3a58afe4b4d17a28",
-    "title": "« J’ai commencé à picoler à l’armée. Et pas qu’un peu… » : grâce à la course à pied, le Santécois fête ses 48 ans d’abstinence",
-    "link": "https://www.letelegramme.fr/finistere/santec-29250/jai-commence-a-picoler-a-larmee-et-pas-quun-peu-grace-a-la-course-a-pied-le-santecois-fete-ses-48-ans-dabstinence-7104413.php",
-    "summary": "L’alcool lui a volé dix ans de sa vie. Grâce à une farouche envie de s’en sortir, le Santécois Jean-Pierre Quimerch, 79 ans, a passé 48 années à se battre contre ses démons, toujours soutenu par sa femme. À courir aussi. Tout le temps. Partout.",
-    "date": "2026-08-24T16:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
-    "category": "presse-locale"
-  },
-  {
     "id": "d1994d2b249ca079",
     "title": "DÉBAT - Avez-vous été rassuré par le premier match du Stade Brestois au Mans ?",
     "link": "https://www.letelegramme.fr/sports/football/stade-brestois/debat-avez-vous-ete-rassure-par-le-premier-match-du-stade-brestois-au-mans-7104498.php",
     "summary": "Alors que le Stade Brestois a lancé sa saison de Ligue 1 par un match nul sur la pelouse du promu manceau (2-2), samedi soir, avez-vous été rassuré par ce premier résultat des hommes de Julien Lachuer ? Donnez votre avis.",
     "date": "2026-08-24T16:00:00+00:00",
     "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "3a58afe4b4d17a28",
+    "title": "« J’ai commencé à picoler à l’armée. Et pas qu’un peu… » : grâce à la course à pied, le Santécois fête ses 48 ans d’abstinence",
+    "link": "https://www.letelegramme.fr/finistere/santec-29250/jai-commence-a-picoler-a-larmee-et-pas-quun-peu-grace-a-la-course-a-pied-le-santecois-fete-ses-48-ans-dabstinence-7104413.php",
+    "summary": "L’alcool lui a volé dix ans de sa vie. Grâce à une farouche envie de s’en sortir, le Santécois Jean-Pierre Quimerch, 79 ans, a passé 48 années à se battre contre ses démons, toujours soutenu par sa femme. À courir aussi. Tout le temps. Partout.",
+    "date": "2026-08-24T16:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -320,7 +320,7 @@
     "link": "https://www.letelegramme.fr/finistere/brest-29200/ca-monte-tres-tres-vite-a-brest-lallocation-de-rentree-ne-suffit-pas-pour-remplir-les-cartables-7104255.php",
     "summary": "À Brest comme ailleurs, familles nombreuses, monoparentales ou tout simplement précaires s’organisent et se serrent la ceinture à l’approche de la rentrée : « Comme tout, c’est de plus en plus cher ! »",
     "date": "2026-08-24T12:59:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -630,21 +630,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "7f5ccbaa7174c3a2",
-    "title": "À Carhaix, l’office des sports prépare la rentrée",
-    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/a-carhaix-loffice-des-sports-prepare-la-rentree-7103852.php",
-    "summary": "Les animations estivales ne s’achèveront que le 31 août que déjà se profile la rentrée pour l’office des sports de Carhaix. À partir du 14 septembre, la structure proposera des activités pour les adultes et les enfants.",
-    "date": "2026-08-23T16:00:00+00:00",
-    "source": "Le Télégramme – Carhaix",
-    "category": "presse-locale"
-  },
-  {
     "id": "7c760d9b2a7dc013",
     "title": "À la veille de la rentrée scolaire, voici nos bons plans pour s’équiper sans se ruiner à Brest",
     "link": "https://www.letelegramme.fr/finistere/brest-29200/a-la-veille-de-la-rentree-scolaire-voici-nos-bons-plans-pour-sequiper-sans-se-ruiner-a-brest-7103680.php",
     "summary": "Entre les cahiers, les stylos et les romans à lire absolument, l’addition des courses de rentrée peut vite grimper. Tour d’horizon des meilleurs bons plans à Brest et alentour pour boucler sa liste de fournitures sans se ruiner. La preuve par quatre.",
     "date": "2026-08-23T16:00:00+00:00",
     "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "7f5ccbaa7174c3a2",
+    "title": "À Carhaix, l’office des sports prépare la rentrée",
+    "link": "https://www.letelegramme.fr/finistere/carhaix-29270/a-carhaix-loffice-des-sports-prepare-la-rentree-7103852.php",
+    "summary": "Les animations estivales ne s’achèveront que le 31 août que déjà se profile la rentrée pour l’office des sports de Carhaix. À partir du 14 septembre, la structure proposera des activités pour les adultes et les enfants.",
+    "date": "2026-08-23T16:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -1836,6 +1836,15 @@
     "category": "culture"
   },
   {
+    "id": "d61d1d02910430fe",
+    "title": "Vacances d’été créatives avec Manufactory Manufactory Le Havre",
+    "link": "https://unidivers.fr/event/vacances-dete-creatives-avec-manufactory-le-havre-seine-maritime-2026-08-25/",
+    "summary": "Vacances d'été créatives avec Manufactory Manufactory 115 Rue Richelieu Le Havre Seine-Maritime 2026-08-25 10:00:00 2026-08-25 10:00:00",
+    "date": "2026-07-29T12:00:08+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "3e11a3b5a25cc8e9",
     "title": "Cont’énigme Géocaching Salle des congrés du Châtelard Saint-Junien",
     "link": "https://unidivers.fr/event/contenigme-geocaching-saint-junien-haute-vienne-2026-08-25/",
@@ -1851,6 +1860,15 @@
     "summary": "Le titre du nouveau film de Stéphane Demoustier coïncide étrangement avec l’actualité météorologique de cet été 2026. D’autant que l’action se déroule sur une plage des Landes, non loin des feux qui embrasent aujourd’hui l’Aquitaine. Nous voici dans un thriller psychologique du meilleur cru dont des jeunes gens en vacances sont les acteurs. L’article « La chaleur », un film de Stéphane Demoustier est apparu en premier sur Bretagne Actuelle | Magazine culturel Breton en ligne .",
     "date": "2026-07-29T10:08:46+00:00",
     "source": "Bretagne Actuelle",
+    "category": "culture"
+  },
+  {
+    "id": "0117f5f5d6cfa5a3",
+    "title": "Stage d’été Céramique La FAÏENCERIE DE CROISY Croisy-sur-Eure",
+    "link": "https://unidivers.fr/event/stage-dete-ceramique-croisy-sur-eure-eure-2026-07-28/",
+    "summary": "Stage d'été Céramique La FAÏENCERIE DE CROISY 7 route de Ménilles Croisy-sur-Eure Eure Mardi Mardi 2026-08-18 14:30:00 2026-08-18 10:00:00",
+    "date": "2026-07-29T09:31:28+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -2686,6 +2704,15 @@
     "title": "Journée ânes et castors Centre Social Val’Mauges Saint-Florent-le-Vieil Mauges-sur-Loire",
     "link": "https://unidivers.fr/event/journee-anes-et-castors-centre-social-valmauges-mauges-sur-loire-maine-et-loire-2026-08-25/",
     "summary": "Journée ânes et castors Centre Social Val'Mauges Saint-Florent-le-Vieil Ferme des coteaux Mauges-sur-Loire Maine-et-Loire 2026-08-25 10:00:00 2026-08-25",
+    "date": "2026-07-07T12:30:40+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "216ba2f23d810c25",
+    "title": "Rencontre avec les marmottes RDV devant l’Office de Tourisme avec votre véhicule Bagnères-de-Bigorre",
+    "link": "https://unidivers.fr/event/rencontre-avec-les-marmottes-bagneres-de-bigorre-hautes-pyrenees-2026-08-25/",
+    "summary": "Rencontre avec les marmottes RDV devant l'Office de Tourisme avec votre véhicule LA MONGIE Bagnères-de-Bigorre Hautes-Pyrénées 2026-08-25 10:00:00 2026-08-25 10:00:00",
     "date": "2026-07-07T12:30:40+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4734,6 +4761,15 @@
     "category": "culture"
   },
   {
+    "id": "c2fe4ba1cd1e832a",
+    "title": "Apprivoiser l’océan Seignosse",
+    "link": "https://unidivers.fr/event/apprivoiser-locean-seignosse-landes-2026-08-25/",
+    "summary": "Apprivoiser l'océan Plage des Bourdaines Seignosse Landes 2026-08-25 10:00:00 2026-08-25",
+    "date": "2026-05-22T09:57:57+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "d50be6d461627f4c",
     "title": "Marché d’Assérac Assérac",
     "link": "https://unidivers.fr/event/marche-dasserac-asserac-loire-atlantique-2026-05-19/",
@@ -5157,33 +5193,6 @@
     "category": "independants"
   },
   {
-    "id": "094ecdbdfb89add4",
-    "title": "LE MONDE DE LEO – LE MONDE DE LEO EN VACANCES THEATRE A L’OUEST Auray",
-    "link": "https://unidivers.fr/event/le-monde-de-leo-le-monde-de-leo-en-vacances-theatre-a-louest-auray-2026-08-25/",
-    "summary": "2026-08-25 à 11:00 LE MONDE DE LEO - LE MONDE DE LEO EN VACANCES THEATRE A L'OUEST 8 RUE LEVENANT 56400 Auray 56",
-    "date": "2026-04-03T20:38:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d88c79cf5656ad77",
-    "title": "ROMAIN LE MAGISSIER PATICIEN THEATRE A L’OUEST DE LYON Decines Charpieu",
-    "link": "https://unidivers.fr/event/romain-le-magissier-paticien-theatre-a-louest-de-lyon-decines-charpieu-2026-08-25/",
-    "summary": "2026-08-25 à 14:30 ROMAIN LE MAGISSIER PATICIEN THEATRE A L'OUEST DE LYON 2, AVENUE SIMONE VEIL 69150 Decines Charpieu 69",
-    "date": "2026-04-03T20:38:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "736967f057e62b5e",
-    "title": "FAITES L’APERO PAS LA GUERRE DOMAINE PIERACCI Saint-Cyr Sur Mer",
-    "link": "https://unidivers.fr/event/faites-lapero-pas-la-guerre-domaine-pieracci-saint-cyr-sur-mer-2026-08-25/",
-    "summary": "2026-08-25 à 21:00 FAITES L'APERO PAS LA GUERRE DOMAINE PIERACCI 975 CHEMIN DU SAUVET 83270 Saint-Cyr Sur Mer 83",
-    "date": "2026-04-03T20:38:25+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "491e6fbd377d0eec",
     "title": "Lydie Massard, candidate fédéraliste à l’élection présidentielle",
     "link": "https://lepeuplebreton.bzh/2026/04/02/lydie-massard-candidate-federaliste-a-lelection-presidentielle/",
@@ -5603,15 +5612,6 @@
     "link": "https://unidivers.fr/event/marche-hebdomadaire-du-mardi-aire-sur-ladour-landes-2026-08-25/",
     "summary": "Marché hebdomadaire du mardi Place du commerce Marché couvert Aire-sur-l'Adour Landes 2026-08-25 2026-08-25",
     "date": "2026-01-03T10:40:33+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d1dfa0d2b65928b4",
-    "title": "PARIS COMEDY HOLIDAY THEATRE A L’OUEST Caen",
-    "link": "https://unidivers.fr/event/paris-comedy-holiday-theatre-a-louest-caen-2026-08-25/",
-    "summary": "2026-08-25 à 21:00 PARIS COMEDY HOLIDAY THEATRE A L'OUEST 8 QUAI VENDEUVRE 14000 Caen 14",
-    "date": "2025-12-30T12:42:06+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
