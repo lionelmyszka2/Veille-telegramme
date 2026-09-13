@@ -36,21 +36,21 @@
     "category": "presse-locale"
   },
   {
-    "id": "2f2512cbfe6de64b",
-    "title": "Coupe de France : le coup du chapeau Croguennec qualifie Carhaix contre Saint-Évarzec",
-    "link": "https://www.letelegramme.fr/competitions/coupe-de-france/coupe-de-france-le-coup-du-chapeau-croguennec-qualifie-carhaix-contre-saint-evarzec-7116546.php",
-    "summary": "L’US Saint-Évarzec s’est accrochée mais les DC Carhaix ont finalement mérité leur qualification (4-2), samedi, grâce notamment au coup du chapeau de Jiovann Croguennec.",
-    "date": "2026-09-12T19:49:00+00:00",
-    "source": "Le Télégramme – Carhaix",
-    "category": "presse-locale"
-  },
-  {
     "id": "bba51c5cfd9d69ec",
     "title": "À Plabennec, une voiture s’est couchée sur le côté rue François-Tinevez",
     "link": "https://www.letelegramme.fr/finistere/plabennec-29860/a-plabennec-une-voiture-sest-couchee-sur-le-cote-rue-francois-tinevez-7116543.php",
     "summary": "Ce samedi soir, une personne a été blessée après que sa voiture s’est renversée rue François-Tinevez, à Plabennec.",
     "date": "2026-09-12T19:49:00+00:00",
     "source": "Le Télégramme – Brest",
+    "category": "presse-locale"
+  },
+  {
+    "id": "2f2512cbfe6de64b",
+    "title": "Coupe de France : le coup du chapeau Croguennec qualifie Carhaix contre Saint-Évarzec",
+    "link": "https://www.letelegramme.fr/competitions/coupe-de-france/coupe-de-france-le-coup-du-chapeau-croguennec-qualifie-carhaix-contre-saint-evarzec-7116546.php",
+    "summary": "L’US Saint-Évarzec s’est accrochée mais les DC Carhaix ont finalement mérité leur qualification (4-2), samedi, grâce notamment au coup du chapeau de Jiovann Croguennec.",
+    "date": "2026-09-12T19:49:00+00:00",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -95,7 +95,7 @@
     "link": "https://www.letelegramme.fr/sports/handball/brest-bretagne-handball/direct-bbh-dortmund-suivez-la-deuxieme-journee-de-phase-de-poules-de-ligue-des-champions-en-direct-commente-7113766.php",
     "summary": "Après un beau succès obtenu en Norvège, les joueuses du BBH veulent enchaîner. Ce samedi à 18 h, les Finistériennes reçoivent les Allemandes du Borussia Dortmund à la Brest Arena. Suivez le match en direct commenté.",
     "date": "2026-09-12T18:20:04+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -144,19 +144,19 @@
     "category": "presse-locale"
   },
   {
-    "id": "5e668b89f6f74972",
-    "title": "Avec Ti ar Vro, la langue bretonne a sa maison à Montroulez",
-    "link": "https://www.letelegramme.fr/finistere/morlaix-29600/avec-ti-ar-vro-la-langue-bretonne-a-sa-maison-a-montroulez-7116457.php",
-    "summary": "C’était distro-skol (rentrée) à Ti ar Vro Montroulez, samedi 12 septembre, au 17, rue de Paris. Ce nouveau lieu de partage et d’enseignement des associations de KLT « qui a enfin pignon sur rue à Morlaix » donne à la langue et à la culture bretonnes une visibilité bienvenue.",
-    "date": "2026-09-12T17:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "d19cc66749620545",
     "title": "« C’est toujours une frustration de faire autant de répétitions pour un seul spectacle » : à Kergloff, Arc-en-ciel prolonge la fièvre des années 80 aux Bonnets Rouges le 19 septembre",
     "link": "https://www.letelegramme.fr/finistere/kergloff-29270/cest-toujours-une-frustration-de-faire-autant-de-repetitions-pour-un-seul-spectacle-a-kergloff-arc-en-ciel-prolonge-la-fievre-des-annees-80-aux-bonnets-rouges-le-19-septembre-7116370.php",
     "summary": "La troupe Arc-en-ciel rejouera exceptionnellement sa comédie musicale sur les années 80, « Vinyle Queens », ce samedi 19 septembre, à Kergloff. Une représentation solidaire pour le petit Raphaël.",
+    "date": "2026-09-12T17:00:00+00:00",
+    "source": "Le Télégramme – Carhaix",
+    "category": "presse-locale"
+  },
+  {
+    "id": "5e668b89f6f74972",
+    "title": "Avec Ti ar Vro, la langue bretonne a sa maison à Montroulez",
+    "link": "https://www.letelegramme.fr/finistere/morlaix-29600/avec-ti-ar-vro-la-langue-bretonne-a-sa-maison-a-montroulez-7116457.php",
+    "summary": "C’était distro-skol (rentrée) à Ti ar Vro Montroulez, samedi 12 septembre, au 17, rue de Paris. Ce nouveau lieu de partage et d’enseignement des associations de KLT « qui a enfin pignon sur rue à Morlaix » donne à la langue et à la culture bretonnes une visibilité bienvenue.",
     "date": "2026-09-12T17:00:00+00:00",
     "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
@@ -293,7 +293,7 @@
     "link": "https://www.letelegramme.fr/finistere/irvillac-29460/une-collision-entre-une-voiture-et-une-moto-sur-la-rn165-la-circulation-perturbee-dans-le-sens-quimper-brest-7116269.php",
     "summary": "Une collision entre une voiture et une moto est survenue sur la RN165, ce samedi midi, à hauteur d’Irvillac (29). Grièvement blessé, le motard a été héliporté vers l’hôpital de la Cavale-Blanche.",
     "date": "2026-09-12T14:44:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -446,7 +446,7 @@
     "link": "https://www.letelegramme.fr/finistere/argol-29560/une-femme-de-42-ans-decedee-depuis-plusieurs-semaines-retrouvee-chez-elle-a-argol-7116231.php",
     "summary": "Vendredi, une femme de 42 ans a été retrouvée morte à son domicile, à Argol. Le décès, dont l’origine naturelle a été confirmée, remonterait à plusieurs semaines.",
     "date": "2026-09-12T10:23:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -491,7 +491,7 @@
     "link": "https://www.letelegramme.fr/finistere/brest-29200/une-collision-entre-deux-voitures-fait-deux-blesses-graves-zone-de-kergaradec-a-gouesnou-7116216.php",
     "summary": "Deux jeunes hommes de 19 et 24 ans ont été gravement blessés dans une collision dans la nuit de vendredi à samedi à Gouesnou. L’accident, survenu zone de Kergaradec, a nécessité l’intervention des pompiers pour désincarcérer l’un des conducteurs.",
     "date": "2026-09-12T07:30:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Brest",
     "category": "presse-locale"
   },
   {
@@ -549,21 +549,21 @@
     "category": "radio-tv"
   },
   {
-    "id": "b288319223bf6ae7",
-    "title": "« Au début, j’ai cru à une blague » : grâce à la tombola organisée par ce festival breton, elle verra le premier concert de la tournée de Céline Dion !",
-    "link": "https://www.letelegramme.fr/finistere/au-debut-jai-cru-a-une-blague-grace-a-la-tombola-organisee-par-ce-festival-breton-elle-verra-le-premier-concert-de-la-tournee-de-celine-dion-7116038.php",
-    "summary": "Elle a remporté deux billets grâce à la tombola lancée par les organisateurs du festival Belles Étoiles, à Pacé (35). Isabelle Le Corre sera à Paris, ce samedi, pour le premier concert de la tournée de Céline Dion.",
-    "date": "2026-09-12T04:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
     "id": "7ebfdd67be6c8d77",
     "title": "« C’est vraiment cool, apaisé, sécurisant » : en Bretagne, les rues scolaires se déploient timidement",
     "link": "https://www.letelegramme.fr/bretagne/cest-vraiment-cool-apaise-securisant-en-bretagne-les-rues-scolaires-se-deploient-timidement-7115579.php",
     "summary": "Les rues scolaires ne sont pas si fréquentes en Bretagne mais elles gagnent progressivement du terrain. Dans ces rues, les circulations piétonnes et à vélo sont sécurisées. Illustrations à Rennes et Quimper.",
     "date": "2026-09-12T04:00:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
+    "id": "0f56167d165070a1",
+    "title": "« Elle est très proche de son public » : ces fans bretons de Céline Dion impatients d’assister à ses concerts",
+    "link": "https://www.letelegramme.fr/bretagne/elle-est-tres-proche-de-son-public-ces-fans-bretons-de-celine-dion-impatients-dassister-a-ses-concerts-7116037.php",
+    "summary": "Alors que Céline Dion lance, ce samedi 12 septembre, sa série de seize concerts à Paris, Ryan, Marie, Sandrine et Manon, plusieurs de ses fans en Bretagne, ne cachent pas leur impatience d’y être.",
+    "date": "2026-09-12T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -576,12 +576,12 @@
     "category": "presse-locale"
   },
   {
-    "id": "0f56167d165070a1",
-    "title": "« Elle est très proche de son public » : ces fans bretons de Céline Dion impatients d’assister à ses concerts",
-    "link": "https://www.letelegramme.fr/bretagne/elle-est-tres-proche-de-son-public-ces-fans-bretons-de-celine-dion-impatients-dassister-a-ses-concerts-7116037.php",
-    "summary": "Alors que Céline Dion lance, ce samedi 12 septembre, sa série de seize concerts à Paris, Ryan, Marie, Sandrine et Manon, plusieurs de ses fans en Bretagne, ne cachent pas leur impatience d’y être.",
+    "id": "b288319223bf6ae7",
+    "title": "« Au début, j’ai cru à une blague » : grâce à la tombola organisée par ce festival breton, elle verra le premier concert de la tournée de Céline Dion !",
+    "link": "https://www.letelegramme.fr/finistere/au-debut-jai-cru-a-une-blague-grace-a-la-tombola-organisee-par-ce-festival-breton-elle-verra-le-premier-concert-de-la-tournee-de-celine-dion-7116038.php",
+    "summary": "Elle a remporté deux billets grâce à la tombola lancée par les organisateurs du festival Belles Étoiles, à Pacé (35). Isabelle Le Corre sera à Paris, ce samedi, pour le premier concert de la tournée de Céline Dion.",
     "date": "2026-09-12T04:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
+    "source": "Le Télégramme – Finistère",
     "category": "presse-locale"
   },
   {
@@ -608,7 +608,7 @@
     "link": "https://www.letelegramme.fr/bretagne/dans-les-monts-darree-une-manifestation-le-20-septembre-contre-le-declassement-nitrates-7115992.php",
     "summary": "Une manifestation se profile contre le déclassement de communes vulnérables aux nitrates dans les monts d’Arrée. Elle est prévue, le 20 septembre, au Roc’h Tredudon.",
     "date": "2026-09-11T17:39:55+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Carhaix",
     "category": "presse-locale"
   },
   {
@@ -1422,15 +1422,6 @@
     "category": "radio-tv"
   },
   {
-    "id": "5ae1adf8cce0a34b",
-    "title": "L’UDB propose un « livre blanc de l’intercommunalité »",
-    "link": "https://lepeuplebreton.bzh/2026/09/08/ludb-propose-un-livre-blanc-de-lintercommunalite/",
-    "summary": "La fédération du Trégor-Goëlo de l’UDB vient de présenter un « livre blanc de l’intercommunalité », qui propose des changements importants dans le fonctionnement des intercommunalités. Entretien avec Lionel Thual, responsable de la communication pour la fédération. Pourquoi faire ces propositions d’évolution institutionnelle maintenant, quelques mois après les élections municipales ? Cette initiative est le résultat d’échanges lors … Cet article L’UDB propose un « livre blanc de l’intercommunalité » est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-09-08T11:22:04+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "f15640daf55d5de8",
     "title": "Inscriptions Scolaires au 41e Festival",
     "link": "https://www.filmcourt.fr/Inscriptions-Scolaires-au-41e-Festival.html",
@@ -1575,15 +1566,6 @@
     "category": "culture"
   },
   {
-    "id": "12664fb2aac32dbf",
-    "title": "Wet For Me – The Queer Season Starts Here ! La Machine du Moulin Rouge Paris",
-    "link": "https://unidivers.fr/event/wet-for-me-the-queer-season-starts-here-la-machine-du-moulin-rouge-paris-paris-2026-09-13t0230000200/",
-    "summary": "Wet For Me - The Queer Season Starts Here ! La Machine du Moulin Rouge Paris \"WET FOR ME, the queer season starts here\" est à retrouver ce samedi 12 septembre 2026 !",
-    "date": "2026-09-07T07:56:22+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "70ffacbd23b60caf",
     "title": "Le titre de la semaine : Lovesick de Wishy",
     "link": "https://www.bretagne-actuelle.com/le-titre-de-la-semaine-lovesick-de-wishy/accueil-bas/?utm_source=rss&utm_medium=rss&utm_campaign=le-titre-de-la-semaine-lovesick-de-wishy",
@@ -1611,15 +1593,6 @@
     "category": "culture"
   },
   {
-    "id": "443505aed924f3ba",
-    "title": "Affaire du 8/12 : délibéré de l'appel le 10 septembre",
-    "link": "https://expansive.info/Affaire-du-8-12-delibere-de-l-appel-le-10-septembre-6155",
-    "summary": "Cette affaire, c'est celle d'une association de malfaiteurs terroriste, qui vise directement \"l'ultra-gauche\". Arrêté.es en 2020, 7 personnes sont condamnées en 2023, et 6 ont fait appel. Le délibéré sera rendu ce jeudi 10 septembre, à Paris. - Info d'ailleurs / Une , Répression - Justice - Prison , Comité du 8 décembre",
-    "date": "2026-09-07T06:30:00+00:00",
-    "source": "Expansive",
-    "category": "independants"
-  },
-  {
     "id": "35de6c072e661d13",
     "title": "Nouveau : location des bureaux",
     "link": "https://www.bcd.bzh/bcd/location-bureaux-lorient/",
@@ -1627,6 +1600,15 @@
     "date": "2026-09-07T06:30:00+00:00",
     "source": "Bretagne Culture Diversité",
     "category": "culture"
+  },
+  {
+    "id": "443505aed924f3ba",
+    "title": "Affaire du 8/12 : délibéré de l'appel le 10 septembre",
+    "link": "https://expansive.info/Affaire-du-8-12-delibere-de-l-appel-le-10-septembre-6155",
+    "summary": "Cette affaire, c'est celle d'une association de malfaiteurs terroriste, qui vise directement \"l'ultra-gauche\". Arrêté.es en 2020, 7 personnes sont condamnées en 2023, et 6 ont fait appel. Le délibéré sera rendu ce jeudi 10 septembre, à Paris. - Info d'ailleurs / Une , Répression - Justice - Prison , Comité du 8 décembre",
+    "date": "2026-09-07T06:30:00+00:00",
+    "source": "Expansive",
+    "category": "independants"
   },
   {
     "id": "79dbe872aa6a1060",
@@ -2032,15 +2014,6 @@
     "date": "2026-09-02T15:40:00+00:00",
     "source": "ICI Breizh Izel",
     "category": "radio-tv"
-  },
-  {
-    "id": "34c63a88d21ae67a",
-    "title": "In The Modern World / La soirée Post Punk Indie Rock SUPERSONIC Paris",
-    "link": "https://unidivers.fr/event/in-the-modern-world-la-soiree-post-punk-indie-rock-supersonic-paris-paris-2026-09-13t0200000200/",
-    "summary": "In The Modern World / La soirée Post Punk Indie Rock SUPERSONIC Paris WELCOME TO SUPERSONIC Concerts gratuits, et nuits rock à Paris !",
-    "date": "2026-09-02T12:31:03+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
   },
   {
     "id": "ffefd5729fe0bb8c",
@@ -3600,15 +3573,6 @@
     "category": "culture"
   },
   {
-    "id": "d05516ac90258c34",
-    "title": "#JamVocale / OpenMic de Raphaël Le Baiser Salé Paris",
-    "link": "https://unidivers.fr/event/jamvocale-openmic-de-raphael-le-baiser-sale-paris-paris-2026-09-13t0200000200/",
-    "summary": "#JamVocale / OpenMic de Raphaël Le Baiser Salé Paris Le rendez-vous à ne pas manquer tous les samedis à partir de 23h00 !",
-    "date": "2026-08-23T06:34:46+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "e0c83f77162ca38a",
     "title": "H+ La Trame, III, 72 à 76 : Le marché des soins",
     "link": "https://unidivers.fr/h-la-trame-i72-73-74-75-76/",
@@ -4131,6 +4095,15 @@
     "category": "culture"
   },
   {
+    "id": "1e7ca60008495fa5",
+    "title": "AMAZ’EAUNES AMAZ’EAUNES PARKING SALLE HERMES Eaunes",
+    "link": "https://unidivers.fr/event/amazeaunes-eaunes-haute-garonne-2026-09-13/",
+    "summary": "AMAZ'EAUNES AMAZ'EAUNES PARKING SALLE HERMES 145 Avenue de la Mairie Eaunes Haute-Garonne 2026-09-13 08:00:00 2026-09-13",
+    "date": "2026-08-06T16:02:21+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "6ecf9fa0bb366b78",
     "title": "Vide-grenier de Noisseville Salle communale Breck Noisseville",
     "link": "https://unidivers.fr/event/vide-grenier-de-noisseville-noisseville-moselle-2026-09-13/",
@@ -4239,6 +4212,24 @@
     "category": "culture"
   },
   {
+    "id": "fa84ad87a878eab6",
+    "title": "Vide grenier LA BARTHE-DE-NESTE La Barthe-de-Neste",
+    "link": "https://unidivers.fr/event/vide-grenier-la-barthe-de-neste-hautes-pyrenees-2026-09-13/",
+    "summary": "Vide grenier LA BARTHE-DE-NESTE A la salle des fêtes La Barthe-de-Neste Hautes-Pyrénées 2026-09-13 08:00:00 2026-09-13 08:00:00",
+    "date": "2026-08-03T20:36:22+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "af469cfca5ce32f5",
+    "title": "MARCHE DES CHATEAUX La Clayette",
+    "link": "https://unidivers.fr/event/marche-des-chateaux-la-clayette-saone-et-loire-2026-09-13/",
+    "summary": "MARCHE DES CHATEAUX Aire de Loisirs de La Clayette La Clayette Saône-et-Loire 2026-09-13 08:00:00 2026-09-13",
+    "date": "2026-08-03T20:36:22+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "7397a45034fec2ce",
     "title": "Bric à brac de l’UNC-AFN Sillé-le-Philippe",
     "link": "https://unidivers.fr/event/bric-a-brac-de-lunc-afn-sille-le-philippe-sarthe-2026-09-13/",
@@ -4248,10 +4239,37 @@
     "category": "culture"
   },
   {
+    "id": "ac5cec83b3ab0013",
+    "title": "Marché Sérignolais Sérigné",
+    "link": "https://unidivers.fr/event/marche-serignolais-serigne-vendee-2026-09-13/",
+    "summary": "Marché Sérignolais Centre-bourg Sérigné Vendée 2026-09-13 08:00:00 2026-09-13",
+    "date": "2026-08-03T16:43:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "a83f7ff8ecbdb5a7",
+    "title": "Brocante de Gron Gron",
+    "link": "https://unidivers.fr/event/brocante-de-gron-gron-cher-2026-09-13/",
+    "summary": "Brocante de Gron Gron Cher 2026-09-13 08:00:00 2026-09-13",
+    "date": "2026-08-03T16:43:37+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "88e54c4356631504",
     "title": "Randonnée Pédestre du Louis d’Or Montigné-lès-Rairies",
     "link": "https://unidivers.fr/event/randonnee-pedestre-du-louis-dor-montigne-les-rairies-maine-et-loire-2026-09-13/",
     "summary": "Randonnée Pédestre du Louis d'Or lieu-dit Les Froux Montigné-lès-Rairies Maine-et-Loire 2026-09-13 08:00:00 2026-09-13",
+    "date": "2026-08-03T12:05:02+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "711b915c1a99c9a0",
+    "title": "Vide grenier à l’hippodrome hippodrome Pontchâteau",
+    "link": "https://unidivers.fr/event/vide-grenier-a-lhippodrome-pontchateau-loire-atlantique-2026-09-13/",
+    "summary": "Vide grenier à l'hippodrome hippodrome Route de Beaulieu Pontchâteau Loire-Atlantique 2026-09-13 08:00:00 2026-09-13",
     "date": "2026-08-03T12:05:02+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4527,15 +4545,6 @@
     "category": "culture"
   },
   {
-    "id": "cc75c18f6390538f",
-    "title": "Les députés bretons rejettent massivement la réintroduction de pesticides interdits",
-    "link": "https://lepeuplebreton.bzh/2026/07/21/les-deputes-bretons-rejettent-massivement-la-reintroduction-de-pesticides-interdits/",
-    "summary": "L’Aulne à Meilh-Nevez, Landeleau. Les députés bretons ont massivement rejeté, ce lundi 20 juillet, la loi dite d’urgence agricole dont la mesure phare est la réintroduction à titre dérogatoire de pesticides interdits: l’acétamipride et le flupyradifurone, des néonicotinoïdes dits « tueurs d’abeilles ». Alors que l’Assemblée nationale se prononçait majoritairement pour, seul 9 des 37 députés bretons … Cet article Les députés bretons rejettent massivement la réintroduction de pesticides interdits est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-07-21T10:39:53+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "7b24d46aff8f8c3e",
     "title": "Vide grenier Parking salle Charles Ferdinand Entrange",
     "link": "https://unidivers.fr/event/vide-grenier-entrange-moselle-2026-09-13/",
@@ -4604,6 +4613,15 @@
     "link": "https://unidivers.fr/event/rallye-sur-la-route-des-clochers-tors-bauge-en-anjou-maine-et-loire-2026-09-13/",
     "summary": "Rallye Sur la Route des Clochers Tors Fougeré Baugé-en-Anjou Maine-et-Loire 2026-09-13 08:00:00 2026-09-13",
     "date": "2026-07-14T15:32:52+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "c4d924639c94ae7b",
+    "title": "Vide grenier Royères",
+    "link": "https://unidivers.fr/event/vide-grenier-royeres-haute-vienne-2026-09-13/",
+    "summary": "Vide grenier Rue Pierre Mérigou Royères Haute-Vienne 2026-09-13 08:00:00 2026-09-13",
+    "date": "2026-07-14T15:25:35+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4860,15 +4878,6 @@
     "category": "culture"
   },
   {
-    "id": "30559e0eec1a6ac3",
-    "title": "Les députés bretons votent pour l’autonomie de la Corse",
-    "link": "https://lepeuplebreton.bzh/2026/06/25/les-deputes-bretons-votent-pour-lautonomie-de-la-corse/",
-    "summary": "Ce mardi 23 juin, l’Assemblée nationale votait un texte ouvrant la possibilité de l’autonomie pour la Corse, présentée comme une « communauté insulaire » pour éviter le mot « peuple ». Le chemin est encore long, avec un passage nécessaire au Sénat, puis en Congrès (ensemble des députés et sénateurs), avant l’adoption d’une loi organique définissant les domaines dans … Cet article Les députés bretons votent pour l’autonomie de la Corse est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-25T08:14:13+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "baeeabbaa3099a82",
     "title": "Sur les pas de Stevenson en Écosse",
     "link": "https://armen.bzh/2026/06/23/ecosse-stevenson-randonnee-highlands-celtique-montagnes/",
@@ -4950,24 +4959,6 @@
     "category": "festivals"
   },
   {
-    "id": "02130d54110df15b",
-    "title": "Ur c’hoarier mell-droad skosat war bilhedoù bank",
-    "link": "https://lepeuplebreton.bzh/2026/06/09/ur-choarier-mell-droad-skosat-war-bilhedou-bank/",
-    "summary": "E Bro-Skos e vez graet an traoù war an ton bras pa vez anv a vell-droad. Ha dreist-holl gant distro d’ur genstrivadeg etrebroadel hir c’hortozet (28 vloaz) : kib ar bed mell-droad. Gouarnamant Bro-Skos en doa diskleriet e vo un deiz vak an deiz goude ar c’hrogad kentañ. Hag un ti-bank en deus moullet bilhedoù gant … Cet article Ur c’hoarier mell-droad skosat war bilhedoù bank est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-09T07:00:00+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "21ec5d6b5692f92e",
-    "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
-    "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
-    "summary": "An daou vestr-prezegenner e-kerzh lid Disprizioù ar brezhoneg. Lurc’hskeudenn gant Nil Caouissin. « Gourc’hemennoù d’ar re o deus stourmet a-enep ar vrezhonegerien ! Div wech nebeutoc’h anezho a oa e 2024 eget e 2018. War an hent mat emaomp. Labour zo c’hoazh memestra rak chom a ra 100 000 den oc’h ober gant ar « yezh »-se c’hoazh. » Bodet … Cet article Distro Ai’ta ha Disprizioù ar brezhoneg est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-06-08T07:52:49+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "0338c99bdf5f3a70",
     "title": "Brocante Torxé",
     "link": "https://unidivers.fr/event/brocante-torxe-charente-maritime-2026-09-13/",
@@ -5020,15 +5011,6 @@
     "date": "2026-05-18T10:57:46+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "37b20413c806a167",
-    "title": "Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections",
-    "link": "https://lepeuplebreton.bzh/2026/05/12/ecosse-pays-de-galles-le-snp-et-le-plaid-cymru-gagnent-les-elections/",
-    "summary": "Rhun ar Iorweth, Premier Ministre du pays de Galles. Image : Senedd cymru Les élections locales du 7 mai au Royaume-Uni ont été marquée par le triomphe du parti d’extrême-droite Reform UK, et par l’effondrement du Labour. À gauche, la progression des Verts n’a pas suffit à compenser le recul des travaillistes et l’extrême-droite a … Cet article Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-05-12T17:41:14+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "f077a9c6f60dabc8",
@@ -5101,24 +5083,6 @@
     "date": "2026-04-29T10:44:14+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
-  },
-  {
-    "id": "32b51a48ada34f50",
-    "title": "Stage de breton d’été de l’UDB à Landeleau",
-    "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
-    "summary": "Moreau.henri, CC BY-SA 3.0, via Wikimedia Commons Après une pause en 2025, le stage de breton de l’UDB reprend en 2026 ! Nouveauté : ce sera à Landeleau, et non à Groix, cette année. L’hébergement et les cours de breton auront lieu au Presbital kozh, du dimanche 12 (soir) au samedi 18 juillet. Les inscriptions sont ouvertes… … Cet article Stage de breton d’été de l’UDB à Landeleau est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-29T09:50:32+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "06fd24a3059d45dd",
-    "title": "Plaid Cymru : un siècle de transformation politique",
-    "link": "https://lepeuplebreton.bzh/2026/04/27/plaid-cymru-un-siecle-de-transformation-politique/",
-    "summary": "Fondé en 1925, le Plaid Cymru est longtemps resté un parti de défense culturelle, centré sur la langue galloise et la préservation d’une identité menacée. Pendant des décennies, son influence électorale demeure marginale, cantonnée à certains bastions ruraux galloisants. Mais derrière cette apparente marginalité, un travail de fond s’opère… Le parti structure un militantisme, élabore … Cet article Plaid Cymru : un siècle de transformation politique est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-27T13:01:16+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
   },
   {
     "id": "93b2cd7069a3b4d2",
@@ -5238,15 +5202,6 @@
     "category": "culture"
   },
   {
-    "id": "7b6304ed429ed927",
-    "title": "Un vote décisif pour la Région Alsace",
-    "link": "https://lepeuplebreton.bzh/2026/04/09/un-vote-decisif-pour-la-region-alsace/",
-    "summary": "La soirée du 7 avril n’aura pas suffit: il a fallu prolonger la discussion le 8 avril pour enfin arriver au vote des députés sur la sortie de l’Alsace du Grand Est, et la recréation d’une Région Alsace. C’est chose faite. Par 131 voix contre 100, avec 12 abstention, l’Assemblée nationale a adopté la loi … Cet article Un vote décisif pour la Région Alsace est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-09T14:32:51+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
     "id": "1d5f2309bb06bbce",
     "title": "Saint-Nazaire, un vieux Liberty ship dans l’aventure technologique des méthaniers",
     "link": "https://armen.bzh/2026/04/09/methanier-methane-gaz-navire-marine-saint-nazaire-bretagne-energie/",
@@ -5271,33 +5226,6 @@
     "summary": "Mélanie Urien En 1976, à Plozévet, en pays bigouden. Bleuenn Seveno se souvient des femmes à la coiffe haute, d’une Bretagne rugueuse et puissante. Aujourd’hui designeuse... Cet article Bleuenn Seveno, quand le design rencontre la Bretagne est apparu en premier sur ArMen - La Bretagne culture société .",
     "date": "2026-04-07T10:03:10+00:00",
     "source": "ArMen",
-    "category": "culture"
-  },
-  {
-    "id": "692a2533aad912ee",
-    "title": "Hag ur rannvro Elsaz a vo savet en-dro?",
-    "link": "https://lepeuplebreton.bzh/2026/04/06/hag-ur-rannvro-elsaz-a-vo-savet-en-dro/",
-    "summary": "Logo strollegezh europat Elsaz. Reuz a zo diwar-benn Elzas! Abaoe an 11 vloaz ma oa teuzet Elzas er rannvro « Reter Bras » en desped da youl Elzasiz ez eus bet klasket alies gant dilennidi eus an tiriad-se gounit ar gwir da gaout o rannvro dezho adarre. En aner da gentañ. Un trec’h kentañ o doe e … Cet article Hag ur rannvro Elsaz a vo savet en-dro? est apparu en premier sur Le Peuple breton Magazine .",
-    "date": "2026-04-06T08:15:11+00:00",
-    "source": "Le Peuple Breton",
-    "category": "independants"
-  },
-  {
-    "id": "684fbc329b02cd80",
-    "title": "LE CHANTEUR – HOMMAGE A BALAVOINE THEATRE SEBASTOPOL Lille",
-    "link": "https://unidivers.fr/event/le-chanteur-hommage-a-balavoine-theatre-sebastopol-lille-2026-09-13/",
-    "summary": "2026-09-13 à 17:00 LE CHANTEUR - HOMMAGE A BALAVOINE THEATRE SEBASTOPOL PLACE SEBASTOPOL 59000 Lille 59",
-    "date": "2026-04-03T20:38:37+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "dfded8c43b16cad3",
-    "title": "KALIMBA: Íntimo Tour Deluxe 2026 | Paris Paris",
-    "link": "https://unidivers.fr/event/kalimba-intimo-tour-deluxe-2026-paris-paris-2026-09-13/",
-    "summary": "2026-09-13 à 20:00 KALIMBA: Íntimo Tour Deluxe 2026 | Paris 61 Rue du Château d'Eau, 75010 Paris, Francia Paris J",
-    "date": "2026-04-03T20:38:37+00:00",
-    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -5625,15 +5553,6 @@
     "category": "culture"
   },
   {
-    "id": "ffa5816d2a148942",
-    "title": "GIL ALMA THEATRE A L’OUEST Caen",
-    "link": "https://unidivers.fr/event/gil-alma-theatre-a-louest-caen-2026-09-13/",
-    "summary": "2026-09-13 à 17:00 GIL ALMA THEATRE A L'OUEST 8 QUAI VENDEUVRE 14000 Caen 14",
-    "date": "2026-01-12T10:36:19+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
     "id": "81f9ec538b5b3848",
     "title": "A Saute Clocher Course à Pied et marché gourmand Pern",
     "link": "https://unidivers.fr/event/a-saute-clocher-course-a-pied-et-marche-gourmand-pern-lot-2026-09-13/",
@@ -5648,15 +5567,6 @@
     "link": "https://unidivers.fr/event/brocante-vide-greniers-brantome-en-perigord-dordogne-2026-09-13/",
     "summary": "Brocante & vide-greniers Route de Saint-Exupéry Parking le Gergovie Brantôme en Périgord Dordogne 2026-09-13 2026-09-13",
     "date": "2026-01-01T13:35:12+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "c65a4a8cfdad08c4",
-    "title": "STEPHAN EICHER PARC DES OISEAUX Villars Les Dombes",
-    "link": "https://unidivers.fr/event/stephan-eicher-parc-des-oiseaux-villars-les-dombes-2026-09-13/",
-    "summary": "2026-09-13 à 20:00 STEPHAN EICHER PARC DES OISEAUX RD 1083 01330 Villars Les Dombes 01",
-    "date": "2025-12-30T13:00:22+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
