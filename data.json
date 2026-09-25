@@ -437,7 +437,7 @@
     "link": "https://www.letelegramme.fr/finistere/brest-29200/une-joggeuse-meurt-percutee-par-une-voiture-a-plouarzel-7124459.php",
     "summary": "Une joggeuse de 32 ans a été mortellement fauchée par un véhicule, ce jeudi matin sur une petite route de Plouarzel (29). Selon les premiers éléments de l’enquête, le conducteur aurait été ébloui par le soleil.",
     "date": "2026-09-24T13:54:00+00:00",
-    "source": "Le Télégramme – Finistère",
+    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -783,6 +783,15 @@
     "category": "radio-tv"
   },
   {
+    "id": "88d54d3c1d84a573",
+    "title": "« Des jeunes se retrouvent incontinents de manière irréversible » : en Bretagne, cette drogue inquiète les services de santé",
+    "link": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/des-jeunes-se-retrouvent-incontinents-de-maniere-irreversible-en-bretagne-cette-drogue-inquiete-les-services-de-sante-7123986.php",
+    "summary": "En Bretagne, l’évolution des consommations de drogues inquiète les services de santé. Depuis environ trois ans, la kétamine s’est immiscée au cœur de la nuit et du quotidien des jeunes usagers. Les hôpitaux font désormais face à des séquelles physiques et psychiatriques inédites.",
+    "date": "2026-09-24T04:00:00+00:00",
+    "source": "Le Télégramme – Toutes éditions",
+    "category": "presse-locale"
+  },
+  {
     "id": "fc684e415cbdfb90",
     "title": "« C’est la seule solution pour diminuer ma consommation d’essence » : à Ploudaniel, le covoiturage passe à la vitesse supérieure",
     "link": "https://www.letelegramme.fr/finistere/ploudaniel-29260/cest-la-seule-solution-pour-diminuer-ma-consommation-dessence-a-ploudaniel-le-covoiturage-passe-a-la-vitesse-superieure-7123882.php",
@@ -798,15 +807,6 @@
     "summary": "À 25 ans, Énora Hope rêve de cinéma sans passer par les cases imposées ni être définie par les réseaux sociaux, où elle cartonne. De Pluguffan (29) à Los Angeles, la jeune réalisatrice veut tracer sa route, caméra en main.",
     "date": "2026-09-24T04:00:00+00:00",
     "source": "Le Télégramme – Finistère",
-    "category": "presse-locale"
-  },
-  {
-    "id": "88d54d3c1d84a573",
-    "title": "« Des jeunes se retrouvent incontinents de manière irréversible » : en Bretagne, cette drogue inquiète les services de santé",
-    "link": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/des-jeunes-se-retrouvent-incontinents-de-maniere-irreversible-en-bretagne-cette-drogue-inquiete-les-services-de-sante-7123986.php",
-    "summary": "En Bretagne, l’évolution des consommations de drogues inquiète les services de santé. Depuis environ trois ans, la kétamine s’est immiscée au cœur de la nuit et du quotidien des jeunes usagers. Les hôpitaux font désormais face à des séquelles physiques et psychiatriques inédites.",
-    "date": "2026-09-24T04:00:00+00:00",
-    "source": "Le Télégramme – Toutes éditions",
     "category": "presse-locale"
   },
   {
@@ -873,21 +873,21 @@
     "category": "radio-tv"
   },
   {
-    "id": "04f7f8ebe13a7f06",
-    "title": "Finistère : elle traverse la Manche à la nage pour son oncle Charles Biétry, atteint de la maladie de Charcot",
-    "link": "https://www.ici.fr/bretagne/finistere-29/finistere-elle-traverse-la-manche-a-la-nage-pour-son-oncle-charles-bietry-atteint-de-la-maladie-de-charcot-2148207?at_medium=lien_RSS&at_locale=13",
-    "summary": "Elle l'a fait pour son oncle, Charles Biétry, le journaliste sportif atteint de la maladie de Charcot : la maitre nageuse quimpéroise Anne Féat a traversé la Manche à la nage. Elle est arrivée le 22 septembre vers 22h en France après 15 heures et 30 minutes de traversée depuis l'Angleterre.",
-    "date": "2026-09-23T15:39:50+00:00",
-    "source": "ICI Armorique",
-    "category": "radio-tv"
-  },
-  {
     "id": "7f9898340536ac17",
     "title": "Finistère : elle traverse la Manche à la nage pour son oncle Charles Biétry, atteint de la maladie de Charcot",
     "link": "https://www.ici.fr/bretagne/finistere-29/finistere-elle-traverse-la-manche-a-la-nage-pour-son-oncle-charles-bietry-atteint-de-la-maladie-de-charcot-2148207?at_medium=lien_RSS&at_locale=20",
     "summary": "Elle l'a fait pour son oncle, Charles Biétry, le journaliste sportif atteint de la maladie de Charcot : la maitre nageuse quimpéroise Anne Féat a traversé la Manche à la nage. Elle est arrivée le 22 septembre vers 22h en France après 15 heures et 30 minutes de traversée depuis l'Angleterre.",
     "date": "2026-09-23T15:39:50+00:00",
     "source": "ICI Breizh Izel",
+    "category": "radio-tv"
+  },
+  {
+    "id": "04f7f8ebe13a7f06",
+    "title": "Finistère : elle traverse la Manche à la nage pour son oncle Charles Biétry, atteint de la maladie de Charcot",
+    "link": "https://www.ici.fr/bretagne/finistere-29/finistere-elle-traverse-la-manche-a-la-nage-pour-son-oncle-charles-bietry-atteint-de-la-maladie-de-charcot-2148207?at_medium=lien_RSS&at_locale=13",
+    "summary": "Elle l'a fait pour son oncle, Charles Biétry, le journaliste sportif atteint de la maladie de Charcot : la maitre nageuse quimpéroise Anne Féat a traversé la Manche à la nage. Elle est arrivée le 22 septembre vers 22h en France après 15 heures et 30 minutes de traversée depuis l'Angleterre.",
+    "date": "2026-09-23T15:39:50+00:00",
+    "source": "ICI Armorique",
     "category": "radio-tv"
   },
   {
@@ -1701,11 +1701,11 @@
     "category": "independants"
   },
   {
-    "id": "4e7d2a08d2e7facb",
-    "title": "Maillage : le festival littéraire de la Porte Dorée Musée de l’histoire de l’immigration – Palais de la Porte Dorée – Paris Paris",
-    "link": "https://unidivers.fr/event/maillage-le-festival-litteraire-de-la-porte-doree-musee-de-lhistoire-de-limmigration-palais-de-la-porte-doree-paris-paris-paris-2026-09-25t0200000200/",
-    "summary": "Maillage : le festival littéraire de la Porte Dorée Musée de l'histoire de l'immigration - Palais de la Porte Dorée - Paris Paris En septembre, au cœur de la rentrée littéraire, le Palais de la Porte Dorée lance son festival Maillage. Le temps d’un week-end, la littérature sous toutes ses formes investit le Palais, du Musée national de l’histoire de l’immigration à l’Aquarium tropical, pour faire circuler les récits et diffuser de nouvelles narrations.",
-    "date": "2026-09-20T16:40:31+00:00",
+    "id": "a5adf82fa7ef092e",
+    "title": "LinkUp – Sport et inclusion pour toutes et tous Place de la Bastille PARIS",
+    "link": "https://unidivers.fr/event/linkup-sport-et-inclusion-pour-toutes-et-tous-place-de-la-bastille-paris-paris-2026-09-25t1300000200/",
+    "summary": "LinkUp – Sport et inclusion pour toutes et tous Place de la Bastille PARIS Dans le cadre de la Semaine de l’accessibilité, Paris Bouge Ensemble est organisé par la Direction de la Jeunesse et des Sports et le services Handicap (Direction des Solidarités) de la Ville de Paris, en partenariat avec le Comité de Paris Sport Adapté et le Comité de Paris Handisport. À cette occasion, l’association LinkUp sera présente sur la place de la Bastille, avec un stand et une animation permettant de découvrir le projet !",
+    "date": "2026-09-20T12:27:42+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -1717,6 +1717,15 @@
     "date": "2026-09-20T11:45:03+00:00",
     "source": "ICI Breizh Izel",
     "category": "radio-tv"
+  },
+  {
+    "id": "78900f338c2bae48",
+    "title": "Baby balade au Petit Palais Petit Palais – Musée des beaux-arts de la Ville de Paris Paris",
+    "link": "https://unidivers.fr/event/baby-balade-au-petit-palais-petit-palais-musee-des-beaux-arts-de-la-ville-de-paris-paris-paris-2026-09-25t1330000200/",
+    "summary": "Baby balade au Petit Palais Petit Palais - Musée des beaux-arts de la Ville de Paris Paris Une visite sensorielle pour découvrir les chefs d'œuvres du Petit Palais à hauteur d'enfant !",
+    "date": "2026-09-20T11:00:44+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
   },
   {
     "id": "8c2e88a9a5bd5464",
@@ -2349,6 +2358,15 @@
     "category": "culture"
   },
   {
+    "id": "9cc89ba865510c3e",
+    "title": "MAS, portes-ouvertes MAS Salins-les-Bains",
+    "link": "https://unidivers.fr/event/mas-portes-ouvertes-salins-les-bains-jura-2026-09-25/",
+    "summary": "MAS, portes-ouvertes MAS 2 Rue de la Tour de Flore Salins-les-Bains Jura 2026-09-25 13:00:00 2026-09-25",
+    "date": "2026-09-14T20:32:09+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "5bc72d25146db3bc",
     "title": "Couture en folie Micro-Folie Le Pouliguen",
     "link": "https://unidivers.fr/event/couture-en-folie-le-pouliguen-loire-atlantique-2026-09-25/",
@@ -2389,6 +2407,15 @@
     "title": "Braderie d’automne Châteaudun",
     "link": "https://unidivers.fr/event/braderie-dautomne-chateaudun-eure-et-loir-2026-09-25/",
     "summary": "Braderie d'automne Dans le centre-ville Châteaudun Eure-et-Loir 2026-09-26 09:30:00 2026-09-26",
+    "date": "2026-09-14T16:12:38+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "191e83b2fe8d10e2",
+    "title": "Voyages intérieurs, à la découverte du corps humain Haguenau",
+    "link": "https://unidivers.fr/event/voyages-interieurs-a-la-decouverte-du-corps-humain-haguenau-bas-rhin-2026-09-25/",
+    "summary": "Voyages intérieurs, à la découverte du corps humain 24 Rue du maire André Traband Haguenau Bas-Rhin Vendredi 2026-09-25 13:00:00 2026-09-25",
     "date": "2026-09-14T16:12:38+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -2547,6 +2574,15 @@
     "category": "culture"
   },
   {
+    "id": "f9df4f4d1291e586",
+    "title": "Conférence Tout est chimie Terminal de la Citadelle Le Havre",
+    "link": "https://unidivers.fr/event/conference-tout-est-chimie-le-havre-seine-maritime-2026-09-25/",
+    "summary": "Conférence Tout est chimie Terminal de la Citadelle Le Havre Port Center Le Havre Seine-Maritime 2026-09-25 12:45:00 2026-09-25 12:45:00",
+    "date": "2026-09-11T08:29:16+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "4c7620e5863edbef",
     "title": "Les 20 ans de la Maison de la chauve-souris Maison de la chauve souris Kernascléden",
     "link": "https://unidivers.fr/event/les-20-ans-de-la-maison-de-la-chauve-souris-kernascleden-morbihan-2026-09-25/",
@@ -2700,10 +2736,10 @@
     "category": "culture"
   },
   {
-    "id": "1d00d59dd66feaea",
-    "title": "Pierre, Feuille, Ciseaux : festival d’illustratrices Le 211 Paris",
-    "link": "https://unidivers.fr/event/pierre-feuille-ciseaux-festival-dillustratrices-le-211-paris-paris-2026-09-25t0200000200/",
-    "summary": "Pierre, Feuille, Ciseaux : festival d'illustratrices Le 211 Paris Pierre, Feuille, Ciseaux : Un festival d’illustration, 3 jours au 211 autour de l’illustration, de la création et de la fête. Un évènement pensé et co-construit par des femmes et des personnes FLINTA, ouvert à toustes.",
+    "id": "e3ea230eea16450a",
+    "title": "Visite Excursion – Journée au domaine départemental de Sceaux Chateau de Sceaux Sceaux",
+    "link": "https://unidivers.fr/event/visite-excursion-journee-au-domaine-departemental-de-sceaux-chateau-de-sceaux-sceaux-paris-2026-09-25t1245000200/",
+    "summary": "Visite Excursion – Journée au domaine départemental de Sceaux Chateau de Sceaux Sceaux Visite du magnifique parc de Sceaux, déjeuner puis visite du château avec une conférencière. Vous pouvez aussi nous rejoindre juste pour la visite du château l'après midi.",
     "date": "2026-09-10T06:21:23+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -2799,6 +2835,15 @@
     "category": "culture"
   },
   {
+    "id": "5ae1adf8cce0a34b",
+    "title": "L’UDB propose un « livre blanc de l’intercommunalité »",
+    "link": "https://lepeuplebreton.bzh/2026/09/08/ludb-propose-un-livre-blanc-de-lintercommunalite/",
+    "summary": "La fédération du Trégor-Goëlo de l’UDB vient de présenter un « livre blanc de l’intercommunalité », qui propose des changements importants dans le fonctionnement des intercommunalités. Entretien avec Lionel Thual, responsable de la communication pour la fédération. Pourquoi faire ces propositions d’évolution institutionnelle maintenant, quelques mois après les élections municipales ? Cette initiative est le résultat d’échanges lors … Cet article L’UDB propose un « livre blanc de l’intercommunalité » est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-09-08T11:22:04+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "6c56af12346a2ba5",
     "title": "Serbie : comment l’Union européenne nourrit le nationalisme qu’elle prétend combattre",
     "link": "https://unidivers.fr/serbie-union-europeenne-adhesion-nationalisme/",
@@ -2889,6 +2934,15 @@
     "category": "culture"
   },
   {
+    "id": "6b9b1003c52d295e",
+    "title": "Aménager un espace public. Comment s’y prendre ?, caue71, Montceau-les-Mines",
+    "link": "https://unidivers.fr/event/amenager-un-espace-public-comment-sy-prendre-caue71-montceau-les-mines-2026-09-25t1330000200/",
+    "summary": "25 septembre - 16 octobre, les vendredis caue71 Montceau-les-Mines, 6 quai Jules Chagot 71300 Montceau les Mines 4 dates, 4 sites Bonnay-Saint-Ythaire Saint-Usuge Saint-Léger-sous-Beuvray Charolles Inscrivez-vous !",
+    "date": "2026-09-07T19:53:44+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "706c27fdfd6f52c9",
     "title": "Que faire à Paris ce week-end ?",
     "link": "https://unidivers.fr/que-faire-a-paris-ce-week-end/",
@@ -2911,6 +2965,24 @@
     "title": "BIBLIOTHÈQUES VIVANTES «حائط murτ είχος, La Fabrique M28, Marseillan",
     "link": "https://unidivers.fr/event/bibliotheques-vivantes-%d8%ad%d8%a7%d8%a6%d8%b7-mur%cf%84-%ce%b5%ce%af%cf%87%ce%bf%cf%82-la-fabrique-m28-marseillan-2026-09-25t1100000200/",
     "summary": "25 - 27 septembre La Fabrique M28 Marseillan, 515 avenue de l'Industrie 34000 Montpellier Avec حائط murτ είχος Bibliothèques vivantes amorce une collection d’affiches en trois langues (français, arabe et grec) composées d’extraits de littérature apposées sur les murs de la ville, faisant …",
+    "date": "2026-09-07T13:37:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "95d5fed95b36ca1c",
+    "title": "Conférence de Laurent Baude : « Photographie & Architecture, archéologie d’un dialogue », ENSA Paris-Val de Seine, Paris",
+    "link": "https://unidivers.fr/event/conference-de-laurent-baude-photographie-architecture-archeologie-dun-dialogue-ensa-paris-val-de-seine-paris-2026-09-25t1300000200/",
+    "summary": "Vendredi 25 septembre, 13h00 ENSA Paris-Val de Seine Paris, 3/15 quai Panhard et Levassor Sur la thématique de la conférence : « Photographie & Architecture, archéologie d’un dialogue », Laurent Baude explique : « Dès la préhistoire de la photographie, les média d’assistance au dessin les…",
+    "date": "2026-09-07T13:37:19+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "c7a2485104de2bab",
+    "title": "Consultation infantile de la PMI, Crèche Les Lutins d’Isidore, Lezennes",
+    "link": "https://unidivers.fr/event/consultation-infantile-de-la-pmi-creche-les-lutins-disidore-lezennes-2026-09-25t1330000200/",
+    "summary": "Vendredi 25 septembre, 13h30 Crèche Les Lutins d'Isidore Lezennes, 52, rue Paul Vaillant Couturier 59260 Lezennes Sur rendez-vous au 03.59.73.96.60",
     "date": "2026-09-07T13:37:19+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -3298,6 +3370,15 @@
     "title": "Journées portes ouvertes aux Résidentiels Les Résidentiels St-Sulpice-de-Royan Saint-Sulpice-de-Royan",
     "link": "https://unidivers.fr/event/journees-portes-ouvertes-aux-residentiels-les-residentiels-st-sulpice-de-royan-saint-sulpice-de-royan-2026-09-25t100000-0000200/",
     "summary": "25 et 26 septembre Journées portes ouvertes aux Résidentiels Les Résidentiels St-Sulpice-de-Royan 8 route de Rochefort 17200 Saint-Sulpice-de-Royan Saint-Sulpice-de-Royan Venez découvrir notre résidence",
+    "date": "2026-09-02T12:31:00+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "8135b6e99bff996e",
+    "title": "Paris bouge ensemble : animations parasportives pour toutes et tous Place de la Bastille Paris",
+    "link": "https://unidivers.fr/event/paris-bouge-ensemble-animations-parasportives-pour-toutes-et-tous-place-de-la-bastille-paris-paris-2026-09-25t1300000200/",
+    "summary": "Paris bouge ensemble : animations parasportives pour toutes et tous Place de la Bastille Paris Venez découvrir le parasport et vous initier à de nombreuses disciplines !",
     "date": "2026-09-02T12:31:00+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -3762,6 +3843,15 @@
     "category": "culture"
   },
   {
+    "id": "03587a02aa5ece09",
+    "title": "La facture électronique passez à l’action ! Troyes",
+    "link": "https://unidivers.fr/event/la-facture-electronique-passez-a-laction-troyes-aube-2026-09-25/",
+    "summary": "La facture électronique passez à l'action ! Le Rucher Créatif Troyes Aube 2026-09-25 13:00:00 2026-09-25",
+    "date": "2026-09-01T11:18:07+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "29c06c38925606da",
     "title": "PYRENEES-ORIENTALES PERPIGNAN JOURNÉES DU PATRIMOINE (PROGRAMME)",
     "link": "https://unidivers.fr/pyrenees-orientales-perpignan-journees-du-patrimoine/",
@@ -4068,6 +4158,15 @@
     "category": "culture"
   },
   {
+    "id": "59cdb91b87183929",
+    "title": "Séance de dédicaces avec l’illustrateur Pierre Taranzano Librairie La somme de nos folies Manosque",
+    "link": "https://unidivers.fr/event/seance-de-dedicaces-avec-lillustrateur-pierre-taranzano-manosque-alpes-de-haute-provence-2026-09-25/",
+    "summary": "Séance de dédicaces avec l'illustrateur Pierre Taranzano Librairie La somme de nos folies 10 rue du Soubeyran Manosque Alpes-de-Haute-Provence 2026-09-25 13:00:00 2026-09-25 13:00:00",
+    "date": "2026-08-30T12:47:15+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "3a00a8332deba9af",
     "title": "Créer son espace nourricier en agroforesterie syntropique Oasis gourmande Sainte-Suzanne-et-Chammes",
     "link": "https://unidivers.fr/event/creer-son-espace-nourricier-en-agroforesterie-syntropique-sainte-suzanne-et-chammes-mayenne-2026-09-25/",
@@ -4209,6 +4308,15 @@
     "summary": "Le site 1001 pardons en ligne C’est avec un grand plaisir que nous vous annonçons l’ouverture au public de « 1001 pardons » une plateforme numérique de référence issue d’un inventaire de grand ampleur. Aujourd’hui, avec plusieurs années de travail sur l’ensemble de la région, BCD a identifié plus de 1900 pardons encore en activités. Ce site […] The post Le site 1001 pardons en ligne appeared first on Bretagne Culture Diversité .",
     "date": "2026-08-28T06:30:00+00:00",
     "source": "Bretagne Culture Diversité",
+    "category": "culture"
+  },
+  {
+    "id": "36544d81e5726247",
+    "title": "Chantier maraicher La Ferme de Paris PARIS",
+    "link": "https://unidivers.fr/event/chantier-maraicher-la-ferme-de-paris-paris-paris-2026-09-25t1300000200/",
+    "summary": "Chantier maraicher La Ferme de Paris PARIS La Ferme de Paris vous propose une fois par mois des chantiers participatifs pour vous initier à la pratique du maraichage",
+    "date": "2026-08-26T09:42:38+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -4383,6 +4491,15 @@
     "category": "culture"
   },
   {
+    "id": "18001f0899272dd6",
+    "title": "Sauver, protéger, témoigner, Villeneuve d’Ascq/Médiathèque Till L’espiègle, Villeneuve-d’Ascq",
+    "link": "https://unidivers.fr/event/sauver-proteger-temoigner-villeneuve-dascq-mediatheque-till-lespiegle-villeneuve-dascq-2026-09-25t1300000200/",
+    "summary": "25 septembre - 10 octobre Villeneuve d'Ascq/Médiathèque Till L'espiègle Villeneuve-d'Ascq, Villeneuve d'Ascq, 96 chaussée de l'hôtel de ville Rendez-vous du 25 septembre au 10 octobre à la médiathèque pour découvrir une exposition photo de l’association SOS Méditerranée !",
+    "date": "2026-08-20T17:16:07+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "ecbee25c118e3a85",
     "title": "Atelier pour devenir entrepreneur, Agence Adie Talence, Talence",
     "link": "https://unidivers.fr/event/atelier-pour-devenir-entrepreneur-agence-adie-talence-talence-2026-09-25t0930000200/",
@@ -4473,6 +4590,15 @@
     "category": "culture"
   },
   {
+    "id": "1314ba04274c3255",
+    "title": "La Fête des Cinémas Normands Coutances",
+    "link": "https://unidivers.fr/event/la-fete-des-cinemas-normands-coutances-manche-2026-09-25/",
+    "summary": "La Fête des Cinémas Normands 24 Rue Saint-Maur Coutances Manche Vendredi Vendredi 2026-09-25 13:00:00 2026-09-25 13:00:00",
+    "date": "2026-08-10T12:20:11+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "b964596b6258d9bb",
     "title": "Salon Artisan d’Alsace Sélestat",
     "link": "https://unidivers.fr/event/salon-artisan-dalsace-selestat-bas-rhin-2026-09-25/",
@@ -4522,6 +4648,15 @@
     "title": "Yoga avec Marine Rudra Priya Lieu-dit La Plaine Quimperlé",
     "link": "https://unidivers.fr/event/yoga-avec-marine-rudra-priya-quimperle-finistere-2026-09-25/",
     "summary": "Yoga avec Marine Rudra Priya Lieu-dit La Plaine Auberge de Toulfoën Quimperlé Finistère 2026-09-25 09:30:00 2026-09-25 09:30:00",
+    "date": "2026-08-07T09:52:51+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "c9932111335bb49f",
+    "title": "Rando Koh-Lanta Vielle-Tursan",
+    "link": "https://unidivers.fr/event/rando-koh-lanta-vielle-tursan-landes-2026-09-25/",
+    "summary": "Rando Koh-Lanta Place des Pyrénées Vielle-Tursan Landes 2026-09-25 14:00:00 2026-09-25",
     "date": "2026-08-07T09:52:51+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4608,6 +4743,15 @@
     "category": "culture"
   },
   {
+    "id": "cc75c18f6390538f",
+    "title": "Les députés bretons rejettent massivement la réintroduction de pesticides interdits",
+    "link": "https://lepeuplebreton.bzh/2026/07/21/les-deputes-bretons-rejettent-massivement-la-reintroduction-de-pesticides-interdits/",
+    "summary": "L’Aulne à Meilh-Nevez, Landeleau. Les députés bretons ont massivement rejeté, ce lundi 20 juillet, la loi dite d’urgence agricole dont la mesure phare est la réintroduction à titre dérogatoire de pesticides interdits: l’acétamipride et le flupyradifurone, des néonicotinoïdes dits « tueurs d’abeilles ». Alors que l’Assemblée nationale se prononçait majoritairement pour, seul 9 des 37 députés bretons … Cet article Les députés bretons rejettent massivement la réintroduction de pesticides interdits est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-07-21T10:39:53+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "eaf3c430a8e8aed8",
     "title": "Journée nationale d’hommage aux harkis et autres formations supplétives Royan",
     "link": "https://unidivers.fr/event/journee-nationale-dhommage-aux-harkis-et-autres-formations-suppletives-royan-charente-maritime-2026-09-25/",
@@ -4644,6 +4788,15 @@
     "category": "culture"
   },
   {
+    "id": "bd44b493b475da30",
+    "title": "Balades urbaines Tentations Art déco, Galerie des Beaux-Arts Bordeaux, Bordeaux",
+    "link": "https://unidivers.fr/event/balades-urbaines-tentations-art-deco-galerie-des-beaux-arts-bordeaux-bordeaux-2026-09-25t1400000200/",
+    "summary": "25 septembre - 14 novembre Galerie des Beaux-Arts Bordeaux Bordeaux, 33000 Bordeaux dans le cadre de l'exposition 'Jean Dupas & Co. Le grand Art déco'",
+    "date": "2026-07-17T14:25:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "f3d290a01077d00e",
     "title": "Et toi? Quand tu seras grand.e…, Musée d’art et d’histoire, Genève",
     "link": "https://unidivers.fr/event/et-toi-quand-tu-seras-grand-e-musee-dart-et-dhistoire-geneve-2026-09-25t0900000200/",
@@ -4676,6 +4829,24 @@
     "link": "https://unidivers.fr/event/le-regard-de-louis-le-chevalier-sur-le-normandie-galerie-des-beaux-arts-bordeaux-bordeaux-2026-09-25t1215000200/",
     "summary": "Vendredi 25 septembre, 12h15 Galerie des Beaux-Arts Bordeaux Bordeaux, 33000 Bordeaux dans le cadre de l'exposition 'Jean Dupas & Co. Le grand Art déco'",
     "date": "2026-07-17T14:21:29+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "6b233c0215e75e51",
+    "title": "Le Ciel céleste – Exposition, Espace Le Carré, espace Municipal d’Art Contemporain, Lille",
+    "link": "https://unidivers.fr/event/le-ciel-celeste-exposition-espace-le-carre-espace-municipal-dart-contemporain-lille-2026-09-25t1400000200/",
+    "summary": "25 septembre - 22 novembre Espace Le Carré, espace Municipal d'Art Contemporain Lille, 30 rue des archives, 59800 Lille Dans le cadre du Bicentenaire de la Photographie, l’Espace Le Carré invite l’artiste lillois Hideyuki Ishibashi à présenter l’exposition Le Ciel céleste. Celle-ci nous plonge dans un dialogue à le…",
+    "date": "2026-07-17T13:10:39+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "012461944089b04e",
+    "title": "Le Ciel céleste – Exposition, Espace Le Carré, Lille",
+    "link": "https://unidivers.fr/event/le-ciel-celeste-exposition-espace-le-carre-lille-2026-09-25t1400000200/",
+    "summary": "25 septembre - 22 novembre Espace Le Carré Lille, 30 rue des archives, 59000, Lille Dans le cadre du Bicentenaire de la photographie, l’Espace Le Carré invite l’artiste lillois Hideyuki Ishibashi à présenter l’exposition Le Ciel céleste.",
+    "date": "2026-07-17T13:10:30+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4721,6 +4892,15 @@
     "link": "https://unidivers.fr/event/au-poste-de-plongee-laventure-des-premiers-submersibles-musee-national-de-la-marine-hotel-de-cheusses-arsenal-rochefort-2026-09-25t1000000200/",
     "summary": "25 septembre 2026 - 31 décembre 2027 Musée national de la Marine, Hôtel de Cheusses/Arsenal Rochefort, 1 place de la Galissonnière, 17300 Rochefort En 2026, pour la première fois, le musée national de la Marine présente sur tous les sites de son réseau – à Brest, Paris, Port-Louis, Rochefort et Toulon – un ensemble d’expositions autour d’un : à…",
     "date": "2026-07-16T11:33:34+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "f80edd37ab42a46a",
+    "title": "Inscriptions aux ateliers de couture et tricot saison 2026/2027, Centre de sports et de loisir Jacques-Leclerc, Le Chesnay-Rocquencourt",
+    "link": "https://unidivers.fr/event/inscriptions-aux-ateliers-de-couture-et-tricot-saison-2026-2027-centre-de-sports-et-de-loisir-jacques-leclerc-le-chesnay-rocquencourt-2026-09-25t1300000200/",
+    "summary": "Vendredi 25 septembre, 13h00 Centre de sports et de loisir Jacques-Leclerc Le Chesnay-Rocquencourt, 12 rue de la Sabretache APCOP - Ateliers de couture accessibles à tous. Venez apprendre ou vous perfectionner dans une ambiance conviviale avec nos animateurs à vos côtés.",
+    "date": "2026-07-16T08:00:00+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4824,12 +5004,30 @@
     "category": "culture"
   },
   {
+    "id": "30559e0eec1a6ac3",
+    "title": "Les députés bretons votent pour l’autonomie de la Corse",
+    "link": "https://lepeuplebreton.bzh/2026/06/25/les-deputes-bretons-votent-pour-lautonomie-de-la-corse/",
+    "summary": "Ce mardi 23 juin, l’Assemblée nationale votait un texte ouvrant la possibilité de l’autonomie pour la Corse, présentée comme une « communauté insulaire » pour éviter le mot « peuple ». Le chemin est encore long, avec un passage nécessaire au Sénat, puis en Congrès (ensemble des députés et sénateurs), avant l’adoption d’une loi organique définissant les domaines dans … Cet article Les députés bretons votent pour l’autonomie de la Corse est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-25T08:14:13+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "baeeabbaa3099a82",
     "title": "Sur les pas de Stevenson en Écosse",
     "link": "https://armen.bzh/2026/06/23/ecosse-stevenson-randonnee-highlands-celtique-montagnes/",
     "summary": "En Ecosse, on peut partir sur les traces de l'un des écrivains les plus célèbres du pays, Louis Stevenson. Cet article Sur les pas de Stevenson en Écosse est apparu en premier sur ArMen - La Bretagne culture société .",
     "date": "2026-06-23T17:49:47+00:00",
     "source": "ArMen",
+    "category": "culture"
+  },
+  {
+    "id": "cf771451526bad52",
+    "title": "Les Cafés du Nil Xishan Studio Musée du Papier Angoulême",
+    "link": "https://unidivers.fr/event/les-cafes-du-nil-xishan-studio-angouleme-charente-2026-09-25/",
+    "summary": "Les Cafés du Nil Xishan Studio Musée du Papier 134 rue de Bordeaux Angoulême Charente 2026-09-25 13:00:00 2026-09-25 13:00:00",
+    "date": "2026-06-21T15:11:34+00:00",
+    "source": "UniDivers – Agenda",
     "category": "culture"
   },
   {
@@ -4842,6 +5040,24 @@
     "category": "culture"
   },
   {
+    "id": "bac23654487b4e54",
+    "title": "Concours de belote Salle du Puits Botrel Saint-Léry",
+    "link": "https://unidivers.fr/event/concours-de-belote-saint-lery-morbihan-2026-09-25/",
+    "summary": "Concours de belote Salle du Puits Botrel Rue du Puits Botrel Saint-Léry Morbihan 2026-09-25 2026-09-25",
+    "date": "2026-06-12T08:39:48+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "02130d54110df15b",
+    "title": "Ur c’hoarier mell-droad skosat war bilhedoù bank",
+    "link": "https://lepeuplebreton.bzh/2026/06/09/ur-choarier-mell-droad-skosat-war-bilhedou-bank/",
+    "summary": "E Bro-Skos e vez graet an traoù war an ton bras pa vez anv a vell-droad. Ha dreist-holl gant distro d’ur genstrivadeg etrebroadel hir c’hortozet (28 vloaz) : kib ar bed mell-droad. Gouarnamant Bro-Skos en doa diskleriet e vo un deiz vak an deiz goude ar c’hrogad kentañ. Hag un ti-bank en deus moullet bilhedoù gant … Cet article Ur c’hoarier mell-droad skosat war bilhedoù bank est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-09T07:00:00+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "843a13866b185d10",
     "title": "Marché traditionnel Tosse",
     "link": "https://unidivers.fr/event/marche-traditionnel-tosse-landes-2026-09-25/",
@@ -4849,6 +5065,15 @@
     "date": "2026-06-08T10:59:09+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
+  },
+  {
+    "id": "21ec5d6b5692f92e",
+    "title": "Distro Ai’ta ha Disprizioù ar brezhoneg",
+    "link": "https://lepeuplebreton.bzh/2026/06/08/distro-aita-ha-dispriziou-ar-brezhoneg/",
+    "summary": "An daou vestr-prezegenner e-kerzh lid Disprizioù ar brezhoneg. Lurc’hskeudenn gant Nil Caouissin. « Gourc’hemennoù d’ar re o deus stourmet a-enep ar vrezhonegerien ! Div wech nebeutoc’h anezho a oa e 2024 eget e 2018. War an hent mat emaomp. Labour zo c’hoazh memestra rak chom a ra 100 000 den oc’h ober gant ar « yezh »-se c’hoazh. » Bodet … Cet article Distro Ai’ta ha Disprizioù ar brezhoneg est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-06-08T07:52:49+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
     "id": "093d5fd4ec7d141d",
@@ -4865,6 +5090,15 @@
     "link": "https://unidivers.fr/event/atelier-poterie-monein-pyrenees-atlantiques-2026-09-25/",
     "summary": "Atelier poterie Mad'In Aquíu 48 rue du Commerce Monein Pyrénées-Atlantiques 2026-09-25 10:00:00 2026-09-25",
     "date": "2026-06-04T18:34:32+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "28af0a1ca5b48b06",
+    "title": "Descente en rafting Centre nautique de Soeix Oloron-Sainte-Marie",
+    "link": "https://unidivers.fr/event/descente-en-rafting-oloron-sainte-marie-pyrenees-atlantiques-2026-09-25/",
+    "summary": "Descente en rafting Centre nautique de Soeix 367 Route du Gave d'Aspe Oloron-Sainte-Marie Pyrénées-Atlantiques 2026-09-25 13:30:00 2026-09-25",
+    "date": "2026-06-04T17:14:04+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -4914,10 +5148,28 @@
     "category": "culture"
   },
   {
+    "id": "37b20413c806a167",
+    "title": "Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections",
+    "link": "https://lepeuplebreton.bzh/2026/05/12/ecosse-pays-de-galles-le-snp-et-le-plaid-cymru-gagnent-les-elections/",
+    "summary": "Rhun ar Iorweth, Premier Ministre du pays de Galles. Image : Senedd cymru Les élections locales du 7 mai au Royaume-Uni ont été marquée par le triomphe du parti d’extrême-droite Reform UK, et par l’effondrement du Labour. À gauche, la progression des Verts n’a pas suffit à compenser le recul des travaillistes et l’extrême-droite a … Cet article Écosse, Pays de Galles: le SNP et le Plaid Cymru gagnent les élections est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-05-12T17:41:14+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "57a1c1fcae556c2f",
     "title": "Visite accompagnée de l’exposition Métamorphoses Chapelle des Ursulines Quimperlé",
     "link": "https://unidivers.fr/event/visite-accompagnee-de-lexposition-metamorphoses-quimperle-finistere-2026-09-25/",
     "summary": "Visite accompagnée de l'exposition Métamorphoses Chapelle des Ursulines 1 Avenue Jules Ferry Quimperlé Finistère 2026-09-25 11:00:00 2026-09-25",
+    "date": "2026-05-05T06:08:26+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "498db68526a40ab8",
+    "title": "SORTIES 123Nature Visite guidée des vergers et du pressoir La damassine Vandoncourt",
+    "link": "https://unidivers.fr/event/sorties-123nature-visite-guidee-des-vergers-et-du-pressoir-vandoncourt-doubs-2026-09-25/",
+    "summary": "SORTIES 123Nature Visite guidée des vergers et du pressoir La damassine 23 Rue des Aiges Vandoncourt Doubs 2026-09-25 13:45:00 2026-09-25",
     "date": "2026-05-05T06:08:26+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
@@ -4932,11 +5184,38 @@
     "category": "culture"
   },
   {
+    "id": "32b51a48ada34f50",
+    "title": "Stage de breton d’été de l’UDB à Landeleau",
+    "link": "https://lepeuplebreton.bzh/2026/04/29/stage-breton-ete-udb-landeleau/",
+    "summary": "Moreau.henri, CC BY-SA 3.0, via Wikimedia Commons Après une pause en 2025, le stage de breton de l’UDB reprend en 2026 ! Nouveauté : ce sera à Landeleau, et non à Groix, cette année. L’hébergement et les cours de breton auront lieu au Presbital kozh, du dimanche 12 (soir) au samedi 18 juillet. Les inscriptions sont ouvertes… … Cet article Stage de breton d’été de l’UDB à Landeleau est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-29T09:50:32+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
+    "id": "06fd24a3059d45dd",
+    "title": "Plaid Cymru : un siècle de transformation politique",
+    "link": "https://lepeuplebreton.bzh/2026/04/27/plaid-cymru-un-siecle-de-transformation-politique/",
+    "summary": "Fondé en 1925, le Plaid Cymru est longtemps resté un parti de défense culturelle, centré sur la langue galloise et la préservation d’une identité menacée. Pendant des décennies, son influence électorale demeure marginale, cantonnée à certains bastions ruraux galloisants. Mais derrière cette apparente marginalité, un travail de fond s’opère… Le parti structure un militantisme, élabore … Cet article Plaid Cymru : un siècle de transformation politique est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-27T13:01:16+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "2ee7f1e01b1c7932",
     "title": "Salon maison-déco Colmar",
     "link": "https://unidivers.fr/event/salon-maison-deco-colmar-haut-rhin-2026-09-25/",
     "summary": "Salon maison-déco avenue de la Foire aux Vins Colmar Haut-Rhin Vendredi 2026-09-25 2026-09-25",
     "date": "2026-04-24T13:44:01+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
+    "id": "faa2833f0444547a",
+    "title": "Les baies sauvages Ornans",
+    "link": "https://unidivers.fr/event/les-baies-sauvages-ornans-doubs-2026-09-25/",
+    "summary": "Les baies sauvages Chez Angèle Ornans Doubs 2026-09-25 14:00:00 2026-09-25",
+    "date": "2026-04-20T06:50:13+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5004,6 +5283,15 @@
     "category": "culture"
   },
   {
+    "id": "7b6304ed429ed927",
+    "title": "Un vote décisif pour la Région Alsace",
+    "link": "https://lepeuplebreton.bzh/2026/04/09/un-vote-decisif-pour-la-region-alsace/",
+    "summary": "La soirée du 7 avril n’aura pas suffit: il a fallu prolonger la discussion le 8 avril pour enfin arriver au vote des députés sur la sortie de l’Alsace du Grand Est, et la recréation d’une Région Alsace. C’est chose faite. Par 131 voix contre 100, avec 12 abstention, l’Assemblée nationale a adopté la loi … Cet article Un vote décisif pour la Région Alsace est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-09T14:32:51+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
+  },
+  {
     "id": "1d5f2309bb06bbce",
     "title": "Saint-Nazaire, un vieux Liberty ship dans l’aventure technologique des méthaniers",
     "link": "https://armen.bzh/2026/04/09/methanier-methane-gaz-navire-marine-saint-nazaire-bretagne-energie/",
@@ -5031,218 +5319,20 @@
     "category": "culture"
   },
   {
-    "id": "446c5e6cad414036",
-    "title": "FESTIVAL LANGUEDEROCK ZINGA ZANGA Beziers",
-    "link": "https://unidivers.fr/event/festival-languederock-zinga-zanga-beziers-2026-09-25/",
-    "summary": "2026-09-25 à 17:00 FESTIVAL LANGUEDEROCK ZINGA ZANGA Traverse de Colombiers 34500 Beziers 34",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
+    "id": "692a2533aad912ee",
+    "title": "Hag ur rannvro Elsaz a vo savet en-dro?",
+    "link": "https://lepeuplebreton.bzh/2026/04/06/hag-ur-rannvro-elsaz-a-vo-savet-en-dro/",
+    "summary": "Logo strollegezh europat Elsaz. Reuz a zo diwar-benn Elzas! Abaoe an 11 vloaz ma oa teuzet Elzas er rannvro « Reter Bras » en desped da youl Elzasiz ez eus bet klasket alies gant dilennidi eus an tiriad-se gounit ar gwir da gaout o rannvro dezho adarre. En aner da gentañ. Un trec’h kentañ o doe e … Cet article Hag ur rannvro Elsaz a vo savet en-dro? est apparu en premier sur Le Peuple breton Magazine .",
+    "date": "2026-04-06T08:15:11+00:00",
+    "source": "Le Peuple Breton",
+    "category": "independants"
   },
   {
-    "id": "f9ed4dcf67d3cf00",
-    "title": "CAROLINE ESTREMO THEATRE A L’OUEST Rouen",
-    "link": "https://unidivers.fr/event/caroline-estremo-theatre-a-louest-rouen-2026-09-25/",
-    "summary": "2026-09-25 à 19:00 CAROLINE ESTREMO THEATRE A L'OUEST 26 QUAI GASTON BOULET 76000 Rouen 76",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "c44364ec60085634",
-    "title": "CORONER LA MACHINE DU MOULIN ROUGE Paris",
-    "link": "https://unidivers.fr/event/coroner-la-machine-du-moulin-rouge-paris-2026-09-25/",
-    "summary": "2026-09-25 à 19:00 CORONER LA MACHINE DU MOULIN ROUGE 90 BD DE CLICHY 75018 Paris 75",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ed6c9598524822aa",
-    "title": "TALISCO LA CARTONNERIE – CLUB Reims",
-    "link": "https://unidivers.fr/event/talisco-la-cartonnerie-club-reims-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 TALISCO LA CARTONNERIE - CLUB 84 RUE DU DOCTEUR LEMOINE 51100 Reims 51",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "8fc51b7bbf425bc4",
-    "title": "YANN GUILLARME ESPACE CULTUREL GEORGE SAND Les Achards",
-    "link": "https://unidivers.fr/event/yann-guillarme-espace-culturel-george-sand-les-achards-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 YANN GUILLARME ESPACE CULTUREL GEORGE SAND 13 PLACE MICHEL VRIGNON 85150 Les Achards 85",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "f6a2db18b85bce2f",
-    "title": "LE DINER DE CONS ESPACE CULTUREL LARREKO KULTURGUNEA St Pee Sur Nivelle",
-    "link": "https://unidivers.fr/event/le-diner-de-cons-espace-culturel-larreko-kulturgunea-st-pee-sur-nivelle-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 LE DINER DE CONS ESPACE CULTUREL LARREKO KULTURGUNEA PLACE XAN ITHOURRIA - LE BOURG 64310 St Pee Sur Nivelle 64",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "cfdaf262e52f0e7f",
-    "title": "NADIM THEATRE LE METROPOLE Paris",
-    "link": "https://unidivers.fr/event/nadim-theatre-le-metropole-paris-2026-09-25/",
-    "summary": "2026-09-25 à 21:30 NADIM THEATRE LE METROPOLE 39 RUE DU SENTIER 75002 Paris 75",
-    "date": "2026-04-03T20:38:52+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "6068d2d41bff5298",
-    "title": "FESTIVAL LANGUEDEROCK PASS 2 JOURS – PASS 2 JOURS ZINGA ZANGA Beziers",
-    "link": "https://unidivers.fr/event/festival-languederock-pass-2-jours-pass-2-jours-zinga-zanga-beziers-2026-09-25/",
-    "summary": "2026-09-25 à 00:00 FESTIVAL LANGUEDEROCK PASS 2 JOURS - PASS 2 JOURS ZINGA ZANGA Traverse de Colombiers 34500 Beziers 34",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ac62f5606571a8d2",
-    "title": "VIOLONS DE PRAGUE EGLISE SAINTE MARIE Anglet",
-    "link": "https://unidivers.fr/event/violons-de-prague-eglise-sainte-marie-anglet-2026-09-25/",
-    "summary": "2026-09-25 à 17:00 VIOLONS DE PRAGUE EGLISE SAINTE MARIE Rue de la Chambre d'Amour 64600 Anglet 64",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "cf2aed8e01d6ddb9",
-    "title": "BLEU SOLEIL – FFF – BLEU SOLEIL – FFF – JOEYSTARR SOUND SYSTEM SALLE BOURDELLE Montceau Les Mines",
-    "link": "https://unidivers.fr/event/bleu-soleil-fff-bleu-soleil-fff-joeystarr-sound-system-salle-bourdelle-montceau-les-mines-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 BLEU SOLEIL - FFF - BLEU SOLEIL - FFF - JOEYSTARR SOUND SYSTEM SALLE BOURDELLE PLACE DES DROITS DE L'HOMME - 71300 Montceau Les Mines 71",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "b2b61b41bf426c6c",
-    "title": "LES PARENTS VIENNENT DE MARS – Les parents viennent de mars… Chez Mam DOME DE MUTZIG Mutzig",
-    "link": "https://unidivers.fr/event/les-parents-viennent-de-mars-les-parents-viennent-de-mars-chez-mam-dome-de-mutzig-mutzig-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 LES PARENTS VIENNENT DE MARS - Les parents viennent de mars... Chez Mam DOME DE MUTZIG Rue du Mattfeld - 67190 Mutzig 67",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "0534369e5d07b447",
-    "title": "JEANFI JANSSENS L’ESPACE ETINCELLE – CENTRE EVENEMENTIEL Bergerac",
-    "link": "https://unidivers.fr/event/jeanfi-janssens-lespace-etincelle-centre-evenementiel-bergerac-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 JEANFI JANSSENS L'ESPACE ETINCELLE - CENTRE EVENEMENTIEL 1 RUE LUCIEN VIDEAU 24100 Bergerac 24",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "0fc93de360aeac28",
-    "title": "PIERRE-EMMANUEL BARRE CENTRE DES CONGRES – ST ETIENNE St Etienne",
-    "link": "https://unidivers.fr/event/pierre-emmanuel-barre-centre-des-congres-st-etienne-st-etienne-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 PIERRE-EMMANUEL BARRE CENTRE DES CONGRES - ST ETIENNE 23 RUE PONCHARDIER - 42000 St Etienne 42",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "bd8d6fa9196d5ad5",
-    "title": "CHARLY NYOBE COMEDIE DES VOLCANS Clermont-Ferrand",
-    "link": "https://unidivers.fr/event/charly-nyobe-comedie-des-volcans-clermont-ferrand-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 CHARLY NYOBE COMEDIE DES VOLCANS 15 BOULEVARD LOUIS CHARTOIRE 63100 Clermont-Ferrand 63",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "7dc85f6742b96f16",
-    "title": "BERENGERE KRIEF L’ESPACE DE FORGES Forges Les Eaux",
-    "link": "https://unidivers.fr/event/berengere-krief-lespace-de-forges-forges-les-eaux-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 BERENGERE KRIEF L'ESPACE DE FORGES RUE FRANCIS FER 76440 Forges Les Eaux 76",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "41a8e0beb044e521",
-    "title": "LES JUMEAUX THEATRE A L’OUEST Rouen",
-    "link": "https://unidivers.fr/event/les-jumeaux-theatre-a-louest-rouen-2026-09-25/",
-    "summary": "2026-09-25 à 21:00 LES JUMEAUX THEATRE A L'OUEST 26 QUAI GASTON BOULET 76000 Rouen 76",
-    "date": "2026-04-03T20:38:51+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "fdf9d00a79b1f8f2",
-    "title": "GUILLAUME GUISSET LA SCALA PARIS Paris",
-    "link": "https://unidivers.fr/event/guillaume-guisset-la-scala-paris-paris-2026-09-25/",
-    "summary": "2026-09-25 à 19:15 GUILLAUME GUISSET LA SCALA PARIS 13, boulevard de Strasbourg 75010 Paris 75",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "dbd1e99e0e087244",
-    "title": "ARES SEPTEMBRE Paris – MMA ADIDAS ARENA Paris",
-    "link": "https://unidivers.fr/event/ares-septembre-paris-mma-adidas-arena-paris-2026-09-25/",
-    "summary": "2026-09-25 à 19:30 ARES SEPTEMBRE Paris - MMA ADIDAS ARENA BOULEVARD NEY 75018 Paris 75",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "ea0b27623b89fef2",
-    "title": "DJADJA & DINAZ REIMS ARENA Reims",
-    "link": "https://unidivers.fr/event/djadja-dinaz-reims-arena-reims-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 DJADJA & DINAZ REIMS ARENA BOULEVARD JULES CESAR 51100 Reims 51",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "d7dac73958d10b32",
-    "title": "ELODIE ARNOULD – BIJOU DE FAMILLE PALAIS NEPTUNE Toulon",
-    "link": "https://unidivers.fr/event/elodie-arnould-bijou-de-famille-palais-neptune-toulon-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 ELODIE ARNOULD - BIJOU DE FAMILLE PALAIS NEPTUNE PLACE BESAGNE 83000 Toulon 83",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "4481ba73ac98bb7d",
-    "title": "L’AFFAIRE EST DANS LE SAC THEATRE DE L’ETANG St Esteve",
-    "link": "https://unidivers.fr/event/laffaire-est-dans-le-sac-theatre-de-letang-st-esteve-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 L'AFFAIRE EST DANS LE SAC THEATRE DE L'ETANG 6 ALLEE DES ARTS ET DES LETTRES 66240 St Esteve 66",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "c91394bcf218b324",
-    "title": "SORTEZ-MOI DE LA MILLESIME Montevrain",
-    "link": "https://unidivers.fr/event/sortez-moi-de-la-millesime-montevrain-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 SORTEZ-MOI DE LA MILLESIME 1 Avenue François MITTERRAND 77144 Montevrain 77",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "88c65c1fcc9a0a85",
-    "title": "ISHA ET LIMSA D’AULNAY CENTRE CULTUREL TISOT La Seyne Sur Mer",
-    "link": "https://unidivers.fr/event/isha-et-limsa-daulnay-centre-culturel-tisot-la-seyne-sur-mer-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 ISHA ET LIMSA D'AULNAY CENTRE CULTUREL TISOT Avenue Bartolini 83500 La Seyne Sur Mer 83",
-    "date": "2026-04-03T20:38:50+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "152f83ce7a9db2a8",
-    "title": "LES QUATRE SAISONS SALLE GAVEAU Paris",
-    "link": "https://unidivers.fr/event/les-quatre-saisons-salle-gaveau-paris-2026-09-25/",
-    "summary": "2026-09-25 à 20:30 LES QUATRE SAISONS SALLE GAVEAU 45 RUE LA BOETIE 75008 Paris 75",
-    "date": "2026-04-03T20:38:50+00:00",
+    "id": "2af97a0414f637f7",
+    "title": "Circuit en Pays d’Orthe RDV Office de Tourisme Dax",
+    "link": "https://unidivers.fr/event/circuit-en-pays-dorthe-dax-landes-2026-05-29/",
+    "summary": "Circuit en Pays d'Orthe RDV Office de Tourisme 11 cours Foch Dax Landes 2026-05-29 2026-05-29",
+    "date": "2026-04-02T06:01:30+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
@@ -5418,6 +5508,15 @@
     "category": "culture"
   },
   {
+    "id": "7f0d16b3b36de26c",
+    "title": "Balade Cosne médiéval avec Isabelle Servant Cosne-Cours-sur-Loire",
+    "link": "https://unidivers.fr/event/balade-cosne-medieval-avec-isabelle-servant-cosne-cours-sur-loire-nievre-2026-04-18/",
+    "summary": "Balade Cosne médiéval avec Isabelle Servant Médiathèque Cosne-Cours-sur-Loire Nièvre 2026-04-22 14:30:00 2026-04-22",
+    "date": "2026-02-06T10:59:31+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "47584fcec7109527",
     "title": "Exposition photographies Invitation au Voyage Salle annexe des Annonciades, salle Malfroy Pontarlier",
     "link": "https://unidivers.fr/event/exposition-photographies-invitation-au-voyage-pontarlier-doubs-2026-03-26/",
@@ -5445,6 +5544,15 @@
     "category": "culture"
   },
   {
+    "id": "9f5ec2561338c6e8",
+    "title": "Concours de Belote Amitiés d’Automne Morcenx-la-Nouvelle",
+    "link": "https://unidivers.fr/event/concours-de-belote-amities-dautomne-morcenx-la-nouvelle-landes-2026-09-25/",
+    "summary": "Concours de Belote Amitiés d'Automne Salle de la Pailleuse Morcenx-la-Nouvelle Landes 2026-09-25 2026-09-25",
+    "date": "2026-01-24T16:52:13+00:00",
+    "source": "UniDivers – Agenda",
+    "category": "culture"
+  },
+  {
     "id": "9d9e556406146d9e",
     "title": "Marché Les Halles Saint-Jean-de-Luz",
     "link": "https://unidivers.fr/event/marche-saint-jean-de-luz-pyrenees-atlantiques-2026-09-25/",
@@ -5468,24 +5576,6 @@
     "link": "https://unidivers.fr/event/visite-de-labbaye-de-saint-genis-des-fontaines-saint-genis-des-fontaines-pyrenees-orientales-2026-09-25/",
     "summary": "VISITE DE L'ABBAYE DE SAINT-GENIS-DES-FONTAINES Rue Georges Clemenceau Saint-Génis-des-Fontaines Pyrénées-Orientales 2026-09-25 10:00:00 2026-09-25",
     "date": "2026-01-15T10:07:57+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "3d0cec63062f5f9c",
-    "title": "LETZ ZEP Le Grand Rex Paris",
-    "link": "https://unidivers.fr/event/letz-zep-le-grand-rex-paris-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 LETZ ZEP Le Grand Rex 1, BOULEVARD POISSONNIERE 75002 Paris 75",
-    "date": "2026-01-12T10:36:19+00:00",
-    "source": "UniDivers – Agenda",
-    "category": "culture"
-  },
-  {
-    "id": "dc9fc6bfd1b53708",
-    "title": "LISA PERRIO – LISA PERRIO C EST COMPLIQUE GRAND THEATRE 3T Toulouse",
-    "link": "https://unidivers.fr/event/lisa-perrio-lisa-perrio-c-est-complique-grand-theatre-3t-toulouse-2026-09-25/",
-    "summary": "2026-09-25 à 20:00 LISA PERRIO - LISA PERRIO C EST COMPLIQUE GRAND THEATRE 3T 40, RUE GABRIEL PÉRI 31300 Toulouse 31",
-    "date": "2026-01-12T10:32:40+00:00",
     "source": "UniDivers – Agenda",
     "category": "culture"
   },
